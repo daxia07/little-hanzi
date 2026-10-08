@@ -1,0 +1,788 @@
+{
+  "lessonId": "corpus-path-07",
+  "lessonVersion": "corpus-path-07-v1",
+  "title": "Plant a seed",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 7
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara visits a garden with a friend. Notice the fields and the soil where plants grow.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-7530",
+      "hanzi": "田",
+      "readings": [
+        {
+          "readingId": "reading-7530",
+          "pinyin": "tián",
+          "audioText": "田",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#田",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "field; farmland",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#田",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7530-1",
+          "text": "田地",
+          "pinyin": "tián dì",
+          "english": "field; farmland",
+          "readingId": "reading-7530",
+          "context": {
+            "hanzi": "田地里长着绿色的蔬菜。",
+            "english": "Green vegetables grow in the field.",
+            "targetCharacter": "田"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#田地",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7530-2",
+          "text": "水田",
+          "pinyin": "shuǐ tián",
+          "english": "rice paddy; flooded field",
+          "readingId": "reading-7530",
+          "context": {
+            "hanzi": "水田里有小小的秧苗。",
+            "english": "There are little rice seedlings in the paddy field.",
+            "targetCharacter": "田"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#水田",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Memory picture: the lines inside a box can remind you of paths dividing a field.",
+        "demonstrationEnglish": "This is 田. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7530",
+        "delayedReview": {
+          "promptId": "later-7530",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7530"
+        }
+      },
+      "assets": [
+        "asset-glyph-7530",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-571f",
+      "hanzi": "土",
+      "readings": [
+        {
+          "readingId": "reading-571f",
+          "pinyin": "tǔ",
+          "audioText": "土",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#土",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "soil; earth",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#土",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-571f-1",
+          "text": "泥土",
+          "pinyin": "ní tǔ",
+          "english": "soil; earth",
+          "readingId": "reading-571f",
+          "context": {
+            "hanzi": "种子藏在湿湿的泥土里。",
+            "english": "The seed is tucked into the damp soil.",
+            "targetCharacter": "土"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#泥土",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-571f-2",
+          "text": "土地",
+          "pinyin": "tǔ dì",
+          "english": "land; soil",
+          "readingId": "reading-571f",
+          "context": {
+            "hanzi": "这片土地上种着花。",
+            "english": "Flowers grow on this patch of land.",
+            "targetCharacter": "土"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#土地",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Compare the two horizontal lines: the lower line is longer.",
+        "demonstrationEnglish": "This is 土. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-571f",
+        "delayedReview": {
+          "promptId": "later-571f",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-571f"
+        }
+      },
+      "assets": [
+        "asset-glyph-571f",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "path-07-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-7530",
+        "familiar-571f"
+      ]
+    },
+    {
+      "stepId": "path-07-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "path-07-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-7530-1",
+        "practice-7530-2",
+        "practice-571f-1",
+        "practice-571f-2"
+      ]
+    },
+    {
+      "stepId": "path-07-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-7530",
+        "check-571f"
+      ]
+    },
+    {
+      "stepId": "path-07-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-7530",
+      "characterId": "char-7530",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "田"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7530-choice-1",
+          "hanzi": "田"
+        },
+        {
+          "choiceId": "familiar-7530-choice-2",
+          "hanzi": "土"
+        },
+        {
+          "choiceId": "familiar-7530-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-7530-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-7530-choice-1"
+    },
+    {
+      "checkId": "check-7530",
+      "characterId": "char-7530",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "田"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7530-choice-1",
+          "hanzi": "田"
+        },
+        {
+          "choiceId": "check-7530-choice-2",
+          "hanzi": "土"
+        },
+        {
+          "choiceId": "check-7530-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-7530-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-7530-choice-1"
+    },
+    {
+      "checkId": "review-7530",
+      "characterId": "char-7530",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "田"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7530-choice-1",
+          "hanzi": "田"
+        },
+        {
+          "choiceId": "review-7530-choice-2",
+          "hanzi": "土"
+        },
+        {
+          "choiceId": "review-7530-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-7530-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-7530-choice-1"
+    },
+    {
+      "checkId": "practice-7530-1",
+      "characterId": "char-7530",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "田地"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-7530-1-choice-1",
+          "hanzi": "田"
+        },
+        {
+          "choiceId": "practice-7530-1-choice-2",
+          "hanzi": "土"
+        },
+        {
+          "choiceId": "practice-7530-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-7530-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-7530-1-choice-1"
+    },
+    {
+      "checkId": "practice-7530-2",
+      "characterId": "char-7530",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "水田"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-7530-2-choice-1",
+          "hanzi": "田"
+        },
+        {
+          "choiceId": "practice-7530-2-choice-2",
+          "hanzi": "土"
+        },
+        {
+          "choiceId": "practice-7530-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-7530-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-7530-2-choice-1"
+    },
+    {
+      "checkId": "familiar-571f",
+      "characterId": "char-571f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "土"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-571f-choice-1",
+          "hanzi": "田"
+        },
+        {
+          "choiceId": "familiar-571f-choice-2",
+          "hanzi": "土"
+        },
+        {
+          "choiceId": "familiar-571f-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-571f-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-571f-choice-2"
+    },
+    {
+      "checkId": "check-571f",
+      "characterId": "char-571f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "土"
+      },
+      "choices": [
+        {
+          "choiceId": "check-571f-choice-1",
+          "hanzi": "田"
+        },
+        {
+          "choiceId": "check-571f-choice-2",
+          "hanzi": "土"
+        },
+        {
+          "choiceId": "check-571f-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-571f-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-571f-choice-2"
+    },
+    {
+      "checkId": "review-571f",
+      "characterId": "char-571f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "土"
+      },
+      "choices": [
+        {
+          "choiceId": "review-571f-choice-1",
+          "hanzi": "田"
+        },
+        {
+          "choiceId": "review-571f-choice-2",
+          "hanzi": "土"
+        },
+        {
+          "choiceId": "review-571f-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-571f-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-571f-choice-2"
+    },
+    {
+      "checkId": "practice-571f-1",
+      "characterId": "char-571f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "泥土"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-571f-1-choice-1",
+          "hanzi": "田"
+        },
+        {
+          "choiceId": "practice-571f-1-choice-2",
+          "hanzi": "土"
+        },
+        {
+          "choiceId": "practice-571f-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-571f-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-571f-1-choice-2"
+    },
+    {
+      "checkId": "practice-571f-2",
+      "characterId": "char-571f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "土地"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-571f-2-choice-1",
+          "hanzi": "田"
+        },
+        {
+          "choiceId": "practice-571f-2-choice-2",
+          "hanzi": "土"
+        },
+        {
+          "choiceId": "practice-571f-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-571f-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-571f-2-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-7530",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-07-v1/char-7530",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-571f",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-07-v1/char-571f",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Songti SC/STSong or local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/path-07-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device-provided speech; voice suitability and terms require review",
+      "evidenceRef": "draft/audio/path-07-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Plant a seed",
+      "instructionEnglish": "Our capybara visits a garden with a friend. Notice the fields and the soil where plants grow."
+    },
+    "targets": [
+      {
+        "characterId": "char-7530",
+        "readingId": "reading-7530",
+        "familiarityCheckId": "familiar-7530",
+        "practice": [
+          {
+            "wordId": "word-7530-1",
+            "checkId": "practice-7530-1"
+          },
+          {
+            "wordId": "word-7530-2",
+            "checkId": "practice-7530-2"
+          }
+        ],
+        "immediateCheckId": "check-7530",
+        "reviewCheckId": "review-7530"
+      },
+      {
+        "characterId": "char-571f",
+        "readingId": "reading-571f",
+        "familiarityCheckId": "familiar-571f",
+        "practice": [
+          {
+            "wordId": "word-571f-1",
+            "checkId": "practice-571f-1"
+          },
+          {
+            "wordId": "word-571f-2",
+            "checkId": "practice-571f-2"
+          }
+        ],
+        "immediateCheckId": "check-571f",
+        "reviewCheckId": "review-571f"
+      }
+    ],
+    "reader": {
+      "title": "A little garden",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-7530-1",
+        "word-7530-2",
+        "word-571f-1",
+        "word-571f-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-7530",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7530",
+          "transcript": "田",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7530",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7530",
+          "transcript": "田",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7530",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7530",
+          "transcript": "田",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-7530-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-7530-1",
+          "transcript": "田地",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-7530-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-7530-2",
+          "transcript": "水田",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7530",
+          "readingId": "reading-7530",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "田",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7530-1",
+          "readingId": null,
+          "wordId": "word-7530-1",
+          "checkId": null,
+          "transcript": "田地里长着绿色的蔬菜。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7530-2",
+          "readingId": null,
+          "wordId": "word-7530-2",
+          "checkId": null,
+          "transcript": "水田里有小小的秧苗。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-571f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-571f",
+          "transcript": "土",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-571f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-571f",
+          "transcript": "土",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-571f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-571f",
+          "transcript": "土",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-571f-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-571f-1",
+          "transcript": "泥土",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-571f-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-571f-2",
+          "transcript": "土地",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-571f",
+          "readingId": "reading-571f",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "土",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-571f-1",
+          "readingId": null,
+          "wordId": "word-571f-1",
+          "checkId": null,
+          "transcript": "种子藏在湿湿的泥土里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-571f-2",
+          "readingId": null,
+          "wordId": "word-571f-2",
+          "checkId": null,
+          "transcript": "这片土地上种着花。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

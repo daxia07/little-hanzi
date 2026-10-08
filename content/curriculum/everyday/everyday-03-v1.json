@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-03",
+  "lessonVersion": "everyday-03-v1",
+  "title": "Summer plans",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 16
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara makes summer plans. Find five and six in month names and a six-sided pattern.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4e94",
+      "hanzi": "五",
+      "readings": [
+        {
+          "readingId": "reading-4e94",
+          "pinyin": "wǔ",
+          "audioText": "五",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#五",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "five",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#五",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e94-1",
+          "text": "五月",
+          "pinyin": "wǔ yuè",
+          "english": "May",
+          "readingId": "reading-4e94",
+          "context": {
+            "hanzi": "五月里，我们给花浇水。",
+            "english": "In May, we water the flowers.",
+            "targetCharacter": "五"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#五月",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e94-2",
+          "text": "第五",
+          "pinyin": "dì wǔ",
+          "english": "fifth",
+          "readingId": "reading-4e94",
+          "context": {
+            "hanzi": "第五页上有一只小猫。",
+            "english": "There is a kitten on the fifth page.",
+            "targetCharacter": "五"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#第五",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Look at how the middle strokes join the top and bottom of 五.",
+        "demonstrationEnglish": "This is 五. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e94",
+        "delayedReview": {
+          "promptId": "later-4e94",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e94"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e94",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-516d",
+      "hanzi": "六",
+      "readings": [
+        {
+          "readingId": "reading-516d",
+          "pinyin": "liù",
+          "audioText": "六",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#六",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "six",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#六",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-516d-1",
+          "text": "六月",
+          "pinyin": "liù yuè",
+          "english": "June",
+          "readingId": "reading-516d",
+          "context": {
+            "hanzi": "六月里，我们到公园野餐。",
+            "english": "In June, we have a picnic in the park.",
+            "targetCharacter": "六"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#六月",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-516d-2",
+          "text": "六角",
+          "pinyin": "liù jiǎo",
+          "english": "hexagonal; six-sided",
+          "readingId": "reading-516d",
+          "context": {
+            "hanzi": "我们画了一个六角图案。",
+            "english": "We draw a six-sided pattern.",
+            "targetCharacter": "六"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#六角",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the top dot and the two spreading strokes below 六.",
+        "demonstrationEnglish": "This is 六. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-516d",
+        "delayedReview": {
+          "promptId": "later-516d",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-516d"
+        }
+      },
+      "assets": [
+        "asset-glyph-516d",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-03-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4e94",
+        "familiar-516d"
+      ]
+    },
+    {
+      "stepId": "everyday-03-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-03-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-4e94",
+        "practice-two-4e94",
+        "practice-one-516d",
+        "practice-two-516d"
+      ]
+    },
+    {
+      "stepId": "everyday-03-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4e94",
+        "check-516d"
+      ]
+    },
+    {
+      "stepId": "everyday-03-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4e94",
+      "characterId": "char-4e94",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "五"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e94-choice-1",
+          "hanzi": "五"
+        },
+        {
+          "choiceId": "familiar-4e94-choice-2",
+          "hanzi": "六"
+        },
+        {
+          "choiceId": "familiar-4e94-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e94-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e94-choice-1"
+    },
+    {
+      "checkId": "check-4e94",
+      "characterId": "char-4e94",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "五"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e94-choice-1",
+          "hanzi": "五"
+        },
+        {
+          "choiceId": "check-4e94-choice-2",
+          "hanzi": "六"
+        },
+        {
+          "choiceId": "check-4e94-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e94-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e94-choice-1"
+    },
+    {
+      "checkId": "review-4e94",
+      "characterId": "char-4e94",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "五"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e94-choice-1",
+          "hanzi": "五"
+        },
+        {
+          "choiceId": "review-4e94-choice-2",
+          "hanzi": "六"
+        },
+        {
+          "choiceId": "review-4e94-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e94-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e94-choice-1"
+    },
+    {
+      "checkId": "practice-one-4e94",
+      "characterId": "char-4e94",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "五月"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e94-choice-1",
+          "hanzi": "五"
+        },
+        {
+          "choiceId": "practice-one-4e94-choice-2",
+          "hanzi": "六"
+        },
+        {
+          "choiceId": "practice-one-4e94-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e94-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e94-choice-1"
+    },
+    {
+      "checkId": "practice-two-4e94",
+      "characterId": "char-4e94",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "第五"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e94-choice-1",
+          "hanzi": "五"
+        },
+        {
+          "choiceId": "practice-two-4e94-choice-2",
+          "hanzi": "六"
+        },
+        {
+          "choiceId": "practice-two-4e94-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e94-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e94-choice-1"
+    },
+    {
+      "checkId": "familiar-516d",
+      "characterId": "char-516d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "六"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-516d-choice-1",
+          "hanzi": "五"
+        },
+        {
+          "choiceId": "familiar-516d-choice-2",
+          "hanzi": "六"
+        },
+        {
+          "choiceId": "familiar-516d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-516d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-516d-choice-2"
+    },
+    {
+      "checkId": "check-516d",
+      "characterId": "char-516d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "六"
+      },
+      "choices": [
+        {
+          "choiceId": "check-516d-choice-1",
+          "hanzi": "五"
+        },
+        {
+          "choiceId": "check-516d-choice-2",
+          "hanzi": "六"
+        },
+        {
+          "choiceId": "check-516d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-516d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-516d-choice-2"
+    },
+    {
+      "checkId": "review-516d",
+      "characterId": "char-516d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "六"
+      },
+      "choices": [
+        {
+          "choiceId": "review-516d-choice-1",
+          "hanzi": "五"
+        },
+        {
+          "choiceId": "review-516d-choice-2",
+          "hanzi": "六"
+        },
+        {
+          "choiceId": "review-516d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-516d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-516d-choice-2"
+    },
+    {
+      "checkId": "practice-one-516d",
+      "characterId": "char-516d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "六月"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-516d-choice-1",
+          "hanzi": "五"
+        },
+        {
+          "choiceId": "practice-one-516d-choice-2",
+          "hanzi": "六"
+        },
+        {
+          "choiceId": "practice-one-516d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-516d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-516d-choice-2"
+    },
+    {
+      "checkId": "practice-two-516d",
+      "characterId": "char-516d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "六角"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-516d-choice-1",
+          "hanzi": "五"
+        },
+        {
+          "choiceId": "practice-two-516d-choice-2",
+          "hanzi": "六"
+        },
+        {
+          "choiceId": "practice-two-516d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-516d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-516d-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4e94",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-03-v1/char-4e94",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-516d",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-03-v1/char-516d",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-03-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-03-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Summer plans",
+      "instructionEnglish": "Our capybara makes summer plans. Find five and six in month names and a six-sided pattern."
+    },
+    "targets": [
+      {
+        "characterId": "char-4e94",
+        "readingId": "reading-4e94",
+        "familiarityCheckId": "familiar-4e94",
+        "practice": [
+          {
+            "wordId": "word-4e94-1",
+            "checkId": "practice-one-4e94"
+          },
+          {
+            "wordId": "word-4e94-2",
+            "checkId": "practice-two-4e94"
+          }
+        ],
+        "immediateCheckId": "check-4e94",
+        "reviewCheckId": "review-4e94"
+      },
+      {
+        "characterId": "char-516d",
+        "readingId": "reading-516d",
+        "familiarityCheckId": "familiar-516d",
+        "practice": [
+          {
+            "wordId": "word-516d-1",
+            "checkId": "practice-one-516d"
+          },
+          {
+            "wordId": "word-516d-2",
+            "checkId": "practice-two-516d"
+          }
+        ],
+        "immediateCheckId": "check-516d",
+        "reviewCheckId": "review-516d"
+      }
+    ],
+    "reader": {
+      "title": "Summer plans",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4e94-1",
+        "word-4e94-2",
+        "word-516d-1",
+        "word-516d-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4e94",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e94",
+          "transcript": "五",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e94",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e94",
+          "transcript": "五",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e94",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e94",
+          "transcript": "五",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e94",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e94",
+          "transcript": "五月",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e94",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e94",
+          "transcript": "第五",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e94",
+          "readingId": "reading-4e94",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "五",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e94-1",
+          "readingId": null,
+          "wordId": "word-4e94-1",
+          "checkId": null,
+          "transcript": "五月里，我们给花浇水。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e94-2",
+          "readingId": null,
+          "wordId": "word-4e94-2",
+          "checkId": null,
+          "transcript": "第五页上有一只小猫。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-516d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-516d",
+          "transcript": "六",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-516d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-516d",
+          "transcript": "六",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-516d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-516d",
+          "transcript": "六",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-516d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-516d",
+          "transcript": "六月",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-516d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-516d",
+          "transcript": "六角",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-516d",
+          "readingId": "reading-516d",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "六",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-516d-1",
+          "readingId": null,
+          "wordId": "word-516d-1",
+          "checkId": null,
+          "transcript": "六月里，我们到公园野餐。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-516d-2",
+          "readingId": null,
+          "wordId": "word-516d-2",
+          "checkId": null,
+          "transcript": "我们画了一个六角图案。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

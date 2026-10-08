@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-37",
+  "lessonVersion": "everyday-37-v1",
+  "title": "A windy, snowy day",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 50
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara watches a windy, snowy day. Read words for wind, a kite and snowflakes.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-98ce",
+      "hanzi": "风",
+      "readings": [
+        {
+          "readingId": "reading-98ce",
+          "pinyin": "fēng",
+          "audioText": "风",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#风",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "wind",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#风",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-98ce-1",
+          "text": "大风",
+          "pinyin": "dà fēng",
+          "english": "strong wind",
+          "readingId": "reading-98ce",
+          "context": {
+            "hanzi": "大风吹动了树上的叶子。",
+            "english": "A strong wind moves the leaves on the tree.",
+            "targetCharacter": "风"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#大风",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-98ce-2",
+          "text": "风筝",
+          "pinyin": "fēng zheng",
+          "english": "kite",
+          "readingId": "reading-98ce",
+          "context": {
+            "hanzi": "我们在空地上放风筝。",
+            "english": "We fly a kite in an open space.",
+            "targetCharacter": "风"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#风筝",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Look at the crossing strokes inside the outer shape of 风.",
+        "demonstrationEnglish": "This is 风. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-98ce",
+        "delayedReview": {
+          "promptId": "later-98ce",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-98ce"
+        }
+      },
+      "assets": [
+        "asset-glyph-98ce",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-96ea",
+      "hanzi": "雪",
+      "readings": [
+        {
+          "readingId": "reading-96ea",
+          "pinyin": "xuě",
+          "audioText": "雪",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#雪",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "snow",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#雪",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-96ea-1",
+          "text": "下雪",
+          "pinyin": "xià xuě",
+          "english": "snow; snowing",
+          "readingId": "reading-96ea",
+          "context": {
+            "hanzi": "今天下雪，我们在窗边看雪花。",
+            "english": "It is snowing today, and we watch the snowflakes by the window.",
+            "targetCharacter": "雪"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#下雪",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-96ea-2",
+          "text": "雪花",
+          "pinyin": "xuě huā",
+          "english": "snowflake",
+          "readingId": "reading-96ea",
+          "context": {
+            "hanzi": "一片雪花落在我的手套上。",
+            "english": "A snowflake lands on my glove.",
+            "targetCharacter": "雪"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#雪花",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the rain-shaped top of 雪 and compare its lower part with 零.",
+        "demonstrationEnglish": "This is 雪. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-96ea",
+        "delayedReview": {
+          "promptId": "later-96ea",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-96ea"
+        }
+      },
+      "assets": [
+        "asset-glyph-96ea",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-37-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-98ce",
+        "familiar-96ea"
+      ]
+    },
+    {
+      "stepId": "everyday-37-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-37-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-98ce",
+        "practice-two-98ce",
+        "practice-one-96ea",
+        "practice-two-96ea"
+      ]
+    },
+    {
+      "stepId": "everyday-37-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-98ce",
+        "check-96ea"
+      ]
+    },
+    {
+      "stepId": "everyday-37-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-98ce",
+      "characterId": "char-98ce",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "风"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-98ce-choice-1",
+          "hanzi": "风"
+        },
+        {
+          "choiceId": "familiar-98ce-choice-2",
+          "hanzi": "雪"
+        },
+        {
+          "choiceId": "familiar-98ce-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-98ce-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-98ce-choice-1"
+    },
+    {
+      "checkId": "check-98ce",
+      "characterId": "char-98ce",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "风"
+      },
+      "choices": [
+        {
+          "choiceId": "check-98ce-choice-1",
+          "hanzi": "风"
+        },
+        {
+          "choiceId": "check-98ce-choice-2",
+          "hanzi": "雪"
+        },
+        {
+          "choiceId": "check-98ce-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-98ce-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-98ce-choice-1"
+    },
+    {
+      "checkId": "review-98ce",
+      "characterId": "char-98ce",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "风"
+      },
+      "choices": [
+        {
+          "choiceId": "review-98ce-choice-1",
+          "hanzi": "风"
+        },
+        {
+          "choiceId": "review-98ce-choice-2",
+          "hanzi": "雪"
+        },
+        {
+          "choiceId": "review-98ce-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-98ce-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-98ce-choice-1"
+    },
+    {
+      "checkId": "practice-one-98ce",
+      "characterId": "char-98ce",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "大风"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-98ce-choice-1",
+          "hanzi": "风"
+        },
+        {
+          "choiceId": "practice-one-98ce-choice-2",
+          "hanzi": "雪"
+        },
+        {
+          "choiceId": "practice-one-98ce-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-98ce-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-98ce-choice-1"
+    },
+    {
+      "checkId": "practice-two-98ce",
+      "characterId": "char-98ce",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "风筝"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-98ce-choice-1",
+          "hanzi": "风"
+        },
+        {
+          "choiceId": "practice-two-98ce-choice-2",
+          "hanzi": "雪"
+        },
+        {
+          "choiceId": "practice-two-98ce-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-98ce-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-98ce-choice-1"
+    },
+    {
+      "checkId": "familiar-96ea",
+      "characterId": "char-96ea",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "雪"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-96ea-choice-1",
+          "hanzi": "风"
+        },
+        {
+          "choiceId": "familiar-96ea-choice-2",
+          "hanzi": "雪"
+        },
+        {
+          "choiceId": "familiar-96ea-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-96ea-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-96ea-choice-2"
+    },
+    {
+      "checkId": "check-96ea",
+      "characterId": "char-96ea",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "雪"
+      },
+      "choices": [
+        {
+          "choiceId": "check-96ea-choice-1",
+          "hanzi": "风"
+        },
+        {
+          "choiceId": "check-96ea-choice-2",
+          "hanzi": "雪"
+        },
+        {
+          "choiceId": "check-96ea-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-96ea-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-96ea-choice-2"
+    },
+    {
+      "checkId": "review-96ea",
+      "characterId": "char-96ea",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "雪"
+      },
+      "choices": [
+        {
+          "choiceId": "review-96ea-choice-1",
+          "hanzi": "风"
+        },
+        {
+          "choiceId": "review-96ea-choice-2",
+          "hanzi": "雪"
+        },
+        {
+          "choiceId": "review-96ea-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-96ea-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-96ea-choice-2"
+    },
+    {
+      "checkId": "practice-one-96ea",
+      "characterId": "char-96ea",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "下雪"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-96ea-choice-1",
+          "hanzi": "风"
+        },
+        {
+          "choiceId": "practice-one-96ea-choice-2",
+          "hanzi": "雪"
+        },
+        {
+          "choiceId": "practice-one-96ea-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-96ea-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-96ea-choice-2"
+    },
+    {
+      "checkId": "practice-two-96ea",
+      "characterId": "char-96ea",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "雪花"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-96ea-choice-1",
+          "hanzi": "风"
+        },
+        {
+          "choiceId": "practice-two-96ea-choice-2",
+          "hanzi": "雪"
+        },
+        {
+          "choiceId": "practice-two-96ea-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-96ea-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-96ea-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-98ce",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-37-v1/char-98ce",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-96ea",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-37-v1/char-96ea",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-37-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-37-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "A windy, snowy day",
+      "instructionEnglish": "Our capybara watches a windy, snowy day. Read words for wind, a kite and snowflakes."
+    },
+    "targets": [
+      {
+        "characterId": "char-98ce",
+        "readingId": "reading-98ce",
+        "familiarityCheckId": "familiar-98ce",
+        "practice": [
+          {
+            "wordId": "word-98ce-1",
+            "checkId": "practice-one-98ce"
+          },
+          {
+            "wordId": "word-98ce-2",
+            "checkId": "practice-two-98ce"
+          }
+        ],
+        "immediateCheckId": "check-98ce",
+        "reviewCheckId": "review-98ce"
+      },
+      {
+        "characterId": "char-96ea",
+        "readingId": "reading-96ea",
+        "familiarityCheckId": "familiar-96ea",
+        "practice": [
+          {
+            "wordId": "word-96ea-1",
+            "checkId": "practice-one-96ea"
+          },
+          {
+            "wordId": "word-96ea-2",
+            "checkId": "practice-two-96ea"
+          }
+        ],
+        "immediateCheckId": "check-96ea",
+        "reviewCheckId": "review-96ea"
+      }
+    ],
+    "reader": {
+      "title": "A windy, snowy day",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-98ce-1",
+        "word-98ce-2",
+        "word-96ea-1",
+        "word-96ea-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-98ce",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-98ce",
+          "transcript": "风",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-98ce",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-98ce",
+          "transcript": "风",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-98ce",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-98ce",
+          "transcript": "风",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-98ce",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-98ce",
+          "transcript": "大风",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-98ce",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-98ce",
+          "transcript": "风筝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-98ce",
+          "readingId": "reading-98ce",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "风",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-98ce-1",
+          "readingId": null,
+          "wordId": "word-98ce-1",
+          "checkId": null,
+          "transcript": "大风吹动了树上的叶子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-98ce-2",
+          "readingId": null,
+          "wordId": "word-98ce-2",
+          "checkId": null,
+          "transcript": "我们在空地上放风筝。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-96ea",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-96ea",
+          "transcript": "雪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-96ea",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-96ea",
+          "transcript": "雪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-96ea",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-96ea",
+          "transcript": "雪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-96ea",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-96ea",
+          "transcript": "下雪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-96ea",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-96ea",
+          "transcript": "雪花",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-96ea",
+          "readingId": "reading-96ea",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "雪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-96ea-1",
+          "readingId": null,
+          "wordId": "word-96ea-1",
+          "checkId": null,
+          "transcript": "今天下雪，我们在窗边看雪花。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-96ea-2",
+          "readingId": null,
+          "wordId": "word-96ea-2",
+          "checkId": null,
+          "transcript": "一片雪花落在我的手套上。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

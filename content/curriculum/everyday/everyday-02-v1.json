@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-02",
+  "lessonVersion": "everyday-02-v1",
+  "title": "A spring calendar",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 15
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara checks a spring calendar and draws a triangle. Notice three and four in useful words.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4e09",
+      "hanzi": "三",
+      "readings": [
+        {
+          "readingId": "reading-4e09",
+          "pinyin": "sān",
+          "audioText": "三",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#三",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "three",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#三",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e09-1",
+          "text": "三月",
+          "pinyin": "sān yuè",
+          "english": "March",
+          "readingId": "reading-4e09",
+          "context": {
+            "hanzi": "三月里，小草慢慢长出来。",
+            "english": "In March, little blades of grass slowly grow.",
+            "targetCharacter": "三"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#三月",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e09-2",
+          "text": "三角",
+          "pinyin": "sān jiǎo",
+          "english": "triangle; triangular",
+          "readingId": "reading-4e09",
+          "context": {
+            "hanzi": "我们把纸折成三角。",
+            "english": "We fold the paper into a triangle.",
+            "targetCharacter": "三"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#三角",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Count the three horizontal strokes of 三; then read the whole character.",
+        "demonstrationEnglish": "This is 三. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e09",
+        "delayedReview": {
+          "promptId": "later-4e09",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e09"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e09",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-56db",
+      "hanzi": "四",
+      "readings": [
+        {
+          "readingId": "reading-56db",
+          "pinyin": "sì",
+          "audioText": "四",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#四",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "four",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#四",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-56db-1",
+          "text": "四季",
+          "pinyin": "sì jì",
+          "english": "the four seasons",
+          "readingId": "reading-56db",
+          "context": {
+            "hanzi": "这本书介绍四季的变化。",
+            "english": "This book introduces changes through the four seasons.",
+            "targetCharacter": "四"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#四季",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-56db-2",
+          "text": "四月",
+          "pinyin": "sì yuè",
+          "english": "April",
+          "readingId": "reading-56db",
+          "context": {
+            "hanzi": "四月里，我们在花园散步。",
+            "english": "In April, we walk in the garden.",
+            "targetCharacter": "四"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#四月",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the outer box and the two marks inside 四.",
+        "demonstrationEnglish": "This is 四. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-56db",
+        "delayedReview": {
+          "promptId": "later-56db",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-56db"
+        }
+      },
+      "assets": [
+        "asset-glyph-56db",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-02-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4e09",
+        "familiar-56db"
+      ]
+    },
+    {
+      "stepId": "everyday-02-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-02-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-4e09",
+        "practice-two-4e09",
+        "practice-one-56db",
+        "practice-two-56db"
+      ]
+    },
+    {
+      "stepId": "everyday-02-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4e09",
+        "check-56db"
+      ]
+    },
+    {
+      "stepId": "everyday-02-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4e09",
+      "characterId": "char-4e09",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "三"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e09-choice-1",
+          "hanzi": "三"
+        },
+        {
+          "choiceId": "familiar-4e09-choice-2",
+          "hanzi": "四"
+        },
+        {
+          "choiceId": "familiar-4e09-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e09-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e09-choice-1"
+    },
+    {
+      "checkId": "check-4e09",
+      "characterId": "char-4e09",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "三"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e09-choice-1",
+          "hanzi": "三"
+        },
+        {
+          "choiceId": "check-4e09-choice-2",
+          "hanzi": "四"
+        },
+        {
+          "choiceId": "check-4e09-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e09-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e09-choice-1"
+    },
+    {
+      "checkId": "review-4e09",
+      "characterId": "char-4e09",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "三"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e09-choice-1",
+          "hanzi": "三"
+        },
+        {
+          "choiceId": "review-4e09-choice-2",
+          "hanzi": "四"
+        },
+        {
+          "choiceId": "review-4e09-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e09-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e09-choice-1"
+    },
+    {
+      "checkId": "practice-one-4e09",
+      "characterId": "char-4e09",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "三月"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e09-choice-1",
+          "hanzi": "三"
+        },
+        {
+          "choiceId": "practice-one-4e09-choice-2",
+          "hanzi": "四"
+        },
+        {
+          "choiceId": "practice-one-4e09-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e09-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e09-choice-1"
+    },
+    {
+      "checkId": "practice-two-4e09",
+      "characterId": "char-4e09",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "三角"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e09-choice-1",
+          "hanzi": "三"
+        },
+        {
+          "choiceId": "practice-two-4e09-choice-2",
+          "hanzi": "四"
+        },
+        {
+          "choiceId": "practice-two-4e09-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e09-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e09-choice-1"
+    },
+    {
+      "checkId": "familiar-56db",
+      "characterId": "char-56db",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "四"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-56db-choice-1",
+          "hanzi": "三"
+        },
+        {
+          "choiceId": "familiar-56db-choice-2",
+          "hanzi": "四"
+        },
+        {
+          "choiceId": "familiar-56db-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-56db-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-56db-choice-2"
+    },
+    {
+      "checkId": "check-56db",
+      "characterId": "char-56db",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "四"
+      },
+      "choices": [
+        {
+          "choiceId": "check-56db-choice-1",
+          "hanzi": "三"
+        },
+        {
+          "choiceId": "check-56db-choice-2",
+          "hanzi": "四"
+        },
+        {
+          "choiceId": "check-56db-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-56db-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-56db-choice-2"
+    },
+    {
+      "checkId": "review-56db",
+      "characterId": "char-56db",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "四"
+      },
+      "choices": [
+        {
+          "choiceId": "review-56db-choice-1",
+          "hanzi": "三"
+        },
+        {
+          "choiceId": "review-56db-choice-2",
+          "hanzi": "四"
+        },
+        {
+          "choiceId": "review-56db-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-56db-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-56db-choice-2"
+    },
+    {
+      "checkId": "practice-one-56db",
+      "characterId": "char-56db",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "四季"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-56db-choice-1",
+          "hanzi": "三"
+        },
+        {
+          "choiceId": "practice-one-56db-choice-2",
+          "hanzi": "四"
+        },
+        {
+          "choiceId": "practice-one-56db-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-56db-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-56db-choice-2"
+    },
+    {
+      "checkId": "practice-two-56db",
+      "characterId": "char-56db",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "四月"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-56db-choice-1",
+          "hanzi": "三"
+        },
+        {
+          "choiceId": "practice-two-56db-choice-2",
+          "hanzi": "四"
+        },
+        {
+          "choiceId": "practice-two-56db-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-56db-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-56db-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4e09",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-02-v1/char-4e09",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-56db",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-02-v1/char-56db",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-02-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-02-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "A spring calendar",
+      "instructionEnglish": "Our capybara checks a spring calendar and draws a triangle. Notice three and four in useful words."
+    },
+    "targets": [
+      {
+        "characterId": "char-4e09",
+        "readingId": "reading-4e09",
+        "familiarityCheckId": "familiar-4e09",
+        "practice": [
+          {
+            "wordId": "word-4e09-1",
+            "checkId": "practice-one-4e09"
+          },
+          {
+            "wordId": "word-4e09-2",
+            "checkId": "practice-two-4e09"
+          }
+        ],
+        "immediateCheckId": "check-4e09",
+        "reviewCheckId": "review-4e09"
+      },
+      {
+        "characterId": "char-56db",
+        "readingId": "reading-56db",
+        "familiarityCheckId": "familiar-56db",
+        "practice": [
+          {
+            "wordId": "word-56db-1",
+            "checkId": "practice-one-56db"
+          },
+          {
+            "wordId": "word-56db-2",
+            "checkId": "practice-two-56db"
+          }
+        ],
+        "immediateCheckId": "check-56db",
+        "reviewCheckId": "review-56db"
+      }
+    ],
+    "reader": {
+      "title": "A spring calendar",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4e09-1",
+        "word-4e09-2",
+        "word-56db-1",
+        "word-56db-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4e09",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e09",
+          "transcript": "三",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e09",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e09",
+          "transcript": "三",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e09",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e09",
+          "transcript": "三",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e09",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e09",
+          "transcript": "三月",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e09",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e09",
+          "transcript": "三角",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e09",
+          "readingId": "reading-4e09",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "三",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e09-1",
+          "readingId": null,
+          "wordId": "word-4e09-1",
+          "checkId": null,
+          "transcript": "三月里，小草慢慢长出来。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e09-2",
+          "readingId": null,
+          "wordId": "word-4e09-2",
+          "checkId": null,
+          "transcript": "我们把纸折成三角。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-56db",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-56db",
+          "transcript": "四",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-56db",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-56db",
+          "transcript": "四",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-56db",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-56db",
+          "transcript": "四",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-56db",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-56db",
+          "transcript": "四季",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-56db",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-56db",
+          "transcript": "四月",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-56db",
+          "readingId": "reading-56db",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "四",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-56db-1",
+          "readingId": null,
+          "wordId": "word-56db-1",
+          "checkId": null,
+          "transcript": "这本书介绍四季的变化。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-56db-2",
+          "readingId": null,
+          "wordId": "word-56db-2",
+          "checkId": null,
+          "transcript": "四月里，我们在花园散步。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

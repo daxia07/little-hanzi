@@ -1,0 +1,39 @@
+[
+  {
+    "requestId": "qa-negative-source-01",
+    "lessonVersion": "qa-negative-paired-01-v1",
+    "contentDigest": "sha256:3fcd2d57e70f15681f21815277bc5d3140b4c805d0e66bc7a0112b3521d96d6d",
+    "classification": "unverified-draft",
+    "sourceRefs": [
+      "qa-synthetic-fixture"
+    ],
+    "licenseRefs": [],
+    "reviewRefs": [],
+    "identityReviews": [],
+    "predecessorEvidenceId": null,
+    "expectedEvidenceDigest": null
+  },
+  {
+    "requestId": "qa-negative-source-02",
+    "lessonVersion": "qa-negative-paired-02-v1",
+    "contentDigest": "sha256:215b2a0574bae593dd51334107deefef7834514856c0b5ab72c9479db4d63d2e",
+    "classification": "unverified-draft",
+    "sourceRefs": [
+      "qa-synthetic-fixture"
+    ],
+    "licenseRefs": [],
+    "reviewRefs": [
+      "qa-negative-simulated-alias-review"
+    ],
+    "identityReviews": [
+      {
+        "characterId": "char-6728",
+        "hanzi": "木",
+        "kind": "alias",
+        "reviewRef": "qa-negative-simulated-alias-review"
+      }
+    ],
+    "predecessorEvidenceId": null,
+    "expectedEvidenceDigest": null
+  }
+]

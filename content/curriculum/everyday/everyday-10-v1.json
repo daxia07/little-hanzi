@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-10",
+  "lessonVersion": "everyday-10-v1",
+  "title": "Younger siblings play",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 23
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara plays with younger siblings. Read words about brothers and sisters.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5f1f",
+      "hanzi": "弟",
+      "readings": [
+        {
+          "readingId": "reading-5f1f",
+          "pinyin": "dì",
+          "audioText": "弟",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#弟",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "younger brother",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#弟",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5f1f-1",
+          "text": "弟弟",
+          "pinyin": "dì di",
+          "english": "younger brother",
+          "readingId": "reading-5f1f",
+          "context": {
+            "hanzi": "弟弟把积木放回盒子。",
+            "english": "My younger brother puts the blocks back in the box.",
+            "targetCharacter": "弟"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#弟弟",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5f1f-2",
+          "text": "兄弟",
+          "pinyin": "xiōng dì",
+          "english": "brothers",
+          "readingId": "reading-5f1f",
+          "context": {
+            "hanzi": "故事里的兄弟一起寻找小狗。",
+            "english": "The brothers in the story look for the puppy together.",
+            "targetCharacter": "弟"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#兄弟",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the two top marks and the long stroke through 弟.",
+        "demonstrationEnglish": "This is 弟. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5f1f",
+        "delayedReview": {
+          "promptId": "later-5f1f",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5f1f"
+        }
+      },
+      "assets": [
+        "asset-glyph-5f1f",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-59b9",
+      "hanzi": "妹",
+      "readings": [
+        {
+          "readingId": "reading-59b9",
+          "pinyin": "mèi",
+          "audioText": "妹",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#妹",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "younger sister",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#妹",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-59b9-1",
+          "text": "妹妹",
+          "pinyin": "mèi mei",
+          "english": "younger sister",
+          "readingId": "reading-59b9",
+          "context": {
+            "hanzi": "妹妹给小鸟画了翅膀。",
+            "english": "My younger sister draws wings on the little bird.",
+            "targetCharacter": "妹"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#妹妹",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-59b9-2",
+          "text": "姐妹",
+          "pinyin": "jiě mèi",
+          "english": "sisters",
+          "readingId": "reading-59b9",
+          "context": {
+            "hanzi": "这对姐妹喜欢一起读书。",
+            "english": "These sisters enjoy reading together.",
+            "targetCharacter": "妹"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#姐妹",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Compare 妹 and 姐: their left parts match, but their right parts differ.",
+        "demonstrationEnglish": "This is 妹. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-59b9",
+        "delayedReview": {
+          "promptId": "later-59b9",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-59b9"
+        }
+      },
+      "assets": [
+        "asset-glyph-59b9",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-10-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5f1f",
+        "familiar-59b9"
+      ]
+    },
+    {
+      "stepId": "everyday-10-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-10-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-5f1f",
+        "practice-two-5f1f",
+        "practice-one-59b9",
+        "practice-two-59b9"
+      ]
+    },
+    {
+      "stepId": "everyday-10-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5f1f",
+        "check-59b9"
+      ]
+    },
+    {
+      "stepId": "everyday-10-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5f1f",
+      "characterId": "char-5f1f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "弟"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5f1f-choice-1",
+          "hanzi": "弟"
+        },
+        {
+          "choiceId": "familiar-5f1f-choice-2",
+          "hanzi": "妹"
+        },
+        {
+          "choiceId": "familiar-5f1f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5f1f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5f1f-choice-1"
+    },
+    {
+      "checkId": "check-5f1f",
+      "characterId": "char-5f1f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "弟"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5f1f-choice-1",
+          "hanzi": "弟"
+        },
+        {
+          "choiceId": "check-5f1f-choice-2",
+          "hanzi": "妹"
+        },
+        {
+          "choiceId": "check-5f1f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5f1f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5f1f-choice-1"
+    },
+    {
+      "checkId": "review-5f1f",
+      "characterId": "char-5f1f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "弟"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5f1f-choice-1",
+          "hanzi": "弟"
+        },
+        {
+          "choiceId": "review-5f1f-choice-2",
+          "hanzi": "妹"
+        },
+        {
+          "choiceId": "review-5f1f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5f1f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5f1f-choice-1"
+    },
+    {
+      "checkId": "practice-one-5f1f",
+      "characterId": "char-5f1f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "弟弟"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5f1f-choice-1",
+          "hanzi": "弟"
+        },
+        {
+          "choiceId": "practice-one-5f1f-choice-2",
+          "hanzi": "妹"
+        },
+        {
+          "choiceId": "practice-one-5f1f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5f1f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5f1f-choice-1"
+    },
+    {
+      "checkId": "practice-two-5f1f",
+      "characterId": "char-5f1f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "兄弟"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5f1f-choice-1",
+          "hanzi": "弟"
+        },
+        {
+          "choiceId": "practice-two-5f1f-choice-2",
+          "hanzi": "妹"
+        },
+        {
+          "choiceId": "practice-two-5f1f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5f1f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5f1f-choice-1"
+    },
+    {
+      "checkId": "familiar-59b9",
+      "characterId": "char-59b9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "妹"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-59b9-choice-1",
+          "hanzi": "弟"
+        },
+        {
+          "choiceId": "familiar-59b9-choice-2",
+          "hanzi": "妹"
+        },
+        {
+          "choiceId": "familiar-59b9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-59b9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-59b9-choice-2"
+    },
+    {
+      "checkId": "check-59b9",
+      "characterId": "char-59b9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "妹"
+      },
+      "choices": [
+        {
+          "choiceId": "check-59b9-choice-1",
+          "hanzi": "弟"
+        },
+        {
+          "choiceId": "check-59b9-choice-2",
+          "hanzi": "妹"
+        },
+        {
+          "choiceId": "check-59b9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-59b9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-59b9-choice-2"
+    },
+    {
+      "checkId": "review-59b9",
+      "characterId": "char-59b9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "妹"
+      },
+      "choices": [
+        {
+          "choiceId": "review-59b9-choice-1",
+          "hanzi": "弟"
+        },
+        {
+          "choiceId": "review-59b9-choice-2",
+          "hanzi": "妹"
+        },
+        {
+          "choiceId": "review-59b9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-59b9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-59b9-choice-2"
+    },
+    {
+      "checkId": "practice-one-59b9",
+      "characterId": "char-59b9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "妹妹"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-59b9-choice-1",
+          "hanzi": "弟"
+        },
+        {
+          "choiceId": "practice-one-59b9-choice-2",
+          "hanzi": "妹"
+        },
+        {
+          "choiceId": "practice-one-59b9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-59b9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-59b9-choice-2"
+    },
+    {
+      "checkId": "practice-two-59b9",
+      "characterId": "char-59b9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "姐妹"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-59b9-choice-1",
+          "hanzi": "弟"
+        },
+        {
+          "choiceId": "practice-two-59b9-choice-2",
+          "hanzi": "妹"
+        },
+        {
+          "choiceId": "practice-two-59b9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-59b9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-59b9-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5f1f",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-10-v1/char-5f1f",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-59b9",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-10-v1/char-59b9",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-10-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-10-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Younger siblings play",
+      "instructionEnglish": "Our capybara plays with younger siblings. Read words about brothers and sisters."
+    },
+    "targets": [
+      {
+        "characterId": "char-5f1f",
+        "readingId": "reading-5f1f",
+        "familiarityCheckId": "familiar-5f1f",
+        "practice": [
+          {
+            "wordId": "word-5f1f-1",
+            "checkId": "practice-one-5f1f"
+          },
+          {
+            "wordId": "word-5f1f-2",
+            "checkId": "practice-two-5f1f"
+          }
+        ],
+        "immediateCheckId": "check-5f1f",
+        "reviewCheckId": "review-5f1f"
+      },
+      {
+        "characterId": "char-59b9",
+        "readingId": "reading-59b9",
+        "familiarityCheckId": "familiar-59b9",
+        "practice": [
+          {
+            "wordId": "word-59b9-1",
+            "checkId": "practice-one-59b9"
+          },
+          {
+            "wordId": "word-59b9-2",
+            "checkId": "practice-two-59b9"
+          }
+        ],
+        "immediateCheckId": "check-59b9",
+        "reviewCheckId": "review-59b9"
+      }
+    ],
+    "reader": {
+      "title": "Younger siblings play",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5f1f-1",
+        "word-5f1f-2",
+        "word-59b9-1",
+        "word-59b9-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5f1f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5f1f",
+          "transcript": "弟",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5f1f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5f1f",
+          "transcript": "弟",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5f1f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5f1f",
+          "transcript": "弟",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5f1f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5f1f",
+          "transcript": "弟弟",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5f1f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5f1f",
+          "transcript": "兄弟",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5f1f",
+          "readingId": "reading-5f1f",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "弟",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5f1f-1",
+          "readingId": null,
+          "wordId": "word-5f1f-1",
+          "checkId": null,
+          "transcript": "弟弟把积木放回盒子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5f1f-2",
+          "readingId": null,
+          "wordId": "word-5f1f-2",
+          "checkId": null,
+          "transcript": "故事里的兄弟一起寻找小狗。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-59b9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-59b9",
+          "transcript": "妹",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-59b9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-59b9",
+          "transcript": "妹",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-59b9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-59b9",
+          "transcript": "妹",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-59b9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-59b9",
+          "transcript": "妹妹",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-59b9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-59b9",
+          "transcript": "姐妹",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-59b9",
+          "readingId": "reading-59b9",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "妹",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-59b9-1",
+          "readingId": null,
+          "wordId": "word-59b9-1",
+          "checkId": null,
+          "transcript": "妹妹给小鸟画了翅膀。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-59b9-2",
+          "readingId": null,
+          "wordId": "word-59b9-2",
+          "checkId": null,
+          "transcript": "这对姐妹喜欢一起读书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

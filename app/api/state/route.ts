@@ -1,9 +1,12 @@
 import { database } from '@/lib/db';
+import { env } from 'cloudflare:workers';
 import { DEFAULT_SETTINGS, validAttempt, validSettings, validSession } from '@/lib/learning';
 export const dynamic='force-dynamic';
 const json=(body:unknown,status=200)=>Response.json(body,{status,headers:{'Cache-Control':'no-store'}});
 function profile(request:Request) { const p=new URL(request.url).searchParams.get('profile')??'family'; return /^[a-z0-9-]{1,64}$/.test(p)?p:null; }
+function pilotMode() { const mode=(env as unknown as {HANZI_PILOT_MODE?:string|boolean}).HANZI_PILOT_MODE; return mode===true || mode==='1' || mode==='true' || mode==='yes'; }
 export async function GET(request:Request) {
+  if(pilotMode())return json({error:'Not found'},404);
   const p=profile(request); if(!p)return json({error:'Invalid profile'},400);
   try {
     const db=await database();
@@ -12,6 +15,7 @@ export async function GET(request:Request) {
   } catch(error) { console.error('State read failed',error); return json({error:'Progress could not be loaded. Please retry.'},503); }
 }
 export async function POST(request:Request) {
+  if(pilotMode())return json({error:'Not found'},404);
   const p=profile(request); if(!p)return json({error:'Invalid profile'},400);
   const origin=request.headers.get('origin'); if(origin && origin!==new URL(request.url).origin)return json({error:'Origin mismatch'},403);
   let body; try { const text=await request.text(); if(text.length>400000)return json({error:'Backup too large'},413); body=JSON.parse(text); } catch { return json({error:'Invalid JSON'},400); }

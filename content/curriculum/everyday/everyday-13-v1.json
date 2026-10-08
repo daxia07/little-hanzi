@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-13",
+  "lessonVersion": "everyday-13-v1",
+  "title": "Sheep and a friendly dog",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 26
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara sees sheep, goats and a friendly dog. Compare their printed characters.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-7f8a",
+      "hanzi": "羊",
+      "readings": [
+        {
+          "readingId": "reading-7f8a",
+          "pinyin": "yáng",
+          "audioText": "羊",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#羊",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "sheep; goat",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#羊",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7f8a-1",
+          "text": "山羊",
+          "pinyin": "shān yáng",
+          "english": "goat",
+          "readingId": "reading-7f8a",
+          "context": {
+            "hanzi": "山羊站在小山坡上。",
+            "english": "A goat stands on a little hillside.",
+            "targetCharacter": "羊"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#山羊",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7f8a-2",
+          "text": "绵羊",
+          "pinyin": "mián yáng",
+          "english": "sheep",
+          "readingId": "reading-7f8a",
+          "context": {
+            "hanzi": "绵羊在草地上慢慢走。",
+            "english": "A sheep walks slowly across the grass.",
+            "targetCharacter": "羊"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#绵羊",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the two small top strokes and the middle line of 羊.",
+        "demonstrationEnglish": "This is 羊. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7f8a",
+        "delayedReview": {
+          "promptId": "later-7f8a",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7f8a"
+        }
+      },
+      "assets": [
+        "asset-glyph-7f8a",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-72d7",
+      "hanzi": "狗",
+      "readings": [
+        {
+          "readingId": "reading-72d7",
+          "pinyin": "gǒu",
+          "audioText": "狗",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#狗",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "dog",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#狗",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-72d7-1",
+          "text": "小狗",
+          "pinyin": "xiǎo gǒu",
+          "english": "puppy; little dog",
+          "readingId": "reading-72d7",
+          "context": {
+            "hanzi": "小狗在门口摇尾巴。",
+            "english": "The puppy wags its tail by the doorway.",
+            "targetCharacter": "狗"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#小狗",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-72d7-2",
+          "text": "狗窝",
+          "pinyin": "gǒu wō",
+          "english": "dog kennel",
+          "readingId": "reading-72d7",
+          "context": {
+            "hanzi": "我们把狗窝里的垫子放好。",
+            "english": "We arrange the cushion in the dog's kennel.",
+            "targetCharacter": "狗"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#狗窝",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the narrow left part and the small box on the right of 狗.",
+        "demonstrationEnglish": "This is 狗. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-72d7",
+        "delayedReview": {
+          "promptId": "later-72d7",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-72d7"
+        }
+      },
+      "assets": [
+        "asset-glyph-72d7",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-13-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-7f8a",
+        "familiar-72d7"
+      ]
+    },
+    {
+      "stepId": "everyday-13-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-13-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-7f8a",
+        "practice-two-7f8a",
+        "practice-one-72d7",
+        "practice-two-72d7"
+      ]
+    },
+    {
+      "stepId": "everyday-13-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-7f8a",
+        "check-72d7"
+      ]
+    },
+    {
+      "stepId": "everyday-13-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-7f8a",
+      "characterId": "char-7f8a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "羊"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7f8a-choice-1",
+          "hanzi": "羊"
+        },
+        {
+          "choiceId": "familiar-7f8a-choice-2",
+          "hanzi": "狗"
+        },
+        {
+          "choiceId": "familiar-7f8a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7f8a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7f8a-choice-1"
+    },
+    {
+      "checkId": "check-7f8a",
+      "characterId": "char-7f8a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "羊"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7f8a-choice-1",
+          "hanzi": "羊"
+        },
+        {
+          "choiceId": "check-7f8a-choice-2",
+          "hanzi": "狗"
+        },
+        {
+          "choiceId": "check-7f8a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7f8a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7f8a-choice-1"
+    },
+    {
+      "checkId": "review-7f8a",
+      "characterId": "char-7f8a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "羊"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7f8a-choice-1",
+          "hanzi": "羊"
+        },
+        {
+          "choiceId": "review-7f8a-choice-2",
+          "hanzi": "狗"
+        },
+        {
+          "choiceId": "review-7f8a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7f8a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7f8a-choice-1"
+    },
+    {
+      "checkId": "practice-one-7f8a",
+      "characterId": "char-7f8a",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "山羊"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7f8a-choice-1",
+          "hanzi": "羊"
+        },
+        {
+          "choiceId": "practice-one-7f8a-choice-2",
+          "hanzi": "狗"
+        },
+        {
+          "choiceId": "practice-one-7f8a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7f8a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7f8a-choice-1"
+    },
+    {
+      "checkId": "practice-two-7f8a",
+      "characterId": "char-7f8a",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "绵羊"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7f8a-choice-1",
+          "hanzi": "羊"
+        },
+        {
+          "choiceId": "practice-two-7f8a-choice-2",
+          "hanzi": "狗"
+        },
+        {
+          "choiceId": "practice-two-7f8a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7f8a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7f8a-choice-1"
+    },
+    {
+      "checkId": "familiar-72d7",
+      "characterId": "char-72d7",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "狗"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-72d7-choice-1",
+          "hanzi": "羊"
+        },
+        {
+          "choiceId": "familiar-72d7-choice-2",
+          "hanzi": "狗"
+        },
+        {
+          "choiceId": "familiar-72d7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-72d7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-72d7-choice-2"
+    },
+    {
+      "checkId": "check-72d7",
+      "characterId": "char-72d7",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "狗"
+      },
+      "choices": [
+        {
+          "choiceId": "check-72d7-choice-1",
+          "hanzi": "羊"
+        },
+        {
+          "choiceId": "check-72d7-choice-2",
+          "hanzi": "狗"
+        },
+        {
+          "choiceId": "check-72d7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-72d7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-72d7-choice-2"
+    },
+    {
+      "checkId": "review-72d7",
+      "characterId": "char-72d7",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "狗"
+      },
+      "choices": [
+        {
+          "choiceId": "review-72d7-choice-1",
+          "hanzi": "羊"
+        },
+        {
+          "choiceId": "review-72d7-choice-2",
+          "hanzi": "狗"
+        },
+        {
+          "choiceId": "review-72d7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-72d7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-72d7-choice-2"
+    },
+    {
+      "checkId": "practice-one-72d7",
+      "characterId": "char-72d7",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "小狗"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-72d7-choice-1",
+          "hanzi": "羊"
+        },
+        {
+          "choiceId": "practice-one-72d7-choice-2",
+          "hanzi": "狗"
+        },
+        {
+          "choiceId": "practice-one-72d7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-72d7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-72d7-choice-2"
+    },
+    {
+      "checkId": "practice-two-72d7",
+      "characterId": "char-72d7",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "狗窝"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-72d7-choice-1",
+          "hanzi": "羊"
+        },
+        {
+          "choiceId": "practice-two-72d7-choice-2",
+          "hanzi": "狗"
+        },
+        {
+          "choiceId": "practice-two-72d7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-72d7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-72d7-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-7f8a",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-13-v1/char-7f8a",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-72d7",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-13-v1/char-72d7",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-13-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-13-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Sheep and a friendly dog",
+      "instructionEnglish": "Our capybara sees sheep, goats and a friendly dog. Compare their printed characters."
+    },
+    "targets": [
+      {
+        "characterId": "char-7f8a",
+        "readingId": "reading-7f8a",
+        "familiarityCheckId": "familiar-7f8a",
+        "practice": [
+          {
+            "wordId": "word-7f8a-1",
+            "checkId": "practice-one-7f8a"
+          },
+          {
+            "wordId": "word-7f8a-2",
+            "checkId": "practice-two-7f8a"
+          }
+        ],
+        "immediateCheckId": "check-7f8a",
+        "reviewCheckId": "review-7f8a"
+      },
+      {
+        "characterId": "char-72d7",
+        "readingId": "reading-72d7",
+        "familiarityCheckId": "familiar-72d7",
+        "practice": [
+          {
+            "wordId": "word-72d7-1",
+            "checkId": "practice-one-72d7"
+          },
+          {
+            "wordId": "word-72d7-2",
+            "checkId": "practice-two-72d7"
+          }
+        ],
+        "immediateCheckId": "check-72d7",
+        "reviewCheckId": "review-72d7"
+      }
+    ],
+    "reader": {
+      "title": "Sheep and a friendly dog",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-7f8a-1",
+        "word-7f8a-2",
+        "word-72d7-1",
+        "word-72d7-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-7f8a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7f8a",
+          "transcript": "羊",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7f8a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7f8a",
+          "transcript": "羊",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7f8a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7f8a",
+          "transcript": "羊",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7f8a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7f8a",
+          "transcript": "山羊",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7f8a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7f8a",
+          "transcript": "绵羊",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7f8a",
+          "readingId": "reading-7f8a",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "羊",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7f8a-1",
+          "readingId": null,
+          "wordId": "word-7f8a-1",
+          "checkId": null,
+          "transcript": "山羊站在小山坡上。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7f8a-2",
+          "readingId": null,
+          "wordId": "word-7f8a-2",
+          "checkId": null,
+          "transcript": "绵羊在草地上慢慢走。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-72d7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-72d7",
+          "transcript": "狗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-72d7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-72d7",
+          "transcript": "狗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-72d7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-72d7",
+          "transcript": "狗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-72d7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-72d7",
+          "transcript": "小狗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-72d7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-72d7",
+          "transcript": "狗窝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-72d7",
+          "readingId": "reading-72d7",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "狗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-72d7-1",
+          "readingId": null,
+          "wordId": "word-72d7-1",
+          "checkId": null,
+          "transcript": "小狗在门口摇尾巴。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-72d7-2",
+          "readingId": null,
+          "wordId": "word-72d7-2",
+          "checkId": null,
+          "transcript": "我们把狗窝里的垫子放好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

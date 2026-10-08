@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" role="img" aria-labelledby="mascot-title mascot-desc">
+  <title id="mascot-title">School capybara — editable v6 motion candidate</title>
+  <desc id="mascot-desc">A friendly upright capybara with a broad warm face, two eyes, two whiskers on each cheek, two arms and two feet. Navy cap and uniform, ivory shirt and teal neckerchief.</desc>
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="0.8" y2="1"><stop stop-color="#ffc17c"/><stop offset=".55" stop-color="#efaa66"/><stop offset="1" stop-color="#d89255"/></linearGradient>
+    <linearGradient id="navy" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#365f99"/><stop offset="1" stop-color="#1b365f"/></linearGradient>
+    <linearGradient id="paw" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b68060"/><stop offset="1" stop-color="#986449"/></linearGradient>
+    <linearGradient id="muzzle" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#c5906a"/><stop offset="1" stop-color="#bb835e"/></linearGradient>
+  </defs>
+  <g stroke="#422619" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Two grounded feet; never transformed by performances. -->
+    <g data-layer="foot-left"><path fill="url(#fur)" d="M184 570 Q181 620 204 648 L253 650 Q271 610 266 574Z"/><path fill="url(#paw)" d="M204 636 Q179 643 179 667 Q180 684 217 684 L264 678 Q279 670 265 641 Q238 630 204 636Z"/><path fill="none" d="M207 661 Q199 669 203 681 M232 658 Q222 670 226 681"/></g>
+    <g data-layer="foot-right"><path fill="url(#fur)" d="M330 574 Q326 613 346 650 L394 648 Q418 615 416 570Z"/><path fill="url(#paw)" d="M346 640 Q332 669 346 678 L393 684 Q427 684 427 667 Q425 643 396 636 Q370 632 346 640Z"/><path fill="none" d="M375 658 Q386 670 382 681 M400 661 Q411 670 407 681"/></g>
+    <g data-layer="shorts"><path fill="url(#navy)" stroke="#152c4d" d="M170 509 L430 509 Q438 555 422 595 Q373 611 315 595 L301 565 L287 595 Q227 611 177 595 Q161 553 170 509Z"/><path fill="none" stroke="#142c4d" d="M300 530 L301 565 M182 548 Q208 540 223 524 M418 548 Q391 540 377 524 M177 580 Q233 596 287 580 M315 580 Q368 596 422 580"/></g>
+    <g data-layer="torso">
+      <path fill="url(#navy)" stroke="#142c4d" d="M194 308 Q244 294 300 305 Q362 294 409 309 Q390 377 409 441 L431 515 Q302 554 168 515 L190 440 Q210 375 194 308Z"/>
+      <path fill="none" stroke="#17b4c4" stroke-width="7" d="M196 312 Q203 381 299 435 Q390 381 405 312 M170 513 Q300 549 430 513"/>
+      <path fill="#fff9ee" stroke="#182c49" d="M197 299 L298 346 L246 383 L184 326Z M403 299 L302 346 L354 383 L416 326Z"/>
+      <path fill="#17b4c4" stroke="#163950" d="M263 352 Q299 368 337 352 L327 371 Q300 389 273 371Z"/>
+      <path fill="#17b4c4" stroke="#163950" d="M294 379 Q251 387 267 438 Q294 424 301 389 Q307 424 334 438 Q350 387 306 379Z"/>
+      <path fill="#0e94a7" stroke="none" d="M286 395 L272 423 L296 391 M313 395 L329 423 L305 391"/>
+      <circle cx="300" cy="377" r="15" fill="#19b7c4" stroke="#163950"/>
+    </g>
+    <!-- Sleeves and paws form exactly one connected arm on each side. -->
+    <g data-layer="arm-left" style="transform-origin:190px 354px">
+      <path fill="#fff9ee" d="M191 319 Q156 325 126 375 L111 411 Q130 430 170 425 L209 365Z"/>
+      <path fill="url(#fur)" d="M126 407 Q110 447 134 465 Q160 486 210 470 L221 429 Q181 409 155 403Z"/>
+      <path fill="url(#paw)" d="M189 426 Q215 422 234 441 Q244 455 232 462 Q227 480 214 480 Q204 488 193 478 Q176 476 176 461 Q174 443 189 426Z"/>
+      <path fill="none" d="M214 445 Q229 453 229 464 M203 454 Q218 462 215 478"/><path fill="none" stroke="#bdb4a7" d="M116 400 Q142 383 175 401"/>
+    </g>
+    <g data-layer="arm-right" style="transform-origin:412px 355px">
+      <path fill="#fff9ee" d="M410 318 Q445 325 468 370 L481 412 Q463 431 426 420 L392 365Z"/>
+      <path fill="url(#fur)" d="M430 405 Q444 449 470 450 Q504 448 516 405 L495 377 Q465 389 449 399Z"/>
+      <path fill="url(#paw)" d="M479 391 Q467 378 476 364 Q479 355 485 349 Q493 339 501 349 L506 330 Q511 318 521 325 Q527 329 524 345 Q531 330 540 337 Q547 344 537 359 Q546 351 551 361 Q555 374 539 390 Q514 410 479 391Z"/>
+      <path fill="none" stroke="#bdb4a7" d="M430 393 Q450 390 472 404"/>
+    </g>
+    <g data-layer="head" style="transform-origin:300px 310px">
+      <g data-layer="ears"><ellipse cx="187" cy="108" rx="34" ry="39" fill="url(#fur)"/><ellipse cx="412" cy="108" rx="34" ry="39" fill="url(#fur)"/><path fill="url(#paw)" stroke="none" d="M180 89 Q202 97 204 126 Q179 129 173 113 Q169 98 180 89Z M420 89 Q398 97 396 126 Q421 129 427 113 Q431 98 420 89Z"/><path fill="none" d="M186 97 Q201 108 201 126 M414 97 Q399 108 399 126"/></g>
+      <path fill="url(#fur)" d="M209 115 Q245 82 300 90 Q361 82 391 115 L444 215 Q462 251 440 278 Q417 308 354 321 L300 342 L246 321 Q184 310 160 278 Q139 250 157 215Z"/>
+      <path fill="#ffd195" opacity=".35" stroke="none" d="M211 130 Q250 109 279 110 Q192 171 169 244 Q156 257 162 265 Q143 235 171 186Z"/>
+      <path fill="#cc884a" opacity=".65" stroke="none" d="M259 305 Q300 326 342 305 Q322 336 300 336 Q278 333 259 305Z"/>
+      <g data-layer="cap"><path fill="url(#navy)" stroke="#142c4d" d="M282 58 Q283 43 300 44 Q317 44 319 58 M214 125 Q218 60 299 56 Q383 58 388 125Z"/><path fill="none" stroke="#1b365f" d="M253 68 Q236 86 235 112 M347 68 Q365 86 367 112"/><path fill="#17b4c4" stroke="#142c4d" d="M215 113 Q301 83 387 113 L389 126 Q301 96 212 130Z"/><path fill="url(#navy)" stroke="#142c4d" d="M212 129 Q300 103 389 129 Q395 140 376 141 Q300 117 224 143 Q201 146 212 129Z"/></g>
+      <g data-layer="brows" style="transform-origin:300px 170px"><path fill="#482616" stroke="none" d="M208 165 Q220 143 240 151 Q248 157 241 161 Q222 158 208 170Z M360 151 Q380 143 392 165 L392 170 Q378 158 359 161 Q352 157 360 151Z"/></g>
+      <g data-layer="eyes">
+        <g data-layer="eyes-rest"><path fill="#fffdf8" d="M205 211 Q204 180 224 178 Q245 182 244 213Z M356 213 Q355 182 376 178 Q396 180 395 211Z"/><ellipse fill="#48230f" cx="227" cy="201" rx="13" ry="19"/><ellipse fill="#48230f" cx="373" cy="201" rx="13" ry="19"/><ellipse fill="#25140c" stroke="none" cx="229" cy="205" rx="8" ry="13"/><ellipse fill="#25140c" stroke="none" cx="371" cy="205" rx="8" ry="13"/><circle fill="#fff" stroke="none" cx="233" cy="189" r="5"/><circle fill="#fff" stroke="none" cx="367" cy="189" r="5"/></g>
+        <g data-layer="eyes-hint" style="display:none"><path fill="#fffdf8" d="M205 211 Q204 180 224 178 Q245 182 244 213Z M356 213 Q355 182 376 178 Q396 180 395 211Z"/><ellipse fill="#48230f" cx="234" cy="205" rx="10" ry="16"/><ellipse fill="#48230f" cx="380" cy="205" rx="10" ry="16"/><circle fill="#fff" stroke="none" cx="237" cy="193" r="4"/><circle fill="#fff" stroke="none" cx="383" cy="193" r="4"/></g>
+        <g data-layer="eyes-encourage" style="display:none"><path fill="none" stroke-width="5" d="M205 201 Q223 179 244 201"/><path fill="#fffdf8" d="M356 213 Q355 182 376 178 Q396 180 395 211Z"/><ellipse fill="#48230f" cx="373" cy="201" rx="13" ry="19"/><circle fill="#fff" stroke="none" cx="367" cy="189" r="5"/></g>
+        <g data-layer="eyes-focused" style="display:none"><path fill="#fffdf8" d="M205 211 Q204 183 224 183 Q245 186 244 213Z M356 213 Q355 186 376 183 Q396 183 395 211Z"/><ellipse fill="#48230f" cx="227" cy="208" rx="12" ry="13"/><ellipse fill="#48230f" cx="373" cy="208" rx="12" ry="13"/><circle fill="#fff" stroke="none" cx="232" cy="202" r="4"/><circle fill="#fff" stroke="none" cx="368" cy="202" r="4"/></g>
+        <g data-layer="eyes-delighted" style="display:none"><path fill="none" stroke-width="5" d="M205 201 Q224 180 244 201 M356 201 Q375 180 395 201"/></g>
+      </g>
+      <g data-layer="cheeks" stroke="none" fill="#f58e5e" opacity=".7"><ellipse cx="196" cy="230" rx="22" ry="14"/><ellipse cx="404" cy="230" rx="22" ry="14"/></g>
+      <!-- Exactly two short strokes on each visible cheek; all move with head. -->
+      <g data-layer="whiskers" fill="none" stroke-width="2.8"><path data-whisker="left-upper" d="M164 225 Q153 220 140 221"/><path data-whisker="left-lower" d="M162 239 Q150 239 141 246"/><path data-whisker="right-upper" d="M436 225 Q447 220 460 221"/><path data-whisker="right-lower" d="M438 239 Q450 239 459 246"/></g>
+      <g data-layer="mouth-welcome" style="display:none"><path fill="#68261b" d="M261 267 Q300 289 339 267 Q328 313 300 314 Q272 313 261 267Z"/><path fill="#f6937c" stroke="none" d="M277 300 Q300 282 323 300 Q312 316 300 312 Q288 314 277 300Z"/></g>
+      <g data-layer="mouth-rest"><path fill="none" d="M270 279 Q286 283 300 269 Q314 283 330 279"/></g>
+      <g data-layer="mouth-hint" style="display:none"><path fill="#a5523c" d="M299 274 Q314 277 310 289 Q297 294 295 284Z"/></g>
+      <g data-layer="mouth-encourage" style="display:none"><path fill="none" stroke-width="4" d="M266 273 Q280 286 300 274 Q321 287 337 270"/></g>
+      <g data-layer="mouth-focused" style="display:none"><path fill="none" d="M270 279 Q286 283 300 269 Q314 283 330 279"/></g>
+      <g data-layer="mouth-aha" style="display:none"><path fill="#68261b" d="M267 273 Q299 290 339 267 Q329 306 303 307 Q281 306 267 273Z"/><path fill="#f6937c" stroke="none" d="M284 298 Q306 284 326 297 Q313 309 303 306Z"/></g>
+      <g data-layer="mouth-delighted" style="display:none"><path fill="#68261b" d="M258 266 Q300 290 342 266 Q330 316 300 317 Q270 314 258 266Z"/><path fill="#f6937c" stroke="none" d="M277 303 Q300 283 325 302 Q312 318 300 314 Q288 316 277 303Z"/></g>
+      <g data-layer="muzzle"><path fill="url(#muzzle)" stroke="none" d="M300 188 Q247 188 244 237 Q243 276 271 279 Q291 281 300 266 Q309 281 329 279 Q357 276 356 237 Q353 188 300 188Z"/><path fill="#3a1b0d" stroke="none" d="M266 220 Q279 217 288 229 Q283 240 269 230 Q260 224 266 220Z M312 229 Q321 217 334 220 Q340 224 331 230 Q317 240 312 229Z"/><path fill="none" d="M300 235 L300 264 Q296 282 274 279 Q250 279 239 258 M300 264 Q304 282 326 279 Q350 279 361 258 M235 261 L240 255 M359 255 L365 261"/></g>
+    </g>
+  </g>
+</svg>

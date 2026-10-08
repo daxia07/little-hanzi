@@ -1,0 +1,126 @@
+.admin {
+  color: #182c49;
+  background: #fff;
+  min-width: 0;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  line-height: 1.55;
+  margin-block: 24px;
+  padding: clamp(12px, 3vw, 24px);
+  border: 1px solid #d9e2ef;
+  border-radius: 16px;
+  font-family: 'Avenir Next', 'Segoe UI', system-ui, sans-serif;
+}
+.admin * {
+  box-sizing: border-box;
+  min-width: 0;
+  max-width: 100%;
+}
+.admin h2,
+.admin h3,
+.admin h4,
+.admin p {
+  margin: 0 0 12px;
+  white-space: normal;
+  color: inherit;
+}
+.admin h2 {
+  font-size: 1.6rem;
+}
+.admin h3 {
+  font-size: 1.2rem;
+}
+.admin button,
+.admin input,
+.admin select,
+.admin textarea {
+  font: inherit;
+  min-height: 44px;
+  min-width: 44px;
+  border: 1px solid #7e8fa7;
+  border-radius: 8px;
+  padding: 10px 14px;
+  background: #fff;
+  color: #182c49;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+.admin button {
+  cursor: pointer;
+  margin: 4px;
+}
+.admin button:disabled {
+  background: #edf1f7;
+  color: #53647b;
+  cursor: default;
+}
+.admin :focus-visible {
+  outline: 3px solid #245bd6;
+  outline-offset: 3px;
+}
+.admin label {
+  display: grid;
+  gap: 6px;
+  margin-block: 12px;
+}
+.admin select,
+.admin textarea {
+  width: 100%;
+}
+.admin textarea {
+  min-height: 160px;
+  resize: vertical;
+}
+.admin label:has(input[type='checkbox']) {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+}
+.admin input[type='checkbox'] {
+  flex: 0 0 44px;
+  width: 44px;
+  height: 44px;
+  accent-color: #245bd6;
+}
+.admin output {
+  display: block;
+  color: #53647b;
+  margin-block: 10px;
+}
+.admin details {
+  margin-block: 16px;
+}
+.admin summary {
+  min-height: 44px;
+  padding: 10px 0;
+  cursor: pointer;
+}
+.card {
+  margin-block: 20px;
+  padding: clamp(12px, 3vw, 24px);
+  border: 1px solid #d9e2ef;
+  border-radius: 12px;
+}
+.counts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(180px, 100%), 1fr));
+  gap: 12px;
+}
+.counts div {
+  background: #eaf2ff;
+  padding: 12px;
+  border-radius: 10px;
+}
+.counts dd {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+@media (prefers-reduced-motion: reduce) {
+  .admin * {
+    scroll-behavior: auto;
+    transition: none;
+    animation: none;
+  }
+}

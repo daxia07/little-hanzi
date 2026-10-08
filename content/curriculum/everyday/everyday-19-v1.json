@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-19",
+  "lessonVersion": "everyday-19-v1",
+  "title": "Beans and a warm meal",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 32
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara sees beans, tofu and a warm meal. Notice the two food characters in words.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-8c46",
+      "hanzi": "豆",
+      "readings": [
+        {
+          "readingId": "reading-8c46",
+          "pinyin": "dòu",
+          "audioText": "豆",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#豆",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "bean",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#豆",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8c46-1",
+          "text": "豆子",
+          "pinyin": "dòu zi",
+          "english": "bean",
+          "readingId": "reading-8c46",
+          "context": {
+            "hanzi": "我们把豆子倒进碗里。",
+            "english": "We pour the beans into a bowl.",
+            "targetCharacter": "豆"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#豆子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8c46-2",
+          "text": "豆腐",
+          "pinyin": "dòu fu",
+          "english": "tofu",
+          "readingId": "reading-8c46",
+          "context": {
+            "hanzi": "盘子里有几块豆腐。",
+            "english": "There are several pieces of tofu on the plate.",
+            "targetCharacter": "豆"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#豆腐",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the small box between the upper and lower strokes of 豆.",
+        "demonstrationEnglish": "This is 豆. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8c46",
+        "delayedReview": {
+          "promptId": "later-8c46",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8c46"
+        }
+      },
+      "assets": [
+        "asset-glyph-8c46",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-8089",
+      "hanzi": "肉",
+      "readings": [
+        {
+          "readingId": "reading-8089",
+          "pinyin": "ròu",
+          "audioText": "肉",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#肉",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "meat",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#肉",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8089-1",
+          "text": "猪肉",
+          "pinyin": "zhū ròu",
+          "english": "pork",
+          "readingId": "reading-8089",
+          "context": {
+            "hanzi": "厨房里有一小块猪肉。",
+            "english": "There is a small piece of pork in the kitchen.",
+            "targetCharacter": "肉"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#猪肉",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8089-2",
+          "text": "肉片",
+          "pinyin": "ròu piàn",
+          "english": "slices of meat",
+          "readingId": "reading-8089",
+          "context": {
+            "hanzi": "大人把肉片放进锅里。",
+            "english": "An adult puts the slices of meat into the pot.",
+            "targetCharacter": "肉"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#肉片",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Look at the two small 人-like shapes inside 肉; compare its outer lines with 内.",
+        "demonstrationEnglish": "This is 肉. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8089",
+        "delayedReview": {
+          "promptId": "later-8089",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8089"
+        }
+      },
+      "assets": [
+        "asset-glyph-8089",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-19-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-8c46",
+        "familiar-8089"
+      ]
+    },
+    {
+      "stepId": "everyday-19-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-19-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-8c46",
+        "practice-two-8c46",
+        "practice-one-8089",
+        "practice-two-8089"
+      ]
+    },
+    {
+      "stepId": "everyday-19-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-8c46",
+        "check-8089"
+      ]
+    },
+    {
+      "stepId": "everyday-19-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-8c46",
+      "characterId": "char-8c46",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "豆"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8c46-choice-1",
+          "hanzi": "豆"
+        },
+        {
+          "choiceId": "familiar-8c46-choice-2",
+          "hanzi": "肉"
+        },
+        {
+          "choiceId": "familiar-8c46-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8c46-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8c46-choice-1"
+    },
+    {
+      "checkId": "check-8c46",
+      "characterId": "char-8c46",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "豆"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8c46-choice-1",
+          "hanzi": "豆"
+        },
+        {
+          "choiceId": "check-8c46-choice-2",
+          "hanzi": "肉"
+        },
+        {
+          "choiceId": "check-8c46-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8c46-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8c46-choice-1"
+    },
+    {
+      "checkId": "review-8c46",
+      "characterId": "char-8c46",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "豆"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8c46-choice-1",
+          "hanzi": "豆"
+        },
+        {
+          "choiceId": "review-8c46-choice-2",
+          "hanzi": "肉"
+        },
+        {
+          "choiceId": "review-8c46-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8c46-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8c46-choice-1"
+    },
+    {
+      "checkId": "practice-one-8c46",
+      "characterId": "char-8c46",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "豆子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8c46-choice-1",
+          "hanzi": "豆"
+        },
+        {
+          "choiceId": "practice-one-8c46-choice-2",
+          "hanzi": "肉"
+        },
+        {
+          "choiceId": "practice-one-8c46-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8c46-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8c46-choice-1"
+    },
+    {
+      "checkId": "practice-two-8c46",
+      "characterId": "char-8c46",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "豆腐"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8c46-choice-1",
+          "hanzi": "豆"
+        },
+        {
+          "choiceId": "practice-two-8c46-choice-2",
+          "hanzi": "肉"
+        },
+        {
+          "choiceId": "practice-two-8c46-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8c46-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8c46-choice-1"
+    },
+    {
+      "checkId": "familiar-8089",
+      "characterId": "char-8089",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "肉"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8089-choice-1",
+          "hanzi": "豆"
+        },
+        {
+          "choiceId": "familiar-8089-choice-2",
+          "hanzi": "肉"
+        },
+        {
+          "choiceId": "familiar-8089-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8089-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8089-choice-2"
+    },
+    {
+      "checkId": "check-8089",
+      "characterId": "char-8089",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "肉"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8089-choice-1",
+          "hanzi": "豆"
+        },
+        {
+          "choiceId": "check-8089-choice-2",
+          "hanzi": "肉"
+        },
+        {
+          "choiceId": "check-8089-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8089-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8089-choice-2"
+    },
+    {
+      "checkId": "review-8089",
+      "characterId": "char-8089",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "肉"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8089-choice-1",
+          "hanzi": "豆"
+        },
+        {
+          "choiceId": "review-8089-choice-2",
+          "hanzi": "肉"
+        },
+        {
+          "choiceId": "review-8089-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8089-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8089-choice-2"
+    },
+    {
+      "checkId": "practice-one-8089",
+      "characterId": "char-8089",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "猪肉"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8089-choice-1",
+          "hanzi": "豆"
+        },
+        {
+          "choiceId": "practice-one-8089-choice-2",
+          "hanzi": "肉"
+        },
+        {
+          "choiceId": "practice-one-8089-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8089-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8089-choice-2"
+    },
+    {
+      "checkId": "practice-two-8089",
+      "characterId": "char-8089",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "肉片"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8089-choice-1",
+          "hanzi": "豆"
+        },
+        {
+          "choiceId": "practice-two-8089-choice-2",
+          "hanzi": "肉"
+        },
+        {
+          "choiceId": "practice-two-8089-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8089-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8089-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-8c46",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-19-v1/char-8c46",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-8089",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-19-v1/char-8089",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-19-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-19-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Beans and a warm meal",
+      "instructionEnglish": "Our capybara sees beans, tofu and a warm meal. Notice the two food characters in words."
+    },
+    "targets": [
+      {
+        "characterId": "char-8c46",
+        "readingId": "reading-8c46",
+        "familiarityCheckId": "familiar-8c46",
+        "practice": [
+          {
+            "wordId": "word-8c46-1",
+            "checkId": "practice-one-8c46"
+          },
+          {
+            "wordId": "word-8c46-2",
+            "checkId": "practice-two-8c46"
+          }
+        ],
+        "immediateCheckId": "check-8c46",
+        "reviewCheckId": "review-8c46"
+      },
+      {
+        "characterId": "char-8089",
+        "readingId": "reading-8089",
+        "familiarityCheckId": "familiar-8089",
+        "practice": [
+          {
+            "wordId": "word-8089-1",
+            "checkId": "practice-one-8089"
+          },
+          {
+            "wordId": "word-8089-2",
+            "checkId": "practice-two-8089"
+          }
+        ],
+        "immediateCheckId": "check-8089",
+        "reviewCheckId": "review-8089"
+      }
+    ],
+    "reader": {
+      "title": "Beans and a warm meal",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-8c46-1",
+        "word-8c46-2",
+        "word-8089-1",
+        "word-8089-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-8c46",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8c46",
+          "transcript": "豆",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8c46",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8c46",
+          "transcript": "豆",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8c46",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8c46",
+          "transcript": "豆",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8c46",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8c46",
+          "transcript": "豆子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8c46",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8c46",
+          "transcript": "豆腐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8c46",
+          "readingId": "reading-8c46",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "豆",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8c46-1",
+          "readingId": null,
+          "wordId": "word-8c46-1",
+          "checkId": null,
+          "transcript": "我们把豆子倒进碗里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8c46-2",
+          "readingId": null,
+          "wordId": "word-8c46-2",
+          "checkId": null,
+          "transcript": "盘子里有几块豆腐。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-8089",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8089",
+          "transcript": "肉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8089",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8089",
+          "transcript": "肉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8089",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8089",
+          "transcript": "肉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8089",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8089",
+          "transcript": "猪肉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8089",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8089",
+          "transcript": "肉片",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8089",
+          "readingId": "reading-8089",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "肉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8089-1",
+          "readingId": null,
+          "wordId": "word-8089-1",
+          "checkId": null,
+          "transcript": "厨房里有一小块猪肉。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8089-2",
+          "readingId": null,
+          "wordId": "word-8089-2",
+          "checkId": null,
+          "transcript": "大人把肉片放进锅里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

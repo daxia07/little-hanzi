@@ -1,0 +1,150 @@
+.owner {
+  --ink: #182c49;
+  --muted: #53647b;
+  --blue: #245bd6;
+  color: var(--ink);
+  font-family: 'Avenir Next', 'Segoe UI', 'PingFang SC', system-ui, sans-serif;
+  line-height: 1.55;
+  min-width: 0;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  margin-block: 24px;
+}
+.owner * {
+  box-sizing: border-box;
+  min-width: 0;
+  max-width: 100%;
+}
+.owner h2,
+.owner h3,
+.owner h4,
+.owner h5,
+.owner p {
+  margin: 0 0 12px;
+  white-space: normal;
+  color: inherit;
+}
+.owner h2 {
+  font-size: 1.6rem;
+}
+.owner h3 {
+  font-size: 1.25rem;
+}
+.owner h4 {
+  font-size: 1.1rem;
+}
+.owner h5 {
+  font-size: 1rem;
+}
+.owner button,
+.owner input,
+.owner select {
+  font: inherit;
+  min-height: 44px;
+  min-width: 44px;
+  border: 1px solid #7e8fa7;
+  border-radius: 8px;
+  padding: 10px 14px;
+  background: white;
+  color: var(--ink);
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+.owner button {
+  cursor: pointer;
+}
+.owner button:disabled {
+  cursor: default;
+  background: #edf1f7;
+  color: var(--muted);
+}
+.owner :focus-visible {
+  outline: 3px solid var(--blue);
+  outline-offset: 3px;
+}
+.owner label {
+  display: grid;
+  gap: 6px;
+  margin-block: 12px;
+}
+.owner summary {
+  cursor: pointer;
+  min-height: 44px;
+  display: list-item;
+  padding-block: 10px;
+}
+.owner details {
+  margin-block: 12px;
+}
+.owner figure {
+  margin: 0;
+}
+.owner img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 360px;
+  object-fit: contain;
+}
+.owner dt {
+  font-weight: 600;
+}
+.owner dd {
+  margin: 0 0 12px;
+}
+.surface {
+  padding: 24px;
+  border: 1px solid #ccd6e3;
+  border-radius: 12px;
+  background: white;
+  margin-block: 18px;
+}
+.row,
+.counts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr));
+  gap: 16px;
+}
+.cards article,
+.inset,
+.target {
+  padding: 16px;
+  border: 1px solid #ccd6e3;
+  border-radius: 8px;
+  margin-block: 12px;
+}
+.hanzi {
+  font-size: 1.65rem;
+}
+.eyebrow {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+.status {
+  display: block;
+  min-height: 24px;
+}
+.confirmation {
+  border-left: 4px solid var(--blue);
+  padding: 16px;
+  background: #f4f7fd;
+}
+@media (max-width: 600px) {
+  .surface {
+    padding: 16px;
+  }
+  .row > * {
+    flex: 1 1 auto;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .owner * {
+    scroll-behavior: auto;
+  }
+}

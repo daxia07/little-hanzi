@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-27",
+  "lessonVersion": "everyday-27-v1",
+  "title": "A place to sit",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 40
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara arranges a place to sit. Read table and chair words, including wheelchair.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-684c",
+      "hanzi": "桌",
+      "readings": [
+        {
+          "readingId": "reading-684c",
+          "pinyin": "zhuō",
+          "audioText": "桌",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#桌",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "table",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#桌",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-684c-1",
+          "text": "桌子",
+          "pinyin": "zhuō zi",
+          "english": "table",
+          "readingId": "reading-684c",
+          "context": {
+            "hanzi": "桌子上放着一杯水。",
+            "english": "There is a cup of water on the table.",
+            "targetCharacter": "桌"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#桌子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-684c-2",
+          "text": "书桌",
+          "pinyin": "shū zhuō",
+          "english": "desk",
+          "readingId": "reading-684c",
+          "context": {
+            "hanzi": "我在书桌旁读书。",
+            "english": "I read at the desk.",
+            "targetCharacter": "桌"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#书桌",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 木 at the bottom of 桌 and the shapes above it.",
+        "demonstrationEnglish": "This is 桌. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-684c",
+        "delayedReview": {
+          "promptId": "later-684c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-684c"
+        }
+      },
+      "assets": [
+        "asset-glyph-684c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6905",
+      "hanzi": "椅",
+      "readings": [
+        {
+          "readingId": "reading-6905",
+          "pinyin": "yǐ",
+          "audioText": "椅",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#椅",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "chair",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#椅",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6905-1",
+          "text": "椅子",
+          "pinyin": "yǐ zi",
+          "english": "chair",
+          "readingId": "reading-6905",
+          "context": {
+            "hanzi": "我们把椅子摆在桌边。",
+            "english": "We place the chairs beside the table.",
+            "targetCharacter": "椅"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#椅子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6905-2",
+          "text": "轮椅",
+          "pinyin": "lún yǐ",
+          "english": "wheelchair",
+          "readingId": "reading-6905",
+          "context": {
+            "hanzi": "我们给坐轮椅的朋友留出通道。",
+            "english": "We leave a clear path for our friend who uses a wheelchair.",
+            "targetCharacter": "椅"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#轮椅",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 木 on the left of 椅 and compare its right side with 桌.",
+        "demonstrationEnglish": "This is 椅. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6905",
+        "delayedReview": {
+          "promptId": "later-6905",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6905"
+        }
+      },
+      "assets": [
+        "asset-glyph-6905",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-27-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-684c",
+        "familiar-6905"
+      ]
+    },
+    {
+      "stepId": "everyday-27-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-27-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-684c",
+        "practice-two-684c",
+        "practice-one-6905",
+        "practice-two-6905"
+      ]
+    },
+    {
+      "stepId": "everyday-27-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-684c",
+        "check-6905"
+      ]
+    },
+    {
+      "stepId": "everyday-27-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-684c",
+      "characterId": "char-684c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "桌"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-684c-choice-1",
+          "hanzi": "桌"
+        },
+        {
+          "choiceId": "familiar-684c-choice-2",
+          "hanzi": "椅"
+        },
+        {
+          "choiceId": "familiar-684c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-684c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-684c-choice-1"
+    },
+    {
+      "checkId": "check-684c",
+      "characterId": "char-684c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "桌"
+      },
+      "choices": [
+        {
+          "choiceId": "check-684c-choice-1",
+          "hanzi": "桌"
+        },
+        {
+          "choiceId": "check-684c-choice-2",
+          "hanzi": "椅"
+        },
+        {
+          "choiceId": "check-684c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-684c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-684c-choice-1"
+    },
+    {
+      "checkId": "review-684c",
+      "characterId": "char-684c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "桌"
+      },
+      "choices": [
+        {
+          "choiceId": "review-684c-choice-1",
+          "hanzi": "桌"
+        },
+        {
+          "choiceId": "review-684c-choice-2",
+          "hanzi": "椅"
+        },
+        {
+          "choiceId": "review-684c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-684c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-684c-choice-1"
+    },
+    {
+      "checkId": "practice-one-684c",
+      "characterId": "char-684c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "桌子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-684c-choice-1",
+          "hanzi": "桌"
+        },
+        {
+          "choiceId": "practice-one-684c-choice-2",
+          "hanzi": "椅"
+        },
+        {
+          "choiceId": "practice-one-684c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-684c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-684c-choice-1"
+    },
+    {
+      "checkId": "practice-two-684c",
+      "characterId": "char-684c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "书桌"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-684c-choice-1",
+          "hanzi": "桌"
+        },
+        {
+          "choiceId": "practice-two-684c-choice-2",
+          "hanzi": "椅"
+        },
+        {
+          "choiceId": "practice-two-684c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-684c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-684c-choice-1"
+    },
+    {
+      "checkId": "familiar-6905",
+      "characterId": "char-6905",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "椅"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6905-choice-1",
+          "hanzi": "桌"
+        },
+        {
+          "choiceId": "familiar-6905-choice-2",
+          "hanzi": "椅"
+        },
+        {
+          "choiceId": "familiar-6905-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6905-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6905-choice-2"
+    },
+    {
+      "checkId": "check-6905",
+      "characterId": "char-6905",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "椅"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6905-choice-1",
+          "hanzi": "桌"
+        },
+        {
+          "choiceId": "check-6905-choice-2",
+          "hanzi": "椅"
+        },
+        {
+          "choiceId": "check-6905-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6905-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6905-choice-2"
+    },
+    {
+      "checkId": "review-6905",
+      "characterId": "char-6905",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "椅"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6905-choice-1",
+          "hanzi": "桌"
+        },
+        {
+          "choiceId": "review-6905-choice-2",
+          "hanzi": "椅"
+        },
+        {
+          "choiceId": "review-6905-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6905-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6905-choice-2"
+    },
+    {
+      "checkId": "practice-one-6905",
+      "characterId": "char-6905",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "椅子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6905-choice-1",
+          "hanzi": "桌"
+        },
+        {
+          "choiceId": "practice-one-6905-choice-2",
+          "hanzi": "椅"
+        },
+        {
+          "choiceId": "practice-one-6905-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6905-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6905-choice-2"
+    },
+    {
+      "checkId": "practice-two-6905",
+      "characterId": "char-6905",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "轮椅"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6905-choice-1",
+          "hanzi": "桌"
+        },
+        {
+          "choiceId": "practice-two-6905-choice-2",
+          "hanzi": "椅"
+        },
+        {
+          "choiceId": "practice-two-6905-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6905-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6905-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-684c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-27-v1/char-684c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6905",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-27-v1/char-6905",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-27-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-27-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "A place to sit",
+      "instructionEnglish": "Our capybara arranges a place to sit. Read table and chair words, including wheelchair."
+    },
+    "targets": [
+      {
+        "characterId": "char-684c",
+        "readingId": "reading-684c",
+        "familiarityCheckId": "familiar-684c",
+        "practice": [
+          {
+            "wordId": "word-684c-1",
+            "checkId": "practice-one-684c"
+          },
+          {
+            "wordId": "word-684c-2",
+            "checkId": "practice-two-684c"
+          }
+        ],
+        "immediateCheckId": "check-684c",
+        "reviewCheckId": "review-684c"
+      },
+      {
+        "characterId": "char-6905",
+        "readingId": "reading-6905",
+        "familiarityCheckId": "familiar-6905",
+        "practice": [
+          {
+            "wordId": "word-6905-1",
+            "checkId": "practice-one-6905"
+          },
+          {
+            "wordId": "word-6905-2",
+            "checkId": "practice-two-6905"
+          }
+        ],
+        "immediateCheckId": "check-6905",
+        "reviewCheckId": "review-6905"
+      }
+    ],
+    "reader": {
+      "title": "A place to sit",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-684c-1",
+        "word-684c-2",
+        "word-6905-1",
+        "word-6905-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-684c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-684c",
+          "transcript": "桌",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-684c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-684c",
+          "transcript": "桌",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-684c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-684c",
+          "transcript": "桌",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-684c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-684c",
+          "transcript": "桌子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-684c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-684c",
+          "transcript": "书桌",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-684c",
+          "readingId": "reading-684c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "桌",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-684c-1",
+          "readingId": null,
+          "wordId": "word-684c-1",
+          "checkId": null,
+          "transcript": "桌子上放着一杯水。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-684c-2",
+          "readingId": null,
+          "wordId": "word-684c-2",
+          "checkId": null,
+          "transcript": "我在书桌旁读书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6905",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6905",
+          "transcript": "椅",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6905",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6905",
+          "transcript": "椅",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6905",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6905",
+          "transcript": "椅",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6905",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6905",
+          "transcript": "椅子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6905",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6905",
+          "transcript": "轮椅",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6905",
+          "readingId": "reading-6905",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "椅",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6905-1",
+          "readingId": null,
+          "wordId": "word-6905-1",
+          "checkId": null,
+          "transcript": "我们把椅子摆在桌边。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6905-2",
+          "readingId": null,
+          "wordId": "word-6905-2",
+          "checkId": null,
+          "transcript": "我们给坐轮椅的朋友留出通道。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

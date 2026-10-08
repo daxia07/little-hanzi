@@ -1,0 +1,788 @@
+{
+  "lessonId": "path-05",
+  "lessonVersion": "path-05-v1",
+  "title": "Choose a book bag",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 5
+  },
+  "renderer": {
+    "adapterId": "paired-story",
+    "adapterVersion": "paired-story-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara is packing for school. Compare big and small things before choosing a bag.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5927",
+      "hanzi": "大",
+      "readings": [
+        {
+          "readingId": "reading-5927",
+          "pinyin": "dà",
+          "audioText": "大",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#大",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "big; large",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#大",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5927-1",
+          "text": "大小",
+          "pinyin": "dà xiǎo",
+          "english": "size; big and small",
+          "readingId": "reading-5927",
+          "context": {
+            "hanzi": "这两个书包的大小不一样。",
+            "english": "These two schoolbags are different sizes.",
+            "targetCharacter": "大"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#大小",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5927-2",
+          "text": "大风",
+          "pinyin": "dà fēng",
+          "english": "strong wind",
+          "readingId": "reading-5927",
+          "context": {
+            "hanzi": "大风把树叶吹起来了。",
+            "english": "The strong wind blew the leaves into the air.",
+            "targetCharacter": "大"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#大风",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Memory picture: imagine a person stretching both arms wide to show something big.",
+        "demonstrationEnglish": "This is 大. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5927",
+        "delayedReview": {
+          "promptId": "later-5927",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5927"
+        }
+      },
+      "assets": [
+        "asset-glyph-5927",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5c0f",
+      "hanzi": "小",
+      "readings": [
+        {
+          "readingId": "reading-5c0f",
+          "pinyin": "xiǎo",
+          "audioText": "小",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#小",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "small; little",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#小",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5c0f-1",
+          "text": "小学",
+          "pinyin": "xiǎo xué",
+          "english": "primary school",
+          "readingId": "reading-5c0f",
+          "context": {
+            "hanzi": "我的小学旁边有一个公园。",
+            "english": "There is a park beside my primary school.",
+            "targetCharacter": "小"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#小学",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5c0f-2",
+          "text": "小孩",
+          "pinyin": "xiǎo hái",
+          "english": "child",
+          "readingId": "reading-5c0f",
+          "context": {
+            "hanzi": "小孩把书放进书包里。",
+            "english": "The child puts a book into the schoolbag.",
+            "targetCharacter": "小"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#小孩",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Look for a middle stroke with one little stroke on each side.",
+        "demonstrationEnglish": "This is 小. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5c0f",
+        "delayedReview": {
+          "promptId": "later-5c0f",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5c0f"
+        }
+      },
+      "assets": [
+        "asset-glyph-5c0f",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "path-05-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5927",
+        "familiar-5c0f"
+      ]
+    },
+    {
+      "stepId": "path-05-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "path-05-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-5927-1",
+        "practice-5927-2",
+        "practice-5c0f-1",
+        "practice-5c0f-2"
+      ]
+    },
+    {
+      "stepId": "path-05-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5927",
+        "check-5c0f"
+      ]
+    },
+    {
+      "stepId": "path-05-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5927",
+      "characterId": "char-5927",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "大"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5927-choice-1",
+          "hanzi": "大"
+        },
+        {
+          "choiceId": "familiar-5927-choice-2",
+          "hanzi": "小"
+        },
+        {
+          "choiceId": "familiar-5927-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-5927-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-5927-choice-1"
+    },
+    {
+      "checkId": "check-5927",
+      "characterId": "char-5927",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "大"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5927-choice-1",
+          "hanzi": "大"
+        },
+        {
+          "choiceId": "check-5927-choice-2",
+          "hanzi": "小"
+        },
+        {
+          "choiceId": "check-5927-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-5927-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-5927-choice-1"
+    },
+    {
+      "checkId": "review-5927",
+      "characterId": "char-5927",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "大"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5927-choice-1",
+          "hanzi": "大"
+        },
+        {
+          "choiceId": "review-5927-choice-2",
+          "hanzi": "小"
+        },
+        {
+          "choiceId": "review-5927-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-5927-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-5927-choice-1"
+    },
+    {
+      "checkId": "practice-5927-1",
+      "characterId": "char-5927",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "大小"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-5927-1-choice-1",
+          "hanzi": "大"
+        },
+        {
+          "choiceId": "practice-5927-1-choice-2",
+          "hanzi": "小"
+        },
+        {
+          "choiceId": "practice-5927-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-5927-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-5927-1-choice-1"
+    },
+    {
+      "checkId": "practice-5927-2",
+      "characterId": "char-5927",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "大风"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-5927-2-choice-1",
+          "hanzi": "大"
+        },
+        {
+          "choiceId": "practice-5927-2-choice-2",
+          "hanzi": "小"
+        },
+        {
+          "choiceId": "practice-5927-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-5927-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-5927-2-choice-1"
+    },
+    {
+      "checkId": "familiar-5c0f",
+      "characterId": "char-5c0f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "小"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5c0f-choice-1",
+          "hanzi": "大"
+        },
+        {
+          "choiceId": "familiar-5c0f-choice-2",
+          "hanzi": "小"
+        },
+        {
+          "choiceId": "familiar-5c0f-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-5c0f-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-5c0f-choice-2"
+    },
+    {
+      "checkId": "check-5c0f",
+      "characterId": "char-5c0f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "小"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5c0f-choice-1",
+          "hanzi": "大"
+        },
+        {
+          "choiceId": "check-5c0f-choice-2",
+          "hanzi": "小"
+        },
+        {
+          "choiceId": "check-5c0f-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-5c0f-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-5c0f-choice-2"
+    },
+    {
+      "checkId": "review-5c0f",
+      "characterId": "char-5c0f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "小"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5c0f-choice-1",
+          "hanzi": "大"
+        },
+        {
+          "choiceId": "review-5c0f-choice-2",
+          "hanzi": "小"
+        },
+        {
+          "choiceId": "review-5c0f-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-5c0f-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-5c0f-choice-2"
+    },
+    {
+      "checkId": "practice-5c0f-1",
+      "characterId": "char-5c0f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "小学"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-5c0f-1-choice-1",
+          "hanzi": "大"
+        },
+        {
+          "choiceId": "practice-5c0f-1-choice-2",
+          "hanzi": "小"
+        },
+        {
+          "choiceId": "practice-5c0f-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-5c0f-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-5c0f-1-choice-2"
+    },
+    {
+      "checkId": "practice-5c0f-2",
+      "characterId": "char-5c0f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "小孩"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-5c0f-2-choice-1",
+          "hanzi": "大"
+        },
+        {
+          "choiceId": "practice-5c0f-2-choice-2",
+          "hanzi": "小"
+        },
+        {
+          "choiceId": "practice-5c0f-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-5c0f-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-5c0f-2-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5927",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-05-v1/char-5927",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5c0f",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-05-v1/char-5c0f",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Songti SC/STSong or local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/path-05-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device-provided speech; voice suitability and terms require review",
+      "evidenceRef": "draft/audio/path-05-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Choose a book bag",
+      "instructionEnglish": "Our capybara is packing for school. Compare big and small things before choosing a bag."
+    },
+    "targets": [
+      {
+        "characterId": "char-5927",
+        "readingId": "reading-5927",
+        "familiarityCheckId": "familiar-5927",
+        "practice": [
+          {
+            "wordId": "word-5927-1",
+            "checkId": "practice-5927-1"
+          },
+          {
+            "wordId": "word-5927-2",
+            "checkId": "practice-5927-2"
+          }
+        ],
+        "immediateCheckId": "check-5927",
+        "reviewCheckId": "review-5927"
+      },
+      {
+        "characterId": "char-5c0f",
+        "readingId": "reading-5c0f",
+        "familiarityCheckId": "familiar-5c0f",
+        "practice": [
+          {
+            "wordId": "word-5c0f-1",
+            "checkId": "practice-5c0f-1"
+          },
+          {
+            "wordId": "word-5c0f-2",
+            "checkId": "practice-5c0f-2"
+          }
+        ],
+        "immediateCheckId": "check-5c0f",
+        "reviewCheckId": "review-5c0f"
+      }
+    ],
+    "reader": {
+      "title": "Getting ready for school",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5927-1",
+        "word-5927-2",
+        "word-5c0f-1",
+        "word-5c0f-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5927",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5927",
+          "transcript": "大",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5927",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5927",
+          "transcript": "大",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5927",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5927",
+          "transcript": "大",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-5927-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-5927-1",
+          "transcript": "大小",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-5927-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-5927-2",
+          "transcript": "大风",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5927",
+          "readingId": "reading-5927",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "大",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5927-1",
+          "readingId": null,
+          "wordId": "word-5927-1",
+          "checkId": null,
+          "transcript": "这两个书包的大小不一样。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5927-2",
+          "readingId": null,
+          "wordId": "word-5927-2",
+          "checkId": null,
+          "transcript": "大风把树叶吹起来了。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5c0f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5c0f",
+          "transcript": "小",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5c0f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5c0f",
+          "transcript": "小",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5c0f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5c0f",
+          "transcript": "小",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-5c0f-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-5c0f-1",
+          "transcript": "小学",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-5c0f-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-5c0f-2",
+          "transcript": "小孩",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5c0f",
+          "readingId": "reading-5c0f",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "小",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5c0f-1",
+          "readingId": null,
+          "wordId": "word-5c0f-1",
+          "checkId": null,
+          "transcript": "我的小学旁边有一个公园。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5c0f-2",
+          "readingId": null,
+          "wordId": "word-5c0f-2",
+          "checkId": null,
+          "transcript": "小孩把书放进书包里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

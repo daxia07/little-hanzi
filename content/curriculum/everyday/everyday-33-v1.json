@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-33",
+  "lessonVersion": "everyday-33-v1",
+  "title": "Walk, then run",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 46
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara walks to the park and visits a running track. Compare walk and run in words.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-8d70",
+      "hanzi": "走",
+      "readings": [
+        {
+          "readingId": "reading-8d70",
+          "pinyin": "zǒu",
+          "audioText": "走",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#走",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "walk; go",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#走",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8d70-1",
+          "text": "走路",
+          "pinyin": "zǒu lù",
+          "english": "walk",
+          "readingId": "reading-8d70",
+          "context": {
+            "hanzi": "我们走路去附近的公园。",
+            "english": "We walk to the nearby park.",
+            "targetCharacter": "走"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#走路",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8d70-2",
+          "text": "走开",
+          "pinyin": "zǒu kāi",
+          "english": "move away; go away",
+          "readingId": "reading-8d70",
+          "context": {
+            "hanzi": "小猫从门口慢慢走开。",
+            "english": "The kitten slowly moves away from the doorway.",
+            "targetCharacter": "走"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#走开",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 土 at the top of 走 and the spreading lower strokes.",
+        "demonstrationEnglish": "This is 走. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8d70",
+        "delayedReview": {
+          "promptId": "later-8d70",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8d70"
+        }
+      },
+      "assets": [
+        "asset-glyph-8d70",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-8dd1",
+      "hanzi": "跑",
+      "readings": [
+        {
+          "readingId": "reading-8dd1",
+          "pinyin": "pǎo",
+          "audioText": "跑",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#跑",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "run",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#跑",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8dd1-1",
+          "text": "跑步",
+          "pinyin": "pǎo bù",
+          "english": "run; go running",
+          "readingId": "reading-8dd1",
+          "context": {
+            "hanzi": "我和朋友在操场上跑步。",
+            "english": "My friend and I run on the playground.",
+            "targetCharacter": "跑"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#跑步",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8dd1-2",
+          "text": "跑道",
+          "pinyin": "pǎo dào",
+          "english": "running track",
+          "readingId": "reading-8dd1",
+          "context": {
+            "hanzi": "大家在跑道旁边等候。",
+            "english": "Everyone waits beside the running track.",
+            "targetCharacter": "跑"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#跑道",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the foot-shaped left part of 跑 and 包 on the right.",
+        "demonstrationEnglish": "This is 跑. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8dd1",
+        "delayedReview": {
+          "promptId": "later-8dd1",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8dd1"
+        }
+      },
+      "assets": [
+        "asset-glyph-8dd1",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-33-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-8d70",
+        "familiar-8dd1"
+      ]
+    },
+    {
+      "stepId": "everyday-33-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-33-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-8d70",
+        "practice-two-8d70",
+        "practice-one-8dd1",
+        "practice-two-8dd1"
+      ]
+    },
+    {
+      "stepId": "everyday-33-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-8d70",
+        "check-8dd1"
+      ]
+    },
+    {
+      "stepId": "everyday-33-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-8d70",
+      "characterId": "char-8d70",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "走"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8d70-choice-1",
+          "hanzi": "走"
+        },
+        {
+          "choiceId": "familiar-8d70-choice-2",
+          "hanzi": "跑"
+        },
+        {
+          "choiceId": "familiar-8d70-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8d70-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8d70-choice-1"
+    },
+    {
+      "checkId": "check-8d70",
+      "characterId": "char-8d70",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "走"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8d70-choice-1",
+          "hanzi": "走"
+        },
+        {
+          "choiceId": "check-8d70-choice-2",
+          "hanzi": "跑"
+        },
+        {
+          "choiceId": "check-8d70-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8d70-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8d70-choice-1"
+    },
+    {
+      "checkId": "review-8d70",
+      "characterId": "char-8d70",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "走"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8d70-choice-1",
+          "hanzi": "走"
+        },
+        {
+          "choiceId": "review-8d70-choice-2",
+          "hanzi": "跑"
+        },
+        {
+          "choiceId": "review-8d70-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8d70-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8d70-choice-1"
+    },
+    {
+      "checkId": "practice-one-8d70",
+      "characterId": "char-8d70",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "走路"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8d70-choice-1",
+          "hanzi": "走"
+        },
+        {
+          "choiceId": "practice-one-8d70-choice-2",
+          "hanzi": "跑"
+        },
+        {
+          "choiceId": "practice-one-8d70-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8d70-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8d70-choice-1"
+    },
+    {
+      "checkId": "practice-two-8d70",
+      "characterId": "char-8d70",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "走开"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8d70-choice-1",
+          "hanzi": "走"
+        },
+        {
+          "choiceId": "practice-two-8d70-choice-2",
+          "hanzi": "跑"
+        },
+        {
+          "choiceId": "practice-two-8d70-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8d70-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8d70-choice-1"
+    },
+    {
+      "checkId": "familiar-8dd1",
+      "characterId": "char-8dd1",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "跑"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8dd1-choice-1",
+          "hanzi": "走"
+        },
+        {
+          "choiceId": "familiar-8dd1-choice-2",
+          "hanzi": "跑"
+        },
+        {
+          "choiceId": "familiar-8dd1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8dd1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8dd1-choice-2"
+    },
+    {
+      "checkId": "check-8dd1",
+      "characterId": "char-8dd1",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "跑"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8dd1-choice-1",
+          "hanzi": "走"
+        },
+        {
+          "choiceId": "check-8dd1-choice-2",
+          "hanzi": "跑"
+        },
+        {
+          "choiceId": "check-8dd1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8dd1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8dd1-choice-2"
+    },
+    {
+      "checkId": "review-8dd1",
+      "characterId": "char-8dd1",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "跑"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8dd1-choice-1",
+          "hanzi": "走"
+        },
+        {
+          "choiceId": "review-8dd1-choice-2",
+          "hanzi": "跑"
+        },
+        {
+          "choiceId": "review-8dd1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8dd1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8dd1-choice-2"
+    },
+    {
+      "checkId": "practice-one-8dd1",
+      "characterId": "char-8dd1",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "跑步"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8dd1-choice-1",
+          "hanzi": "走"
+        },
+        {
+          "choiceId": "practice-one-8dd1-choice-2",
+          "hanzi": "跑"
+        },
+        {
+          "choiceId": "practice-one-8dd1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8dd1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8dd1-choice-2"
+    },
+    {
+      "checkId": "practice-two-8dd1",
+      "characterId": "char-8dd1",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "跑道"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8dd1-choice-1",
+          "hanzi": "走"
+        },
+        {
+          "choiceId": "practice-two-8dd1-choice-2",
+          "hanzi": "跑"
+        },
+        {
+          "choiceId": "practice-two-8dd1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8dd1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8dd1-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-8d70",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-33-v1/char-8d70",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-8dd1",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-33-v1/char-8dd1",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-33-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-33-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Walk, then run",
+      "instructionEnglish": "Our capybara walks to the park and visits a running track. Compare walk and run in words."
+    },
+    "targets": [
+      {
+        "characterId": "char-8d70",
+        "readingId": "reading-8d70",
+        "familiarityCheckId": "familiar-8d70",
+        "practice": [
+          {
+            "wordId": "word-8d70-1",
+            "checkId": "practice-one-8d70"
+          },
+          {
+            "wordId": "word-8d70-2",
+            "checkId": "practice-two-8d70"
+          }
+        ],
+        "immediateCheckId": "check-8d70",
+        "reviewCheckId": "review-8d70"
+      },
+      {
+        "characterId": "char-8dd1",
+        "readingId": "reading-8dd1",
+        "familiarityCheckId": "familiar-8dd1",
+        "practice": [
+          {
+            "wordId": "word-8dd1-1",
+            "checkId": "practice-one-8dd1"
+          },
+          {
+            "wordId": "word-8dd1-2",
+            "checkId": "practice-two-8dd1"
+          }
+        ],
+        "immediateCheckId": "check-8dd1",
+        "reviewCheckId": "review-8dd1"
+      }
+    ],
+    "reader": {
+      "title": "Walk, then run",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-8d70-1",
+        "word-8d70-2",
+        "word-8dd1-1",
+        "word-8dd1-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-8d70",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8d70",
+          "transcript": "走",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8d70",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8d70",
+          "transcript": "走",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8d70",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8d70",
+          "transcript": "走",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8d70",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8d70",
+          "transcript": "走路",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8d70",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8d70",
+          "transcript": "走开",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8d70",
+          "readingId": "reading-8d70",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "走",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8d70-1",
+          "readingId": null,
+          "wordId": "word-8d70-1",
+          "checkId": null,
+          "transcript": "我们走路去附近的公园。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8d70-2",
+          "readingId": null,
+          "wordId": "word-8d70-2",
+          "checkId": null,
+          "transcript": "小猫从门口慢慢走开。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-8dd1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8dd1",
+          "transcript": "跑",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8dd1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8dd1",
+          "transcript": "跑",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8dd1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8dd1",
+          "transcript": "跑",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8dd1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8dd1",
+          "transcript": "跑步",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8dd1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8dd1",
+          "transcript": "跑道",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8dd1",
+          "readingId": "reading-8dd1",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "跑",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8dd1-1",
+          "readingId": null,
+          "wordId": "word-8dd1-1",
+          "checkId": null,
+          "transcript": "我和朋友在操场上跑步。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8dd1-2",
+          "readingId": null,
+          "wordId": "word-8dd1-2",
+          "checkId": null,
+          "transcript": "大家在跑道旁边等候。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-07",
+  "lessonVersion": "everyday-07-v1",
+  "title": "A cheer and a forecast",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 20
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara packs for uncertain weather and enjoys a cheer. Meet ten thousand and zero in expressions.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4e07",
+      "hanzi": "万",
+      "readings": [
+        {
+          "readingId": "reading-4e07",
+          "pinyin": "wàn",
+          "audioText": "万",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#万",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "ten thousand",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#万",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e07-1",
+          "text": "万一",
+          "pinyin": "wàn yī",
+          "english": "in case; if unexpectedly",
+          "readingId": "reading-4e07",
+          "context": {
+            "hanzi": "万一下雨，我们就带上雨伞。",
+            "english": "We take an umbrella in case it rains.",
+            "targetCharacter": "万"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#万一",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e07-2",
+          "text": "万岁",
+          "pinyin": "wàn suì",
+          "english": "hooray; long live",
+          "readingId": "reading-4e07",
+          "context": {
+            "hanzi": "比赛结束，孩子们开心地喊万岁。",
+            "english": "After the game, the children happily cheer hooray.",
+            "targetCharacter": "万"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#万岁",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the long top stroke and the turning stroke beneath 万.",
+        "demonstrationEnglish": "This is 万. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e07",
+        "delayedReview": {
+          "promptId": "later-4e07",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e07"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e07",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-96f6",
+      "hanzi": "零",
+      "readings": [
+        {
+          "readingId": "reading-96f6",
+          "pinyin": "líng",
+          "audioText": "零",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#零",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "zero",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#零",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-96f6-1",
+          "text": "零食",
+          "pinyin": "líng shí",
+          "english": "snack",
+          "readingId": "reading-96f6",
+          "context": {
+            "hanzi": "我们把零食放进野餐篮。",
+            "english": "We put snacks into the picnic basket.",
+            "targetCharacter": "零"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#零食",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-96f6-2",
+          "text": "零下",
+          "pinyin": "líng xià",
+          "english": "below zero",
+          "readingId": "reading-96f6",
+          "context": {
+            "hanzi": "天气预报说明天是零下两度。",
+            "english": "The weather forecast says tomorrow will be two degrees below zero.",
+            "targetCharacter": "零"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#零下",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find the rain-shaped top of 零 and look carefully at its lower strokes.",
+        "demonstrationEnglish": "This is 零. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-96f6",
+        "delayedReview": {
+          "promptId": "later-96f6",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-96f6"
+        }
+      },
+      "assets": [
+        "asset-glyph-96f6",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-07-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4e07",
+        "familiar-96f6"
+      ]
+    },
+    {
+      "stepId": "everyday-07-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-07-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-4e07",
+        "practice-two-4e07",
+        "practice-one-96f6",
+        "practice-two-96f6"
+      ]
+    },
+    {
+      "stepId": "everyday-07-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4e07",
+        "check-96f6"
+      ]
+    },
+    {
+      "stepId": "everyday-07-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4e07",
+      "characterId": "char-4e07",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "万"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e07-choice-1",
+          "hanzi": "万"
+        },
+        {
+          "choiceId": "familiar-4e07-choice-2",
+          "hanzi": "零"
+        },
+        {
+          "choiceId": "familiar-4e07-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e07-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e07-choice-1"
+    },
+    {
+      "checkId": "check-4e07",
+      "characterId": "char-4e07",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "万"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e07-choice-1",
+          "hanzi": "万"
+        },
+        {
+          "choiceId": "check-4e07-choice-2",
+          "hanzi": "零"
+        },
+        {
+          "choiceId": "check-4e07-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e07-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e07-choice-1"
+    },
+    {
+      "checkId": "review-4e07",
+      "characterId": "char-4e07",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "万"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e07-choice-1",
+          "hanzi": "万"
+        },
+        {
+          "choiceId": "review-4e07-choice-2",
+          "hanzi": "零"
+        },
+        {
+          "choiceId": "review-4e07-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e07-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e07-choice-1"
+    },
+    {
+      "checkId": "practice-one-4e07",
+      "characterId": "char-4e07",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "万一"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e07-choice-1",
+          "hanzi": "万"
+        },
+        {
+          "choiceId": "practice-one-4e07-choice-2",
+          "hanzi": "零"
+        },
+        {
+          "choiceId": "practice-one-4e07-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e07-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e07-choice-1"
+    },
+    {
+      "checkId": "practice-two-4e07",
+      "characterId": "char-4e07",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "万岁"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e07-choice-1",
+          "hanzi": "万"
+        },
+        {
+          "choiceId": "practice-two-4e07-choice-2",
+          "hanzi": "零"
+        },
+        {
+          "choiceId": "practice-two-4e07-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e07-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e07-choice-1"
+    },
+    {
+      "checkId": "familiar-96f6",
+      "characterId": "char-96f6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "零"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-96f6-choice-1",
+          "hanzi": "万"
+        },
+        {
+          "choiceId": "familiar-96f6-choice-2",
+          "hanzi": "零"
+        },
+        {
+          "choiceId": "familiar-96f6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-96f6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-96f6-choice-2"
+    },
+    {
+      "checkId": "check-96f6",
+      "characterId": "char-96f6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "零"
+      },
+      "choices": [
+        {
+          "choiceId": "check-96f6-choice-1",
+          "hanzi": "万"
+        },
+        {
+          "choiceId": "check-96f6-choice-2",
+          "hanzi": "零"
+        },
+        {
+          "choiceId": "check-96f6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-96f6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-96f6-choice-2"
+    },
+    {
+      "checkId": "review-96f6",
+      "characterId": "char-96f6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "零"
+      },
+      "choices": [
+        {
+          "choiceId": "review-96f6-choice-1",
+          "hanzi": "万"
+        },
+        {
+          "choiceId": "review-96f6-choice-2",
+          "hanzi": "零"
+        },
+        {
+          "choiceId": "review-96f6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-96f6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-96f6-choice-2"
+    },
+    {
+      "checkId": "practice-one-96f6",
+      "characterId": "char-96f6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "零食"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-96f6-choice-1",
+          "hanzi": "万"
+        },
+        {
+          "choiceId": "practice-one-96f6-choice-2",
+          "hanzi": "零"
+        },
+        {
+          "choiceId": "practice-one-96f6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-96f6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-96f6-choice-2"
+    },
+    {
+      "checkId": "practice-two-96f6",
+      "characterId": "char-96f6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "零下"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-96f6-choice-1",
+          "hanzi": "万"
+        },
+        {
+          "choiceId": "practice-two-96f6-choice-2",
+          "hanzi": "零"
+        },
+        {
+          "choiceId": "practice-two-96f6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-96f6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-96f6-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4e07",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-07-v1/char-4e07",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-96f6",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-07-v1/char-96f6",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-07-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-07-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "A cheer and a forecast",
+      "instructionEnglish": "Our capybara packs for uncertain weather and enjoys a cheer. Meet ten thousand and zero in expressions."
+    },
+    "targets": [
+      {
+        "characterId": "char-4e07",
+        "readingId": "reading-4e07",
+        "familiarityCheckId": "familiar-4e07",
+        "practice": [
+          {
+            "wordId": "word-4e07-1",
+            "checkId": "practice-one-4e07"
+          },
+          {
+            "wordId": "word-4e07-2",
+            "checkId": "practice-two-4e07"
+          }
+        ],
+        "immediateCheckId": "check-4e07",
+        "reviewCheckId": "review-4e07"
+      },
+      {
+        "characterId": "char-96f6",
+        "readingId": "reading-96f6",
+        "familiarityCheckId": "familiar-96f6",
+        "practice": [
+          {
+            "wordId": "word-96f6-1",
+            "checkId": "practice-one-96f6"
+          },
+          {
+            "wordId": "word-96f6-2",
+            "checkId": "practice-two-96f6"
+          }
+        ],
+        "immediateCheckId": "check-96f6",
+        "reviewCheckId": "review-96f6"
+      }
+    ],
+    "reader": {
+      "title": "A cheer and a forecast",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4e07-1",
+        "word-4e07-2",
+        "word-96f6-1",
+        "word-96f6-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4e07",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e07",
+          "transcript": "万",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e07",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e07",
+          "transcript": "万",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e07",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e07",
+          "transcript": "万",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e07",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e07",
+          "transcript": "万一",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e07",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e07",
+          "transcript": "万岁",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e07",
+          "readingId": "reading-4e07",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "万",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e07-1",
+          "readingId": null,
+          "wordId": "word-4e07-1",
+          "checkId": null,
+          "transcript": "万一下雨，我们就带上雨伞。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e07-2",
+          "readingId": null,
+          "wordId": "word-4e07-2",
+          "checkId": null,
+          "transcript": "比赛结束，孩子们开心地喊万岁。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-96f6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-96f6",
+          "transcript": "零",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-96f6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-96f6",
+          "transcript": "零",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-96f6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-96f6",
+          "transcript": "零",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-96f6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-96f6",
+          "transcript": "零食",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-96f6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-96f6",
+          "transcript": "零下",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-96f6",
+          "readingId": "reading-96f6",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "零",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-96f6-1",
+          "readingId": null,
+          "wordId": "word-96f6-1",
+          "checkId": null,
+          "transcript": "我们把零食放进野餐篮。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-96f6-2",
+          "readingId": null,
+          "wordId": "word-96f6-2",
+          "checkId": null,
+          "transcript": "天气预报说明天是零下两度。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

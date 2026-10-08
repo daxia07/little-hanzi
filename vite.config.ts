@@ -2,12 +2,18 @@ import { sites } from '@openai/sites-vite-plugin';
 import tailwindcss from '@tailwindcss/postcss';
 import vinext from 'vinext';
 import { defineConfig } from 'vite';
-import hostingConfig from './.openai/hosting.json';
+import { readFileSync } from 'node:fs';
+import { assertOwnedState } from './scripts/qa-helpers.mjs';
 
 const SITE_CREATOR_PLACEHOLDER_DATABASE_ID =
   '00000000-0000-4000-8000-000000000000';
 
-const { d1, r2 } = hostingConfig;
+// Deployment identity is external configuration, not a TypeScript source input.
+// Keep the Worker fail-closed when this record is absent or invalid; the Node
+// build and source typecheck do not need a copied production hosting identity.
+const { d1, r2 } = JSON.parse(
+  readFileSync(new URL('./.openai/hosting.json', import.meta.url), 'utf8'),
+) as { d1: string | null; r2: string | null };
 
 // macOS Seatbelt blocks FSEvents, so Codex previews need polling for HMR.
 const isCodexSeatbeltSandbox = process.env.CODEX_SANDBOX === 'seatbelt';
@@ -35,6 +41,18 @@ const localBindingConfig = {
 };
 
 export default defineConfig(async () => {
+  const preview = process.env.HANZI_PREVIEW_MODE === '1';
+  const testing = process.env.HANZI_TEST_MODE === '1';
+  if (testing && (!preview || !process.env.HANZI_TEST_RUN_ID || !process.env.HANZI_TEST_TOKEN)) {
+    throw new Error('Test mode requires preview mode, a test-run ID and a private harness token');
+  }
+  const statePath = preview ? assertOwnedState(testing ? process.env.HANZI_TEST_STATE_DIR : process.env.HANZI_PREVIEW_STATE_DIR) : undefined;
+  const previewVars: Record<string, string> = preview ? {
+    HANZI_PREVIEW_MODE: '1', HANZI_TEST_MODE: testing ? '1' : '0',
+    HANZI_TEST_RUN_ID: process.env.HANZI_TEST_RUN_ID || '',
+    HANZI_TEST_TOKEN: process.env.HANZI_TEST_TOKEN || '',
+    HANZI_CANDIDATE_ID: process.env.HANZI_CANDIDATE_ID || 'local-preview',
+  } : {};
   // Keep Wrangler and Miniflare state project-local. These are non-secret tool
   // settings; application environment belongs in ignored `.env*` files.
   process.env.WRANGLER_WRITE_LOGS ??= 'false';
@@ -54,7 +72,8 @@ export default defineConfig(async () => {
       sites(),
       cloudflare({
         viteEnvironment: { name: 'rsc', childEnvironments: ['ssr'] },
-        config: localBindingConfig,
+        config: { ...localBindingConfig, vars: previewVars },
+        ...(preview ? { persistState: { path: statePath! }, remoteBindings: false, inspectorPort: false as const } : {}),
       }),
     ],
   };

@@ -1,0 +1,788 @@
+{
+  "lessonId": "nature-02",
+  "lessonVersion": "nature-02-v1",
+  "title": "A shady picnic",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 12
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara chooses a picnic spot. Notice grass and trees around the path.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-8349",
+      "hanzi": "草",
+      "readings": [
+        {
+          "readingId": "reading-8349",
+          "pinyin": "cǎo",
+          "audioText": "草",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#草",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "grass",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#草",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8349-1",
+          "text": "草地",
+          "pinyin": "cǎo dì",
+          "english": "grassy ground; lawn",
+          "readingId": "reading-8349",
+          "context": {
+            "hanzi": "我们坐在草地上看书。",
+            "english": "We sit on the grass and read.",
+            "targetCharacter": "草"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#草地",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8349-2",
+          "text": "草原",
+          "pinyin": "cǎo yuán",
+          "english": "grassland",
+          "readingId": "reading-8349",
+          "context": {
+            "hanzi": "草原上有一群羊。",
+            "english": "There is a flock of sheep on the grassland.",
+            "targetCharacter": "草"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#草原",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Compare 草 and 花: both have a grass-shaped top, but the lower parts differ.",
+        "demonstrationEnglish": "This is 草. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8349",
+        "delayedReview": {
+          "promptId": "later-8349",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8349"
+        }
+      },
+      "assets": [
+        "asset-glyph-8349",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6811",
+      "hanzi": "树",
+      "readings": [
+        {
+          "readingId": "reading-6811",
+          "pinyin": "shù",
+          "audioText": "树",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#树",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "tree",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#树",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6811-1",
+          "text": "树木",
+          "pinyin": "shù mù",
+          "english": "trees",
+          "readingId": "reading-6811",
+          "context": {
+            "hanzi": "树木给我们带来树荫。",
+            "english": "The trees give us shade.",
+            "targetCharacter": "树"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#树木",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6811-2",
+          "text": "树林",
+          "pinyin": "shù lín",
+          "english": "woods; grove",
+          "readingId": "reading-6811",
+          "context": {
+            "hanzi": "树林旁边有一条小路。",
+            "english": "There is a little path beside the grove.",
+            "targetCharacter": "树"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#树林",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 木 on the left of 树. Compare the whole character with 木 and 林.",
+        "demonstrationEnglish": "This is 树. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6811",
+        "delayedReview": {
+          "promptId": "later-6811",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6811"
+        }
+      },
+      "assets": [
+        "asset-glyph-6811",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "nature-02-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-8349",
+        "familiar-6811"
+      ]
+    },
+    {
+      "stepId": "nature-02-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "nature-02-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-8349",
+        "practice-two-8349",
+        "practice-one-6811",
+        "practice-two-6811"
+      ]
+    },
+    {
+      "stepId": "nature-02-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-8349",
+        "check-6811"
+      ]
+    },
+    {
+      "stepId": "nature-02-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-8349",
+      "characterId": "char-8349",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "草"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8349-choice-1",
+          "hanzi": "草"
+        },
+        {
+          "choiceId": "familiar-8349-choice-2",
+          "hanzi": "树"
+        },
+        {
+          "choiceId": "familiar-8349-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8349-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8349-choice-1"
+    },
+    {
+      "checkId": "check-8349",
+      "characterId": "char-8349",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "草"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8349-choice-1",
+          "hanzi": "草"
+        },
+        {
+          "choiceId": "check-8349-choice-2",
+          "hanzi": "树"
+        },
+        {
+          "choiceId": "check-8349-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8349-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8349-choice-1"
+    },
+    {
+      "checkId": "review-8349",
+      "characterId": "char-8349",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "草"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8349-choice-1",
+          "hanzi": "草"
+        },
+        {
+          "choiceId": "review-8349-choice-2",
+          "hanzi": "树"
+        },
+        {
+          "choiceId": "review-8349-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8349-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8349-choice-1"
+    },
+    {
+      "checkId": "practice-one-8349",
+      "characterId": "char-8349",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "草地"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8349-choice-1",
+          "hanzi": "草"
+        },
+        {
+          "choiceId": "practice-one-8349-choice-2",
+          "hanzi": "树"
+        },
+        {
+          "choiceId": "practice-one-8349-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8349-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8349-choice-1"
+    },
+    {
+      "checkId": "practice-two-8349",
+      "characterId": "char-8349",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "草原"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8349-choice-1",
+          "hanzi": "草"
+        },
+        {
+          "choiceId": "practice-two-8349-choice-2",
+          "hanzi": "树"
+        },
+        {
+          "choiceId": "practice-two-8349-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8349-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8349-choice-1"
+    },
+    {
+      "checkId": "familiar-6811",
+      "characterId": "char-6811",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "树"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6811-choice-1",
+          "hanzi": "草"
+        },
+        {
+          "choiceId": "familiar-6811-choice-2",
+          "hanzi": "树"
+        },
+        {
+          "choiceId": "familiar-6811-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6811-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6811-choice-2"
+    },
+    {
+      "checkId": "check-6811",
+      "characterId": "char-6811",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "树"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6811-choice-1",
+          "hanzi": "草"
+        },
+        {
+          "choiceId": "check-6811-choice-2",
+          "hanzi": "树"
+        },
+        {
+          "choiceId": "check-6811-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6811-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6811-choice-2"
+    },
+    {
+      "checkId": "review-6811",
+      "characterId": "char-6811",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "树"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6811-choice-1",
+          "hanzi": "草"
+        },
+        {
+          "choiceId": "review-6811-choice-2",
+          "hanzi": "树"
+        },
+        {
+          "choiceId": "review-6811-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6811-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6811-choice-2"
+    },
+    {
+      "checkId": "practice-one-6811",
+      "characterId": "char-6811",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "树木"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6811-choice-1",
+          "hanzi": "草"
+        },
+        {
+          "choiceId": "practice-one-6811-choice-2",
+          "hanzi": "树"
+        },
+        {
+          "choiceId": "practice-one-6811-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6811-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6811-choice-2"
+    },
+    {
+      "checkId": "practice-two-6811",
+      "characterId": "char-6811",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "树林"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6811-choice-1",
+          "hanzi": "草"
+        },
+        {
+          "choiceId": "practice-two-6811-choice-2",
+          "hanzi": "树"
+        },
+        {
+          "choiceId": "practice-two-6811-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6811-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6811-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-8349",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/nature-02-v1/char-8349",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6811",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/nature-02-v1/char-6811",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/nature-02-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/nature-02-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "A shady picnic",
+      "instructionEnglish": "Our capybara chooses a picnic spot. Notice grass and trees around the path."
+    },
+    "targets": [
+      {
+        "characterId": "char-8349",
+        "readingId": "reading-8349",
+        "familiarityCheckId": "familiar-8349",
+        "practice": [
+          {
+            "wordId": "word-8349-1",
+            "checkId": "practice-one-8349"
+          },
+          {
+            "wordId": "word-8349-2",
+            "checkId": "practice-two-8349"
+          }
+        ],
+        "immediateCheckId": "check-8349",
+        "reviewCheckId": "review-8349"
+      },
+      {
+        "characterId": "char-6811",
+        "readingId": "reading-6811",
+        "familiarityCheckId": "familiar-6811",
+        "practice": [
+          {
+            "wordId": "word-6811-1",
+            "checkId": "practice-one-6811"
+          },
+          {
+            "wordId": "word-6811-2",
+            "checkId": "practice-two-6811"
+          }
+        ],
+        "immediateCheckId": "check-6811",
+        "reviewCheckId": "review-6811"
+      }
+    ],
+    "reader": {
+      "title": "Rest beside the trees",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-8349-1",
+        "word-8349-2",
+        "word-6811-1",
+        "word-6811-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-8349",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8349",
+          "transcript": "草",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8349",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8349",
+          "transcript": "草",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8349",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8349",
+          "transcript": "草",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8349",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8349",
+          "transcript": "草地",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8349",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8349",
+          "transcript": "草原",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8349",
+          "readingId": "reading-8349",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "草",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8349-1",
+          "readingId": null,
+          "wordId": "word-8349-1",
+          "checkId": null,
+          "transcript": "我们坐在草地上看书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8349-2",
+          "readingId": null,
+          "wordId": "word-8349-2",
+          "checkId": null,
+          "transcript": "草原上有一群羊。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6811",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6811",
+          "transcript": "树",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6811",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6811",
+          "transcript": "树",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6811",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6811",
+          "transcript": "树",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6811",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6811",
+          "transcript": "树木",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6811",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6811",
+          "transcript": "树林",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6811",
+          "readingId": "reading-6811",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "树",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6811-1",
+          "readingId": null,
+          "wordId": "word-6811-1",
+          "checkId": null,
+          "transcript": "树木给我们带来树荫。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6811-2",
+          "readingId": null,
+          "wordId": "word-6811-2",
+          "checkId": null,
+          "transcript": "树林旁边有一条小路。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

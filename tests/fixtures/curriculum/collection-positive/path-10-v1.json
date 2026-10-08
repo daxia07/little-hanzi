@@ -1,0 +1,794 @@
+{
+  "lessonId": "path-10",
+  "lessonVersion": "path-10-v1",
+  "title": "Ready for school",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 10
+  },
+  "renderer": {
+    "adapterId": "paired-story",
+    "adapterVersion": "paired-story-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara has its hat and book bag. Find the door and notice vehicles on the way to school.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-95e8",
+      "hanzi": "门",
+      "readings": [
+        {
+          "readingId": "reading-95e8",
+          "pinyin": "mén",
+          "audioText": "门",
+          "provenance": {
+            "source": "SIMULATED QA mechanical fixture; no human correctness review. CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "SIMULATED/collection-positive/path-10-v1/readings/reading-95e8",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "door; gate",
+          "provenance": {
+            "source": "SIMULATED QA mechanical fixture; no human correctness review. CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "SIMULATED/collection-positive/path-10-v1/meanings/char-95e8",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-95e8-1",
+          "text": "大门",
+          "pinyin": "dà mén",
+          "english": "main entrance; gate",
+          "readingId": "reading-95e8",
+          "context": {
+            "hanzi": "学校的大门打开了。",
+            "english": "The school gate is open.",
+            "targetCharacter": "门"
+          },
+          "provenance": {
+            "source": "SIMULATED QA mechanical fixture; no human correctness review. CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "SIMULATED/collection-positive/path-10-v1/wordAssociations/word-95e8-1",
+            "sourceChecked": true
+          }
+        },
+        {
+          "wordId": "word-95e8-2",
+          "text": "门口",
+          "pinyin": "mén kǒu",
+          "english": "doorway; entrance",
+          "readingId": "reading-95e8",
+          "context": {
+            "hanzi": "老师在门口欢迎我们。",
+            "english": "The teacher welcomes us at the doorway.",
+            "targetCharacter": "门"
+          },
+          "provenance": {
+            "source": "SIMULATED QA mechanical fixture; no human correctness review. CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "SIMULATED/collection-positive/path-10-v1/wordAssociations/word-95e8-2",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Memory picture: notice a doorway shape with a small mark at the upper left.",
+        "demonstrationEnglish": "This is 门. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-95e8",
+        "delayedReview": {
+          "promptId": "later-95e8",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-95e8"
+        }
+      },
+      "assets": [
+        "asset-glyph-95e8",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-8f66",
+      "hanzi": "车",
+      "readings": [
+        {
+          "readingId": "reading-8f66",
+          "pinyin": "chē",
+          "audioText": "车",
+          "provenance": {
+            "source": "SIMULATED QA mechanical fixture; no human correctness review. CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "SIMULATED/collection-positive/path-10-v1/readings/reading-8f66",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "vehicle; car",
+          "provenance": {
+            "source": "SIMULATED QA mechanical fixture; no human correctness review. CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "SIMULATED/collection-positive/path-10-v1/meanings/char-8f66",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8f66-1",
+          "text": "火车",
+          "pinyin": "huǒ chē",
+          "english": "train",
+          "readingId": "reading-8f66",
+          "context": {
+            "hanzi": "这列火车经过一座小桥。",
+            "english": "This train crosses a little bridge.",
+            "targetCharacter": "车"
+          },
+          "provenance": {
+            "source": "SIMULATED QA mechanical fixture; no human correctness review. CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "SIMULATED/collection-positive/path-10-v1/wordAssociations/word-8f66-1",
+            "sourceChecked": true
+          }
+        },
+        {
+          "wordId": "word-8f66-2",
+          "text": "汽车",
+          "pinyin": "qì chē",
+          "english": "car",
+          "readingId": "reading-8f66",
+          "context": {
+            "hanzi": "我们坐汽车去学校。",
+            "english": "We go to school by car.",
+            "targetCharacter": "车"
+          },
+          "provenance": {
+            "source": "SIMULATED QA mechanical fixture; no human correctness review. CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "SIMULATED/collection-positive/path-10-v1/wordAssociations/word-8f66-2",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the middle vertical stroke crossing the horizontal strokes.",
+        "demonstrationEnglish": "This is 车. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8f66",
+        "delayedReview": {
+          "promptId": "later-8f66",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8f66"
+        }
+      },
+      "assets": [
+        "asset-glyph-8f66",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "path-10-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-95e8",
+        "familiar-8f66"
+      ]
+    },
+    {
+      "stepId": "path-10-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "path-10-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-95e8-1",
+        "practice-95e8-2",
+        "practice-8f66-1",
+        "practice-8f66-2"
+      ]
+    },
+    {
+      "stepId": "path-10-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-95e8",
+        "check-8f66"
+      ]
+    },
+    {
+      "stepId": "path-10-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-95e8",
+      "characterId": "char-95e8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "门"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-95e8-choice-1",
+          "hanzi": "门"
+        },
+        {
+          "choiceId": "familiar-95e8-choice-2",
+          "hanzi": "车"
+        },
+        {
+          "choiceId": "familiar-95e8-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-95e8-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-95e8-choice-1"
+    },
+    {
+      "checkId": "check-95e8",
+      "characterId": "char-95e8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "门"
+      },
+      "choices": [
+        {
+          "choiceId": "check-95e8-choice-1",
+          "hanzi": "门"
+        },
+        {
+          "choiceId": "check-95e8-choice-2",
+          "hanzi": "车"
+        },
+        {
+          "choiceId": "check-95e8-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-95e8-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-95e8-choice-1"
+    },
+    {
+      "checkId": "review-95e8",
+      "characterId": "char-95e8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "门"
+      },
+      "choices": [
+        {
+          "choiceId": "review-95e8-choice-1",
+          "hanzi": "门"
+        },
+        {
+          "choiceId": "review-95e8-choice-2",
+          "hanzi": "车"
+        },
+        {
+          "choiceId": "review-95e8-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-95e8-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-95e8-choice-1"
+    },
+    {
+      "checkId": "practice-95e8-1",
+      "characterId": "char-95e8",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "大门"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-95e8-1-choice-1",
+          "hanzi": "门"
+        },
+        {
+          "choiceId": "practice-95e8-1-choice-2",
+          "hanzi": "车"
+        },
+        {
+          "choiceId": "practice-95e8-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-95e8-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-95e8-1-choice-1"
+    },
+    {
+      "checkId": "practice-95e8-2",
+      "characterId": "char-95e8",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "门口"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-95e8-2-choice-1",
+          "hanzi": "门"
+        },
+        {
+          "choiceId": "practice-95e8-2-choice-2",
+          "hanzi": "车"
+        },
+        {
+          "choiceId": "practice-95e8-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-95e8-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-95e8-2-choice-1"
+    },
+    {
+      "checkId": "familiar-8f66",
+      "characterId": "char-8f66",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "车"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8f66-choice-1",
+          "hanzi": "门"
+        },
+        {
+          "choiceId": "familiar-8f66-choice-2",
+          "hanzi": "车"
+        },
+        {
+          "choiceId": "familiar-8f66-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-8f66-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-8f66-choice-2"
+    },
+    {
+      "checkId": "check-8f66",
+      "characterId": "char-8f66",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "车"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8f66-choice-1",
+          "hanzi": "门"
+        },
+        {
+          "choiceId": "check-8f66-choice-2",
+          "hanzi": "车"
+        },
+        {
+          "choiceId": "check-8f66-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-8f66-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-8f66-choice-2"
+    },
+    {
+      "checkId": "review-8f66",
+      "characterId": "char-8f66",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "车"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8f66-choice-1",
+          "hanzi": "门"
+        },
+        {
+          "choiceId": "review-8f66-choice-2",
+          "hanzi": "车"
+        },
+        {
+          "choiceId": "review-8f66-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-8f66-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-8f66-choice-2"
+    },
+    {
+      "checkId": "practice-8f66-1",
+      "characterId": "char-8f66",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "火车"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-8f66-1-choice-1",
+          "hanzi": "门"
+        },
+        {
+          "choiceId": "practice-8f66-1-choice-2",
+          "hanzi": "车"
+        },
+        {
+          "choiceId": "practice-8f66-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-8f66-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-8f66-1-choice-2"
+    },
+    {
+      "checkId": "practice-8f66-2",
+      "characterId": "char-8f66",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "汽车"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-8f66-2-choice-1",
+          "hanzi": "门"
+        },
+        {
+          "choiceId": "practice-8f66-2-choice-2",
+          "hanzi": "车"
+        },
+        {
+          "choiceId": "practice-8f66-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-8f66-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-8f66-2-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-95e8",
+      "kind": "glyph",
+      "source": "SIMULATED QA mechanical fixture; no device/voice acceptance. Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "SIMULATED/collection-positive/path-10-v1/asset-glyph-95e8",
+      "sourceChecked": true,
+      "sourceCheckStatus": "mechanically-checked"
+    },
+    {
+      "assetId": "asset-glyph-8f66",
+      "kind": "glyph",
+      "source": "SIMULATED QA mechanical fixture; no device/voice acceptance. Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "SIMULATED/collection-positive/path-10-v1/asset-glyph-8f66",
+      "sourceChecked": true,
+      "sourceCheckStatus": "mechanically-checked"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "SIMULATED QA mechanical fixture; no device/voice acceptance. Songti SC/STSong or local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "SIMULATED/collection-positive/path-10-v1/asset-system-font",
+      "sourceChecked": true,
+      "sourceCheckStatus": "mechanically-checked"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "SIMULATED QA mechanical fixture; no device/voice acceptance. Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device-provided speech; voice suitability and terms require review",
+      "evidenceRef": "SIMULATED/collection-positive/path-10-v1/asset-mandarin",
+      "sourceChecked": true,
+      "sourceCheckStatus": "mechanically-checked"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Ready for school",
+      "instructionEnglish": "Our capybara has its hat and book bag. Find the door and notice vehicles on the way to school."
+    },
+    "targets": [
+      {
+        "characterId": "char-95e8",
+        "readingId": "reading-95e8",
+        "familiarityCheckId": "familiar-95e8",
+        "practice": [
+          {
+            "wordId": "word-95e8-1",
+            "checkId": "practice-95e8-1"
+          },
+          {
+            "wordId": "word-95e8-2",
+            "checkId": "practice-95e8-2"
+          }
+        ],
+        "immediateCheckId": "check-95e8",
+        "reviewCheckId": "review-95e8"
+      },
+      {
+        "characterId": "char-8f66",
+        "readingId": "reading-8f66",
+        "familiarityCheckId": "familiar-8f66",
+        "practice": [
+          {
+            "wordId": "word-8f66-1",
+            "checkId": "practice-8f66-1"
+          },
+          {
+            "wordId": "word-8f66-2",
+            "checkId": "practice-8f66-2"
+          }
+        ],
+        "immediateCheckId": "check-8f66",
+        "reviewCheckId": "review-8f66"
+      }
+    ],
+    "reader": {
+      "title": "On the way",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-95e8-1",
+        "word-95e8-2",
+        "word-8f66-1",
+        "word-8f66-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [
+        {
+          "name": "Tingting",
+          "lang": "zh-CN",
+          "localService": true
+        }
+      ],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-95e8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-95e8",
+          "transcript": "门",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-95e8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-95e8",
+          "transcript": "门",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-95e8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-95e8",
+          "transcript": "门",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-95e8-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-95e8-1",
+          "transcript": "大门",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-95e8-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-95e8-2",
+          "transcript": "门口",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-95e8",
+          "readingId": "reading-95e8",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "门",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-95e8-1",
+          "readingId": null,
+          "wordId": "word-95e8-1",
+          "checkId": null,
+          "transcript": "学校的大门打开了。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-95e8-2",
+          "readingId": null,
+          "wordId": "word-95e8-2",
+          "checkId": null,
+          "transcript": "老师在门口欢迎我们。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-8f66",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8f66",
+          "transcript": "车",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8f66",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8f66",
+          "transcript": "车",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8f66",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8f66",
+          "transcript": "车",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-8f66-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-8f66-1",
+          "transcript": "火车",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-8f66-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-8f66-2",
+          "transcript": "汽车",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8f66",
+          "readingId": "reading-8f66",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "车",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8f66-1",
+          "readingId": null,
+          "wordId": "word-8f66-1",
+          "checkId": null,
+          "transcript": "这列火车经过一座小桥。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8f66-2",
+          "readingId": null,
+          "wordId": "word-8f66-2",
+          "checkId": null,
+          "transcript": "我们坐汽车去学校。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

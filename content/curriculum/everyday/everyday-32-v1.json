@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-32",
+  "lessonVersion": "everyday-32-v1",
+  "title": "A meal and a drink",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 45
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara stops for a meal and a drink. Read words about eating and drinking.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5403",
+      "hanzi": "吃",
+      "readings": [
+        {
+          "readingId": "reading-5403",
+          "pinyin": "chī",
+          "audioText": "吃",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#吃",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "eat",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#吃",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5403-1",
+          "text": "吃饭",
+          "pinyin": "chī fàn",
+          "english": "eat a meal",
+          "readingId": "reading-5403",
+          "context": {
+            "hanzi": "我们坐下来一起吃饭。",
+            "english": "We sit down and eat a meal together.",
+            "targetCharacter": "吃"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#吃饭",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5403-2",
+          "text": "吃饱",
+          "pinyin": "chī bǎo",
+          "english": "eat one's fill",
+          "readingId": "reading-5403",
+          "context": {
+            "hanzi": "我吃饱了，就把碗放好。",
+            "english": "When I have eaten enough, I put my bowl away.",
+            "targetCharacter": "吃"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#吃饱",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 口 on the left of 吃 and the turning stroke on the right.",
+        "demonstrationEnglish": "This is 吃. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5403",
+        "delayedReview": {
+          "promptId": "later-5403",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5403"
+        }
+      },
+      "assets": [
+        "asset-glyph-5403",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-559d",
+      "hanzi": "喝",
+      "readings": [
+        {
+          "readingId": "reading-559d",
+          "pinyin": "hē",
+          "audioText": "喝",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#喝",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "drink",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#喝",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-559d-1",
+          "text": "喝水",
+          "pinyin": "hē shuǐ",
+          "english": "drink water",
+          "readingId": "reading-559d",
+          "context": {
+            "hanzi": "运动后，我坐下来喝水。",
+            "english": "After exercise, I sit down and drink water.",
+            "targetCharacter": "喝"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#喝水",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-559d-2",
+          "text": "喝茶",
+          "pinyin": "hē chá",
+          "english": "drink tea",
+          "readingId": "reading-559d",
+          "context": {
+            "hanzi": "爷爷坐在桌边喝茶。",
+            "english": "Grandpa sits at the table and drinks tea.",
+            "targetCharacter": "喝"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#喝茶",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Compare the 口 on the left of 喝 and 吃; look at the whole right part.",
+        "demonstrationEnglish": "This is 喝. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-559d",
+        "delayedReview": {
+          "promptId": "later-559d",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-559d"
+        }
+      },
+      "assets": [
+        "asset-glyph-559d",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-32-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5403",
+        "familiar-559d"
+      ]
+    },
+    {
+      "stepId": "everyday-32-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-32-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-5403",
+        "practice-two-5403",
+        "practice-one-559d",
+        "practice-two-559d"
+      ]
+    },
+    {
+      "stepId": "everyday-32-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5403",
+        "check-559d"
+      ]
+    },
+    {
+      "stepId": "everyday-32-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5403",
+      "characterId": "char-5403",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "吃"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5403-choice-1",
+          "hanzi": "吃"
+        },
+        {
+          "choiceId": "familiar-5403-choice-2",
+          "hanzi": "喝"
+        },
+        {
+          "choiceId": "familiar-5403-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5403-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5403-choice-1"
+    },
+    {
+      "checkId": "check-5403",
+      "characterId": "char-5403",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "吃"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5403-choice-1",
+          "hanzi": "吃"
+        },
+        {
+          "choiceId": "check-5403-choice-2",
+          "hanzi": "喝"
+        },
+        {
+          "choiceId": "check-5403-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5403-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5403-choice-1"
+    },
+    {
+      "checkId": "review-5403",
+      "characterId": "char-5403",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "吃"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5403-choice-1",
+          "hanzi": "吃"
+        },
+        {
+          "choiceId": "review-5403-choice-2",
+          "hanzi": "喝"
+        },
+        {
+          "choiceId": "review-5403-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5403-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5403-choice-1"
+    },
+    {
+      "checkId": "practice-one-5403",
+      "characterId": "char-5403",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "吃饭"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5403-choice-1",
+          "hanzi": "吃"
+        },
+        {
+          "choiceId": "practice-one-5403-choice-2",
+          "hanzi": "喝"
+        },
+        {
+          "choiceId": "practice-one-5403-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5403-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5403-choice-1"
+    },
+    {
+      "checkId": "practice-two-5403",
+      "characterId": "char-5403",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "吃饱"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5403-choice-1",
+          "hanzi": "吃"
+        },
+        {
+          "choiceId": "practice-two-5403-choice-2",
+          "hanzi": "喝"
+        },
+        {
+          "choiceId": "practice-two-5403-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5403-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5403-choice-1"
+    },
+    {
+      "checkId": "familiar-559d",
+      "characterId": "char-559d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "喝"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-559d-choice-1",
+          "hanzi": "吃"
+        },
+        {
+          "choiceId": "familiar-559d-choice-2",
+          "hanzi": "喝"
+        },
+        {
+          "choiceId": "familiar-559d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-559d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-559d-choice-2"
+    },
+    {
+      "checkId": "check-559d",
+      "characterId": "char-559d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "喝"
+      },
+      "choices": [
+        {
+          "choiceId": "check-559d-choice-1",
+          "hanzi": "吃"
+        },
+        {
+          "choiceId": "check-559d-choice-2",
+          "hanzi": "喝"
+        },
+        {
+          "choiceId": "check-559d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-559d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-559d-choice-2"
+    },
+    {
+      "checkId": "review-559d",
+      "characterId": "char-559d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "喝"
+      },
+      "choices": [
+        {
+          "choiceId": "review-559d-choice-1",
+          "hanzi": "吃"
+        },
+        {
+          "choiceId": "review-559d-choice-2",
+          "hanzi": "喝"
+        },
+        {
+          "choiceId": "review-559d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-559d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-559d-choice-2"
+    },
+    {
+      "checkId": "practice-one-559d",
+      "characterId": "char-559d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "喝水"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-559d-choice-1",
+          "hanzi": "吃"
+        },
+        {
+          "choiceId": "practice-one-559d-choice-2",
+          "hanzi": "喝"
+        },
+        {
+          "choiceId": "practice-one-559d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-559d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-559d-choice-2"
+    },
+    {
+      "checkId": "practice-two-559d",
+      "characterId": "char-559d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "喝茶"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-559d-choice-1",
+          "hanzi": "吃"
+        },
+        {
+          "choiceId": "practice-two-559d-choice-2",
+          "hanzi": "喝"
+        },
+        {
+          "choiceId": "practice-two-559d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-559d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-559d-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5403",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-32-v1/char-5403",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-559d",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-32-v1/char-559d",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-32-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-32-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "A meal and a drink",
+      "instructionEnglish": "Our capybara stops for a meal and a drink. Read words about eating and drinking."
+    },
+    "targets": [
+      {
+        "characterId": "char-5403",
+        "readingId": "reading-5403",
+        "familiarityCheckId": "familiar-5403",
+        "practice": [
+          {
+            "wordId": "word-5403-1",
+            "checkId": "practice-one-5403"
+          },
+          {
+            "wordId": "word-5403-2",
+            "checkId": "practice-two-5403"
+          }
+        ],
+        "immediateCheckId": "check-5403",
+        "reviewCheckId": "review-5403"
+      },
+      {
+        "characterId": "char-559d",
+        "readingId": "reading-559d",
+        "familiarityCheckId": "familiar-559d",
+        "practice": [
+          {
+            "wordId": "word-559d-1",
+            "checkId": "practice-one-559d"
+          },
+          {
+            "wordId": "word-559d-2",
+            "checkId": "practice-two-559d"
+          }
+        ],
+        "immediateCheckId": "check-559d",
+        "reviewCheckId": "review-559d"
+      }
+    ],
+    "reader": {
+      "title": "A meal and a drink",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5403-1",
+        "word-5403-2",
+        "word-559d-1",
+        "word-559d-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5403",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5403",
+          "transcript": "吃",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5403",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5403",
+          "transcript": "吃",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5403",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5403",
+          "transcript": "吃",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5403",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5403",
+          "transcript": "吃饭",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5403",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5403",
+          "transcript": "吃饱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5403",
+          "readingId": "reading-5403",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "吃",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5403-1",
+          "readingId": null,
+          "wordId": "word-5403-1",
+          "checkId": null,
+          "transcript": "我们坐下来一起吃饭。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5403-2",
+          "readingId": null,
+          "wordId": "word-5403-2",
+          "checkId": null,
+          "transcript": "我吃饱了，就把碗放好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-559d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-559d",
+          "transcript": "喝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-559d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-559d",
+          "transcript": "喝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-559d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-559d",
+          "transcript": "喝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-559d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-559d",
+          "transcript": "喝水",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-559d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-559d",
+          "transcript": "喝茶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-559d",
+          "readingId": "reading-559d",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "喝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-559d-1",
+          "readingId": null,
+          "wordId": "word-559d-1",
+          "checkId": null,
+          "transcript": "运动后，我坐下来喝水。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-559d-2",
+          "readingId": null,
+          "wordId": "word-559d-2",
+          "checkId": null,
+          "transcript": "爷爷坐在桌边喝茶。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

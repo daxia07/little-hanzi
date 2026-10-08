@@ -1,0 +1,901 @@
+{
+  "lessonId": "forest-01",
+  "lessonVersion": "forest-01-v4",
+  "title": "A shady place to read",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "forest",
+    "sequence": 1
+  },
+  "renderer": {
+    "adapterId": "forest-story",
+    "adapterVersion": "forest-story-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Listen for two short word examples and notice their printed shapes.",
+    "objective": "Connect a spoken word, its meaning, and a printed character.",
+    "completion": "You finished this short practice; your responses can be reviewed later.",
+    "recovery": "If saving pauses, keep the page open and try again."
+  },
+  "characters": [
+    {
+      "characterId": "char-mu",
+      "hanzi": "木",
+      "readings": [
+        {
+          "readingId": "reading-mu",
+          "pinyin": "mù",
+          "audioText": "木",
+          "provenance": {
+            "source": "SIMULATED positive-publication contract fixture; no human correctness review",
+            "license": "SIMULATED QA provenance only; no licence or production-use assertion",
+            "evidenceRef": "SIMULATED/positive-publication/char-mu/reading-mu",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "tree; wood",
+          "provenance": {
+            "source": "SIMULATED positive-publication contract fixture; no human correctness review",
+            "license": "SIMULATED QA provenance only; no licence or production-use assertion",
+            "evidenceRef": "SIMULATED/positive-publication/char-mu/meaning",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-mu-mutou",
+          "text": "木头",
+          "pinyin": "mù tou",
+          "english": "wood",
+          "readingId": "reading-mu",
+          "context": {
+            "hanzi": "木头小船漂在水上。",
+            "english": "A little wooden boat floats on the water.",
+            "targetCharacter": "木"
+          },
+          "provenance": {
+            "source": "SIMULATED positive-publication contract fixture; no human correctness review",
+            "license": "SIMULATED QA provenance only; no licence or production-use assertion",
+            "evidenceRef": "SIMULATED/positive-publication/char-mu/reading-mu",
+            "sourceChecked": true
+          }
+        },
+        {
+          "wordId": "word-mu-shumu",
+          "text": "树木",
+          "pinyin": "shù mù",
+          "english": "trees",
+          "readingId": "reading-mu",
+          "context": {
+            "hanzi": "公园里有树木。",
+            "english": "There are trees in the park.",
+            "targetCharacter": "木"
+          },
+          "provenance": {
+            "source": "SIMULATED positive-publication contract fixture; no human correctness review",
+            "license": "SIMULATED QA provenance only; no licence or production-use assertion",
+            "evidenceRef": "SIMULATED/positive-publication/char-mu/reading-mu",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Listen to the word, then notice its printed character.",
+        "hintEnglish": "Memory picture: imagine a simple tree with a trunk and branches; this is a learning mnemonic, not an etymology claim.",
+        "demonstrationEnglish": "The tutor models the sound, points to the printed form, and invites one choice.",
+        "recognitionCheckId": "check-mu-print",
+        "delayedReview": {
+          "promptId": "prompt-mu-delay",
+          "instructionEnglish": "Later, listen again and choose the matching printed character.",
+          "cueEnglish": "Which printed character matches the sound?",
+          "recognitionCheckId": "check-mu-word"
+        }
+      },
+      "assets": [
+        "asset-glyph-mu",
+        "asset-font-cjk",
+        "asset-audio-mandarin",
+        "asset-story-companion",
+        "asset-story-scene"
+      ]
+    },
+    {
+      "characterId": "char-lin",
+      "hanzi": "林",
+      "readings": [
+        {
+          "readingId": "reading-lin",
+          "pinyin": "lín",
+          "audioText": "林",
+          "provenance": {
+            "source": "SIMULATED positive-publication contract fixture; no human correctness review",
+            "license": "SIMULATED QA provenance only; no licence or production-use assertion",
+            "evidenceRef": "SIMULATED/positive-publication/char-lin/reading-lin",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "woods; grove",
+          "provenance": {
+            "source": "SIMULATED positive-publication contract fixture; no human correctness review",
+            "license": "SIMULATED QA provenance only; no licence or production-use assertion",
+            "evidenceRef": "SIMULATED/positive-publication/char-lin/meaning",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-lin-senlin",
+          "text": "森林",
+          "pinyin": "sēn lín",
+          "english": "forest",
+          "readingId": "reading-lin",
+          "context": {
+            "hanzi": "小鸟飞进森林。",
+            "english": "A little bird flies into the forest.",
+            "targetCharacter": "林"
+          },
+          "provenance": {
+            "source": "SIMULATED positive-publication contract fixture; no human correctness review",
+            "license": "SIMULATED QA provenance only; no licence or production-use assertion",
+            "evidenceRef": "SIMULATED/positive-publication/char-lin/reading-lin",
+            "sourceChecked": true
+          }
+        },
+        {
+          "wordId": "word-lin-shulin",
+          "text": "树林",
+          "pinyin": "shù lín",
+          "english": "woods",
+          "readingId": "reading-lin",
+          "context": {
+            "hanzi": "我们在树林里散步。",
+            "english": "We walk in the woods.",
+            "targetCharacter": "林"
+          },
+          "provenance": {
+            "source": "SIMULATED positive-publication contract fixture; no human correctness review",
+            "license": "SIMULATED QA provenance only; no licence or production-use assertion",
+            "evidenceRef": "SIMULATED/positive-publication/char-lin/reading-lin",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Listen to the word, then notice its printed character.",
+        "hintEnglish": "Memory picture: imagine two simple tree shapes together; this is a learning mnemonic, not an etymology claim.",
+        "demonstrationEnglish": "The tutor models the sound, points to the printed form, and invites one choice.",
+        "recognitionCheckId": "check-lin-print",
+        "delayedReview": {
+          "promptId": "prompt-lin-delay",
+          "instructionEnglish": "Later, listen again and choose the matching printed character.",
+          "cueEnglish": "Which printed character matches the sound?",
+          "recognitionCheckId": "check-lin-word"
+        }
+      },
+      "assets": [
+        "asset-glyph-lin",
+        "asset-font-cjk",
+        "asset-audio-mandarin",
+        "asset-story-companion",
+        "asset-story-scene"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "step-welcome",
+      "instructionEnglish": "Listen to two short word examples.",
+      "kind": "familiarity",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "step-teach",
+      "instructionEnglish": "Notice each sound and its printed shape.",
+      "kind": "teach",
+      "recognitionCheckIds": ["check-mu-print", "check-lin-print"]
+    },
+    {
+      "stepId": "step-practice",
+      "instructionEnglish": "Listen, then choose a matching character.",
+      "kind": "practice",
+      "recognitionCheckIds": ["check-mu-word", "check-lin-word"]
+    },
+    {
+      "stepId": "step-plain-print",
+      "instructionEnglish": "Listen once more, then choose the printed character.",
+      "kind": "plain-print-check",
+      "recognitionCheckIds": ["check-mu-print", "check-lin-print"]
+    },
+    {
+      "stepId": "step-recap",
+      "instructionEnglish": "Review what you noticed and what you want to try again.",
+      "kind": "recap",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "check-mu-print",
+      "characterId": "char-mu",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen to the word, then choose the matching printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "木头"
+      },
+      "choices": [
+        {
+          "choiceId": "choice-mu-print-mu",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "choice-mu-print-lin",
+          "hanzi": "林"
+        },
+        {
+          "choiceId": "choice-mu-print-da",
+          "hanzi": "大"
+        }
+      ],
+      "correctChoiceId": "choice-mu-print-mu"
+    },
+    {
+      "checkId": "check-mu-word",
+      "characterId": "char-mu",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the example word, then choose the matching character.",
+      "prompt": {
+        "english": "Which printed character belongs with the sound?",
+        "hanzi": "木头"
+      },
+      "choices": [
+        {
+          "choiceId": "choice-mu-word-mu",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "choice-mu-word-lin",
+          "hanzi": "林"
+        },
+        {
+          "choiceId": "choice-mu-word-ren",
+          "hanzi": "人"
+        }
+      ],
+      "correctChoiceId": "choice-mu-word-mu"
+    },
+    {
+      "checkId": "check-lin-print",
+      "characterId": "char-lin",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen to the word, then choose the matching printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "森林"
+      },
+      "choices": [
+        {
+          "choiceId": "choice-lin-print-lin",
+          "hanzi": "林"
+        },
+        {
+          "choiceId": "choice-lin-print-mu",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "choice-lin-print-da",
+          "hanzi": "大"
+        }
+      ],
+      "correctChoiceId": "choice-lin-print-lin"
+    },
+    {
+      "checkId": "check-lin-word",
+      "characterId": "char-lin",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the example word, then choose the matching character.",
+      "prompt": {
+        "english": "Which printed character belongs with the sound?",
+        "hanzi": "树林"
+      },
+      "choices": [
+        {
+          "choiceId": "choice-lin-word-lin",
+          "hanzi": "林"
+        },
+        {
+          "choiceId": "choice-lin-word-mu",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "choice-lin-word-ren",
+          "hanzi": "人"
+        }
+      ],
+      "correctChoiceId": "choice-lin-word-lin"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-mu",
+      "kind": "glyph",
+      "source": "SIMULATED positive-publication contract fixture; no human asset review",
+      "license": "SIMULATED QA provenance only; no licence or production-use assertion",
+      "evidenceRef": "SIMULATED/positive-publication/assets/asset-glyph-mu",
+      "sourceChecked": true,
+      "sourceCheckStatus": "mechanically-checked"
+    },
+    {
+      "assetId": "asset-glyph-lin",
+      "kind": "glyph",
+      "source": "SIMULATED positive-publication contract fixture; no human asset review",
+      "license": "SIMULATED QA provenance only; no licence or production-use assertion",
+      "evidenceRef": "SIMULATED/positive-publication/assets/asset-glyph-lin",
+      "sourceChecked": true,
+      "sourceCheckStatus": "mechanically-checked"
+    },
+    {
+      "assetId": "asset-font-cjk",
+      "kind": "font",
+      "source": "SIMULATED positive-publication contract fixture; no human asset review",
+      "license": "SIMULATED QA provenance only; no licence or production-use assertion",
+      "evidenceRef": "SIMULATED/positive-publication/assets/asset-font-cjk",
+      "sourceChecked": true,
+      "sourceCheckStatus": "mechanically-checked"
+    },
+    {
+      "assetId": "asset-audio-mandarin",
+      "kind": "audio",
+      "source": "SIMULATED positive-publication contract fixture; no human asset review",
+      "license": "SIMULATED QA provenance only; no licence or production-use assertion",
+      "evidenceRef": "SIMULATED/positive-publication/assets/asset-audio-mandarin",
+      "sourceChecked": true,
+      "sourceCheckStatus": "mechanically-checked"
+    },
+    {
+      "assetId": "asset-story-companion",
+      "kind": "illustration",
+      "source": "SIMULATED positive-publication contract fixture; no human asset review",
+      "license": "SIMULATED QA provenance only; no licence or production-use assertion",
+      "evidenceRef": "SIMULATED/positive-publication/assets/asset-story-companion",
+      "sourceChecked": true,
+      "sourceCheckStatus": "mechanically-checked"
+    },
+    {
+      "assetId": "asset-story-scene",
+      "kind": "illustration",
+      "source": "SIMULATED positive-publication contract fixture; no human asset review",
+      "license": "SIMULATED QA provenance only; no licence or production-use assertion",
+      "evidenceRef": "SIMULATED/positive-publication/assets/asset-story-scene",
+      "sourceChecked": true,
+      "sourceCheckStatus": "mechanically-checked"
+    }
+  ],
+  "story": {
+    "schemaVersion": "r3-story-package-1",
+    "lineageDigest": "sha256:bfd06daa7d205bc077b2e8136c7dc47ebb6d645921de8adee34f92da30a7b1fb",
+    "steps": [
+      "welcome",
+      "familiarity",
+      "learn",
+      "build",
+      "find",
+      "read",
+      "check",
+      "recap",
+      "delayed-review"
+    ],
+    "questions": [
+      {
+        "id": "fam-mu",
+        "ordinal": 0,
+        "stepId": "familiarity",
+        "characterId": "mu",
+        "prompt": "木头的木",
+        "cueText": "木头",
+        "kind": "sound-to-print",
+        "choices": [
+          {
+            "id": "mu",
+            "label": "木"
+          },
+          {
+            "id": "lin",
+            "label": "林"
+          },
+          {
+            "id": "ren",
+            "label": "人"
+          }
+        ],
+        "correctChoiceId": "mu",
+        "soundDependent": true,
+        "hint": "Listen for the word 木头 and look for the tree character.",
+        "demonstration": "木 means wood or tree."
+      },
+      {
+        "id": "fam-lin",
+        "ordinal": 1,
+        "stepId": "familiarity",
+        "characterId": "lin",
+        "prompt": "树林的林",
+        "cueText": "树林",
+        "kind": "sound-to-print",
+        "choices": [
+          {
+            "id": "lin",
+            "label": "林"
+          },
+          {
+            "id": "mu",
+            "label": "木"
+          },
+          {
+            "id": "da",
+            "label": "大"
+          }
+        ],
+        "correctChoiceId": "lin",
+        "soundDependent": true,
+        "hint": "Listen for the word 树林 and look for the two-tree character.",
+        "demonstration": "林 shows two 木 trees together."
+      },
+      {
+        "id": "find-mu",
+        "ordinal": 2,
+        "stepId": "find",
+        "characterId": "mu",
+        "prompt": "找一找木",
+        "cueText": "木",
+        "kind": "scene",
+        "choices": [
+          {
+            "id": "mu",
+            "label": "木"
+          },
+          {
+            "id": "lin",
+            "label": "林"
+          },
+          {
+            "id": "ren",
+            "label": "人"
+          },
+          {
+            "id": "da",
+            "label": "大"
+          }
+        ],
+        "correctChoiceId": "mu",
+        "soundDependent": false,
+        "hint": "Look for the single 木 tree.",
+        "demonstration": "This ordinary character is 木."
+      },
+      {
+        "id": "find-lin",
+        "ordinal": 3,
+        "stepId": "find",
+        "characterId": "lin",
+        "prompt": "找一找林",
+        "cueText": "林",
+        "kind": "scene",
+        "choices": [
+          {
+            "id": "mu",
+            "label": "木"
+          },
+          {
+            "id": "lin",
+            "label": "林"
+          },
+          {
+            "id": "ren",
+            "label": "人"
+          },
+          {
+            "id": "da",
+            "label": "大"
+          }
+        ],
+        "correctChoiceId": "lin",
+        "soundDependent": false,
+        "hint": "Look for the character made from two 木 trees.",
+        "demonstration": "These two 木 components make 林."
+      },
+      {
+        "id": "check-mu-sound",
+        "ordinal": 4,
+        "stepId": "check",
+        "characterId": "mu",
+        "prompt": "木头的木",
+        "cueText": "木头",
+        "kind": "sound-to-print",
+        "choices": [
+          {
+            "id": "mu",
+            "label": "木"
+          },
+          {
+            "id": "lin",
+            "label": "林"
+          },
+          {
+            "id": "ren",
+            "label": "人"
+          }
+        ],
+        "correctChoiceId": "mu",
+        "soundDependent": true,
+        "hint": "Listen for the word 木头 and look for the tree character.",
+        "demonstration": "木 means wood or tree."
+      },
+      {
+        "id": "check-lin-sound",
+        "ordinal": 5,
+        "stepId": "check",
+        "characterId": "lin",
+        "prompt": "树林的林",
+        "cueText": "树林",
+        "kind": "sound-to-print",
+        "choices": [
+          {
+            "id": "lin",
+            "label": "林"
+          },
+          {
+            "id": "mu",
+            "label": "木"
+          },
+          {
+            "id": "da",
+            "label": "大"
+          }
+        ],
+        "correctChoiceId": "lin",
+        "soundDependent": true,
+        "hint": "Listen for the word 树林 and look for the two-tree character.",
+        "demonstration": "林 shows two 木 trees together."
+      },
+      {
+        "id": "check-mu-reading",
+        "ordinal": 6,
+        "stepId": "check",
+        "characterId": "mu",
+        "prompt": "听一听这个字怎么读",
+        "cueText": "木",
+        "kind": "print-to-audio",
+        "choices": [
+          {
+            "id": "audio-mu",
+            "label": "Listen to option 1",
+            "audioText": "木"
+          },
+          {
+            "id": "audio-lin",
+            "label": "Listen to option 2",
+            "audioText": "林"
+          },
+          {
+            "id": "audio-ren",
+            "label": "Listen to option 3",
+            "audioText": "人"
+          }
+        ],
+        "correctChoiceId": "audio-mu",
+        "soundDependent": true,
+        "hint": "Listen again for the reading used with 木头.",
+        "demonstration": "Listen to the reading for 木, then choose the matching sound."
+      },
+      {
+        "id": "check-lin-reading",
+        "ordinal": 7,
+        "stepId": "check",
+        "characterId": "lin",
+        "prompt": "听一听这个字怎么读",
+        "cueText": "林",
+        "kind": "print-to-audio",
+        "choices": [
+          {
+            "id": "audio-lin",
+            "label": "Listen to option 1",
+            "audioText": "林"
+          },
+          {
+            "id": "audio-mu",
+            "label": "Listen to option 2",
+            "audioText": "木"
+          },
+          {
+            "id": "audio-da",
+            "label": "Listen to option 3",
+            "audioText": "大"
+          }
+        ],
+        "correctChoiceId": "audio-lin",
+        "soundDependent": true,
+        "hint": "Listen again for the reading used with 树林.",
+        "demonstration": "Listen to the reading for 林, then choose the matching sound."
+      },
+      {
+        "id": "review-mu-sound",
+        "ordinal": 8,
+        "stepId": "delayed-review",
+        "characterId": "mu",
+        "prompt": "木头的木",
+        "cueText": "木头",
+        "kind": "sound-to-print",
+        "choices": [
+          {
+            "id": "mu",
+            "label": "木"
+          },
+          {
+            "id": "lin",
+            "label": "林"
+          },
+          {
+            "id": "ren",
+            "label": "人"
+          }
+        ],
+        "correctChoiceId": "mu",
+        "soundDependent": true,
+        "hint": "Listen for the word 木头 and look for the tree character.",
+        "demonstration": "木 means wood or tree."
+      },
+      {
+        "id": "review-lin-sound",
+        "ordinal": 9,
+        "stepId": "delayed-review",
+        "characterId": "lin",
+        "prompt": "树林的林",
+        "cueText": "树林",
+        "kind": "sound-to-print",
+        "choices": [
+          {
+            "id": "lin",
+            "label": "林"
+          },
+          {
+            "id": "mu",
+            "label": "木"
+          },
+          {
+            "id": "da",
+            "label": "大"
+          }
+        ],
+        "correctChoiceId": "lin",
+        "soundDependent": true,
+        "hint": "Listen for the word 树林 and look for the two-tree character.",
+        "demonstration": "林 shows two 木 trees together."
+      }
+    ],
+    "learningPanels": {
+      "introduction": ["learn-mu", "learn-lin"],
+      "reminder": ["reminder"],
+      "mixed": "per-target"
+    },
+    "build": {
+      "pieces": ["mu-a", "mu-b"],
+      "slots": ["left", "right"],
+      "glyph": "林"
+    },
+    "find": {
+      "ids": ["find-mu", "find-lin"],
+      "soundRequired": false
+    },
+    "reader": [
+      {
+        "id": "read-wood",
+        "text": "这是木头。",
+        "highlight": "mu",
+        "narration": "This is wood. An adult or narrator helps read the sentence."
+      },
+      {
+        "id": "read-grove",
+        "text": "小鸟住在树林里。",
+        "highlight": "lin",
+        "narration": "A little bird lives in the woods. An adult or narrator helps read the sentence."
+      }
+    ],
+    "rules": {
+      "firstResponse": true,
+      "helpAssists": true,
+      "secondWrongDemonstrates": true,
+      "lateFailure": "append-unavailable-current-question"
+    },
+    "delayed": {
+      "questionIds": ["review-mu-sound", "review-lin-sound"],
+      "delayMs": 86400000
+    },
+    "playback": {
+      "schemaVersion": "r3-playback-1",
+      "kind": "local-device",
+      "voices": [
+        {
+          "name": "Tingting",
+          "lang": "zh-CN",
+          "localService": true
+        }
+      ],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "id": "cue-0",
+          "transcript": "你好",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-1",
+          "transcript": "木头的木",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-2",
+          "transcript": "木头",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-3",
+          "transcript": "树林的林",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-4",
+          "transcript": "树林",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-5",
+          "transcript": "找一找木",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-6",
+          "transcript": "木",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-7",
+          "transcript": "找一找林",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-8",
+          "transcript": "林",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-9",
+          "transcript": "听一听这个字怎么读",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-10",
+          "transcript": "人",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-11",
+          "transcript": "大",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-12",
+          "transcript": "这是木头。",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-13",
+          "transcript": "小鸟住在树林里。",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-14",
+          "transcript": "木头小船漂在水上。",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-15",
+          "transcript": "树木",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-16",
+          "transcript": "公园里有树木。",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-17",
+          "transcript": "森林",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-18",
+          "transcript": "小鸟飞进森林。",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "id": "cue-19",
+          "transcript": "我们在树林里散步。",
+          "source": "Declared local device speech; human Mandarin/device review pending",
+          "license": "Platform-provided voice; no recording redistributed",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

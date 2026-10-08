@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-34",
+  "lessonVersion": "everyday-34-v1",
+  "title": "Look and listen",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 47
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara looks at a book and listens for birds. Read words about seeing and hearing.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-770b",
+      "hanzi": "看",
+      "readings": [
+        {
+          "readingId": "reading-770b",
+          "pinyin": "kàn",
+          "audioText": "看",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#看",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "look; watch",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#看",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-770b-1",
+          "text": "看书",
+          "pinyin": "kàn shū",
+          "english": "read a book",
+          "readingId": "reading-770b",
+          "context": {
+            "hanzi": "我坐在窗边看书。",
+            "english": "I sit by the window and read a book.",
+            "targetCharacter": "看"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#看书",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-770b-2",
+          "text": "看见",
+          "pinyin": "kàn jiàn",
+          "english": "see",
+          "readingId": "reading-770b",
+          "context": {
+            "hanzi": "我们看见一只小鸟。",
+            "english": "We see a little bird.",
+            "targetCharacter": "看"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#看见",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 目 below the upper strokes of 看.",
+        "demonstrationEnglish": "This is 看. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-770b",
+        "delayedReview": {
+          "promptId": "later-770b",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-770b"
+        }
+      },
+      "assets": [
+        "asset-glyph-770b",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-542c",
+      "hanzi": "听",
+      "readings": [
+        {
+          "readingId": "reading-542c",
+          "pinyin": "tīng",
+          "audioText": "听",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#听",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "listen; hear",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#听",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-542c-1",
+          "text": "听见",
+          "pinyin": "tīng jiàn",
+          "english": "hear",
+          "readingId": "reading-542c",
+          "context": {
+            "hanzi": "我听见窗外的小鸟在唱歌。",
+            "english": "I hear a little bird singing outside the window.",
+            "targetCharacter": "听"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#听见",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-542c-2",
+          "text": "听说",
+          "pinyin": "tīng shuō",
+          "english": "hear that; be told",
+          "readingId": "reading-542c",
+          "context": {
+            "hanzi": "我听说图书馆有一本新书。",
+            "english": "I hear that the library has a new book.",
+            "targetCharacter": "听"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#听说",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 口 on the left and 斤 on the right of 听.",
+        "demonstrationEnglish": "This is 听. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-542c",
+        "delayedReview": {
+          "promptId": "later-542c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-542c"
+        }
+      },
+      "assets": [
+        "asset-glyph-542c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-34-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-770b",
+        "familiar-542c"
+      ]
+    },
+    {
+      "stepId": "everyday-34-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-34-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-770b",
+        "practice-two-770b",
+        "practice-one-542c",
+        "practice-two-542c"
+      ]
+    },
+    {
+      "stepId": "everyday-34-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-770b",
+        "check-542c"
+      ]
+    },
+    {
+      "stepId": "everyday-34-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-770b",
+      "characterId": "char-770b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "看"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-770b-choice-1",
+          "hanzi": "看"
+        },
+        {
+          "choiceId": "familiar-770b-choice-2",
+          "hanzi": "听"
+        },
+        {
+          "choiceId": "familiar-770b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-770b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-770b-choice-1"
+    },
+    {
+      "checkId": "check-770b",
+      "characterId": "char-770b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "看"
+      },
+      "choices": [
+        {
+          "choiceId": "check-770b-choice-1",
+          "hanzi": "看"
+        },
+        {
+          "choiceId": "check-770b-choice-2",
+          "hanzi": "听"
+        },
+        {
+          "choiceId": "check-770b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-770b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-770b-choice-1"
+    },
+    {
+      "checkId": "review-770b",
+      "characterId": "char-770b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "看"
+      },
+      "choices": [
+        {
+          "choiceId": "review-770b-choice-1",
+          "hanzi": "看"
+        },
+        {
+          "choiceId": "review-770b-choice-2",
+          "hanzi": "听"
+        },
+        {
+          "choiceId": "review-770b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-770b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-770b-choice-1"
+    },
+    {
+      "checkId": "practice-one-770b",
+      "characterId": "char-770b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "看书"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-770b-choice-1",
+          "hanzi": "看"
+        },
+        {
+          "choiceId": "practice-one-770b-choice-2",
+          "hanzi": "听"
+        },
+        {
+          "choiceId": "practice-one-770b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-770b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-770b-choice-1"
+    },
+    {
+      "checkId": "practice-two-770b",
+      "characterId": "char-770b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "看见"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-770b-choice-1",
+          "hanzi": "看"
+        },
+        {
+          "choiceId": "practice-two-770b-choice-2",
+          "hanzi": "听"
+        },
+        {
+          "choiceId": "practice-two-770b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-770b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-770b-choice-1"
+    },
+    {
+      "checkId": "familiar-542c",
+      "characterId": "char-542c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "听"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-542c-choice-1",
+          "hanzi": "看"
+        },
+        {
+          "choiceId": "familiar-542c-choice-2",
+          "hanzi": "听"
+        },
+        {
+          "choiceId": "familiar-542c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-542c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-542c-choice-2"
+    },
+    {
+      "checkId": "check-542c",
+      "characterId": "char-542c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "听"
+      },
+      "choices": [
+        {
+          "choiceId": "check-542c-choice-1",
+          "hanzi": "看"
+        },
+        {
+          "choiceId": "check-542c-choice-2",
+          "hanzi": "听"
+        },
+        {
+          "choiceId": "check-542c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-542c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-542c-choice-2"
+    },
+    {
+      "checkId": "review-542c",
+      "characterId": "char-542c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "听"
+      },
+      "choices": [
+        {
+          "choiceId": "review-542c-choice-1",
+          "hanzi": "看"
+        },
+        {
+          "choiceId": "review-542c-choice-2",
+          "hanzi": "听"
+        },
+        {
+          "choiceId": "review-542c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-542c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-542c-choice-2"
+    },
+    {
+      "checkId": "practice-one-542c",
+      "characterId": "char-542c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "听见"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-542c-choice-1",
+          "hanzi": "看"
+        },
+        {
+          "choiceId": "practice-one-542c-choice-2",
+          "hanzi": "听"
+        },
+        {
+          "choiceId": "practice-one-542c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-542c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-542c-choice-2"
+    },
+    {
+      "checkId": "practice-two-542c",
+      "characterId": "char-542c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "听说"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-542c-choice-1",
+          "hanzi": "看"
+        },
+        {
+          "choiceId": "practice-two-542c-choice-2",
+          "hanzi": "听"
+        },
+        {
+          "choiceId": "practice-two-542c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-542c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-542c-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-770b",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-34-v1/char-770b",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-542c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-34-v1/char-542c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-34-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-34-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Look and listen",
+      "instructionEnglish": "Our capybara looks at a book and listens for birds. Read words about seeing and hearing."
+    },
+    "targets": [
+      {
+        "characterId": "char-770b",
+        "readingId": "reading-770b",
+        "familiarityCheckId": "familiar-770b",
+        "practice": [
+          {
+            "wordId": "word-770b-1",
+            "checkId": "practice-one-770b"
+          },
+          {
+            "wordId": "word-770b-2",
+            "checkId": "practice-two-770b"
+          }
+        ],
+        "immediateCheckId": "check-770b",
+        "reviewCheckId": "review-770b"
+      },
+      {
+        "characterId": "char-542c",
+        "readingId": "reading-542c",
+        "familiarityCheckId": "familiar-542c",
+        "practice": [
+          {
+            "wordId": "word-542c-1",
+            "checkId": "practice-one-542c"
+          },
+          {
+            "wordId": "word-542c-2",
+            "checkId": "practice-two-542c"
+          }
+        ],
+        "immediateCheckId": "check-542c",
+        "reviewCheckId": "review-542c"
+      }
+    ],
+    "reader": {
+      "title": "Look and listen",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-770b-1",
+        "word-770b-2",
+        "word-542c-1",
+        "word-542c-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-770b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-770b",
+          "transcript": "看",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-770b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-770b",
+          "transcript": "看",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-770b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-770b",
+          "transcript": "看",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-770b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-770b",
+          "transcript": "看书",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-770b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-770b",
+          "transcript": "看见",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-770b",
+          "readingId": "reading-770b",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "看",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-770b-1",
+          "readingId": null,
+          "wordId": "word-770b-1",
+          "checkId": null,
+          "transcript": "我坐在窗边看书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-770b-2",
+          "readingId": null,
+          "wordId": "word-770b-2",
+          "checkId": null,
+          "transcript": "我们看见一只小鸟。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-542c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-542c",
+          "transcript": "听",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-542c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-542c",
+          "transcript": "听",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-542c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-542c",
+          "transcript": "听",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-542c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-542c",
+          "transcript": "听见",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-542c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-542c",
+          "transcript": "听说",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-542c",
+          "readingId": "reading-542c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "听",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-542c-1",
+          "readingId": null,
+          "wordId": "word-542c-1",
+          "checkId": null,
+          "transcript": "我听见窗外的小鸟在唱歌。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-542c-2",
+          "readingId": null,
+          "wordId": "word-542c-2",
+          "checkId": null,
+          "transcript": "我听说图书馆有一本新书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

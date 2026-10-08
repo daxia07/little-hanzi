@@ -1,0 +1,20 @@
+{
+  "requestId": "qa-negative-simulated-alias-review",
+  "contentDigest": "sha256:215b2a0574bae593dd51334107deefef7834514856c0b5ab72c9479db4d63d2e",
+  "previousReviewId": null,
+  "decision": "approved",
+  "reviewerRef": "qa-synthetic-alias-review-NOT-HUMAN",
+  "reviewedAt": 0,
+  "checklistVersion": "hanzi-review-1",
+  "checklist": {
+    "scriptAndGlyphs": true,
+    "mandarinAndReadings": true,
+    "wordContexts": true,
+    "teachingAndChecks": true,
+    "ageSuitability": true,
+    "sourcesAndLicenses": true,
+    "deviceAudio": true
+  },
+  "evidenceRef": "qa-synthetic-only-negative-fixture",
+  "reason": "Simulated API review solely to exercise alias exclusion in a restrictive synthetic-only installation. No human review, owner acceptance, audio quality or release claim."
+}

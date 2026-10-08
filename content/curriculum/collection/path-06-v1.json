@@ -1,0 +1,788 @@
+{
+  "lessonId": "path-06",
+  "lessonVersion": "path-06-v1",
+  "title": "Find the missing hat",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 6
+  },
+  "renderer": {
+    "adapterId": "paired-story",
+    "adapterVersion": "paired-story-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara cannot find its school hat. Look above and below as you help with the search.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4e0a",
+      "hanzi": "上",
+      "readings": [
+        {
+          "readingId": "reading-4e0a",
+          "pinyin": "shàng",
+          "audioText": "上",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#上",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "up; above; on",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#上",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e0a-1",
+          "text": "上面",
+          "pinyin": "shàng miàn",
+          "english": "on top; above",
+          "readingId": "reading-4e0a",
+          "context": {
+            "hanzi": "帽子在书架上面。",
+            "english": "The hat is on top of the bookshelf.",
+            "targetCharacter": "上"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#上面",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e0a-2",
+          "text": "上山",
+          "pinyin": "shàng shān",
+          "english": "go up a mountain",
+          "readingId": "reading-4e0a",
+          "context": {
+            "hanzi": "我们沿着小路上山。",
+            "english": "We follow the little path up the hill.",
+            "targetCharacter": "上"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#上山",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice that the short strokes are above the long horizontal line.",
+        "demonstrationEnglish": "This is 上. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e0a",
+        "delayedReview": {
+          "promptId": "later-4e0a",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e0a"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e0a",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-4e0b",
+      "hanzi": "下",
+      "readings": [
+        {
+          "readingId": "reading-4e0b",
+          "pinyin": "xià",
+          "audioText": "下",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#下",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "down; below; under",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#下",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e0b-1",
+          "text": "下面",
+          "pinyin": "xià miàn",
+          "english": "below; underneath",
+          "readingId": "reading-4e0b",
+          "context": {
+            "hanzi": "小猫在桌子下面睡觉。",
+            "english": "The kitten sleeps under the table.",
+            "targetCharacter": "下"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#下面",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e0b-2",
+          "text": "下雨",
+          "pinyin": "xià yǔ",
+          "english": "to rain",
+          "readingId": "reading-4e0b",
+          "context": {
+            "hanzi": "下雨了，我们带上雨伞。",
+            "english": "It is raining, so we take an umbrella.",
+            "targetCharacter": "下"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#下雨",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice that the short strokes are below the long horizontal line.",
+        "demonstrationEnglish": "This is 下. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e0b",
+        "delayedReview": {
+          "promptId": "later-4e0b",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e0b"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e0b",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "path-06-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4e0a",
+        "familiar-4e0b"
+      ]
+    },
+    {
+      "stepId": "path-06-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "path-06-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-4e0a-1",
+        "practice-4e0a-2",
+        "practice-4e0b-1",
+        "practice-4e0b-2"
+      ]
+    },
+    {
+      "stepId": "path-06-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4e0a",
+        "check-4e0b"
+      ]
+    },
+    {
+      "stepId": "path-06-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4e0a",
+      "characterId": "char-4e0a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "上"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e0a-choice-1",
+          "hanzi": "上"
+        },
+        {
+          "choiceId": "familiar-4e0a-choice-2",
+          "hanzi": "下"
+        },
+        {
+          "choiceId": "familiar-4e0a-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-4e0a-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-4e0a-choice-1"
+    },
+    {
+      "checkId": "check-4e0a",
+      "characterId": "char-4e0a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "上"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e0a-choice-1",
+          "hanzi": "上"
+        },
+        {
+          "choiceId": "check-4e0a-choice-2",
+          "hanzi": "下"
+        },
+        {
+          "choiceId": "check-4e0a-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-4e0a-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-4e0a-choice-1"
+    },
+    {
+      "checkId": "review-4e0a",
+      "characterId": "char-4e0a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "上"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e0a-choice-1",
+          "hanzi": "上"
+        },
+        {
+          "choiceId": "review-4e0a-choice-2",
+          "hanzi": "下"
+        },
+        {
+          "choiceId": "review-4e0a-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-4e0a-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-4e0a-choice-1"
+    },
+    {
+      "checkId": "practice-4e0a-1",
+      "characterId": "char-4e0a",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "上面"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-4e0a-1-choice-1",
+          "hanzi": "上"
+        },
+        {
+          "choiceId": "practice-4e0a-1-choice-2",
+          "hanzi": "下"
+        },
+        {
+          "choiceId": "practice-4e0a-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-4e0a-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-4e0a-1-choice-1"
+    },
+    {
+      "checkId": "practice-4e0a-2",
+      "characterId": "char-4e0a",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "上山"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-4e0a-2-choice-1",
+          "hanzi": "上"
+        },
+        {
+          "choiceId": "practice-4e0a-2-choice-2",
+          "hanzi": "下"
+        },
+        {
+          "choiceId": "practice-4e0a-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-4e0a-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-4e0a-2-choice-1"
+    },
+    {
+      "checkId": "familiar-4e0b",
+      "characterId": "char-4e0b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "下"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e0b-choice-1",
+          "hanzi": "上"
+        },
+        {
+          "choiceId": "familiar-4e0b-choice-2",
+          "hanzi": "下"
+        },
+        {
+          "choiceId": "familiar-4e0b-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-4e0b-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-4e0b-choice-2"
+    },
+    {
+      "checkId": "check-4e0b",
+      "characterId": "char-4e0b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "下"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e0b-choice-1",
+          "hanzi": "上"
+        },
+        {
+          "choiceId": "check-4e0b-choice-2",
+          "hanzi": "下"
+        },
+        {
+          "choiceId": "check-4e0b-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-4e0b-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-4e0b-choice-2"
+    },
+    {
+      "checkId": "review-4e0b",
+      "characterId": "char-4e0b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "下"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e0b-choice-1",
+          "hanzi": "上"
+        },
+        {
+          "choiceId": "review-4e0b-choice-2",
+          "hanzi": "下"
+        },
+        {
+          "choiceId": "review-4e0b-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-4e0b-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-4e0b-choice-2"
+    },
+    {
+      "checkId": "practice-4e0b-1",
+      "characterId": "char-4e0b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "下面"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-4e0b-1-choice-1",
+          "hanzi": "上"
+        },
+        {
+          "choiceId": "practice-4e0b-1-choice-2",
+          "hanzi": "下"
+        },
+        {
+          "choiceId": "practice-4e0b-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-4e0b-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-4e0b-1-choice-2"
+    },
+    {
+      "checkId": "practice-4e0b-2",
+      "characterId": "char-4e0b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "下雨"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-4e0b-2-choice-1",
+          "hanzi": "上"
+        },
+        {
+          "choiceId": "practice-4e0b-2-choice-2",
+          "hanzi": "下"
+        },
+        {
+          "choiceId": "practice-4e0b-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-4e0b-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-4e0b-2-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4e0a",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-06-v1/char-4e0a",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-4e0b",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-06-v1/char-4e0b",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Songti SC/STSong or local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/path-06-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device-provided speech; voice suitability and terms require review",
+      "evidenceRef": "draft/audio/path-06-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Find the missing hat",
+      "instructionEnglish": "Our capybara cannot find its school hat. Look above and below as you help with the search."
+    },
+    "targets": [
+      {
+        "characterId": "char-4e0a",
+        "readingId": "reading-4e0a",
+        "familiarityCheckId": "familiar-4e0a",
+        "practice": [
+          {
+            "wordId": "word-4e0a-1",
+            "checkId": "practice-4e0a-1"
+          },
+          {
+            "wordId": "word-4e0a-2",
+            "checkId": "practice-4e0a-2"
+          }
+        ],
+        "immediateCheckId": "check-4e0a",
+        "reviewCheckId": "review-4e0a"
+      },
+      {
+        "characterId": "char-4e0b",
+        "readingId": "reading-4e0b",
+        "familiarityCheckId": "familiar-4e0b",
+        "practice": [
+          {
+            "wordId": "word-4e0b-1",
+            "checkId": "practice-4e0b-1"
+          },
+          {
+            "wordId": "word-4e0b-2",
+            "checkId": "practice-4e0b-2"
+          }
+        ],
+        "immediateCheckId": "check-4e0b",
+        "reviewCheckId": "review-4e0b"
+      }
+    ],
+    "reader": {
+      "title": "Look up and look down",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4e0a-1",
+        "word-4e0a-2",
+        "word-4e0b-1",
+        "word-4e0b-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4e0a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e0a",
+          "transcript": "上",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e0a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e0a",
+          "transcript": "上",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e0a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e0a",
+          "transcript": "上",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-4e0a-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-4e0a-1",
+          "transcript": "上面",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-4e0a-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-4e0a-2",
+          "transcript": "上山",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e0a",
+          "readingId": "reading-4e0a",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "上",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e0a-1",
+          "readingId": null,
+          "wordId": "word-4e0a-1",
+          "checkId": null,
+          "transcript": "帽子在书架上面。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e0a-2",
+          "readingId": null,
+          "wordId": "word-4e0a-2",
+          "checkId": null,
+          "transcript": "我们沿着小路上山。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-4e0b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e0b",
+          "transcript": "下",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e0b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e0b",
+          "transcript": "下",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e0b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e0b",
+          "transcript": "下",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-4e0b-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-4e0b-1",
+          "transcript": "下面",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-4e0b-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-4e0b-2",
+          "transcript": "下雨",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e0b",
+          "readingId": "reading-4e0b",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "下",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e0b-1",
+          "readingId": null,
+          "wordId": "word-4e0b-1",
+          "checkId": null,
+          "transcript": "小猫在桌子下面睡觉。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e0b-2",
+          "readingId": null,
+          "wordId": "word-4e0b-2",
+          "checkId": null,
+          "transcript": "下雨了，我们带上雨伞。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

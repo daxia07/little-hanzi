@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-14",
+  "lessonVersion": "everyday-14-v1",
+  "title": "A cat and a fish tank",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 27
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara watches a kitten and a fish tank. Read two words for each animal character.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-732b",
+      "hanzi": "猫",
+      "readings": [
+        {
+          "readingId": "reading-732b",
+          "pinyin": "māo",
+          "audioText": "猫",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#猫",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "cat",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#猫",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-732b-1",
+          "text": "小猫",
+          "pinyin": "xiǎo māo",
+          "english": "kitten; little cat",
+          "readingId": "reading-732b",
+          "context": {
+            "hanzi": "小猫在窗边晒太阳。",
+            "english": "The kitten enjoys the sunshine by the window.",
+            "targetCharacter": "猫"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#小猫",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-732b-2",
+          "text": "猫咪",
+          "pinyin": "māo mī",
+          "english": "kitty; cat (affectionate)",
+          "readingId": "reading-732b",
+          "context": {
+            "hanzi": "猫咪安静地躺在垫子上。",
+            "english": "The kitty lies quietly on the cushion.",
+            "targetCharacter": "猫"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#猫咪",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Compare the left parts of 猫 and 狗; then notice 田 inside 猫.",
+        "demonstrationEnglish": "This is 猫. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-732b",
+        "delayedReview": {
+          "promptId": "later-732b",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-732b"
+        }
+      },
+      "assets": [
+        "asset-glyph-732b",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-9c7c",
+      "hanzi": "鱼",
+      "readings": [
+        {
+          "readingId": "reading-9c7c",
+          "pinyin": "yú",
+          "audioText": "鱼",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#鱼",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "fish",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#鱼",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-9c7c-1",
+          "text": "金鱼",
+          "pinyin": "jīn yú",
+          "english": "goldfish",
+          "readingId": "reading-9c7c",
+          "context": {
+            "hanzi": "金鱼在水里慢慢游。",
+            "english": "The goldfish swims slowly in the water.",
+            "targetCharacter": "鱼"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#金鱼",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-9c7c-2",
+          "text": "鱼缸",
+          "pinyin": "yú gāng",
+          "english": "fish tank",
+          "readingId": "reading-9c7c",
+          "context": {
+            "hanzi": "我们观察鱼缸里的小鱼。",
+            "english": "We watch the little fish in the fish tank.",
+            "targetCharacter": "鱼"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#鱼缸",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the top part, the central box and the long lower stroke of 鱼.",
+        "demonstrationEnglish": "This is 鱼. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-9c7c",
+        "delayedReview": {
+          "promptId": "later-9c7c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-9c7c"
+        }
+      },
+      "assets": [
+        "asset-glyph-9c7c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-14-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-732b",
+        "familiar-9c7c"
+      ]
+    },
+    {
+      "stepId": "everyday-14-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-14-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-732b",
+        "practice-two-732b",
+        "practice-one-9c7c",
+        "practice-two-9c7c"
+      ]
+    },
+    {
+      "stepId": "everyday-14-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-732b",
+        "check-9c7c"
+      ]
+    },
+    {
+      "stepId": "everyday-14-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-732b",
+      "characterId": "char-732b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "猫"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-732b-choice-1",
+          "hanzi": "猫"
+        },
+        {
+          "choiceId": "familiar-732b-choice-2",
+          "hanzi": "鱼"
+        },
+        {
+          "choiceId": "familiar-732b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-732b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-732b-choice-1"
+    },
+    {
+      "checkId": "check-732b",
+      "characterId": "char-732b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "猫"
+      },
+      "choices": [
+        {
+          "choiceId": "check-732b-choice-1",
+          "hanzi": "猫"
+        },
+        {
+          "choiceId": "check-732b-choice-2",
+          "hanzi": "鱼"
+        },
+        {
+          "choiceId": "check-732b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-732b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-732b-choice-1"
+    },
+    {
+      "checkId": "review-732b",
+      "characterId": "char-732b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "猫"
+      },
+      "choices": [
+        {
+          "choiceId": "review-732b-choice-1",
+          "hanzi": "猫"
+        },
+        {
+          "choiceId": "review-732b-choice-2",
+          "hanzi": "鱼"
+        },
+        {
+          "choiceId": "review-732b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-732b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-732b-choice-1"
+    },
+    {
+      "checkId": "practice-one-732b",
+      "characterId": "char-732b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "小猫"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-732b-choice-1",
+          "hanzi": "猫"
+        },
+        {
+          "choiceId": "practice-one-732b-choice-2",
+          "hanzi": "鱼"
+        },
+        {
+          "choiceId": "practice-one-732b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-732b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-732b-choice-1"
+    },
+    {
+      "checkId": "practice-two-732b",
+      "characterId": "char-732b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "猫咪"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-732b-choice-1",
+          "hanzi": "猫"
+        },
+        {
+          "choiceId": "practice-two-732b-choice-2",
+          "hanzi": "鱼"
+        },
+        {
+          "choiceId": "practice-two-732b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-732b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-732b-choice-1"
+    },
+    {
+      "checkId": "familiar-9c7c",
+      "characterId": "char-9c7c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "鱼"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-9c7c-choice-1",
+          "hanzi": "猫"
+        },
+        {
+          "choiceId": "familiar-9c7c-choice-2",
+          "hanzi": "鱼"
+        },
+        {
+          "choiceId": "familiar-9c7c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-9c7c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-9c7c-choice-2"
+    },
+    {
+      "checkId": "check-9c7c",
+      "characterId": "char-9c7c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "鱼"
+      },
+      "choices": [
+        {
+          "choiceId": "check-9c7c-choice-1",
+          "hanzi": "猫"
+        },
+        {
+          "choiceId": "check-9c7c-choice-2",
+          "hanzi": "鱼"
+        },
+        {
+          "choiceId": "check-9c7c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-9c7c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-9c7c-choice-2"
+    },
+    {
+      "checkId": "review-9c7c",
+      "characterId": "char-9c7c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "鱼"
+      },
+      "choices": [
+        {
+          "choiceId": "review-9c7c-choice-1",
+          "hanzi": "猫"
+        },
+        {
+          "choiceId": "review-9c7c-choice-2",
+          "hanzi": "鱼"
+        },
+        {
+          "choiceId": "review-9c7c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-9c7c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-9c7c-choice-2"
+    },
+    {
+      "checkId": "practice-one-9c7c",
+      "characterId": "char-9c7c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "金鱼"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-9c7c-choice-1",
+          "hanzi": "猫"
+        },
+        {
+          "choiceId": "practice-one-9c7c-choice-2",
+          "hanzi": "鱼"
+        },
+        {
+          "choiceId": "practice-one-9c7c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-9c7c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-9c7c-choice-2"
+    },
+    {
+      "checkId": "practice-two-9c7c",
+      "characterId": "char-9c7c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "鱼缸"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-9c7c-choice-1",
+          "hanzi": "猫"
+        },
+        {
+          "choiceId": "practice-two-9c7c-choice-2",
+          "hanzi": "鱼"
+        },
+        {
+          "choiceId": "practice-two-9c7c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-9c7c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-9c7c-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-732b",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-14-v1/char-732b",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-9c7c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-14-v1/char-9c7c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-14-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-14-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "A cat and a fish tank",
+      "instructionEnglish": "Our capybara watches a kitten and a fish tank. Read two words for each animal character."
+    },
+    "targets": [
+      {
+        "characterId": "char-732b",
+        "readingId": "reading-732b",
+        "familiarityCheckId": "familiar-732b",
+        "practice": [
+          {
+            "wordId": "word-732b-1",
+            "checkId": "practice-one-732b"
+          },
+          {
+            "wordId": "word-732b-2",
+            "checkId": "practice-two-732b"
+          }
+        ],
+        "immediateCheckId": "check-732b",
+        "reviewCheckId": "review-732b"
+      },
+      {
+        "characterId": "char-9c7c",
+        "readingId": "reading-9c7c",
+        "familiarityCheckId": "familiar-9c7c",
+        "practice": [
+          {
+            "wordId": "word-9c7c-1",
+            "checkId": "practice-one-9c7c"
+          },
+          {
+            "wordId": "word-9c7c-2",
+            "checkId": "practice-two-9c7c"
+          }
+        ],
+        "immediateCheckId": "check-9c7c",
+        "reviewCheckId": "review-9c7c"
+      }
+    ],
+    "reader": {
+      "title": "A cat and a fish tank",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-732b-1",
+        "word-732b-2",
+        "word-9c7c-1",
+        "word-9c7c-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-732b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-732b",
+          "transcript": "猫",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-732b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-732b",
+          "transcript": "猫",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-732b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-732b",
+          "transcript": "猫",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-732b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-732b",
+          "transcript": "小猫",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-732b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-732b",
+          "transcript": "猫咪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-732b",
+          "readingId": "reading-732b",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "猫",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-732b-1",
+          "readingId": null,
+          "wordId": "word-732b-1",
+          "checkId": null,
+          "transcript": "小猫在窗边晒太阳。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-732b-2",
+          "readingId": null,
+          "wordId": "word-732b-2",
+          "checkId": null,
+          "transcript": "猫咪安静地躺在垫子上。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-9c7c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-9c7c",
+          "transcript": "鱼",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-9c7c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-9c7c",
+          "transcript": "鱼",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-9c7c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-9c7c",
+          "transcript": "鱼",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-9c7c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-9c7c",
+          "transcript": "金鱼",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-9c7c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-9c7c",
+          "transcript": "鱼缸",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-9c7c",
+          "readingId": "reading-9c7c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "鱼",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9c7c-1",
+          "readingId": null,
+          "wordId": "word-9c7c-1",
+          "checkId": null,
+          "transcript": "金鱼在水里慢慢游。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9c7c-2",
+          "readingId": null,
+          "wordId": "word-9c7c-2",
+          "checkId": null,
+          "transcript": "我们观察鱼缸里的小鱼。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

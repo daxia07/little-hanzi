@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-05",
+  "lessonVersion": "everyday-05-v1",
+  "title": "Read the clock",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 18
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara plans a library visit. Read nine on the clock and ten in useful expressions.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4e5d",
+      "hanzi": "九",
+      "readings": [
+        {
+          "readingId": "reading-4e5d",
+          "pinyin": "jiǔ",
+          "audioText": "九",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#九",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "nine",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#九",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e5d-1",
+          "text": "九月",
+          "pinyin": "jiǔ yuè",
+          "english": "September",
+          "readingId": "reading-4e5d",
+          "context": {
+            "hanzi": "九月里，我们整理新的课本。",
+            "english": "In September, we organise our new textbooks.",
+            "targetCharacter": "九"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#九月",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e5d-2",
+          "text": "九点",
+          "pinyin": "jiǔ diǎn",
+          "english": "nine o'clock",
+          "readingId": "reading-4e5d",
+          "context": {
+            "hanzi": "我们九点去图书馆。",
+            "english": "We go to the library at nine o'clock.",
+            "targetCharacter": "九"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#九点",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the bending stroke in 九 and compare its whole shape with 七.",
+        "demonstrationEnglish": "This is 九. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e5d",
+        "delayedReview": {
+          "promptId": "later-4e5d",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e5d"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e5d",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5341",
+      "hanzi": "十",
+      "readings": [
+        {
+          "readingId": "reading-5341",
+          "pinyin": "shí",
+          "audioText": "十",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#十",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "ten",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#十",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5341-1",
+          "text": "十月",
+          "pinyin": "shí yuè",
+          "english": "October",
+          "readingId": "reading-5341",
+          "context": {
+            "hanzi": "十月里，我们捡起落叶做拼贴。",
+            "english": "In October, we collect fallen leaves for a collage.",
+            "targetCharacter": "十"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#十月",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5341-2",
+          "text": "十分",
+          "pinyin": "shí fēn",
+          "english": "very; extremely",
+          "readingId": "reading-5341",
+          "context": {
+            "hanzi": "这只小兔十分可爱。",
+            "english": "This little rabbit is very cute.",
+            "targetCharacter": "十"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#十分",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "One horizontal and one vertical stroke cross in 十.",
+        "demonstrationEnglish": "This is 十. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5341",
+        "delayedReview": {
+          "promptId": "later-5341",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5341"
+        }
+      },
+      "assets": [
+        "asset-glyph-5341",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-05-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4e5d",
+        "familiar-5341"
+      ]
+    },
+    {
+      "stepId": "everyday-05-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-05-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-4e5d",
+        "practice-two-4e5d",
+        "practice-one-5341",
+        "practice-two-5341"
+      ]
+    },
+    {
+      "stepId": "everyday-05-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4e5d",
+        "check-5341"
+      ]
+    },
+    {
+      "stepId": "everyday-05-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4e5d",
+      "characterId": "char-4e5d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "九"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e5d-choice-1",
+          "hanzi": "九"
+        },
+        {
+          "choiceId": "familiar-4e5d-choice-2",
+          "hanzi": "十"
+        },
+        {
+          "choiceId": "familiar-4e5d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e5d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e5d-choice-1"
+    },
+    {
+      "checkId": "check-4e5d",
+      "characterId": "char-4e5d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "九"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e5d-choice-1",
+          "hanzi": "九"
+        },
+        {
+          "choiceId": "check-4e5d-choice-2",
+          "hanzi": "十"
+        },
+        {
+          "choiceId": "check-4e5d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e5d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e5d-choice-1"
+    },
+    {
+      "checkId": "review-4e5d",
+      "characterId": "char-4e5d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "九"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e5d-choice-1",
+          "hanzi": "九"
+        },
+        {
+          "choiceId": "review-4e5d-choice-2",
+          "hanzi": "十"
+        },
+        {
+          "choiceId": "review-4e5d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e5d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e5d-choice-1"
+    },
+    {
+      "checkId": "practice-one-4e5d",
+      "characterId": "char-4e5d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "九月"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e5d-choice-1",
+          "hanzi": "九"
+        },
+        {
+          "choiceId": "practice-one-4e5d-choice-2",
+          "hanzi": "十"
+        },
+        {
+          "choiceId": "practice-one-4e5d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e5d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e5d-choice-1"
+    },
+    {
+      "checkId": "practice-two-4e5d",
+      "characterId": "char-4e5d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "九点"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e5d-choice-1",
+          "hanzi": "九"
+        },
+        {
+          "choiceId": "practice-two-4e5d-choice-2",
+          "hanzi": "十"
+        },
+        {
+          "choiceId": "practice-two-4e5d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e5d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e5d-choice-1"
+    },
+    {
+      "checkId": "familiar-5341",
+      "characterId": "char-5341",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "十"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5341-choice-1",
+          "hanzi": "九"
+        },
+        {
+          "choiceId": "familiar-5341-choice-2",
+          "hanzi": "十"
+        },
+        {
+          "choiceId": "familiar-5341-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5341-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5341-choice-2"
+    },
+    {
+      "checkId": "check-5341",
+      "characterId": "char-5341",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "十"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5341-choice-1",
+          "hanzi": "九"
+        },
+        {
+          "choiceId": "check-5341-choice-2",
+          "hanzi": "十"
+        },
+        {
+          "choiceId": "check-5341-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5341-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5341-choice-2"
+    },
+    {
+      "checkId": "review-5341",
+      "characterId": "char-5341",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "十"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5341-choice-1",
+          "hanzi": "九"
+        },
+        {
+          "choiceId": "review-5341-choice-2",
+          "hanzi": "十"
+        },
+        {
+          "choiceId": "review-5341-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5341-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5341-choice-2"
+    },
+    {
+      "checkId": "practice-one-5341",
+      "characterId": "char-5341",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "十月"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5341-choice-1",
+          "hanzi": "九"
+        },
+        {
+          "choiceId": "practice-one-5341-choice-2",
+          "hanzi": "十"
+        },
+        {
+          "choiceId": "practice-one-5341-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5341-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5341-choice-2"
+    },
+    {
+      "checkId": "practice-two-5341",
+      "characterId": "char-5341",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "十分"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5341-choice-1",
+          "hanzi": "九"
+        },
+        {
+          "choiceId": "practice-two-5341-choice-2",
+          "hanzi": "十"
+        },
+        {
+          "choiceId": "practice-two-5341-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5341-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5341-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4e5d",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-05-v1/char-4e5d",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5341",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-05-v1/char-5341",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-05-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-05-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Read the clock",
+      "instructionEnglish": "Our capybara plans a library visit. Read nine on the clock and ten in useful expressions."
+    },
+    "targets": [
+      {
+        "characterId": "char-4e5d",
+        "readingId": "reading-4e5d",
+        "familiarityCheckId": "familiar-4e5d",
+        "practice": [
+          {
+            "wordId": "word-4e5d-1",
+            "checkId": "practice-one-4e5d"
+          },
+          {
+            "wordId": "word-4e5d-2",
+            "checkId": "practice-two-4e5d"
+          }
+        ],
+        "immediateCheckId": "check-4e5d",
+        "reviewCheckId": "review-4e5d"
+      },
+      {
+        "characterId": "char-5341",
+        "readingId": "reading-5341",
+        "familiarityCheckId": "familiar-5341",
+        "practice": [
+          {
+            "wordId": "word-5341-1",
+            "checkId": "practice-one-5341"
+          },
+          {
+            "wordId": "word-5341-2",
+            "checkId": "practice-two-5341"
+          }
+        ],
+        "immediateCheckId": "check-5341",
+        "reviewCheckId": "review-5341"
+      }
+    ],
+    "reader": {
+      "title": "Read the clock",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4e5d-1",
+        "word-4e5d-2",
+        "word-5341-1",
+        "word-5341-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4e5d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e5d",
+          "transcript": "九",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e5d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e5d",
+          "transcript": "九",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e5d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e5d",
+          "transcript": "九",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e5d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e5d",
+          "transcript": "九月",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e5d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e5d",
+          "transcript": "九点",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e5d",
+          "readingId": "reading-4e5d",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "九",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e5d-1",
+          "readingId": null,
+          "wordId": "word-4e5d-1",
+          "checkId": null,
+          "transcript": "九月里，我们整理新的课本。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e5d-2",
+          "readingId": null,
+          "wordId": "word-4e5d-2",
+          "checkId": null,
+          "transcript": "我们九点去图书馆。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5341",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5341",
+          "transcript": "十",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5341",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5341",
+          "transcript": "十",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5341",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5341",
+          "transcript": "十",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5341",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5341",
+          "transcript": "十月",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5341",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5341",
+          "transcript": "十分",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5341",
+          "readingId": "reading-5341",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "十",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5341-1",
+          "readingId": null,
+          "wordId": "word-5341-1",
+          "checkId": null,
+          "transcript": "十月里，我们捡起落叶做拼贴。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5341-2",
+          "readingId": null,
+          "wordId": "word-5341-2",
+          "checkId": null,
+          "transcript": "这只小兔十分可爱。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

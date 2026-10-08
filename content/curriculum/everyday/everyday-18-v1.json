@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-18",
+  "lessonVersion": "everyday-18-v1",
+  "title": "Fruit and vegetables",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 31
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara packs a basket of fruit and vegetables. Read familiar foods in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-679c",
+      "hanzi": "果",
+      "readings": [
+        {
+          "readingId": "reading-679c",
+          "pinyin": "guǒ",
+          "audioText": "果",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#果",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "fruit; result",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#果",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-679c-1",
+          "text": "水果",
+          "pinyin": "shuǐ guǒ",
+          "english": "fruit",
+          "readingId": "reading-679c",
+          "context": {
+            "hanzi": "我们把水果洗干净。",
+            "english": "We wash the fruit clean.",
+            "targetCharacter": "果"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#水果",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-679c-2",
+          "text": "苹果",
+          "pinyin": "píng guǒ",
+          "english": "apple",
+          "readingId": "reading-679c",
+          "context": {
+            "hanzi": "桌上有一个红苹果。",
+            "english": "There is a red apple on the table.",
+            "targetCharacter": "果"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#苹果",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 田 above 木 in 果; read the whole character.",
+        "demonstrationEnglish": "This is 果. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-679c",
+        "delayedReview": {
+          "promptId": "later-679c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-679c"
+        }
+      },
+      "assets": [
+        "asset-glyph-679c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-83dc",
+      "hanzi": "菜",
+      "readings": [
+        {
+          "readingId": "reading-83dc",
+          "pinyin": "cài",
+          "audioText": "菜",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#菜",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "vegetable; dish",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#菜",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-83dc-1",
+          "text": "蔬菜",
+          "pinyin": "shū cài",
+          "english": "vegetables",
+          "readingId": "reading-83dc",
+          "context": {
+            "hanzi": "篮子里装着新鲜的蔬菜。",
+            "english": "The basket holds fresh vegetables.",
+            "targetCharacter": "菜"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#蔬菜",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-83dc-2",
+          "text": "白菜",
+          "pinyin": "bái cài",
+          "english": "Chinese cabbage",
+          "readingId": "reading-83dc",
+          "context": {
+            "hanzi": "我们把白菜放进汤里。",
+            "english": "We put Chinese cabbage in the soup.",
+            "targetCharacter": "菜"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#白菜",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the grass-shaped top of 菜 and compare it with 花.",
+        "demonstrationEnglish": "This is 菜. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-83dc",
+        "delayedReview": {
+          "promptId": "later-83dc",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-83dc"
+        }
+      },
+      "assets": [
+        "asset-glyph-83dc",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-18-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-679c",
+        "familiar-83dc"
+      ]
+    },
+    {
+      "stepId": "everyday-18-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-18-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-679c",
+        "practice-two-679c",
+        "practice-one-83dc",
+        "practice-two-83dc"
+      ]
+    },
+    {
+      "stepId": "everyday-18-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-679c",
+        "check-83dc"
+      ]
+    },
+    {
+      "stepId": "everyday-18-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-679c",
+      "characterId": "char-679c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "果"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-679c-choice-1",
+          "hanzi": "果"
+        },
+        {
+          "choiceId": "familiar-679c-choice-2",
+          "hanzi": "菜"
+        },
+        {
+          "choiceId": "familiar-679c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-679c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-679c-choice-1"
+    },
+    {
+      "checkId": "check-679c",
+      "characterId": "char-679c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "果"
+      },
+      "choices": [
+        {
+          "choiceId": "check-679c-choice-1",
+          "hanzi": "果"
+        },
+        {
+          "choiceId": "check-679c-choice-2",
+          "hanzi": "菜"
+        },
+        {
+          "choiceId": "check-679c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-679c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-679c-choice-1"
+    },
+    {
+      "checkId": "review-679c",
+      "characterId": "char-679c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "果"
+      },
+      "choices": [
+        {
+          "choiceId": "review-679c-choice-1",
+          "hanzi": "果"
+        },
+        {
+          "choiceId": "review-679c-choice-2",
+          "hanzi": "菜"
+        },
+        {
+          "choiceId": "review-679c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-679c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-679c-choice-1"
+    },
+    {
+      "checkId": "practice-one-679c",
+      "characterId": "char-679c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "水果"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-679c-choice-1",
+          "hanzi": "果"
+        },
+        {
+          "choiceId": "practice-one-679c-choice-2",
+          "hanzi": "菜"
+        },
+        {
+          "choiceId": "practice-one-679c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-679c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-679c-choice-1"
+    },
+    {
+      "checkId": "practice-two-679c",
+      "characterId": "char-679c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "苹果"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-679c-choice-1",
+          "hanzi": "果"
+        },
+        {
+          "choiceId": "practice-two-679c-choice-2",
+          "hanzi": "菜"
+        },
+        {
+          "choiceId": "practice-two-679c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-679c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-679c-choice-1"
+    },
+    {
+      "checkId": "familiar-83dc",
+      "characterId": "char-83dc",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "菜"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-83dc-choice-1",
+          "hanzi": "果"
+        },
+        {
+          "choiceId": "familiar-83dc-choice-2",
+          "hanzi": "菜"
+        },
+        {
+          "choiceId": "familiar-83dc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-83dc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-83dc-choice-2"
+    },
+    {
+      "checkId": "check-83dc",
+      "characterId": "char-83dc",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "菜"
+      },
+      "choices": [
+        {
+          "choiceId": "check-83dc-choice-1",
+          "hanzi": "果"
+        },
+        {
+          "choiceId": "check-83dc-choice-2",
+          "hanzi": "菜"
+        },
+        {
+          "choiceId": "check-83dc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-83dc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-83dc-choice-2"
+    },
+    {
+      "checkId": "review-83dc",
+      "characterId": "char-83dc",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "菜"
+      },
+      "choices": [
+        {
+          "choiceId": "review-83dc-choice-1",
+          "hanzi": "果"
+        },
+        {
+          "choiceId": "review-83dc-choice-2",
+          "hanzi": "菜"
+        },
+        {
+          "choiceId": "review-83dc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-83dc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-83dc-choice-2"
+    },
+    {
+      "checkId": "practice-one-83dc",
+      "characterId": "char-83dc",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "蔬菜"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-83dc-choice-1",
+          "hanzi": "果"
+        },
+        {
+          "choiceId": "practice-one-83dc-choice-2",
+          "hanzi": "菜"
+        },
+        {
+          "choiceId": "practice-one-83dc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-83dc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-83dc-choice-2"
+    },
+    {
+      "checkId": "practice-two-83dc",
+      "characterId": "char-83dc",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "白菜"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-83dc-choice-1",
+          "hanzi": "果"
+        },
+        {
+          "choiceId": "practice-two-83dc-choice-2",
+          "hanzi": "菜"
+        },
+        {
+          "choiceId": "practice-two-83dc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-83dc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-83dc-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-679c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-18-v1/char-679c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-83dc",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-18-v1/char-83dc",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-18-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-18-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Fruit and vegetables",
+      "instructionEnglish": "Our capybara packs a basket of fruit and vegetables. Read familiar foods in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-679c",
+        "readingId": "reading-679c",
+        "familiarityCheckId": "familiar-679c",
+        "practice": [
+          {
+            "wordId": "word-679c-1",
+            "checkId": "practice-one-679c"
+          },
+          {
+            "wordId": "word-679c-2",
+            "checkId": "practice-two-679c"
+          }
+        ],
+        "immediateCheckId": "check-679c",
+        "reviewCheckId": "review-679c"
+      },
+      {
+        "characterId": "char-83dc",
+        "readingId": "reading-83dc",
+        "familiarityCheckId": "familiar-83dc",
+        "practice": [
+          {
+            "wordId": "word-83dc-1",
+            "checkId": "practice-one-83dc"
+          },
+          {
+            "wordId": "word-83dc-2",
+            "checkId": "practice-two-83dc"
+          }
+        ],
+        "immediateCheckId": "check-83dc",
+        "reviewCheckId": "review-83dc"
+      }
+    ],
+    "reader": {
+      "title": "Fruit and vegetables",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-679c-1",
+        "word-679c-2",
+        "word-83dc-1",
+        "word-83dc-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-679c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-679c",
+          "transcript": "果",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-679c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-679c",
+          "transcript": "果",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-679c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-679c",
+          "transcript": "果",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-679c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-679c",
+          "transcript": "水果",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-679c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-679c",
+          "transcript": "苹果",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-679c",
+          "readingId": "reading-679c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "果",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-679c-1",
+          "readingId": null,
+          "wordId": "word-679c-1",
+          "checkId": null,
+          "transcript": "我们把水果洗干净。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-679c-2",
+          "readingId": null,
+          "wordId": "word-679c-2",
+          "checkId": null,
+          "transcript": "桌上有一个红苹果。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-83dc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-83dc",
+          "transcript": "菜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-83dc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-83dc",
+          "transcript": "菜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-83dc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-83dc",
+          "transcript": "菜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-83dc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-83dc",
+          "transcript": "蔬菜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-83dc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-83dc",
+          "transcript": "白菜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-83dc",
+          "readingId": "reading-83dc",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "菜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-83dc-1",
+          "readingId": null,
+          "wordId": "word-83dc-1",
+          "checkId": null,
+          "transcript": "篮子里装着新鲜的蔬菜。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-83dc-2",
+          "readingId": null,
+          "wordId": "word-83dc-2",
+          "checkId": null,
+          "transcript": "我们把白菜放进汤里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

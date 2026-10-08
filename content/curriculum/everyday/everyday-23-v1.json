@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-23",
+  "lessonVersion": "everyday-23-v1",
+  "title": "Ready to go outside",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 36
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara gets ready to go outside. Find clothes and shoes in useful words.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-8863",
+      "hanzi": "衣",
+      "readings": [
+        {
+          "readingId": "reading-8863",
+          "pinyin": "yī",
+          "audioText": "衣",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#衣",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "clothing",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#衣",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8863-1",
+          "text": "衣服",
+          "pinyin": "yī fu",
+          "english": "clothes",
+          "readingId": "reading-8863",
+          "context": {
+            "hanzi": "我们把干净的衣服叠好。",
+            "english": "We fold the clean clothes.",
+            "targetCharacter": "衣"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#衣服",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8863-2",
+          "text": "上衣",
+          "pinyin": "shàng yī",
+          "english": "upper-body garment; top",
+          "readingId": "reading-8863",
+          "context": {
+            "hanzi": "椅子上放着一件上衣。",
+            "english": "There is a top on the chair.",
+            "targetCharacter": "衣"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#上衣",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the top dot and the spreading lower strokes of 衣.",
+        "demonstrationEnglish": "This is 衣. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8863",
+        "delayedReview": {
+          "promptId": "later-8863",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8863"
+        }
+      },
+      "assets": [
+        "asset-glyph-8863",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-978b",
+      "hanzi": "鞋",
+      "readings": [
+        {
+          "readingId": "reading-978b",
+          "pinyin": "xié",
+          "audioText": "鞋",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#鞋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "shoe",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#鞋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-978b-1",
+          "text": "鞋子",
+          "pinyin": "xié zi",
+          "english": "shoe",
+          "readingId": "reading-978b",
+          "context": {
+            "hanzi": "我把鞋子放在门边。",
+            "english": "I put my shoes beside the door.",
+            "targetCharacter": "鞋"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#鞋子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-978b-2",
+          "text": "球鞋",
+          "pinyin": "qiú xié",
+          "english": "sports shoes; trainers",
+          "readingId": "reading-978b",
+          "context": {
+            "hanzi": "我穿上球鞋去操场。",
+            "english": "I put on my trainers and go to the playground.",
+            "targetCharacter": "鞋"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#球鞋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Look at 革 on the left of 鞋 and the repeated 土 shapes on the right.",
+        "demonstrationEnglish": "This is 鞋. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-978b",
+        "delayedReview": {
+          "promptId": "later-978b",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-978b"
+        }
+      },
+      "assets": [
+        "asset-glyph-978b",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-23-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-8863",
+        "familiar-978b"
+      ]
+    },
+    {
+      "stepId": "everyday-23-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-23-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-8863",
+        "practice-two-8863",
+        "practice-one-978b",
+        "practice-two-978b"
+      ]
+    },
+    {
+      "stepId": "everyday-23-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-8863",
+        "check-978b"
+      ]
+    },
+    {
+      "stepId": "everyday-23-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-8863",
+      "characterId": "char-8863",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "衣"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8863-choice-1",
+          "hanzi": "衣"
+        },
+        {
+          "choiceId": "familiar-8863-choice-2",
+          "hanzi": "鞋"
+        },
+        {
+          "choiceId": "familiar-8863-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8863-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8863-choice-1"
+    },
+    {
+      "checkId": "check-8863",
+      "characterId": "char-8863",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "衣"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8863-choice-1",
+          "hanzi": "衣"
+        },
+        {
+          "choiceId": "check-8863-choice-2",
+          "hanzi": "鞋"
+        },
+        {
+          "choiceId": "check-8863-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8863-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8863-choice-1"
+    },
+    {
+      "checkId": "review-8863",
+      "characterId": "char-8863",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "衣"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8863-choice-1",
+          "hanzi": "衣"
+        },
+        {
+          "choiceId": "review-8863-choice-2",
+          "hanzi": "鞋"
+        },
+        {
+          "choiceId": "review-8863-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8863-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8863-choice-1"
+    },
+    {
+      "checkId": "practice-one-8863",
+      "characterId": "char-8863",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "衣服"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8863-choice-1",
+          "hanzi": "衣"
+        },
+        {
+          "choiceId": "practice-one-8863-choice-2",
+          "hanzi": "鞋"
+        },
+        {
+          "choiceId": "practice-one-8863-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8863-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8863-choice-1"
+    },
+    {
+      "checkId": "practice-two-8863",
+      "characterId": "char-8863",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "上衣"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8863-choice-1",
+          "hanzi": "衣"
+        },
+        {
+          "choiceId": "practice-two-8863-choice-2",
+          "hanzi": "鞋"
+        },
+        {
+          "choiceId": "practice-two-8863-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8863-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8863-choice-1"
+    },
+    {
+      "checkId": "familiar-978b",
+      "characterId": "char-978b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "鞋"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-978b-choice-1",
+          "hanzi": "衣"
+        },
+        {
+          "choiceId": "familiar-978b-choice-2",
+          "hanzi": "鞋"
+        },
+        {
+          "choiceId": "familiar-978b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-978b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-978b-choice-2"
+    },
+    {
+      "checkId": "check-978b",
+      "characterId": "char-978b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "鞋"
+      },
+      "choices": [
+        {
+          "choiceId": "check-978b-choice-1",
+          "hanzi": "衣"
+        },
+        {
+          "choiceId": "check-978b-choice-2",
+          "hanzi": "鞋"
+        },
+        {
+          "choiceId": "check-978b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-978b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-978b-choice-2"
+    },
+    {
+      "checkId": "review-978b",
+      "characterId": "char-978b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "鞋"
+      },
+      "choices": [
+        {
+          "choiceId": "review-978b-choice-1",
+          "hanzi": "衣"
+        },
+        {
+          "choiceId": "review-978b-choice-2",
+          "hanzi": "鞋"
+        },
+        {
+          "choiceId": "review-978b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-978b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-978b-choice-2"
+    },
+    {
+      "checkId": "practice-one-978b",
+      "characterId": "char-978b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "鞋子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-978b-choice-1",
+          "hanzi": "衣"
+        },
+        {
+          "choiceId": "practice-one-978b-choice-2",
+          "hanzi": "鞋"
+        },
+        {
+          "choiceId": "practice-one-978b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-978b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-978b-choice-2"
+    },
+    {
+      "checkId": "practice-two-978b",
+      "characterId": "char-978b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "球鞋"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-978b-choice-1",
+          "hanzi": "衣"
+        },
+        {
+          "choiceId": "practice-two-978b-choice-2",
+          "hanzi": "鞋"
+        },
+        {
+          "choiceId": "practice-two-978b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-978b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-978b-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-8863",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-23-v1/char-8863",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-978b",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-23-v1/char-978b",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-23-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-23-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Ready to go outside",
+      "instructionEnglish": "Our capybara gets ready to go outside. Find clothes and shoes in useful words."
+    },
+    "targets": [
+      {
+        "characterId": "char-8863",
+        "readingId": "reading-8863",
+        "familiarityCheckId": "familiar-8863",
+        "practice": [
+          {
+            "wordId": "word-8863-1",
+            "checkId": "practice-one-8863"
+          },
+          {
+            "wordId": "word-8863-2",
+            "checkId": "practice-two-8863"
+          }
+        ],
+        "immediateCheckId": "check-8863",
+        "reviewCheckId": "review-8863"
+      },
+      {
+        "characterId": "char-978b",
+        "readingId": "reading-978b",
+        "familiarityCheckId": "familiar-978b",
+        "practice": [
+          {
+            "wordId": "word-978b-1",
+            "checkId": "practice-one-978b"
+          },
+          {
+            "wordId": "word-978b-2",
+            "checkId": "practice-two-978b"
+          }
+        ],
+        "immediateCheckId": "check-978b",
+        "reviewCheckId": "review-978b"
+      }
+    ],
+    "reader": {
+      "title": "Ready to go outside",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-8863-1",
+        "word-8863-2",
+        "word-978b-1",
+        "word-978b-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-8863",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8863",
+          "transcript": "衣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8863",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8863",
+          "transcript": "衣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8863",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8863",
+          "transcript": "衣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8863",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8863",
+          "transcript": "衣服",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8863",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8863",
+          "transcript": "上衣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8863",
+          "readingId": "reading-8863",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "衣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8863-1",
+          "readingId": null,
+          "wordId": "word-8863-1",
+          "checkId": null,
+          "transcript": "我们把干净的衣服叠好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8863-2",
+          "readingId": null,
+          "wordId": "word-8863-2",
+          "checkId": null,
+          "transcript": "椅子上放着一件上衣。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-978b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-978b",
+          "transcript": "鞋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-978b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-978b",
+          "transcript": "鞋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-978b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-978b",
+          "transcript": "鞋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-978b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-978b",
+          "transcript": "鞋子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-978b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-978b",
+          "transcript": "球鞋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-978b",
+          "readingId": "reading-978b",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "鞋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-978b-1",
+          "readingId": null,
+          "wordId": "word-978b-1",
+          "checkId": null,
+          "transcript": "我把鞋子放在门边。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-978b-2",
+          "readingId": null,
+          "wordId": "word-978b-2",
+          "checkId": null,
+          "transcript": "我穿上球鞋去操场。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

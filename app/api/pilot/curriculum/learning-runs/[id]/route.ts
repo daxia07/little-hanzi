@@ -1,0 +1,8 @@
+import { storyRoute } from '@/lib/pilot/story-http';
+import { routeParam } from '@/lib/pilot/http';
+export async function GET(
+  request: Request,
+  context: { params: unknown },
+): Promise<Response> {
+  return storyRoute(request, 'run', await routeParam(context, 'id'));
+}

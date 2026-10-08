@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-01",
+  "lessonVersion": "everyday-01-v1",
+  "title": "Count our steps",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 14
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Count a few steps with our capybara. Then read the characters for one and two.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4e00",
+      "hanzi": "一",
+      "readings": [
+        {
+          "readingId": "reading-4e00",
+          "pinyin": "yī",
+          "audioText": "一",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#一",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "one",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#一",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e00-1",
+          "text": "一起",
+          "pinyin": "yī qǐ",
+          "english": "together",
+          "readingId": "reading-4e00",
+          "context": {
+            "hanzi": "我们一起收拾书包。",
+            "english": "We pack our school bags together.",
+            "targetCharacter": "一"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#一起",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e00-2",
+          "text": "一直",
+          "pinyin": "yī zhí",
+          "english": "all the way; continuously",
+          "readingId": "reading-4e00",
+          "context": {
+            "hanzi": "我们一直往前走。",
+            "english": "We keep walking forwards.",
+            "targetCharacter": "一"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#一直",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the single horizontal stroke in 一.",
+        "demonstrationEnglish": "This is 一. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e00",
+        "delayedReview": {
+          "promptId": "later-4e00",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e00"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e00",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-4e8c",
+      "hanzi": "二",
+      "readings": [
+        {
+          "readingId": "reading-4e8c",
+          "pinyin": "èr",
+          "audioText": "二",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#二",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "two",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#二",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e8c-1",
+          "text": "第二",
+          "pinyin": "dì èr",
+          "english": "second",
+          "readingId": "reading-4e8c",
+          "context": {
+            "hanzi": "我在第二排找到座位。",
+            "english": "I find my seat in the second row.",
+            "targetCharacter": "二"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#第二",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e8c-2",
+          "text": "二月",
+          "pinyin": "èr yuè",
+          "english": "February",
+          "readingId": "reading-4e8c",
+          "context": {
+            "hanzi": "二月里，我们在家做纸花。",
+            "english": "In February, we make paper flowers at home.",
+            "targetCharacter": "二"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#二月",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Compare the two horizontal strokes of 二 with 一.",
+        "demonstrationEnglish": "This is 二. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e8c",
+        "delayedReview": {
+          "promptId": "later-4e8c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e8c"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e8c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-01-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4e00",
+        "familiar-4e8c"
+      ]
+    },
+    {
+      "stepId": "everyday-01-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-01-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-4e00",
+        "practice-two-4e00",
+        "practice-one-4e8c",
+        "practice-two-4e8c"
+      ]
+    },
+    {
+      "stepId": "everyday-01-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4e00",
+        "check-4e8c"
+      ]
+    },
+    {
+      "stepId": "everyday-01-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4e00",
+      "characterId": "char-4e00",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "一"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e00-choice-1",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-4e00-choice-2",
+          "hanzi": "二"
+        },
+        {
+          "choiceId": "familiar-4e00-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e00-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e00-choice-1"
+    },
+    {
+      "checkId": "check-4e00",
+      "characterId": "char-4e00",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "一"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e00-choice-1",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-4e00-choice-2",
+          "hanzi": "二"
+        },
+        {
+          "choiceId": "check-4e00-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e00-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e00-choice-1"
+    },
+    {
+      "checkId": "review-4e00",
+      "characterId": "char-4e00",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "一"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e00-choice-1",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-4e00-choice-2",
+          "hanzi": "二"
+        },
+        {
+          "choiceId": "review-4e00-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e00-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e00-choice-1"
+    },
+    {
+      "checkId": "practice-one-4e00",
+      "characterId": "char-4e00",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "一起"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e00-choice-1",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-one-4e00-choice-2",
+          "hanzi": "二"
+        },
+        {
+          "choiceId": "practice-one-4e00-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e00-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e00-choice-1"
+    },
+    {
+      "checkId": "practice-two-4e00",
+      "characterId": "char-4e00",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "一直"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e00-choice-1",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-two-4e00-choice-2",
+          "hanzi": "二"
+        },
+        {
+          "choiceId": "practice-two-4e00-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e00-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e00-choice-1"
+    },
+    {
+      "checkId": "familiar-4e8c",
+      "characterId": "char-4e8c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "二"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e8c-choice-1",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-4e8c-choice-2",
+          "hanzi": "二"
+        },
+        {
+          "choiceId": "familiar-4e8c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e8c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e8c-choice-2"
+    },
+    {
+      "checkId": "check-4e8c",
+      "characterId": "char-4e8c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "二"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e8c-choice-1",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-4e8c-choice-2",
+          "hanzi": "二"
+        },
+        {
+          "choiceId": "check-4e8c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e8c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e8c-choice-2"
+    },
+    {
+      "checkId": "review-4e8c",
+      "characterId": "char-4e8c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "二"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e8c-choice-1",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-4e8c-choice-2",
+          "hanzi": "二"
+        },
+        {
+          "choiceId": "review-4e8c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e8c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e8c-choice-2"
+    },
+    {
+      "checkId": "practice-one-4e8c",
+      "characterId": "char-4e8c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "第二"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e8c-choice-1",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-one-4e8c-choice-2",
+          "hanzi": "二"
+        },
+        {
+          "choiceId": "practice-one-4e8c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e8c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e8c-choice-2"
+    },
+    {
+      "checkId": "practice-two-4e8c",
+      "characterId": "char-4e8c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "二月"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e8c-choice-1",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-two-4e8c-choice-2",
+          "hanzi": "二"
+        },
+        {
+          "choiceId": "practice-two-4e8c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e8c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e8c-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4e00",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-01-v1/char-4e00",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-4e8c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-01-v1/char-4e8c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-01-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-01-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Count our steps",
+      "instructionEnglish": "Count a few steps with our capybara. Then read the characters for one and two."
+    },
+    "targets": [
+      {
+        "characterId": "char-4e00",
+        "readingId": "reading-4e00",
+        "familiarityCheckId": "familiar-4e00",
+        "practice": [
+          {
+            "wordId": "word-4e00-1",
+            "checkId": "practice-one-4e00"
+          },
+          {
+            "wordId": "word-4e00-2",
+            "checkId": "practice-two-4e00"
+          }
+        ],
+        "immediateCheckId": "check-4e00",
+        "reviewCheckId": "review-4e00"
+      },
+      {
+        "characterId": "char-4e8c",
+        "readingId": "reading-4e8c",
+        "familiarityCheckId": "familiar-4e8c",
+        "practice": [
+          {
+            "wordId": "word-4e8c-1",
+            "checkId": "practice-one-4e8c"
+          },
+          {
+            "wordId": "word-4e8c-2",
+            "checkId": "practice-two-4e8c"
+          }
+        ],
+        "immediateCheckId": "check-4e8c",
+        "reviewCheckId": "review-4e8c"
+      }
+    ],
+    "reader": {
+      "title": "Count our steps",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4e00-1",
+        "word-4e00-2",
+        "word-4e8c-1",
+        "word-4e8c-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4e00",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e00",
+          "transcript": "一",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e00",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e00",
+          "transcript": "一",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e00",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e00",
+          "transcript": "一",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e00",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e00",
+          "transcript": "一起",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e00",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e00",
+          "transcript": "一直",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e00",
+          "readingId": "reading-4e00",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "一",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e00-1",
+          "readingId": null,
+          "wordId": "word-4e00-1",
+          "checkId": null,
+          "transcript": "我们一起收拾书包。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e00-2",
+          "readingId": null,
+          "wordId": "word-4e00-2",
+          "checkId": null,
+          "transcript": "我们一直往前走。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-4e8c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e8c",
+          "transcript": "二",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e8c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e8c",
+          "transcript": "二",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e8c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e8c",
+          "transcript": "二",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e8c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e8c",
+          "transcript": "第二",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e8c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e8c",
+          "transcript": "二月",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e8c",
+          "readingId": "reading-4e8c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "二",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e8c-1",
+          "readingId": null,
+          "wordId": "word-4e8c-1",
+          "checkId": null,
+          "transcript": "我在第二排找到座位。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e8c-2",
+          "readingId": null,
+          "wordId": "word-4e8c-2",
+          "checkId": null,
+          "transcript": "二月里，我们在家做纸花。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

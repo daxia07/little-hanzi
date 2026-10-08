@@ -1,0 +1,341 @@
+{
+  "lessonId": "forest-01",
+  "lessonVersion": "forest-01-v2",
+  "title": "Build a Little Forest",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "forest",
+    "sequence": 1
+  },
+  "renderer": {
+    "adapterId": "forest-scripted-curriculum",
+    "adapterVersion": "planned-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Listen for two short word examples and notice their printed shapes.",
+    "objective": "Connect a spoken word, its meaning, and a printed character.",
+    "completion": "You finished this short practice; your responses can be reviewed later.",
+    "recovery": "If saving pauses, keep the page open and try again."
+  },
+  "characters": [
+    {
+      "characterId": "char-mu",
+      "hanzi": "木",
+      "readings": [
+        {
+          "readingId": "reading-mu",
+          "pinyin": "mù",
+          "audioText": "木",
+          "provenance": {
+            "source": "Little Hanzi original draft reading; Mandarin review pending",
+            "license": "Unverified draft metadata; source and licensing review pending",
+            "evidenceRef": "draft/editorial/forest-01-v2/char-mu/reading",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "tree; wood",
+          "provenance": {
+            "source": "Little Hanzi original draft meaning; Mandarin review pending",
+            "license": "Unverified draft metadata; source and licensing review pending",
+            "evidenceRef": "draft/editorial/forest-01-v2/char-mu/meaning",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-mu-mutou",
+          "text": "木头",
+          "pinyin": "mù tou",
+          "english": "wood",
+          "readingId": "reading-mu",
+          "context": {
+            "hanzi": "木头小船漂在水上。",
+            "english": "A little wooden boat floats on the water.",
+            "targetCharacter": "木"
+          },
+          "provenance": {
+            "source": "Little Hanzi original child-context draft; correctness review pending",
+            "license": "Unverified draft text; source and licensing review pending",
+            "evidenceRef": "draft/editorial/forest-01-v2/char-mu/word-mutou",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-mu-shumu",
+          "text": "树木",
+          "pinyin": "shù mù",
+          "english": "trees",
+          "readingId": "reading-mu",
+          "context": {
+            "hanzi": "公园里有树木。",
+            "english": "There are trees in the park.",
+            "targetCharacter": "木"
+          },
+          "provenance": {
+            "source": "Little Hanzi original child-context draft; correctness review pending",
+            "license": "Unverified draft text; source and licensing review pending",
+            "evidenceRef": "draft/editorial/forest-01-v2/char-mu/word-shumu",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Listen to the word, then notice its printed character.",
+        "hintEnglish": "Memory picture: imagine a simple tree with a trunk and branches; this is a learning mnemonic, not an etymology claim.",
+        "demonstrationEnglish": "The tutor models the sound, points to the printed form, and invites one choice.",
+        "recognitionCheckId": "check-mu-print",
+        "delayedReview": {
+          "promptId": "prompt-mu-delay",
+          "instructionEnglish": "Later, listen again and choose the matching printed character.",
+          "cueEnglish": "Which printed character matches the sound?",
+          "recognitionCheckId": "check-mu-word"
+        }
+      },
+      "assets": [
+        "asset-glyph-mu",
+        "asset-font-cjk",
+        "asset-audio-mandarin",
+        "asset-forest-illustrations"
+      ]
+    },
+    {
+      "characterId": "char-lin",
+      "hanzi": "林",
+      "readings": [
+        {
+          "readingId": "reading-lin",
+          "pinyin": "lín",
+          "audioText": "林",
+          "provenance": {
+            "source": "Little Hanzi original draft reading; Mandarin review pending",
+            "license": "Unverified draft metadata; source and licensing review pending",
+            "evidenceRef": "draft/editorial/forest-01-v2/char-lin/reading",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "woods; grove",
+          "provenance": {
+            "source": "Little Hanzi original draft meaning; Mandarin review pending",
+            "license": "Unverified draft metadata; source and licensing review pending",
+            "evidenceRef": "draft/editorial/forest-01-v2/char-lin/meaning",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-lin-senlin",
+          "text": "森林",
+          "pinyin": "sēn lín",
+          "english": "forest",
+          "readingId": "reading-lin",
+          "context": {
+            "hanzi": "小鸟飞进森林。",
+            "english": "A little bird flies into the forest.",
+            "targetCharacter": "林"
+          },
+          "provenance": {
+            "source": "Little Hanzi original child-context draft; correctness review pending",
+            "license": "Unverified draft text; source and licensing review pending",
+            "evidenceRef": "draft/editorial/forest-01-v2/char-lin/word-senlin",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-lin-shulin",
+          "text": "树林",
+          "pinyin": "shù lín",
+          "english": "woods",
+          "readingId": "reading-lin",
+          "context": {
+            "hanzi": "我们在树林里散步。",
+            "english": "We walk in the woods.",
+            "targetCharacter": "林"
+          },
+          "provenance": {
+            "source": "Little Hanzi original child-context draft; correctness review pending",
+            "license": "Unverified draft text; source and licensing review pending",
+            "evidenceRef": "draft/editorial/forest-01-v2/char-lin/word-shulin",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Listen to the word, then notice its printed character.",
+        "hintEnglish": "Memory picture: imagine two simple tree shapes together; this is a learning mnemonic, not an etymology claim.",
+        "demonstrationEnglish": "The tutor models the sound, points to the printed form, and invites one choice.",
+        "recognitionCheckId": "check-lin-print",
+        "delayedReview": {
+          "promptId": "prompt-lin-delay",
+          "instructionEnglish": "Later, listen again and choose the matching printed character.",
+          "cueEnglish": "Which printed character matches the sound?",
+          "recognitionCheckId": "check-lin-word"
+        }
+      },
+      "assets": [
+        "asset-glyph-lin",
+        "asset-font-cjk",
+        "asset-audio-mandarin",
+        "asset-forest-illustrations"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "step-welcome",
+      "instructionEnglish": "Listen to two short word examples.",
+      "kind": "familiarity",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "step-teach",
+      "instructionEnglish": "Notice each sound and its printed shape.",
+      "kind": "teach",
+      "recognitionCheckIds": ["check-mu-print", "check-lin-print"]
+    },
+    {
+      "stepId": "step-practice",
+      "instructionEnglish": "Listen, then choose a matching character.",
+      "kind": "practice",
+      "recognitionCheckIds": ["check-mu-word", "check-lin-word"]
+    },
+    {
+      "stepId": "step-plain-print",
+      "instructionEnglish": "Listen once more, then choose the printed character.",
+      "kind": "plain-print-check",
+      "recognitionCheckIds": ["check-mu-print", "check-lin-print"]
+    },
+    {
+      "stepId": "step-recap",
+      "instructionEnglish": "Review what you noticed and what you want to try again.",
+      "kind": "recap",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "check-mu-print",
+      "characterId": "char-mu",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen to the word, then choose the matching printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "木头"
+      },
+      "choices": [
+        {"choiceId": "choice-mu-print-mu", "hanzi": "木"},
+        {"choiceId": "choice-mu-print-lin", "hanzi": "林"},
+        {"choiceId": "choice-mu-print-da", "hanzi": "大"}
+      ],
+      "correctChoiceId": "choice-mu-print-mu"
+    },
+    {
+      "checkId": "check-mu-word",
+      "characterId": "char-mu",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the example word, then choose the matching character.",
+      "prompt": {
+        "english": "Which printed character belongs with the sound?",
+        "hanzi": "木头"
+      },
+      "choices": [
+        {"choiceId": "choice-mu-word-mu", "hanzi": "木"},
+        {"choiceId": "choice-mu-word-lin", "hanzi": "林"},
+        {"choiceId": "choice-mu-word-ren", "hanzi": "人"}
+      ],
+      "correctChoiceId": "choice-mu-word-mu"
+    },
+    {
+      "checkId": "check-lin-print",
+      "characterId": "char-lin",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen to the word, then choose the matching printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "森林"
+      },
+      "choices": [
+        {"choiceId": "choice-lin-print-lin", "hanzi": "林"},
+        {"choiceId": "choice-lin-print-mu", "hanzi": "木"},
+        {"choiceId": "choice-lin-print-da", "hanzi": "大"}
+      ],
+      "correctChoiceId": "choice-lin-print-lin"
+    },
+    {
+      "checkId": "check-lin-word",
+      "characterId": "char-lin",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the example word, then choose the matching character.",
+      "prompt": {
+        "english": "Which printed character belongs with the sound?",
+        "hanzi": "树林"
+      },
+      "choices": [
+        {"choiceId": "choice-lin-word-lin", "hanzi": "林"},
+        {"choiceId": "choice-lin-word-mu", "hanzi": "木"},
+        {"choiceId": "choice-lin-word-ren", "hanzi": "人"}
+      ],
+      "correctChoiceId": "choice-lin-word-lin"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-mu",
+      "kind": "glyph",
+      "source": "Unicode Han scalar U+6728; rendered glyph source not selected",
+      "license": "Glyph and font licensing unresolved; pending review",
+      "evidenceRef": "draft/assets/forest-01-v2/glyph-mu",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-lin",
+      "kind": "glyph",
+      "source": "Unicode Han scalar U+6797; rendered glyph source not selected",
+      "license": "Glyph and font licensing unresolved; pending review",
+      "evidenceRef": "draft/assets/forest-01-v2/glyph-lin",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-font-cjk",
+      "kind": "font",
+      "source": "System CJK fallback planned for the draft preview",
+      "license": "Platform font licensing unresolved; pending review",
+      "evidenceRef": "draft/assets/forest-01-v2/font-cjk",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-audio-mandarin",
+      "kind": "audio",
+      "source": "Device Mandarin speech synthesis planned for local draft preview",
+      "license": "Platform voice licensing and pronunciation review unresolved",
+      "evidenceRef": "draft/assets/forest-01-v2/audio-mandarin",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-forest-illustrations",
+      "kind": "illustration",
+      "source": "Little Hanzi original SVG implementation in components/forest/illustrations.tsx",
+      "license": "Project ownership and illustration review pending",
+      "evidenceRef": "components/forest/illustrations.tsx",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ]
+}

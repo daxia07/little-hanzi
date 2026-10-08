@@ -1,0 +1,337 @@
+{
+  "lessonId": "forest-01",
+  "lessonVersion": "forest-01-v2",
+  "title": "Build a Little Forest",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "forest",
+    "sequence": 1
+  },
+  "renderer": {
+    "adapterId": "forest-scripted",
+    "adapterVersion": "forest-scripted-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Listen for two characters and build a tiny forest.",
+    "objective": "Notice 木 and 林 in words, then read them in plain print.",
+    "completion": "You finished this small practice and saved its evidence.",
+    "recovery": "If a save pauses, keep this page open and try again."
+  },
+  "characters": [
+    {
+      "characterId": "char-mu",
+      "hanzi": "木",
+      "readings": [
+        {
+          "readingId": "reading-mu",
+          "pinyin": "mù",
+          "audioText": "木",
+          "provenance": {
+            "source": "Synthetic test-only Mandarin reading text; not an attributed source",
+            "license": "Synthetic test-only metadata; not release evidence",
+            "evidenceRef": "synthetic-fixture-only/mu-reading",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "tree; wood",
+          "provenance": {
+            "source": "Synthetic test-only English meaning; not an attributed source",
+            "license": "Synthetic test-only metadata; not release evidence",
+            "evidenceRef": "synthetic-fixture-only/mu-meaning",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-mu-shumu",
+          "text": "树木",
+          "pinyin": "shù mù",
+          "english": "trees",
+          "readingId": "reading-mu",
+          "context": {
+            "hanzi": "公园里有树木。",
+            "english": "There are trees in the park.",
+            "targetCharacter": "木"
+          },
+          "provenance": {
+            "source": "Synthetic test-only contextual word; not an attributed source",
+            "license": "Synthetic test-only metadata; not release evidence",
+            "evidenceRef": "synthetic-fixture-only/mu-shumu",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-mu-muwu",
+          "text": "木屋",
+          "pinyin": "mù wū",
+          "english": "wooden house",
+          "readingId": "reading-mu",
+          "context": {
+            "hanzi": "我们看见一间木屋。",
+            "english": "We see a wooden house.",
+            "targetCharacter": "木"
+          },
+          "provenance": {
+            "source": "Synthetic test-only contextual word; not an attributed source",
+            "license": "Synthetic test-only metadata; not release evidence",
+            "evidenceRef": "synthetic-fixture-only/mu-muwu",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Listen for 木 in a familiar word.",
+        "hintEnglish": "木 looks like a little tree.",
+        "demonstrationEnglish": "Trace the two crossing branches and the trunk.",
+        "recognitionCheckId": "check-mu-print",
+        "delayedReview": {
+          "promptId": "prompt-mu-delay",
+          "instructionEnglish": "Later, listen once more and choose 木.",
+          "cueEnglish": "Which printed character matches the sound?",
+          "recognitionCheckId": "check-mu-word"
+        }
+      },
+      "assets": ["asset-glyph-mu", "asset-font-cjk", "asset-audio-mandarin"]
+    },
+    {
+      "characterId": "char-lin",
+      "hanzi": "林",
+      "readings": [
+        {
+          "readingId": "reading-lin",
+          "pinyin": "lín",
+          "audioText": "林",
+          "provenance": {
+            "source": "Synthetic test-only Mandarin reading text; not an attributed source",
+            "license": "Synthetic test-only metadata; not release evidence",
+            "evidenceRef": "synthetic-fixture-only/lin-reading",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "woods; grove",
+          "provenance": {
+            "source": "Synthetic test-only English meaning; not an attributed source",
+            "license": "Synthetic test-only metadata; not release evidence",
+            "evidenceRef": "synthetic-fixture-only/lin-meaning",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-lin-shulin",
+          "text": "树林",
+          "pinyin": "shù lín",
+          "english": "woods",
+          "readingId": "reading-lin",
+          "context": {
+            "hanzi": "树林很安静。",
+            "english": "The woods are quiet.",
+            "targetCharacter": "林"
+          },
+          "provenance": {
+            "source": "Synthetic test-only contextual word; not an attributed source",
+            "license": "Synthetic test-only metadata; not release evidence",
+            "evidenceRef": "synthetic-fixture-only/lin-shulin",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-lin-linzi",
+          "text": "林子",
+          "pinyin": "lín zi",
+          "english": "grove",
+          "readingId": "reading-lin",
+          "context": {
+            "hanzi": "小鸟飞进林子。",
+            "english": "A little bird flies into the grove.",
+            "targetCharacter": "林"
+          },
+          "provenance": {
+            "source": "Synthetic test-only contextual word; not an attributed source",
+            "license": "Synthetic test-only metadata; not release evidence",
+            "evidenceRef": "synthetic-fixture-only/lin-linzi",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Listen for 林 when two trees make a grove.",
+        "hintEnglish": "林 puts two 木 characters together.",
+        "demonstrationEnglish": "Notice the two tree shapes standing side by side.",
+        "recognitionCheckId": "check-lin-print",
+        "delayedReview": {
+          "promptId": "prompt-lin-delay",
+          "instructionEnglish": "Later, listen once more and choose 林.",
+          "cueEnglish": "Which printed character matches the sound?",
+          "recognitionCheckId": "check-lin-word"
+        }
+      },
+      "assets": ["asset-glyph-lin", "asset-font-cjk", "asset-audio-mandarin"]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "step-welcome",
+      "instructionEnglish": "Welcome to the little forest.",
+      "kind": "teach",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "step-familiarity",
+      "instructionEnglish": "Listen and notice the two sounds.",
+      "kind": "familiarity",
+      "recognitionCheckIds": ["check-mu-word", "check-lin-word"]
+    },
+    {
+      "stepId": "step-teach",
+      "instructionEnglish": "Meet each character and its shape.",
+      "kind": "teach",
+      "recognitionCheckIds": ["check-mu-print", "check-lin-print"]
+    },
+    {
+      "stepId": "step-practice",
+      "instructionEnglish": "Practice choosing each character.",
+      "kind": "practice",
+      "recognitionCheckIds": ["check-mu-word", "check-lin-word"]
+    },
+    {
+      "stepId": "step-plain-print",
+      "instructionEnglish": "Read the characters in plain print.",
+      "kind": "plain-print-check",
+      "recognitionCheckIds": ["check-mu-print", "check-lin-print"]
+    },
+    {
+      "stepId": "step-recap",
+      "instructionEnglish": "Review what you noticed.",
+      "kind": "recap",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "check-mu-print",
+      "characterId": "char-mu",
+      "kind": "plain-print",
+      "instructionEnglish": "Choose the printed character for 木.",
+      "prompt": {
+        "english": "Which character is 木?",
+        "hanzi": "木"
+      },
+      "choices": [
+        { "choiceId": "choice-mu", "hanzi": "木" },
+        { "choiceId": "choice-lin", "hanzi": "林" },
+        { "choiceId": "choice-ren", "hanzi": "人" }
+      ],
+      "correctChoiceId": "choice-mu"
+    },
+    {
+      "checkId": "check-mu-word",
+      "characterId": "char-mu",
+      "kind": "word-context",
+      "instructionEnglish": "Choose 木 after hearing its word context.",
+      "prompt": {
+        "english": "Which character belongs in this word?",
+        "hanzi": "树木"
+      },
+      "choices": [
+        { "choiceId": "choice-mu-word", "hanzi": "木" },
+        { "choiceId": "choice-lin-word", "hanzi": "林" },
+        { "choiceId": "choice-da-word", "hanzi": "大" }
+      ],
+      "correctChoiceId": "choice-mu-word"
+    },
+    {
+      "checkId": "check-lin-print",
+      "characterId": "char-lin",
+      "kind": "plain-print",
+      "instructionEnglish": "Choose the printed character for 林.",
+      "prompt": {
+        "english": "Which character is 林?",
+        "hanzi": "林"
+      },
+      "choices": [
+        { "choiceId": "choice-lin-print", "hanzi": "林" },
+        { "choiceId": "choice-mu-print", "hanzi": "木" },
+        { "choiceId": "choice-ren-print", "hanzi": "人" }
+      ],
+      "correctChoiceId": "choice-lin-print"
+    },
+    {
+      "checkId": "check-lin-word",
+      "characterId": "char-lin",
+      "kind": "word-context",
+      "instructionEnglish": "Choose 林 after hearing its word context.",
+      "prompt": {
+        "english": "Which character belongs in this word?",
+        "hanzi": "树林"
+      },
+      "choices": [
+        { "choiceId": "choice-lin-word", "hanzi": "林" },
+        { "choiceId": "choice-mu-word", "hanzi": "木" },
+        { "choiceId": "choice-da-lin-word", "hanzi": "大" }
+      ],
+      "correctChoiceId": "choice-lin-word"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-mu",
+      "kind": "glyph",
+      "source": "Synthetic test-only glyph metadata for U+6728; not an attributed source",
+      "license": "Synthetic test-only metadata; not release evidence",
+      "evidenceRef": "synthetic-fixture-only/asset-glyph-mu",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-lin",
+      "kind": "glyph",
+      "source": "Synthetic test-only glyph metadata for U+6797; not an attributed source",
+      "license": "Synthetic test-only metadata; not release evidence",
+      "evidenceRef": "synthetic-fixture-only/asset-glyph-lin",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-font-cjk",
+      "kind": "font",
+      "source": "Synthetic test-only CJK font metadata; not an attributed source",
+      "license": "Synthetic test-only metadata; not release evidence",
+      "evidenceRef": "synthetic-fixture-only/asset-font-cjk",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-audio-mandarin",
+      "kind": "audio",
+      "source": "Synthetic test-only Mandarin audio metadata; not an attributed source",
+      "license": "Synthetic test-only metadata; not release evidence",
+      "evidenceRef": "synthetic-fixture-only/asset-audio-mandarin",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-forest-illustration",
+      "kind": "illustration",
+      "source": "Synthetic test-only forest illustration metadata; not an attributed source",
+      "license": "Synthetic test-only metadata; not release evidence",
+      "evidenceRef": "synthetic-fixture-only/asset-forest-illustration",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ]
+}

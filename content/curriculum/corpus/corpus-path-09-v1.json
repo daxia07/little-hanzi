@@ -1,0 +1,788 @@
+{
+  "lessonId": "corpus-path-09",
+  "lessonVersion": "corpus-path-09-v1",
+  "title": "A careful helper",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 9
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara helps a friend choose a book. Notice hands, looking, and a little reading goal.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-624b",
+      "hanzi": "手",
+      "readings": [
+        {
+          "readingId": "reading-624b",
+          "pinyin": "shǒu",
+          "audioText": "手",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#手",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "hand",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#手",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-624b-1",
+          "text": "手心",
+          "pinyin": "shǒu xīn",
+          "english": "palm of the hand",
+          "readingId": "reading-624b",
+          "context": {
+            "hanzi": "一颗小石子放在我的手心里。",
+            "english": "A little pebble rests in my palm.",
+            "targetCharacter": "手"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#手心",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-624b-2",
+          "text": "双手",
+          "pinyin": "shuāng shǒu",
+          "english": "both hands",
+          "readingId": "reading-624b",
+          "context": {
+            "hanzi": "我用双手拿着这本大书。",
+            "english": "I hold this big book with both hands.",
+            "targetCharacter": "手"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#双手",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the long middle stroke with a hook and the shorter strokes crossing it.",
+        "demonstrationEnglish": "This is 手. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-624b",
+        "delayedReview": {
+          "promptId": "later-624b",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-624b"
+        }
+      },
+      "assets": [
+        "asset-glyph-624b",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-76ee",
+      "hanzi": "目",
+      "readings": [
+        {
+          "readingId": "reading-76ee",
+          "pinyin": "mù",
+          "audioText": "目",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#目",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "eye; item in words",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#目",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-76ee-1",
+          "text": "目光",
+          "pinyin": "mù guāng",
+          "english": "gaze; where someone looks",
+          "readingId": "reading-76ee",
+          "context": {
+            "hanzi": "他的目光停在那本书上。",
+            "english": "His gaze rests on that book.",
+            "targetCharacter": "目"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#目光",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-76ee-2",
+          "text": "目标",
+          "pinyin": "mù biāo",
+          "english": "goal; target",
+          "readingId": "reading-76ee",
+          "context": {
+            "hanzi": "今天的目标是读完这本书。",
+            "english": "Today's goal is to finish reading this book.",
+            "targetCharacter": "目"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#目标",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Look for two short lines inside a tall box. 日 has only one inside line.",
+        "demonstrationEnglish": "This is 目. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-76ee",
+        "delayedReview": {
+          "promptId": "later-76ee",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-76ee"
+        }
+      },
+      "assets": [
+        "asset-glyph-76ee",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "path-09-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-624b",
+        "familiar-76ee"
+      ]
+    },
+    {
+      "stepId": "path-09-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "path-09-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-624b-1",
+        "practice-624b-2",
+        "practice-76ee-1",
+        "practice-76ee-2"
+      ]
+    },
+    {
+      "stepId": "path-09-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-624b",
+        "check-76ee"
+      ]
+    },
+    {
+      "stepId": "path-09-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-624b",
+      "characterId": "char-624b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "手"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-624b-choice-1",
+          "hanzi": "手"
+        },
+        {
+          "choiceId": "familiar-624b-choice-2",
+          "hanzi": "目"
+        },
+        {
+          "choiceId": "familiar-624b-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-624b-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-624b-choice-1"
+    },
+    {
+      "checkId": "check-624b",
+      "characterId": "char-624b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "手"
+      },
+      "choices": [
+        {
+          "choiceId": "check-624b-choice-1",
+          "hanzi": "手"
+        },
+        {
+          "choiceId": "check-624b-choice-2",
+          "hanzi": "目"
+        },
+        {
+          "choiceId": "check-624b-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-624b-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-624b-choice-1"
+    },
+    {
+      "checkId": "review-624b",
+      "characterId": "char-624b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "手"
+      },
+      "choices": [
+        {
+          "choiceId": "review-624b-choice-1",
+          "hanzi": "手"
+        },
+        {
+          "choiceId": "review-624b-choice-2",
+          "hanzi": "目"
+        },
+        {
+          "choiceId": "review-624b-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-624b-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-624b-choice-1"
+    },
+    {
+      "checkId": "practice-624b-1",
+      "characterId": "char-624b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "手心"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-624b-1-choice-1",
+          "hanzi": "手"
+        },
+        {
+          "choiceId": "practice-624b-1-choice-2",
+          "hanzi": "目"
+        },
+        {
+          "choiceId": "practice-624b-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-624b-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-624b-1-choice-1"
+    },
+    {
+      "checkId": "practice-624b-2",
+      "characterId": "char-624b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "双手"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-624b-2-choice-1",
+          "hanzi": "手"
+        },
+        {
+          "choiceId": "practice-624b-2-choice-2",
+          "hanzi": "目"
+        },
+        {
+          "choiceId": "practice-624b-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-624b-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-624b-2-choice-1"
+    },
+    {
+      "checkId": "familiar-76ee",
+      "characterId": "char-76ee",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "目"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-76ee-choice-1",
+          "hanzi": "手"
+        },
+        {
+          "choiceId": "familiar-76ee-choice-2",
+          "hanzi": "目"
+        },
+        {
+          "choiceId": "familiar-76ee-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-76ee-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-76ee-choice-2"
+    },
+    {
+      "checkId": "check-76ee",
+      "characterId": "char-76ee",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "目"
+      },
+      "choices": [
+        {
+          "choiceId": "check-76ee-choice-1",
+          "hanzi": "手"
+        },
+        {
+          "choiceId": "check-76ee-choice-2",
+          "hanzi": "目"
+        },
+        {
+          "choiceId": "check-76ee-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-76ee-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-76ee-choice-2"
+    },
+    {
+      "checkId": "review-76ee",
+      "characterId": "char-76ee",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "目"
+      },
+      "choices": [
+        {
+          "choiceId": "review-76ee-choice-1",
+          "hanzi": "手"
+        },
+        {
+          "choiceId": "review-76ee-choice-2",
+          "hanzi": "目"
+        },
+        {
+          "choiceId": "review-76ee-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-76ee-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-76ee-choice-2"
+    },
+    {
+      "checkId": "practice-76ee-1",
+      "characterId": "char-76ee",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "目光"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-76ee-1-choice-1",
+          "hanzi": "手"
+        },
+        {
+          "choiceId": "practice-76ee-1-choice-2",
+          "hanzi": "目"
+        },
+        {
+          "choiceId": "practice-76ee-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-76ee-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-76ee-1-choice-2"
+    },
+    {
+      "checkId": "practice-76ee-2",
+      "characterId": "char-76ee",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "目标"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-76ee-2-choice-1",
+          "hanzi": "手"
+        },
+        {
+          "choiceId": "practice-76ee-2-choice-2",
+          "hanzi": "目"
+        },
+        {
+          "choiceId": "practice-76ee-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-76ee-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-76ee-2-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-624b",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-09-v1/char-624b",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-76ee",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-09-v1/char-76ee",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Songti SC/STSong or local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/path-09-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device-provided speech; voice suitability and terms require review",
+      "evidenceRef": "draft/audio/path-09-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "A careful helper",
+      "instructionEnglish": "Our capybara helps a friend choose a book. Notice hands, looking, and a little reading goal."
+    },
+    "targets": [
+      {
+        "characterId": "char-624b",
+        "readingId": "reading-624b",
+        "familiarityCheckId": "familiar-624b",
+        "practice": [
+          {
+            "wordId": "word-624b-1",
+            "checkId": "practice-624b-1"
+          },
+          {
+            "wordId": "word-624b-2",
+            "checkId": "practice-624b-2"
+          }
+        ],
+        "immediateCheckId": "check-624b",
+        "reviewCheckId": "review-624b"
+      },
+      {
+        "characterId": "char-76ee",
+        "readingId": "reading-76ee",
+        "familiarityCheckId": "familiar-76ee",
+        "practice": [
+          {
+            "wordId": "word-76ee-1",
+            "checkId": "practice-76ee-1"
+          },
+          {
+            "wordId": "word-76ee-2",
+            "checkId": "practice-76ee-2"
+          }
+        ],
+        "immediateCheckId": "check-76ee",
+        "reviewCheckId": "review-76ee"
+      }
+    ],
+    "reader": {
+      "title": "Hands and careful looking",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-624b-1",
+        "word-624b-2",
+        "word-76ee-1",
+        "word-76ee-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-624b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-624b",
+          "transcript": "手",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-624b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-624b",
+          "transcript": "手",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-624b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-624b",
+          "transcript": "手",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-624b-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-624b-1",
+          "transcript": "手心",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-624b-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-624b-2",
+          "transcript": "双手",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-624b",
+          "readingId": "reading-624b",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "手",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-624b-1",
+          "readingId": null,
+          "wordId": "word-624b-1",
+          "checkId": null,
+          "transcript": "一颗小石子放在我的手心里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-624b-2",
+          "readingId": null,
+          "wordId": "word-624b-2",
+          "checkId": null,
+          "transcript": "我用双手拿着这本大书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-76ee",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-76ee",
+          "transcript": "目",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-76ee",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-76ee",
+          "transcript": "目",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-76ee",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-76ee",
+          "transcript": "目",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-76ee-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-76ee-1",
+          "transcript": "目光",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-76ee-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-76ee-2",
+          "transcript": "目标",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-76ee",
+          "readingId": "reading-76ee",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "目",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-76ee-1",
+          "readingId": null,
+          "wordId": "word-76ee-1",
+          "checkId": null,
+          "transcript": "他的目光停在那本书上。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-76ee-2",
+          "readingId": null,
+          "wordId": "word-76ee-2",
+          "checkId": null,
+          "transcript": "今天的目标是读完这本书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

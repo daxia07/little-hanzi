@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-16",
+  "lessonVersion": "everyday-16-v1",
+  "title": "Birds beside the pond",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 29
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara watches birds beside a pond. Read words for ducks, a feather and a swan.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-9e2d",
+      "hanzi": "鸭",
+      "readings": [
+        {
+          "readingId": "reading-9e2d",
+          "pinyin": "yā",
+          "audioText": "鸭",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#鸭",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "duck",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#鸭",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-9e2d-1",
+          "text": "鸭子",
+          "pinyin": "yā zi",
+          "english": "duck",
+          "readingId": "reading-9e2d",
+          "context": {
+            "hanzi": "鸭子在池塘里游泳。",
+            "english": "A duck swims in the pond.",
+            "targetCharacter": "鸭"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#鸭子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-9e2d-2",
+          "text": "野鸭",
+          "pinyin": "yě yā",
+          "english": "wild duck",
+          "readingId": "reading-9e2d",
+          "context": {
+            "hanzi": "我们远远地看着野鸭。",
+            "english": "We watch the wild duck from a distance.",
+            "targetCharacter": "鸭"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#野鸭",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 鸟 on the right of 鸭 and compare its left part with 田.",
+        "demonstrationEnglish": "This is 鸭. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-9e2d",
+        "delayedReview": {
+          "promptId": "later-9e2d",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-9e2d"
+        }
+      },
+      "assets": [
+        "asset-glyph-9e2d",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-9e45",
+      "hanzi": "鹅",
+      "readings": [
+        {
+          "readingId": "reading-9e45",
+          "pinyin": "é",
+          "audioText": "鹅",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#鹅",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "goose; also in 天鹅 (swan)",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#鹅",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-9e45-1",
+          "text": "鹅毛",
+          "pinyin": "é máo",
+          "english": "goose feather",
+          "readingId": "reading-9e45",
+          "context": {
+            "hanzi": "地上有一根白色的鹅毛。",
+            "english": "There is a white goose feather on the ground.",
+            "targetCharacter": "鹅"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#鹅毛",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-9e45-2",
+          "text": "天鹅",
+          "pinyin": "tiān é",
+          "english": "swan",
+          "readingId": "reading-9e45",
+          "context": {
+            "hanzi": "一只天鹅在湖面上游。",
+            "english": "A swan swims across the lake.",
+            "targetCharacter": "鹅"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#天鹅",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 鸟 on the right of 鹅 and look carefully at the strokes on the left.",
+        "demonstrationEnglish": "This is 鹅. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-9e45",
+        "delayedReview": {
+          "promptId": "later-9e45",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-9e45"
+        }
+      },
+      "assets": [
+        "asset-glyph-9e45",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-16-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-9e2d",
+        "familiar-9e45"
+      ]
+    },
+    {
+      "stepId": "everyday-16-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-16-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-9e2d",
+        "practice-two-9e2d",
+        "practice-one-9e45",
+        "practice-two-9e45"
+      ]
+    },
+    {
+      "stepId": "everyday-16-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-9e2d",
+        "check-9e45"
+      ]
+    },
+    {
+      "stepId": "everyday-16-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-9e2d",
+      "characterId": "char-9e2d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "鸭"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-9e2d-choice-1",
+          "hanzi": "鸭"
+        },
+        {
+          "choiceId": "familiar-9e2d-choice-2",
+          "hanzi": "鹅"
+        },
+        {
+          "choiceId": "familiar-9e2d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-9e2d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-9e2d-choice-1"
+    },
+    {
+      "checkId": "check-9e2d",
+      "characterId": "char-9e2d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "鸭"
+      },
+      "choices": [
+        {
+          "choiceId": "check-9e2d-choice-1",
+          "hanzi": "鸭"
+        },
+        {
+          "choiceId": "check-9e2d-choice-2",
+          "hanzi": "鹅"
+        },
+        {
+          "choiceId": "check-9e2d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-9e2d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-9e2d-choice-1"
+    },
+    {
+      "checkId": "review-9e2d",
+      "characterId": "char-9e2d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "鸭"
+      },
+      "choices": [
+        {
+          "choiceId": "review-9e2d-choice-1",
+          "hanzi": "鸭"
+        },
+        {
+          "choiceId": "review-9e2d-choice-2",
+          "hanzi": "鹅"
+        },
+        {
+          "choiceId": "review-9e2d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-9e2d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-9e2d-choice-1"
+    },
+    {
+      "checkId": "practice-one-9e2d",
+      "characterId": "char-9e2d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "鸭子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-9e2d-choice-1",
+          "hanzi": "鸭"
+        },
+        {
+          "choiceId": "practice-one-9e2d-choice-2",
+          "hanzi": "鹅"
+        },
+        {
+          "choiceId": "practice-one-9e2d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-9e2d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-9e2d-choice-1"
+    },
+    {
+      "checkId": "practice-two-9e2d",
+      "characterId": "char-9e2d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "野鸭"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-9e2d-choice-1",
+          "hanzi": "鸭"
+        },
+        {
+          "choiceId": "practice-two-9e2d-choice-2",
+          "hanzi": "鹅"
+        },
+        {
+          "choiceId": "practice-two-9e2d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-9e2d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-9e2d-choice-1"
+    },
+    {
+      "checkId": "familiar-9e45",
+      "characterId": "char-9e45",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "鹅"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-9e45-choice-1",
+          "hanzi": "鸭"
+        },
+        {
+          "choiceId": "familiar-9e45-choice-2",
+          "hanzi": "鹅"
+        },
+        {
+          "choiceId": "familiar-9e45-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-9e45-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-9e45-choice-2"
+    },
+    {
+      "checkId": "check-9e45",
+      "characterId": "char-9e45",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "鹅"
+      },
+      "choices": [
+        {
+          "choiceId": "check-9e45-choice-1",
+          "hanzi": "鸭"
+        },
+        {
+          "choiceId": "check-9e45-choice-2",
+          "hanzi": "鹅"
+        },
+        {
+          "choiceId": "check-9e45-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-9e45-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-9e45-choice-2"
+    },
+    {
+      "checkId": "review-9e45",
+      "characterId": "char-9e45",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "鹅"
+      },
+      "choices": [
+        {
+          "choiceId": "review-9e45-choice-1",
+          "hanzi": "鸭"
+        },
+        {
+          "choiceId": "review-9e45-choice-2",
+          "hanzi": "鹅"
+        },
+        {
+          "choiceId": "review-9e45-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-9e45-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-9e45-choice-2"
+    },
+    {
+      "checkId": "practice-one-9e45",
+      "characterId": "char-9e45",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "鹅毛"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-9e45-choice-1",
+          "hanzi": "鸭"
+        },
+        {
+          "choiceId": "practice-one-9e45-choice-2",
+          "hanzi": "鹅"
+        },
+        {
+          "choiceId": "practice-one-9e45-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-9e45-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-9e45-choice-2"
+    },
+    {
+      "checkId": "practice-two-9e45",
+      "characterId": "char-9e45",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "天鹅"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-9e45-choice-1",
+          "hanzi": "鸭"
+        },
+        {
+          "choiceId": "practice-two-9e45-choice-2",
+          "hanzi": "鹅"
+        },
+        {
+          "choiceId": "practice-two-9e45-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-9e45-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-9e45-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-9e2d",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-16-v1/char-9e2d",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-9e45",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-16-v1/char-9e45",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-16-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-16-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Birds beside the pond",
+      "instructionEnglish": "Our capybara watches birds beside a pond. Read words for ducks, a feather and a swan."
+    },
+    "targets": [
+      {
+        "characterId": "char-9e2d",
+        "readingId": "reading-9e2d",
+        "familiarityCheckId": "familiar-9e2d",
+        "practice": [
+          {
+            "wordId": "word-9e2d-1",
+            "checkId": "practice-one-9e2d"
+          },
+          {
+            "wordId": "word-9e2d-2",
+            "checkId": "practice-two-9e2d"
+          }
+        ],
+        "immediateCheckId": "check-9e2d",
+        "reviewCheckId": "review-9e2d"
+      },
+      {
+        "characterId": "char-9e45",
+        "readingId": "reading-9e45",
+        "familiarityCheckId": "familiar-9e45",
+        "practice": [
+          {
+            "wordId": "word-9e45-1",
+            "checkId": "practice-one-9e45"
+          },
+          {
+            "wordId": "word-9e45-2",
+            "checkId": "practice-two-9e45"
+          }
+        ],
+        "immediateCheckId": "check-9e45",
+        "reviewCheckId": "review-9e45"
+      }
+    ],
+    "reader": {
+      "title": "Birds beside the pond",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-9e2d-1",
+        "word-9e2d-2",
+        "word-9e45-1",
+        "word-9e45-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-9e2d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-9e2d",
+          "transcript": "鸭",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-9e2d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-9e2d",
+          "transcript": "鸭",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-9e2d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-9e2d",
+          "transcript": "鸭",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-9e2d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-9e2d",
+          "transcript": "鸭子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-9e2d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-9e2d",
+          "transcript": "野鸭",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-9e2d",
+          "readingId": "reading-9e2d",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "鸭",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9e2d-1",
+          "readingId": null,
+          "wordId": "word-9e2d-1",
+          "checkId": null,
+          "transcript": "鸭子在池塘里游泳。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9e2d-2",
+          "readingId": null,
+          "wordId": "word-9e2d-2",
+          "checkId": null,
+          "transcript": "我们远远地看着野鸭。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-9e45",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-9e45",
+          "transcript": "鹅",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-9e45",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-9e45",
+          "transcript": "鹅",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-9e45",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-9e45",
+          "transcript": "鹅",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-9e45",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-9e45",
+          "transcript": "鹅毛",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-9e45",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-9e45",
+          "transcript": "天鹅",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-9e45",
+          "readingId": "reading-9e45",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "鹅",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9e45-1",
+          "readingId": null,
+          "wordId": "word-9e45-1",
+          "checkId": null,
+          "transcript": "地上有一根白色的鹅毛。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9e45-2",
+          "readingId": null,
+          "wordId": "word-9e45-2",
+          "checkId": null,
+          "transcript": "一只天鹅在湖面上游。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

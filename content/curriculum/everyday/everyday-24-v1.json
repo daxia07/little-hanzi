@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-24",
+  "lessonVersion": "everyday-24-v1",
+  "title": "Books in a school bag",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 37
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara packs books and a notebook. Notice the character used when counting books.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4e66",
+      "hanzi": "书",
+      "readings": [
+        {
+          "readingId": "reading-4e66",
+          "pinyin": "shū",
+          "audioText": "书",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#书",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "book",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#书",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e66-1",
+          "text": "书本",
+          "pinyin": "shū běn",
+          "english": "books",
+          "readingId": "reading-4e66",
+          "context": {
+            "hanzi": "我们把书本放回书架。",
+            "english": "We put the books back on the shelf.",
+            "targetCharacter": "书"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#书本",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e66-2",
+          "text": "书包",
+          "pinyin": "shū bāo",
+          "english": "school bag",
+          "readingId": "reading-4e66",
+          "context": {
+            "hanzi": "我的书包里有一本故事书。",
+            "english": "There is a storybook in my school bag.",
+            "targetCharacter": "书"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#书包",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the long middle stroke and the upper dot of 书.",
+        "demonstrationEnglish": "This is 书. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e66",
+        "delayedReview": {
+          "promptId": "later-4e66",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e66"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e66",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-672c",
+      "hanzi": "本",
+      "readings": [
+        {
+          "readingId": "reading-672c",
+          "pinyin": "běn",
+          "audioText": "本",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#本",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "used to count books; root",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#本",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-672c-1",
+          "text": "本子",
+          "pinyin": "běn zi",
+          "english": "notebook",
+          "readingId": "reading-672c",
+          "context": {
+            "hanzi": "我在本子上画了一棵树。",
+            "english": "I draw a tree in the notebook.",
+            "targetCharacter": "本"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#本子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-672c-2",
+          "text": "书本",
+          "pinyin": "shū běn",
+          "english": "books",
+          "readingId": "reading-672c",
+          "context": {
+            "hanzi": "桌上整齐地放着书本。",
+            "english": "The books are arranged neatly on the table.",
+            "targetCharacter": "本"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#书本",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Compare 本 with 木 and notice the extra short line near the bottom.",
+        "demonstrationEnglish": "This is 本. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-672c",
+        "delayedReview": {
+          "promptId": "later-672c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-672c"
+        }
+      },
+      "assets": [
+        "asset-glyph-672c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-24-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4e66",
+        "familiar-672c"
+      ]
+    },
+    {
+      "stepId": "everyday-24-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-24-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-4e66",
+        "practice-two-4e66",
+        "practice-one-672c",
+        "practice-two-672c"
+      ]
+    },
+    {
+      "stepId": "everyday-24-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4e66",
+        "check-672c"
+      ]
+    },
+    {
+      "stepId": "everyday-24-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4e66",
+      "characterId": "char-4e66",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "书"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e66-choice-1",
+          "hanzi": "书"
+        },
+        {
+          "choiceId": "familiar-4e66-choice-2",
+          "hanzi": "本"
+        },
+        {
+          "choiceId": "familiar-4e66-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e66-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e66-choice-1"
+    },
+    {
+      "checkId": "check-4e66",
+      "characterId": "char-4e66",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "书"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e66-choice-1",
+          "hanzi": "书"
+        },
+        {
+          "choiceId": "check-4e66-choice-2",
+          "hanzi": "本"
+        },
+        {
+          "choiceId": "check-4e66-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e66-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e66-choice-1"
+    },
+    {
+      "checkId": "review-4e66",
+      "characterId": "char-4e66",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "书"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e66-choice-1",
+          "hanzi": "书"
+        },
+        {
+          "choiceId": "review-4e66-choice-2",
+          "hanzi": "本"
+        },
+        {
+          "choiceId": "review-4e66-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e66-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e66-choice-1"
+    },
+    {
+      "checkId": "practice-one-4e66",
+      "characterId": "char-4e66",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "书本"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e66-choice-1",
+          "hanzi": "书"
+        },
+        {
+          "choiceId": "practice-one-4e66-choice-2",
+          "hanzi": "本"
+        },
+        {
+          "choiceId": "practice-one-4e66-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e66-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e66-choice-1"
+    },
+    {
+      "checkId": "practice-two-4e66",
+      "characterId": "char-4e66",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "书包"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e66-choice-1",
+          "hanzi": "书"
+        },
+        {
+          "choiceId": "practice-two-4e66-choice-2",
+          "hanzi": "本"
+        },
+        {
+          "choiceId": "practice-two-4e66-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e66-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e66-choice-1"
+    },
+    {
+      "checkId": "familiar-672c",
+      "characterId": "char-672c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "本"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-672c-choice-1",
+          "hanzi": "书"
+        },
+        {
+          "choiceId": "familiar-672c-choice-2",
+          "hanzi": "本"
+        },
+        {
+          "choiceId": "familiar-672c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-672c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-672c-choice-2"
+    },
+    {
+      "checkId": "check-672c",
+      "characterId": "char-672c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "本"
+      },
+      "choices": [
+        {
+          "choiceId": "check-672c-choice-1",
+          "hanzi": "书"
+        },
+        {
+          "choiceId": "check-672c-choice-2",
+          "hanzi": "本"
+        },
+        {
+          "choiceId": "check-672c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-672c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-672c-choice-2"
+    },
+    {
+      "checkId": "review-672c",
+      "characterId": "char-672c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "本"
+      },
+      "choices": [
+        {
+          "choiceId": "review-672c-choice-1",
+          "hanzi": "书"
+        },
+        {
+          "choiceId": "review-672c-choice-2",
+          "hanzi": "本"
+        },
+        {
+          "choiceId": "review-672c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-672c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-672c-choice-2"
+    },
+    {
+      "checkId": "practice-one-672c",
+      "characterId": "char-672c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "本子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-672c-choice-1",
+          "hanzi": "书"
+        },
+        {
+          "choiceId": "practice-one-672c-choice-2",
+          "hanzi": "本"
+        },
+        {
+          "choiceId": "practice-one-672c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-672c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-672c-choice-2"
+    },
+    {
+      "checkId": "practice-two-672c",
+      "characterId": "char-672c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "书本"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-672c-choice-1",
+          "hanzi": "书"
+        },
+        {
+          "choiceId": "practice-two-672c-choice-2",
+          "hanzi": "本"
+        },
+        {
+          "choiceId": "practice-two-672c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-672c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-672c-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4e66",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-24-v1/char-4e66",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-672c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-24-v1/char-672c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-24-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-24-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Books in a school bag",
+      "instructionEnglish": "Our capybara packs books and a notebook. Notice the character used when counting books."
+    },
+    "targets": [
+      {
+        "characterId": "char-4e66",
+        "readingId": "reading-4e66",
+        "familiarityCheckId": "familiar-4e66",
+        "practice": [
+          {
+            "wordId": "word-4e66-1",
+            "checkId": "practice-one-4e66"
+          },
+          {
+            "wordId": "word-4e66-2",
+            "checkId": "practice-two-4e66"
+          }
+        ],
+        "immediateCheckId": "check-4e66",
+        "reviewCheckId": "review-4e66"
+      },
+      {
+        "characterId": "char-672c",
+        "readingId": "reading-672c",
+        "familiarityCheckId": "familiar-672c",
+        "practice": [
+          {
+            "wordId": "word-672c-1",
+            "checkId": "practice-one-672c"
+          },
+          {
+            "wordId": "word-672c-2",
+            "checkId": "practice-two-672c"
+          }
+        ],
+        "immediateCheckId": "check-672c",
+        "reviewCheckId": "review-672c"
+      }
+    ],
+    "reader": {
+      "title": "Books in a school bag",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4e66-1",
+        "word-4e66-2",
+        "word-672c-1",
+        "word-672c-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4e66",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e66",
+          "transcript": "书",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e66",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e66",
+          "transcript": "书",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e66",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e66",
+          "transcript": "书",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e66",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e66",
+          "transcript": "书本",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e66",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e66",
+          "transcript": "书包",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e66",
+          "readingId": "reading-4e66",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "书",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e66-1",
+          "readingId": null,
+          "wordId": "word-4e66-1",
+          "checkId": null,
+          "transcript": "我们把书本放回书架。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e66-2",
+          "readingId": null,
+          "wordId": "word-4e66-2",
+          "checkId": null,
+          "transcript": "我的书包里有一本故事书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-672c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-672c",
+          "transcript": "本",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-672c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-672c",
+          "transcript": "本",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-672c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-672c",
+          "transcript": "本",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-672c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-672c",
+          "transcript": "本子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-672c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-672c",
+          "transcript": "书本",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-672c",
+          "readingId": "reading-672c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "本",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-672c-1",
+          "readingId": null,
+          "wordId": "word-672c-1",
+          "checkId": null,
+          "transcript": "我在本子上画了一棵树。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-672c-2",
+          "readingId": null,
+          "wordId": "word-672c-2",
+          "checkId": null,
+          "transcript": "桌上整齐地放着书本。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

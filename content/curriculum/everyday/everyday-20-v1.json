@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-20",
+  "lessonVersion": "everyday-20-v1",
+  "title": "Eggs and bread",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 33
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara visits the kitchen for eggs, noodles and bread. Read the target characters inside each word.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-86cb",
+      "hanzi": "蛋",
+      "readings": [
+        {
+          "readingId": "reading-86cb",
+          "pinyin": "dàn",
+          "audioText": "蛋",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#蛋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "egg",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#蛋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-86cb-1",
+          "text": "鸡蛋",
+          "pinyin": "jī dàn",
+          "english": "chicken egg",
+          "readingId": "reading-86cb",
+          "context": {
+            "hanzi": "盒子里放着六个鸡蛋。",
+            "english": "There are six chicken eggs in the box.",
+            "targetCharacter": "蛋"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#鸡蛋",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-86cb-2",
+          "text": "蛋黄",
+          "pinyin": "dàn huáng",
+          "english": "egg yolk",
+          "readingId": "reading-86cb",
+          "context": {
+            "hanzi": "蛋黄是黄色的。",
+            "english": "The egg yolk is yellow.",
+            "targetCharacter": "蛋"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#蛋黄",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 虫 at the bottom of 蛋 and the different strokes above it.",
+        "demonstrationEnglish": "This is 蛋. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-86cb",
+        "delayedReview": {
+          "promptId": "later-86cb",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-86cb"
+        }
+      },
+      "assets": [
+        "asset-glyph-86cb",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-9762",
+      "hanzi": "面",
+      "readings": [
+        {
+          "readingId": "reading-9762",
+          "pinyin": "miàn",
+          "audioText": "面",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#面",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "noodle; face or surface",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#面",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-9762-1",
+          "text": "面条",
+          "pinyin": "miàn tiáo",
+          "english": "noodles",
+          "readingId": "reading-9762",
+          "context": {
+            "hanzi": "碗里的面条热乎乎的。",
+            "english": "The noodles in the bowl are warm.",
+            "targetCharacter": "面"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#面条",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-9762-2",
+          "text": "面包",
+          "pinyin": "miàn bāo",
+          "english": "bread",
+          "readingId": "reading-9762",
+          "context": {
+            "hanzi": "我们把面包放在盘子里。",
+            "english": "We put the bread on a plate.",
+            "targetCharacter": "面"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#面包",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Look at the inner lines enclosed by the outer shape of 面.",
+        "demonstrationEnglish": "This is 面. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-9762",
+        "delayedReview": {
+          "promptId": "later-9762",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-9762"
+        }
+      },
+      "assets": [
+        "asset-glyph-9762",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-20-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-86cb",
+        "familiar-9762"
+      ]
+    },
+    {
+      "stepId": "everyday-20-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-20-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-86cb",
+        "practice-two-86cb",
+        "practice-one-9762",
+        "practice-two-9762"
+      ]
+    },
+    {
+      "stepId": "everyday-20-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-86cb",
+        "check-9762"
+      ]
+    },
+    {
+      "stepId": "everyday-20-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-86cb",
+      "characterId": "char-86cb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "蛋"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-86cb-choice-1",
+          "hanzi": "蛋"
+        },
+        {
+          "choiceId": "familiar-86cb-choice-2",
+          "hanzi": "面"
+        },
+        {
+          "choiceId": "familiar-86cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-86cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-86cb-choice-1"
+    },
+    {
+      "checkId": "check-86cb",
+      "characterId": "char-86cb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "蛋"
+      },
+      "choices": [
+        {
+          "choiceId": "check-86cb-choice-1",
+          "hanzi": "蛋"
+        },
+        {
+          "choiceId": "check-86cb-choice-2",
+          "hanzi": "面"
+        },
+        {
+          "choiceId": "check-86cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-86cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-86cb-choice-1"
+    },
+    {
+      "checkId": "review-86cb",
+      "characterId": "char-86cb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "蛋"
+      },
+      "choices": [
+        {
+          "choiceId": "review-86cb-choice-1",
+          "hanzi": "蛋"
+        },
+        {
+          "choiceId": "review-86cb-choice-2",
+          "hanzi": "面"
+        },
+        {
+          "choiceId": "review-86cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-86cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-86cb-choice-1"
+    },
+    {
+      "checkId": "practice-one-86cb",
+      "characterId": "char-86cb",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "鸡蛋"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-86cb-choice-1",
+          "hanzi": "蛋"
+        },
+        {
+          "choiceId": "practice-one-86cb-choice-2",
+          "hanzi": "面"
+        },
+        {
+          "choiceId": "practice-one-86cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-86cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-86cb-choice-1"
+    },
+    {
+      "checkId": "practice-two-86cb",
+      "characterId": "char-86cb",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "蛋黄"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-86cb-choice-1",
+          "hanzi": "蛋"
+        },
+        {
+          "choiceId": "practice-two-86cb-choice-2",
+          "hanzi": "面"
+        },
+        {
+          "choiceId": "practice-two-86cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-86cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-86cb-choice-1"
+    },
+    {
+      "checkId": "familiar-9762",
+      "characterId": "char-9762",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "面"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-9762-choice-1",
+          "hanzi": "蛋"
+        },
+        {
+          "choiceId": "familiar-9762-choice-2",
+          "hanzi": "面"
+        },
+        {
+          "choiceId": "familiar-9762-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-9762-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-9762-choice-2"
+    },
+    {
+      "checkId": "check-9762",
+      "characterId": "char-9762",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "面"
+      },
+      "choices": [
+        {
+          "choiceId": "check-9762-choice-1",
+          "hanzi": "蛋"
+        },
+        {
+          "choiceId": "check-9762-choice-2",
+          "hanzi": "面"
+        },
+        {
+          "choiceId": "check-9762-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-9762-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-9762-choice-2"
+    },
+    {
+      "checkId": "review-9762",
+      "characterId": "char-9762",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "面"
+      },
+      "choices": [
+        {
+          "choiceId": "review-9762-choice-1",
+          "hanzi": "蛋"
+        },
+        {
+          "choiceId": "review-9762-choice-2",
+          "hanzi": "面"
+        },
+        {
+          "choiceId": "review-9762-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-9762-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-9762-choice-2"
+    },
+    {
+      "checkId": "practice-one-9762",
+      "characterId": "char-9762",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "面条"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-9762-choice-1",
+          "hanzi": "蛋"
+        },
+        {
+          "choiceId": "practice-one-9762-choice-2",
+          "hanzi": "面"
+        },
+        {
+          "choiceId": "practice-one-9762-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-9762-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-9762-choice-2"
+    },
+    {
+      "checkId": "practice-two-9762",
+      "characterId": "char-9762",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "面包"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-9762-choice-1",
+          "hanzi": "蛋"
+        },
+        {
+          "choiceId": "practice-two-9762-choice-2",
+          "hanzi": "面"
+        },
+        {
+          "choiceId": "practice-two-9762-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-9762-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-9762-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-86cb",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-20-v1/char-86cb",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-9762",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-20-v1/char-9762",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-20-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-20-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Eggs and bread",
+      "instructionEnglish": "Our capybara visits the kitchen for eggs, noodles and bread. Read the target characters inside each word."
+    },
+    "targets": [
+      {
+        "characterId": "char-86cb",
+        "readingId": "reading-86cb",
+        "familiarityCheckId": "familiar-86cb",
+        "practice": [
+          {
+            "wordId": "word-86cb-1",
+            "checkId": "practice-one-86cb"
+          },
+          {
+            "wordId": "word-86cb-2",
+            "checkId": "practice-two-86cb"
+          }
+        ],
+        "immediateCheckId": "check-86cb",
+        "reviewCheckId": "review-86cb"
+      },
+      {
+        "characterId": "char-9762",
+        "readingId": "reading-9762",
+        "familiarityCheckId": "familiar-9762",
+        "practice": [
+          {
+            "wordId": "word-9762-1",
+            "checkId": "practice-one-9762"
+          },
+          {
+            "wordId": "word-9762-2",
+            "checkId": "practice-two-9762"
+          }
+        ],
+        "immediateCheckId": "check-9762",
+        "reviewCheckId": "review-9762"
+      }
+    ],
+    "reader": {
+      "title": "Eggs and bread",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-86cb-1",
+        "word-86cb-2",
+        "word-9762-1",
+        "word-9762-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-86cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-86cb",
+          "transcript": "蛋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-86cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-86cb",
+          "transcript": "蛋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-86cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-86cb",
+          "transcript": "蛋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-86cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-86cb",
+          "transcript": "鸡蛋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-86cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-86cb",
+          "transcript": "蛋黄",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-86cb",
+          "readingId": "reading-86cb",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "蛋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-86cb-1",
+          "readingId": null,
+          "wordId": "word-86cb-1",
+          "checkId": null,
+          "transcript": "盒子里放着六个鸡蛋。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-86cb-2",
+          "readingId": null,
+          "wordId": "word-86cb-2",
+          "checkId": null,
+          "transcript": "蛋黄是黄色的。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-9762",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-9762",
+          "transcript": "面",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-9762",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-9762",
+          "transcript": "面",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-9762",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-9762",
+          "transcript": "面",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-9762",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-9762",
+          "transcript": "面条",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-9762",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-9762",
+          "transcript": "面包",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-9762",
+          "readingId": "reading-9762",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "面",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9762-1",
+          "readingId": null,
+          "wordId": "word-9762-1",
+          "checkId": null,
+          "transcript": "碗里的面条热乎乎的。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9762-2",
+          "readingId": null,
+          "wordId": "word-9762-2",
+          "checkId": null,
+          "transcript": "我们把面包放在盘子里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

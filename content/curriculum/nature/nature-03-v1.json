@@ -1,0 +1,788 @@
+{
+  "lessonId": "nature-03",
+  "lessonVersion": "nature-03-v1",
+  "title": "Look closely on the path",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 13
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara pauses on the path. Look closely at an insect and some stones without disturbing them.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-866b",
+      "hanzi": "虫",
+      "readings": [
+        {
+          "readingId": "reading-866b",
+          "pinyin": "chóng",
+          "audioText": "虫",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#虫",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "insect; bug",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#虫",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-866b-1",
+          "text": "虫子",
+          "pinyin": "chóng zi",
+          "english": "bug; insect",
+          "readingId": "reading-866b",
+          "context": {
+            "hanzi": "一只虫子在叶子上爬。",
+            "english": "A bug crawls on a leaf.",
+            "targetCharacter": "虫"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#虫子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-866b-2",
+          "text": "昆虫",
+          "pinyin": "kūn chóng",
+          "english": "insect",
+          "readingId": "reading-866b",
+          "context": {
+            "hanzi": "我们安静地观察昆虫。",
+            "english": "We quietly observe the insects.",
+            "targetCharacter": "虫"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#昆虫",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the box crossed by a middle stroke, then look at the strokes beneath it.",
+        "demonstrationEnglish": "This is 虫. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-866b",
+        "delayedReview": {
+          "promptId": "later-866b",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-866b"
+        }
+      },
+      "assets": [
+        "asset-glyph-866b",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-77f3",
+      "hanzi": "石",
+      "readings": [
+        {
+          "readingId": "reading-77f3",
+          "pinyin": "shí",
+          "audioText": "石",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#石",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "stone; rock",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#石",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-77f3-1",
+          "text": "石头",
+          "pinyin": "shí tou",
+          "english": "stone; rock",
+          "readingId": "reading-77f3",
+          "context": {
+            "hanzi": "小路旁边有一块石头。",
+            "english": "There is a stone beside the little path.",
+            "targetCharacter": "石"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#石头",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-77f3-2",
+          "text": "石子",
+          "pinyin": "shí zǐ",
+          "english": "small stone; pebble",
+          "readingId": "reading-77f3",
+          "context": {
+            "hanzi": "我们绕过地上的石子。",
+            "english": "We walk around the pebbles on the ground.",
+            "targetCharacter": "石"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/nature-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/nature-cc-cedict-20261008.json#石子",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Look for a sloping stroke beside the box. Compare 石 carefully with 口.",
+        "demonstrationEnglish": "This is 石. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-77f3",
+        "delayedReview": {
+          "promptId": "later-77f3",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-77f3"
+        }
+      },
+      "assets": [
+        "asset-glyph-77f3",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "nature-03-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-866b",
+        "familiar-77f3"
+      ]
+    },
+    {
+      "stepId": "nature-03-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "nature-03-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-866b",
+        "practice-two-866b",
+        "practice-one-77f3",
+        "practice-two-77f3"
+      ]
+    },
+    {
+      "stepId": "nature-03-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-866b",
+        "check-77f3"
+      ]
+    },
+    {
+      "stepId": "nature-03-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-866b",
+      "characterId": "char-866b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "虫"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-866b-choice-1",
+          "hanzi": "虫"
+        },
+        {
+          "choiceId": "familiar-866b-choice-2",
+          "hanzi": "石"
+        },
+        {
+          "choiceId": "familiar-866b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-866b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-866b-choice-1"
+    },
+    {
+      "checkId": "check-866b",
+      "characterId": "char-866b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "虫"
+      },
+      "choices": [
+        {
+          "choiceId": "check-866b-choice-1",
+          "hanzi": "虫"
+        },
+        {
+          "choiceId": "check-866b-choice-2",
+          "hanzi": "石"
+        },
+        {
+          "choiceId": "check-866b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-866b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-866b-choice-1"
+    },
+    {
+      "checkId": "review-866b",
+      "characterId": "char-866b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "虫"
+      },
+      "choices": [
+        {
+          "choiceId": "review-866b-choice-1",
+          "hanzi": "虫"
+        },
+        {
+          "choiceId": "review-866b-choice-2",
+          "hanzi": "石"
+        },
+        {
+          "choiceId": "review-866b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-866b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-866b-choice-1"
+    },
+    {
+      "checkId": "practice-one-866b",
+      "characterId": "char-866b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "虫子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-866b-choice-1",
+          "hanzi": "虫"
+        },
+        {
+          "choiceId": "practice-one-866b-choice-2",
+          "hanzi": "石"
+        },
+        {
+          "choiceId": "practice-one-866b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-866b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-866b-choice-1"
+    },
+    {
+      "checkId": "practice-two-866b",
+      "characterId": "char-866b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "昆虫"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-866b-choice-1",
+          "hanzi": "虫"
+        },
+        {
+          "choiceId": "practice-two-866b-choice-2",
+          "hanzi": "石"
+        },
+        {
+          "choiceId": "practice-two-866b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-866b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-866b-choice-1"
+    },
+    {
+      "checkId": "familiar-77f3",
+      "characterId": "char-77f3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "石"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-77f3-choice-1",
+          "hanzi": "虫"
+        },
+        {
+          "choiceId": "familiar-77f3-choice-2",
+          "hanzi": "石"
+        },
+        {
+          "choiceId": "familiar-77f3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-77f3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-77f3-choice-2"
+    },
+    {
+      "checkId": "check-77f3",
+      "characterId": "char-77f3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "石"
+      },
+      "choices": [
+        {
+          "choiceId": "check-77f3-choice-1",
+          "hanzi": "虫"
+        },
+        {
+          "choiceId": "check-77f3-choice-2",
+          "hanzi": "石"
+        },
+        {
+          "choiceId": "check-77f3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-77f3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-77f3-choice-2"
+    },
+    {
+      "checkId": "review-77f3",
+      "characterId": "char-77f3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "石"
+      },
+      "choices": [
+        {
+          "choiceId": "review-77f3-choice-1",
+          "hanzi": "虫"
+        },
+        {
+          "choiceId": "review-77f3-choice-2",
+          "hanzi": "石"
+        },
+        {
+          "choiceId": "review-77f3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-77f3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-77f3-choice-2"
+    },
+    {
+      "checkId": "practice-one-77f3",
+      "characterId": "char-77f3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "石头"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-77f3-choice-1",
+          "hanzi": "虫"
+        },
+        {
+          "choiceId": "practice-one-77f3-choice-2",
+          "hanzi": "石"
+        },
+        {
+          "choiceId": "practice-one-77f3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-77f3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-77f3-choice-2"
+    },
+    {
+      "checkId": "practice-two-77f3",
+      "characterId": "char-77f3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "石子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-77f3-choice-1",
+          "hanzi": "虫"
+        },
+        {
+          "choiceId": "practice-two-77f3-choice-2",
+          "hanzi": "石"
+        },
+        {
+          "choiceId": "practice-two-77f3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-77f3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-77f3-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-866b",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/nature-03-v1/char-866b",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-77f3",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/nature-03-v1/char-77f3",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/nature-03-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/nature-03-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Look closely on the path",
+      "instructionEnglish": "Our capybara pauses on the path. Look closely at an insect and some stones without disturbing them."
+    },
+    "targets": [
+      {
+        "characterId": "char-866b",
+        "readingId": "reading-866b",
+        "familiarityCheckId": "familiar-866b",
+        "practice": [
+          {
+            "wordId": "word-866b-1",
+            "checkId": "practice-one-866b"
+          },
+          {
+            "wordId": "word-866b-2",
+            "checkId": "practice-two-866b"
+          }
+        ],
+        "immediateCheckId": "check-866b",
+        "reviewCheckId": "review-866b"
+      },
+      {
+        "characterId": "char-77f3",
+        "readingId": "reading-77f3",
+        "familiarityCheckId": "familiar-77f3",
+        "practice": [
+          {
+            "wordId": "word-77f3-1",
+            "checkId": "practice-one-77f3"
+          },
+          {
+            "wordId": "word-77f3-2",
+            "checkId": "practice-two-77f3"
+          }
+        ],
+        "immediateCheckId": "check-77f3",
+        "reviewCheckId": "review-77f3"
+      }
+    ],
+    "reader": {
+      "title": "Small things on a walk",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-866b-1",
+        "word-866b-2",
+        "word-77f3-1",
+        "word-77f3-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-866b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-866b",
+          "transcript": "虫",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-866b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-866b",
+          "transcript": "虫",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-866b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-866b",
+          "transcript": "虫",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-866b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-866b",
+          "transcript": "虫子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-866b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-866b",
+          "transcript": "昆虫",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-866b",
+          "readingId": "reading-866b",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "虫",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-866b-1",
+          "readingId": null,
+          "wordId": "word-866b-1",
+          "checkId": null,
+          "transcript": "一只虫子在叶子上爬。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-866b-2",
+          "readingId": null,
+          "wordId": "word-866b-2",
+          "checkId": null,
+          "transcript": "我们安静地观察昆虫。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-77f3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-77f3",
+          "transcript": "石",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-77f3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-77f3",
+          "transcript": "石",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-77f3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-77f3",
+          "transcript": "石",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-77f3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-77f3",
+          "transcript": "石头",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-77f3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-77f3",
+          "transcript": "石子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-77f3",
+          "readingId": "reading-77f3",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "石",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-77f3-1",
+          "readingId": null,
+          "wordId": "word-77f3-1",
+          "checkId": null,
+          "transcript": "小路旁边有一块石头。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-77f3-2",
+          "readingId": null,
+          "wordId": "word-77f3-2",
+          "checkId": null,
+          "transcript": "我们绕过地上的石子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

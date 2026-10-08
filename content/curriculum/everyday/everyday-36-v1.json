@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-36",
+  "lessonVersion": "everyday-36-v1",
+  "title": "Feelings in a story",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 49
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara reads a story about feelings. Notice words about smiling, laughter and crying.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-7b11",
+      "hanzi": "笑",
+      "readings": [
+        {
+          "readingId": "reading-7b11",
+          "pinyin": "xiào",
+          "audioText": "笑",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#笑",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "smile; laugh",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#笑",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7b11-1",
+          "text": "微笑",
+          "pinyin": "wēi xiào",
+          "english": "smile",
+          "readingId": "reading-7b11",
+          "context": {
+            "hanzi": "朋友向我微笑。",
+            "english": "My friend smiles at me.",
+            "targetCharacter": "笑"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#微笑",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7b11-2",
+          "text": "笑声",
+          "pinyin": "xiào shēng",
+          "english": "laughter",
+          "readingId": "reading-7b11",
+          "context": {
+            "hanzi": "院子里传来孩子们的笑声。",
+            "english": "The sound of children laughing comes from the yard.",
+            "targetCharacter": "笑"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#笑声",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the bamboo-shaped top of 笑 and the spreading lower strokes.",
+        "demonstrationEnglish": "This is 笑. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7b11",
+        "delayedReview": {
+          "promptId": "later-7b11",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7b11"
+        }
+      },
+      "assets": [
+        "asset-glyph-7b11",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-54ed",
+      "hanzi": "哭",
+      "readings": [
+        {
+          "readingId": "reading-54ed",
+          "pinyin": "kū",
+          "audioText": "哭",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#哭",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "cry",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#哭",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-54ed-1",
+          "text": "哭泣",
+          "pinyin": "kū qì",
+          "english": "cry; weep",
+          "readingId": "reading-54ed",
+          "context": {
+            "hanzi": "故事里的孩子难过地哭泣。",
+            "english": "The child in the story cries sadly.",
+            "targetCharacter": "哭"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#哭泣",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-54ed-2",
+          "text": "哭声",
+          "pinyin": "kū shēng",
+          "english": "sound of crying",
+          "readingId": "reading-54ed",
+          "context": {
+            "hanzi": "妈妈听到哭声，就走过来安慰孩子。",
+            "english": "Mum hears crying and comes over to comfort the child.",
+            "targetCharacter": "哭"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#哭声",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the two 口 shapes above the lower strokes in 哭.",
+        "demonstrationEnglish": "This is 哭. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-54ed",
+        "delayedReview": {
+          "promptId": "later-54ed",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-54ed"
+        }
+      },
+      "assets": [
+        "asset-glyph-54ed",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-36-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-7b11",
+        "familiar-54ed"
+      ]
+    },
+    {
+      "stepId": "everyday-36-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-36-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-7b11",
+        "practice-two-7b11",
+        "practice-one-54ed",
+        "practice-two-54ed"
+      ]
+    },
+    {
+      "stepId": "everyday-36-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-7b11",
+        "check-54ed"
+      ]
+    },
+    {
+      "stepId": "everyday-36-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-7b11",
+      "characterId": "char-7b11",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "笑"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7b11-choice-1",
+          "hanzi": "笑"
+        },
+        {
+          "choiceId": "familiar-7b11-choice-2",
+          "hanzi": "哭"
+        },
+        {
+          "choiceId": "familiar-7b11-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7b11-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7b11-choice-1"
+    },
+    {
+      "checkId": "check-7b11",
+      "characterId": "char-7b11",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "笑"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7b11-choice-1",
+          "hanzi": "笑"
+        },
+        {
+          "choiceId": "check-7b11-choice-2",
+          "hanzi": "哭"
+        },
+        {
+          "choiceId": "check-7b11-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7b11-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7b11-choice-1"
+    },
+    {
+      "checkId": "review-7b11",
+      "characterId": "char-7b11",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "笑"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7b11-choice-1",
+          "hanzi": "笑"
+        },
+        {
+          "choiceId": "review-7b11-choice-2",
+          "hanzi": "哭"
+        },
+        {
+          "choiceId": "review-7b11-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7b11-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7b11-choice-1"
+    },
+    {
+      "checkId": "practice-one-7b11",
+      "characterId": "char-7b11",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "微笑"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7b11-choice-1",
+          "hanzi": "笑"
+        },
+        {
+          "choiceId": "practice-one-7b11-choice-2",
+          "hanzi": "哭"
+        },
+        {
+          "choiceId": "practice-one-7b11-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7b11-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7b11-choice-1"
+    },
+    {
+      "checkId": "practice-two-7b11",
+      "characterId": "char-7b11",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "笑声"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7b11-choice-1",
+          "hanzi": "笑"
+        },
+        {
+          "choiceId": "practice-two-7b11-choice-2",
+          "hanzi": "哭"
+        },
+        {
+          "choiceId": "practice-two-7b11-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7b11-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7b11-choice-1"
+    },
+    {
+      "checkId": "familiar-54ed",
+      "characterId": "char-54ed",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "哭"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-54ed-choice-1",
+          "hanzi": "笑"
+        },
+        {
+          "choiceId": "familiar-54ed-choice-2",
+          "hanzi": "哭"
+        },
+        {
+          "choiceId": "familiar-54ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-54ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-54ed-choice-2"
+    },
+    {
+      "checkId": "check-54ed",
+      "characterId": "char-54ed",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "哭"
+      },
+      "choices": [
+        {
+          "choiceId": "check-54ed-choice-1",
+          "hanzi": "笑"
+        },
+        {
+          "choiceId": "check-54ed-choice-2",
+          "hanzi": "哭"
+        },
+        {
+          "choiceId": "check-54ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-54ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-54ed-choice-2"
+    },
+    {
+      "checkId": "review-54ed",
+      "characterId": "char-54ed",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "哭"
+      },
+      "choices": [
+        {
+          "choiceId": "review-54ed-choice-1",
+          "hanzi": "笑"
+        },
+        {
+          "choiceId": "review-54ed-choice-2",
+          "hanzi": "哭"
+        },
+        {
+          "choiceId": "review-54ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-54ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-54ed-choice-2"
+    },
+    {
+      "checkId": "practice-one-54ed",
+      "characterId": "char-54ed",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "哭泣"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-54ed-choice-1",
+          "hanzi": "笑"
+        },
+        {
+          "choiceId": "practice-one-54ed-choice-2",
+          "hanzi": "哭"
+        },
+        {
+          "choiceId": "practice-one-54ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-54ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-54ed-choice-2"
+    },
+    {
+      "checkId": "practice-two-54ed",
+      "characterId": "char-54ed",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "哭声"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-54ed-choice-1",
+          "hanzi": "笑"
+        },
+        {
+          "choiceId": "practice-two-54ed-choice-2",
+          "hanzi": "哭"
+        },
+        {
+          "choiceId": "practice-two-54ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-54ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-54ed-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-7b11",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-36-v1/char-7b11",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-54ed",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-36-v1/char-54ed",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-36-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-36-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Feelings in a story",
+      "instructionEnglish": "Our capybara reads a story about feelings. Notice words about smiling, laughter and crying."
+    },
+    "targets": [
+      {
+        "characterId": "char-7b11",
+        "readingId": "reading-7b11",
+        "familiarityCheckId": "familiar-7b11",
+        "practice": [
+          {
+            "wordId": "word-7b11-1",
+            "checkId": "practice-one-7b11"
+          },
+          {
+            "wordId": "word-7b11-2",
+            "checkId": "practice-two-7b11"
+          }
+        ],
+        "immediateCheckId": "check-7b11",
+        "reviewCheckId": "review-7b11"
+      },
+      {
+        "characterId": "char-54ed",
+        "readingId": "reading-54ed",
+        "familiarityCheckId": "familiar-54ed",
+        "practice": [
+          {
+            "wordId": "word-54ed-1",
+            "checkId": "practice-one-54ed"
+          },
+          {
+            "wordId": "word-54ed-2",
+            "checkId": "practice-two-54ed"
+          }
+        ],
+        "immediateCheckId": "check-54ed",
+        "reviewCheckId": "review-54ed"
+      }
+    ],
+    "reader": {
+      "title": "Feelings in a story",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-7b11-1",
+        "word-7b11-2",
+        "word-54ed-1",
+        "word-54ed-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-7b11",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7b11",
+          "transcript": "笑",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7b11",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7b11",
+          "transcript": "笑",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7b11",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7b11",
+          "transcript": "笑",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7b11",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7b11",
+          "transcript": "微笑",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7b11",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7b11",
+          "transcript": "笑声",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7b11",
+          "readingId": "reading-7b11",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "笑",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7b11-1",
+          "readingId": null,
+          "wordId": "word-7b11-1",
+          "checkId": null,
+          "transcript": "朋友向我微笑。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7b11-2",
+          "readingId": null,
+          "wordId": "word-7b11-2",
+          "checkId": null,
+          "transcript": "院子里传来孩子们的笑声。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-54ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-54ed",
+          "transcript": "哭",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-54ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-54ed",
+          "transcript": "哭",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-54ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-54ed",
+          "transcript": "哭",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-54ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-54ed",
+          "transcript": "哭泣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-54ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-54ed",
+          "transcript": "哭声",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-54ed",
+          "readingId": "reading-54ed",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "哭",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-54ed-1",
+          "readingId": null,
+          "wordId": "word-54ed-1",
+          "checkId": null,
+          "transcript": "故事里的孩子难过地哭泣。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-54ed-2",
+          "readingId": null,
+          "wordId": "word-54ed-2",
+          "checkId": null,
+          "transcript": "妈妈听到哭声，就走过来安慰孩子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

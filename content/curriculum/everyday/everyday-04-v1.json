@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-04",
+  "lessonVersion": "everyday-04-v1",
+  "title": "A summer kitchen",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 17
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara looks at a summer calendar and a spice in the kitchen. Meet seven and eight in words.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4e03",
+      "hanzi": "七",
+      "readings": [
+        {
+          "readingId": "reading-4e03",
+          "pinyin": "qī",
+          "audioText": "七",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#七",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "seven",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#七",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e03-1",
+          "text": "七月",
+          "pinyin": "qī yuè",
+          "english": "July",
+          "readingId": "reading-4e03",
+          "context": {
+            "hanzi": "七月里，我们读一本新书。",
+            "english": "In July, we read a new book.",
+            "targetCharacter": "七"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#七月",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e03-2",
+          "text": "七夕",
+          "pinyin": "qī xī",
+          "english": "Qixi festival",
+          "readingId": "reading-4e03",
+          "context": {
+            "hanzi": "七夕晚上，我们一起看星星。",
+            "english": "On the evening of Qixi, we look at the stars together.",
+            "targetCharacter": "七"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#七夕",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the horizontal stroke crossing the turning stroke in 七.",
+        "demonstrationEnglish": "This is 七. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e03",
+        "delayedReview": {
+          "promptId": "later-4e03",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e03"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e03",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-516b",
+      "hanzi": "八",
+      "readings": [
+        {
+          "readingId": "reading-516b",
+          "pinyin": "bā",
+          "audioText": "八",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#八",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "eight",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#八",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-516b-1",
+          "text": "八月",
+          "pinyin": "bā yuè",
+          "english": "August",
+          "readingId": "reading-516b",
+          "context": {
+            "hanzi": "八月里，我们给朋友写信。",
+            "english": "In August, we write a letter to a friend.",
+            "targetCharacter": "八"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#八月",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-516b-2",
+          "text": "八角",
+          "pinyin": "bā jiǎo",
+          "english": "star anise; eight-sided",
+          "readingId": "reading-516b",
+          "context": {
+            "hanzi": "厨房里有一小袋八角。",
+            "english": "There is a small bag of star anise in the kitchen.",
+            "targetCharacter": "八"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#八角",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "The two strokes of 八 spread apart; compare them with 人.",
+        "demonstrationEnglish": "This is 八. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-516b",
+        "delayedReview": {
+          "promptId": "later-516b",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-516b"
+        }
+      },
+      "assets": [
+        "asset-glyph-516b",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-04-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4e03",
+        "familiar-516b"
+      ]
+    },
+    {
+      "stepId": "everyday-04-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-04-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-4e03",
+        "practice-two-4e03",
+        "practice-one-516b",
+        "practice-two-516b"
+      ]
+    },
+    {
+      "stepId": "everyday-04-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4e03",
+        "check-516b"
+      ]
+    },
+    {
+      "stepId": "everyday-04-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4e03",
+      "characterId": "char-4e03",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "七"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e03-choice-1",
+          "hanzi": "七"
+        },
+        {
+          "choiceId": "familiar-4e03-choice-2",
+          "hanzi": "八"
+        },
+        {
+          "choiceId": "familiar-4e03-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e03-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e03-choice-1"
+    },
+    {
+      "checkId": "check-4e03",
+      "characterId": "char-4e03",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "七"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e03-choice-1",
+          "hanzi": "七"
+        },
+        {
+          "choiceId": "check-4e03-choice-2",
+          "hanzi": "八"
+        },
+        {
+          "choiceId": "check-4e03-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e03-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e03-choice-1"
+    },
+    {
+      "checkId": "review-4e03",
+      "characterId": "char-4e03",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "七"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e03-choice-1",
+          "hanzi": "七"
+        },
+        {
+          "choiceId": "review-4e03-choice-2",
+          "hanzi": "八"
+        },
+        {
+          "choiceId": "review-4e03-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e03-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e03-choice-1"
+    },
+    {
+      "checkId": "practice-one-4e03",
+      "characterId": "char-4e03",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "七月"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e03-choice-1",
+          "hanzi": "七"
+        },
+        {
+          "choiceId": "practice-one-4e03-choice-2",
+          "hanzi": "八"
+        },
+        {
+          "choiceId": "practice-one-4e03-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e03-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e03-choice-1"
+    },
+    {
+      "checkId": "practice-two-4e03",
+      "characterId": "char-4e03",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "七夕"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e03-choice-1",
+          "hanzi": "七"
+        },
+        {
+          "choiceId": "practice-two-4e03-choice-2",
+          "hanzi": "八"
+        },
+        {
+          "choiceId": "practice-two-4e03-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e03-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e03-choice-1"
+    },
+    {
+      "checkId": "familiar-516b",
+      "characterId": "char-516b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "八"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-516b-choice-1",
+          "hanzi": "七"
+        },
+        {
+          "choiceId": "familiar-516b-choice-2",
+          "hanzi": "八"
+        },
+        {
+          "choiceId": "familiar-516b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-516b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-516b-choice-2"
+    },
+    {
+      "checkId": "check-516b",
+      "characterId": "char-516b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "八"
+      },
+      "choices": [
+        {
+          "choiceId": "check-516b-choice-1",
+          "hanzi": "七"
+        },
+        {
+          "choiceId": "check-516b-choice-2",
+          "hanzi": "八"
+        },
+        {
+          "choiceId": "check-516b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-516b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-516b-choice-2"
+    },
+    {
+      "checkId": "review-516b",
+      "characterId": "char-516b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "八"
+      },
+      "choices": [
+        {
+          "choiceId": "review-516b-choice-1",
+          "hanzi": "七"
+        },
+        {
+          "choiceId": "review-516b-choice-2",
+          "hanzi": "八"
+        },
+        {
+          "choiceId": "review-516b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-516b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-516b-choice-2"
+    },
+    {
+      "checkId": "practice-one-516b",
+      "characterId": "char-516b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "八月"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-516b-choice-1",
+          "hanzi": "七"
+        },
+        {
+          "choiceId": "practice-one-516b-choice-2",
+          "hanzi": "八"
+        },
+        {
+          "choiceId": "practice-one-516b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-516b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-516b-choice-2"
+    },
+    {
+      "checkId": "practice-two-516b",
+      "characterId": "char-516b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "八角"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-516b-choice-1",
+          "hanzi": "七"
+        },
+        {
+          "choiceId": "practice-two-516b-choice-2",
+          "hanzi": "八"
+        },
+        {
+          "choiceId": "practice-two-516b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-516b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-516b-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4e03",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-04-v1/char-4e03",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-516b",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-04-v1/char-516b",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-04-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-04-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "A summer kitchen",
+      "instructionEnglish": "Our capybara looks at a summer calendar and a spice in the kitchen. Meet seven and eight in words."
+    },
+    "targets": [
+      {
+        "characterId": "char-4e03",
+        "readingId": "reading-4e03",
+        "familiarityCheckId": "familiar-4e03",
+        "practice": [
+          {
+            "wordId": "word-4e03-1",
+            "checkId": "practice-one-4e03"
+          },
+          {
+            "wordId": "word-4e03-2",
+            "checkId": "practice-two-4e03"
+          }
+        ],
+        "immediateCheckId": "check-4e03",
+        "reviewCheckId": "review-4e03"
+      },
+      {
+        "characterId": "char-516b",
+        "readingId": "reading-516b",
+        "familiarityCheckId": "familiar-516b",
+        "practice": [
+          {
+            "wordId": "word-516b-1",
+            "checkId": "practice-one-516b"
+          },
+          {
+            "wordId": "word-516b-2",
+            "checkId": "practice-two-516b"
+          }
+        ],
+        "immediateCheckId": "check-516b",
+        "reviewCheckId": "review-516b"
+      }
+    ],
+    "reader": {
+      "title": "A summer kitchen",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4e03-1",
+        "word-4e03-2",
+        "word-516b-1",
+        "word-516b-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4e03",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e03",
+          "transcript": "七",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e03",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e03",
+          "transcript": "七",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e03",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e03",
+          "transcript": "七",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e03",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e03",
+          "transcript": "七月",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e03",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e03",
+          "transcript": "七夕",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e03",
+          "readingId": "reading-4e03",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "七",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e03-1",
+          "readingId": null,
+          "wordId": "word-4e03-1",
+          "checkId": null,
+          "transcript": "七月里，我们读一本新书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e03-2",
+          "readingId": null,
+          "wordId": "word-4e03-2",
+          "checkId": null,
+          "transcript": "七夕晚上，我们一起看星星。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-516b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-516b",
+          "transcript": "八",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-516b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-516b",
+          "transcript": "八",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-516b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-516b",
+          "transcript": "八",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-516b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-516b",
+          "transcript": "八月",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-516b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-516b",
+          "transcript": "八角",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-516b",
+          "readingId": "reading-516b",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "八",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-516b-1",
+          "readingId": null,
+          "wordId": "word-516b-1",
+          "checkId": null,
+          "transcript": "八月里，我们给朋友写信。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-516b-2",
+          "readingId": null,
+          "wordId": "word-516b-2",
+          "checkId": null,
+          "transcript": "厨房里有一小袋八角。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

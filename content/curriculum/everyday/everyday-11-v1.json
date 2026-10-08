@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-11",
+  "lessonVersion": "everyday-11-v1",
+  "title": "A visit with grandparents",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 24
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara visits grandparents for stories, bread and milk. Notice the family words in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-7237",
+      "hanzi": "爷",
+      "readings": [
+        {
+          "readingId": "reading-7237",
+          "pinyin": "yé",
+          "audioText": "爷",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#爷",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "grandfather in 爷爷",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#爷",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7237-1",
+          "text": "爷爷",
+          "pinyin": "yé ye",
+          "english": "grandfather (father's father)",
+          "readingId": "reading-7237",
+          "context": {
+            "hanzi": "爷爷给我们讲小时候的故事。",
+            "english": "Grandpa tells us stories about his childhood.",
+            "targetCharacter": "爷"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#爷爷",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7237-2",
+          "text": "老爷爷",
+          "pinyin": "lǎo yé ye",
+          "english": "elderly man; grandpa",
+          "readingId": "reading-7237",
+          "context": {
+            "hanzi": "公园里的老爷爷在看报纸。",
+            "english": "An elderly man in the park is reading a newspaper.",
+            "targetCharacter": "爷"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#老爷爷",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Compare 爷 and 爸: both have 父 at the top, with different lower parts.",
+        "demonstrationEnglish": "This is 爷. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7237",
+        "delayedReview": {
+          "promptId": "later-7237",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7237"
+        }
+      },
+      "assets": [
+        "asset-glyph-7237",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5976",
+      "hanzi": "奶",
+      "readings": [
+        {
+          "readingId": "reading-5976",
+          "pinyin": "nǎi",
+          "audioText": "奶",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#奶",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "milk; grandmother in 奶奶",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#奶",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5976-1",
+          "text": "奶奶",
+          "pinyin": "nǎi nai",
+          "english": "grandmother (father's mother)",
+          "readingId": "reading-5976",
+          "context": {
+            "hanzi": "奶奶和我一起做面包。",
+            "english": "Grandma and I make bread together.",
+            "targetCharacter": "奶"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#奶奶",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5976-2",
+          "text": "牛奶",
+          "pinyin": "niú nǎi",
+          "english": "milk",
+          "readingId": "reading-5976",
+          "context": {
+            "hanzi": "杯子里有温热的牛奶。",
+            "english": "There is warm milk in the cup.",
+            "targetCharacter": "奶"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#牛奶",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 女 on the left of 奶; compare its right part with 妈.",
+        "demonstrationEnglish": "This is 奶. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5976",
+        "delayedReview": {
+          "promptId": "later-5976",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5976"
+        }
+      },
+      "assets": [
+        "asset-glyph-5976",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-11-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-7237",
+        "familiar-5976"
+      ]
+    },
+    {
+      "stepId": "everyday-11-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-11-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-7237",
+        "practice-two-7237",
+        "practice-one-5976",
+        "practice-two-5976"
+      ]
+    },
+    {
+      "stepId": "everyday-11-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-7237",
+        "check-5976"
+      ]
+    },
+    {
+      "stepId": "everyday-11-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-7237",
+      "characterId": "char-7237",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "爷"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7237-choice-1",
+          "hanzi": "爷"
+        },
+        {
+          "choiceId": "familiar-7237-choice-2",
+          "hanzi": "奶"
+        },
+        {
+          "choiceId": "familiar-7237-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7237-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7237-choice-1"
+    },
+    {
+      "checkId": "check-7237",
+      "characterId": "char-7237",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "爷"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7237-choice-1",
+          "hanzi": "爷"
+        },
+        {
+          "choiceId": "check-7237-choice-2",
+          "hanzi": "奶"
+        },
+        {
+          "choiceId": "check-7237-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7237-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7237-choice-1"
+    },
+    {
+      "checkId": "review-7237",
+      "characterId": "char-7237",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "爷"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7237-choice-1",
+          "hanzi": "爷"
+        },
+        {
+          "choiceId": "review-7237-choice-2",
+          "hanzi": "奶"
+        },
+        {
+          "choiceId": "review-7237-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7237-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7237-choice-1"
+    },
+    {
+      "checkId": "practice-one-7237",
+      "characterId": "char-7237",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "爷爷"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7237-choice-1",
+          "hanzi": "爷"
+        },
+        {
+          "choiceId": "practice-one-7237-choice-2",
+          "hanzi": "奶"
+        },
+        {
+          "choiceId": "practice-one-7237-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7237-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7237-choice-1"
+    },
+    {
+      "checkId": "practice-two-7237",
+      "characterId": "char-7237",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "老爷爷"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7237-choice-1",
+          "hanzi": "爷"
+        },
+        {
+          "choiceId": "practice-two-7237-choice-2",
+          "hanzi": "奶"
+        },
+        {
+          "choiceId": "practice-two-7237-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7237-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7237-choice-1"
+    },
+    {
+      "checkId": "familiar-5976",
+      "characterId": "char-5976",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "奶"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5976-choice-1",
+          "hanzi": "爷"
+        },
+        {
+          "choiceId": "familiar-5976-choice-2",
+          "hanzi": "奶"
+        },
+        {
+          "choiceId": "familiar-5976-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5976-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5976-choice-2"
+    },
+    {
+      "checkId": "check-5976",
+      "characterId": "char-5976",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "奶"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5976-choice-1",
+          "hanzi": "爷"
+        },
+        {
+          "choiceId": "check-5976-choice-2",
+          "hanzi": "奶"
+        },
+        {
+          "choiceId": "check-5976-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5976-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5976-choice-2"
+    },
+    {
+      "checkId": "review-5976",
+      "characterId": "char-5976",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "奶"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5976-choice-1",
+          "hanzi": "爷"
+        },
+        {
+          "choiceId": "review-5976-choice-2",
+          "hanzi": "奶"
+        },
+        {
+          "choiceId": "review-5976-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5976-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5976-choice-2"
+    },
+    {
+      "checkId": "practice-one-5976",
+      "characterId": "char-5976",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "奶奶"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5976-choice-1",
+          "hanzi": "爷"
+        },
+        {
+          "choiceId": "practice-one-5976-choice-2",
+          "hanzi": "奶"
+        },
+        {
+          "choiceId": "practice-one-5976-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5976-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5976-choice-2"
+    },
+    {
+      "checkId": "practice-two-5976",
+      "characterId": "char-5976",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "牛奶"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5976-choice-1",
+          "hanzi": "爷"
+        },
+        {
+          "choiceId": "practice-two-5976-choice-2",
+          "hanzi": "奶"
+        },
+        {
+          "choiceId": "practice-two-5976-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5976-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5976-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-7237",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-11-v1/char-7237",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5976",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-11-v1/char-5976",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-11-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-11-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "A visit with grandparents",
+      "instructionEnglish": "Our capybara visits grandparents for stories, bread and milk. Notice the family words in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-7237",
+        "readingId": "reading-7237",
+        "familiarityCheckId": "familiar-7237",
+        "practice": [
+          {
+            "wordId": "word-7237-1",
+            "checkId": "practice-one-7237"
+          },
+          {
+            "wordId": "word-7237-2",
+            "checkId": "practice-two-7237"
+          }
+        ],
+        "immediateCheckId": "check-7237",
+        "reviewCheckId": "review-7237"
+      },
+      {
+        "characterId": "char-5976",
+        "readingId": "reading-5976",
+        "familiarityCheckId": "familiar-5976",
+        "practice": [
+          {
+            "wordId": "word-5976-1",
+            "checkId": "practice-one-5976"
+          },
+          {
+            "wordId": "word-5976-2",
+            "checkId": "practice-two-5976"
+          }
+        ],
+        "immediateCheckId": "check-5976",
+        "reviewCheckId": "review-5976"
+      }
+    ],
+    "reader": {
+      "title": "A visit with grandparents",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-7237-1",
+        "word-7237-2",
+        "word-5976-1",
+        "word-5976-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-7237",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7237",
+          "transcript": "爷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7237",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7237",
+          "transcript": "爷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7237",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7237",
+          "transcript": "爷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7237",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7237",
+          "transcript": "爷爷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7237",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7237",
+          "transcript": "老爷爷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7237",
+          "readingId": "reading-7237",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "爷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7237-1",
+          "readingId": null,
+          "wordId": "word-7237-1",
+          "checkId": null,
+          "transcript": "爷爷给我们讲小时候的故事。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7237-2",
+          "readingId": null,
+          "wordId": "word-7237-2",
+          "checkId": null,
+          "transcript": "公园里的老爷爷在看报纸。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5976",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5976",
+          "transcript": "奶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5976",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5976",
+          "transcript": "奶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5976",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5976",
+          "transcript": "奶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5976",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5976",
+          "transcript": "奶奶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5976",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5976",
+          "transcript": "牛奶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5976",
+          "readingId": "reading-5976",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "奶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5976-1",
+          "readingId": null,
+          "wordId": "word-5976-1",
+          "checkId": null,
+          "transcript": "奶奶和我一起做面包。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5976-2",
+          "readingId": null,
+          "wordId": "word-5976-2",
+          "checkId": null,
+          "transcript": "杯子里有温热的牛奶。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

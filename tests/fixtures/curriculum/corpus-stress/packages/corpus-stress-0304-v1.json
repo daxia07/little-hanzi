@@ -1,0 +1,794 @@
+{
+  "lessonId": "corpus-stress-0304",
+  "lessonVersion": "corpus-stress-0304-v1",
+  "title": "SIMULATED pair 0304",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "synthetic-stress",
+    "sequence": 304
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "SIMULATED mechanical fixture. This is not a language lesson.",
+    "objective": "Exercise saved recognition mechanics with synthetic text.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-365e",
+      "hanzi": "㙞",
+      "readings": [
+        {
+          "readingId": "reading-365e",
+          "pinyin": "SIMULATED",
+          "audioText": "㙞",
+          "provenance": {
+            "source": "SIMULATED R6 mechanical stress fixture; no linguistic or human review",
+            "license": "CC0-1.0 synthetic test data",
+            "evidenceRef": "SIMULATED/r6/stress",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "SIMULATED target 1",
+          "provenance": {
+            "source": "SIMULATED R6 mechanical stress fixture; no linguistic or human review",
+            "license": "CC0-1.0 synthetic test data",
+            "evidenceRef": "SIMULATED/r6/stress",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-365e-1",
+          "text": "㙞甲",
+          "pinyin": "SIMULATED",
+          "english": "SIMULATED word 1-1",
+          "readingId": "reading-365e",
+          "context": {
+            "hanzi": "㙞甲。",
+            "english": "SIMULATED context; not Mandarin teaching.",
+            "targetCharacter": "㙞"
+          },
+          "provenance": {
+            "source": "SIMULATED R6 mechanical stress fixture; no linguistic or human review",
+            "license": "CC0-1.0 synthetic test data",
+            "evidenceRef": "SIMULATED/r6/stress",
+            "sourceChecked": true
+          }
+        },
+        {
+          "wordId": "word-365e-2",
+          "text": "㙞乙",
+          "pinyin": "SIMULATED",
+          "english": "SIMULATED word 1-2",
+          "readingId": "reading-365e",
+          "context": {
+            "hanzi": "㙞乙。",
+            "english": "SIMULATED context; not Mandarin teaching.",
+            "targetCharacter": "㙞"
+          },
+          "provenance": {
+            "source": "SIMULATED R6 mechanical stress fixture; no linguistic or human review",
+            "license": "CC0-1.0 synthetic test data",
+            "evidenceRef": "SIMULATED/r6/stress",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "SIMULATED shape clue for a mechanical test.",
+        "demonstrationEnglish": "SIMULATED target print: 㙞",
+        "recognitionCheckId": "check-365e",
+        "delayedReview": {
+          "promptId": "later-365e",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-365e"
+        }
+      },
+      "assets": [
+        "asset-glyph-365e",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-365f",
+      "hanzi": "㙟",
+      "readings": [
+        {
+          "readingId": "reading-365f",
+          "pinyin": "SIMULATED",
+          "audioText": "㙟",
+          "provenance": {
+            "source": "SIMULATED R6 mechanical stress fixture; no linguistic or human review",
+            "license": "CC0-1.0 synthetic test data",
+            "evidenceRef": "SIMULATED/r6/stress",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "SIMULATED target 2",
+          "provenance": {
+            "source": "SIMULATED R6 mechanical stress fixture; no linguistic or human review",
+            "license": "CC0-1.0 synthetic test data",
+            "evidenceRef": "SIMULATED/r6/stress",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-365f-1",
+          "text": "㙟甲",
+          "pinyin": "SIMULATED",
+          "english": "SIMULATED word 2-1",
+          "readingId": "reading-365f",
+          "context": {
+            "hanzi": "㙟甲。",
+            "english": "SIMULATED context; not Mandarin teaching.",
+            "targetCharacter": "㙟"
+          },
+          "provenance": {
+            "source": "SIMULATED R6 mechanical stress fixture; no linguistic or human review",
+            "license": "CC0-1.0 synthetic test data",
+            "evidenceRef": "SIMULATED/r6/stress",
+            "sourceChecked": true
+          }
+        },
+        {
+          "wordId": "word-365f-2",
+          "text": "㙟乙",
+          "pinyin": "SIMULATED",
+          "english": "SIMULATED word 2-2",
+          "readingId": "reading-365f",
+          "context": {
+            "hanzi": "㙟乙。",
+            "english": "SIMULATED context; not Mandarin teaching.",
+            "targetCharacter": "㙟"
+          },
+          "provenance": {
+            "source": "SIMULATED R6 mechanical stress fixture; no linguistic or human review",
+            "license": "CC0-1.0 synthetic test data",
+            "evidenceRef": "SIMULATED/r6/stress",
+            "sourceChecked": true
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "SIMULATED shape clue for a mechanical test.",
+        "demonstrationEnglish": "SIMULATED target print: 㙟",
+        "recognitionCheckId": "check-365f",
+        "delayedReview": {
+          "promptId": "later-365f",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-365f"
+        }
+      },
+      "assets": [
+        "asset-glyph-365f",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "path-01-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-365e",
+        "familiar-365f"
+      ]
+    },
+    {
+      "stepId": "path-01-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "path-01-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-365e-1",
+        "practice-365e-2",
+        "practice-365f-1",
+        "practice-365f-2"
+      ]
+    },
+    {
+      "stepId": "path-01-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-365e",
+        "check-365f"
+      ]
+    },
+    {
+      "stepId": "path-01-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-365e",
+      "characterId": "char-365e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "㙞"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-365e-choice-1",
+          "hanzi": "㙞"
+        },
+        {
+          "choiceId": "familiar-365e-choice-2",
+          "hanzi": "㙟"
+        },
+        {
+          "choiceId": "familiar-365e-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-365e-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-365e-choice-1"
+    },
+    {
+      "checkId": "check-365e",
+      "characterId": "char-365e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "㙞"
+      },
+      "choices": [
+        {
+          "choiceId": "check-365e-choice-1",
+          "hanzi": "㙞"
+        },
+        {
+          "choiceId": "check-365e-choice-2",
+          "hanzi": "㙟"
+        },
+        {
+          "choiceId": "check-365e-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-365e-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-365e-choice-1"
+    },
+    {
+      "checkId": "review-365e",
+      "characterId": "char-365e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "㙞"
+      },
+      "choices": [
+        {
+          "choiceId": "review-365e-choice-1",
+          "hanzi": "㙞"
+        },
+        {
+          "choiceId": "review-365e-choice-2",
+          "hanzi": "㙟"
+        },
+        {
+          "choiceId": "review-365e-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-365e-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-365e-choice-1"
+    },
+    {
+      "checkId": "practice-365e-1",
+      "characterId": "char-365e",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "㙞甲"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-365e-1-choice-1",
+          "hanzi": "㙞"
+        },
+        {
+          "choiceId": "practice-365e-1-choice-2",
+          "hanzi": "㙟"
+        },
+        {
+          "choiceId": "practice-365e-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-365e-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-365e-1-choice-1"
+    },
+    {
+      "checkId": "practice-365e-2",
+      "characterId": "char-365e",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "㙞乙"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-365e-2-choice-1",
+          "hanzi": "㙞"
+        },
+        {
+          "choiceId": "practice-365e-2-choice-2",
+          "hanzi": "㙟"
+        },
+        {
+          "choiceId": "practice-365e-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-365e-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-365e-2-choice-1"
+    },
+    {
+      "checkId": "familiar-365f",
+      "characterId": "char-365f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "㙟"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-365f-choice-1",
+          "hanzi": "㙞"
+        },
+        {
+          "choiceId": "familiar-365f-choice-2",
+          "hanzi": "㙟"
+        },
+        {
+          "choiceId": "familiar-365f-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-365f-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-365f-choice-2"
+    },
+    {
+      "checkId": "check-365f",
+      "characterId": "char-365f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "㙟"
+      },
+      "choices": [
+        {
+          "choiceId": "check-365f-choice-1",
+          "hanzi": "㙞"
+        },
+        {
+          "choiceId": "check-365f-choice-2",
+          "hanzi": "㙟"
+        },
+        {
+          "choiceId": "check-365f-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-365f-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-365f-choice-2"
+    },
+    {
+      "checkId": "review-365f",
+      "characterId": "char-365f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "㙟"
+      },
+      "choices": [
+        {
+          "choiceId": "review-365f-choice-1",
+          "hanzi": "㙞"
+        },
+        {
+          "choiceId": "review-365f-choice-2",
+          "hanzi": "㙟"
+        },
+        {
+          "choiceId": "review-365f-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-365f-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-365f-choice-2"
+    },
+    {
+      "checkId": "practice-365f-1",
+      "characterId": "char-365f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "㙟甲"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-365f-1-choice-1",
+          "hanzi": "㙞"
+        },
+        {
+          "choiceId": "practice-365f-1-choice-2",
+          "hanzi": "㙟"
+        },
+        {
+          "choiceId": "practice-365f-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-365f-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-365f-1-choice-2"
+    },
+    {
+      "checkId": "practice-365f-2",
+      "characterId": "char-365f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "㙟乙"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-365f-2-choice-1",
+          "hanzi": "㙞"
+        },
+        {
+          "choiceId": "practice-365f-2-choice-2",
+          "hanzi": "㙟"
+        },
+        {
+          "choiceId": "practice-365f-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-365f-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-365f-2-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-365e",
+      "kind": "glyph",
+      "source": "SIMULATED R6 mechanical stress fixture; no linguistic or human review",
+      "license": "CC0-1.0 synthetic test data",
+      "evidenceRef": "SIMULATED/r6/stress",
+      "sourceChecked": true,
+      "sourceCheckStatus": "mechanically-checked"
+    },
+    {
+      "assetId": "asset-glyph-365f",
+      "kind": "glyph",
+      "source": "SIMULATED R6 mechanical stress fixture; no linguistic or human review",
+      "license": "CC0-1.0 synthetic test data",
+      "evidenceRef": "SIMULATED/r6/stress",
+      "sourceChecked": true,
+      "sourceCheckStatus": "mechanically-checked"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "SIMULATED R6 mechanical stress fixture; no linguistic or human review",
+      "license": "CC0-1.0 synthetic test data",
+      "evidenceRef": "SIMULATED/r6/stress",
+      "sourceChecked": true,
+      "sourceCheckStatus": "mechanically-checked"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "SIMULATED R6 mechanical stress fixture; no linguistic or human review",
+      "license": "CC0-1.0 synthetic test data",
+      "evidenceRef": "SIMULATED/r6/stress",
+      "sourceChecked": true,
+      "sourceCheckStatus": "mechanically-checked"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "SIMULATED pair 0304",
+      "instructionEnglish": "SIMULATED mechanical fixture. This is not a language lesson."
+    },
+    "targets": [
+      {
+        "characterId": "char-365e",
+        "readingId": "reading-365e",
+        "familiarityCheckId": "familiar-365e",
+        "practice": [
+          {
+            "wordId": "word-365e-1",
+            "checkId": "practice-365e-1"
+          },
+          {
+            "wordId": "word-365e-2",
+            "checkId": "practice-365e-2"
+          }
+        ],
+        "immediateCheckId": "check-365e",
+        "reviewCheckId": "review-365e"
+      },
+      {
+        "characterId": "char-365f",
+        "readingId": "reading-365f",
+        "familiarityCheckId": "familiar-365f",
+        "practice": [
+          {
+            "wordId": "word-365f-1",
+            "checkId": "practice-365f-1"
+          },
+          {
+            "wordId": "word-365f-2",
+            "checkId": "practice-365f-2"
+          }
+        ],
+        "immediateCheckId": "check-365f",
+        "reviewCheckId": "review-365f"
+      }
+    ],
+    "reader": {
+      "title": "SIMULATED reader",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-365e-1",
+        "word-365e-2",
+        "word-365f-1",
+        "word-365f-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [
+        {
+          "name": "Tingting",
+          "lang": "zh-CN",
+          "localService": true
+        }
+      ],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-365e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-365e",
+          "transcript": "㙞",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-365e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-365e",
+          "transcript": "㙞",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-365e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-365e",
+          "transcript": "㙞",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-365e-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-365e-1",
+          "transcript": "㙞甲",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-365e-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-365e-2",
+          "transcript": "㙞乙",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-365e",
+          "readingId": "reading-365e",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "㙞",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-365e-1",
+          "readingId": null,
+          "wordId": "word-365e-1",
+          "checkId": null,
+          "transcript": "㙞甲。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-365e-2",
+          "readingId": null,
+          "wordId": "word-365e-2",
+          "checkId": null,
+          "transcript": "㙞乙。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-365f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-365f",
+          "transcript": "㙟",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-365f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-365f",
+          "transcript": "㙟",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-365f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-365f",
+          "transcript": "㙟",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-365f-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-365f-1",
+          "transcript": "㙟甲",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-365f-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-365f-2",
+          "transcript": "㙟乙",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-365f",
+          "readingId": "reading-365f",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "㙟",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-365f-1",
+          "readingId": null,
+          "wordId": "word-365f-1",
+          "checkId": null,
+          "transcript": "㙟甲。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-365f-2",
+          "readingId": null,
+          "wordId": "word-365f-2",
+          "checkId": null,
+          "transcript": "㙟乙。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

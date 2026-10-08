@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-22",
+  "lessonVersion": "everyday-22-v1",
+  "title": "Our cosy home",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 35
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara explores a cosy home. Read words about a house, roof and rooms.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5c4b",
+      "hanzi": "屋",
+      "readings": [
+        {
+          "readingId": "reading-5c4b",
+          "pinyin": "wū",
+          "audioText": "屋",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#屋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "house; room",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#屋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5c4b-1",
+          "text": "屋子",
+          "pinyin": "wū zi",
+          "english": "house; room",
+          "readingId": "reading-5c4b",
+          "context": {
+            "hanzi": "屋子里的灯亮着。",
+            "english": "The light is on inside the house.",
+            "targetCharacter": "屋"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#屋子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5c4b-2",
+          "text": "屋顶",
+          "pinyin": "wū dǐng",
+          "english": "roof",
+          "readingId": "reading-5c4b",
+          "context": {
+            "hanzi": "小鸟停在屋顶上。",
+            "english": "A little bird rests on the roof.",
+            "targetCharacter": "屋"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#屋顶",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the covering shape at the top and 至 underneath in 屋.",
+        "demonstrationEnglish": "This is 屋. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5c4b",
+        "delayedReview": {
+          "promptId": "later-5c4b",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5c4b"
+        }
+      },
+      "assets": [
+        "asset-glyph-5c4b",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-623f",
+      "hanzi": "房",
+      "readings": [
+        {
+          "readingId": "reading-623f",
+          "pinyin": "fáng",
+          "audioText": "房",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#房",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "room; house",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#房",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-623f-1",
+          "text": "房间",
+          "pinyin": "fáng jiān",
+          "english": "room",
+          "readingId": "reading-623f",
+          "context": {
+            "hanzi": "我们把房间收拾干净。",
+            "english": "We tidy the room.",
+            "targetCharacter": "房"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#房间",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-623f-2",
+          "text": "厨房",
+          "pinyin": "chú fáng",
+          "english": "kitchen",
+          "readingId": "reading-623f",
+          "context": {
+            "hanzi": "厨房里传来面包的香味。",
+            "english": "The smell of bread comes from the kitchen.",
+            "targetCharacter": "房"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#厨房",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 户 above 方 in 房 and compare its top with 屋.",
+        "demonstrationEnglish": "This is 房. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-623f",
+        "delayedReview": {
+          "promptId": "later-623f",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-623f"
+        }
+      },
+      "assets": [
+        "asset-glyph-623f",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-22-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5c4b",
+        "familiar-623f"
+      ]
+    },
+    {
+      "stepId": "everyday-22-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-22-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-5c4b",
+        "practice-two-5c4b",
+        "practice-one-623f",
+        "practice-two-623f"
+      ]
+    },
+    {
+      "stepId": "everyday-22-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5c4b",
+        "check-623f"
+      ]
+    },
+    {
+      "stepId": "everyday-22-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5c4b",
+      "characterId": "char-5c4b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "屋"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5c4b-choice-1",
+          "hanzi": "屋"
+        },
+        {
+          "choiceId": "familiar-5c4b-choice-2",
+          "hanzi": "房"
+        },
+        {
+          "choiceId": "familiar-5c4b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5c4b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5c4b-choice-1"
+    },
+    {
+      "checkId": "check-5c4b",
+      "characterId": "char-5c4b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "屋"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5c4b-choice-1",
+          "hanzi": "屋"
+        },
+        {
+          "choiceId": "check-5c4b-choice-2",
+          "hanzi": "房"
+        },
+        {
+          "choiceId": "check-5c4b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5c4b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5c4b-choice-1"
+    },
+    {
+      "checkId": "review-5c4b",
+      "characterId": "char-5c4b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "屋"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5c4b-choice-1",
+          "hanzi": "屋"
+        },
+        {
+          "choiceId": "review-5c4b-choice-2",
+          "hanzi": "房"
+        },
+        {
+          "choiceId": "review-5c4b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5c4b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5c4b-choice-1"
+    },
+    {
+      "checkId": "practice-one-5c4b",
+      "characterId": "char-5c4b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "屋子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5c4b-choice-1",
+          "hanzi": "屋"
+        },
+        {
+          "choiceId": "practice-one-5c4b-choice-2",
+          "hanzi": "房"
+        },
+        {
+          "choiceId": "practice-one-5c4b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5c4b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5c4b-choice-1"
+    },
+    {
+      "checkId": "practice-two-5c4b",
+      "characterId": "char-5c4b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "屋顶"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5c4b-choice-1",
+          "hanzi": "屋"
+        },
+        {
+          "choiceId": "practice-two-5c4b-choice-2",
+          "hanzi": "房"
+        },
+        {
+          "choiceId": "practice-two-5c4b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5c4b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5c4b-choice-1"
+    },
+    {
+      "checkId": "familiar-623f",
+      "characterId": "char-623f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "房"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-623f-choice-1",
+          "hanzi": "屋"
+        },
+        {
+          "choiceId": "familiar-623f-choice-2",
+          "hanzi": "房"
+        },
+        {
+          "choiceId": "familiar-623f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-623f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-623f-choice-2"
+    },
+    {
+      "checkId": "check-623f",
+      "characterId": "char-623f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "房"
+      },
+      "choices": [
+        {
+          "choiceId": "check-623f-choice-1",
+          "hanzi": "屋"
+        },
+        {
+          "choiceId": "check-623f-choice-2",
+          "hanzi": "房"
+        },
+        {
+          "choiceId": "check-623f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-623f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-623f-choice-2"
+    },
+    {
+      "checkId": "review-623f",
+      "characterId": "char-623f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "房"
+      },
+      "choices": [
+        {
+          "choiceId": "review-623f-choice-1",
+          "hanzi": "屋"
+        },
+        {
+          "choiceId": "review-623f-choice-2",
+          "hanzi": "房"
+        },
+        {
+          "choiceId": "review-623f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-623f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-623f-choice-2"
+    },
+    {
+      "checkId": "practice-one-623f",
+      "characterId": "char-623f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "房间"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-623f-choice-1",
+          "hanzi": "屋"
+        },
+        {
+          "choiceId": "practice-one-623f-choice-2",
+          "hanzi": "房"
+        },
+        {
+          "choiceId": "practice-one-623f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-623f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-623f-choice-2"
+    },
+    {
+      "checkId": "practice-two-623f",
+      "characterId": "char-623f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "厨房"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-623f-choice-1",
+          "hanzi": "屋"
+        },
+        {
+          "choiceId": "practice-two-623f-choice-2",
+          "hanzi": "房"
+        },
+        {
+          "choiceId": "practice-two-623f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-623f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-623f-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5c4b",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-22-v1/char-5c4b",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-623f",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-22-v1/char-623f",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-22-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-22-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Our cosy home",
+      "instructionEnglish": "Our capybara explores a cosy home. Read words about a house, roof and rooms."
+    },
+    "targets": [
+      {
+        "characterId": "char-5c4b",
+        "readingId": "reading-5c4b",
+        "familiarityCheckId": "familiar-5c4b",
+        "practice": [
+          {
+            "wordId": "word-5c4b-1",
+            "checkId": "practice-one-5c4b"
+          },
+          {
+            "wordId": "word-5c4b-2",
+            "checkId": "practice-two-5c4b"
+          }
+        ],
+        "immediateCheckId": "check-5c4b",
+        "reviewCheckId": "review-5c4b"
+      },
+      {
+        "characterId": "char-623f",
+        "readingId": "reading-623f",
+        "familiarityCheckId": "familiar-623f",
+        "practice": [
+          {
+            "wordId": "word-623f-1",
+            "checkId": "practice-one-623f"
+          },
+          {
+            "wordId": "word-623f-2",
+            "checkId": "practice-two-623f"
+          }
+        ],
+        "immediateCheckId": "check-623f",
+        "reviewCheckId": "review-623f"
+      }
+    ],
+    "reader": {
+      "title": "Our cosy home",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5c4b-1",
+        "word-5c4b-2",
+        "word-623f-1",
+        "word-623f-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5c4b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5c4b",
+          "transcript": "屋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5c4b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5c4b",
+          "transcript": "屋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5c4b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5c4b",
+          "transcript": "屋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5c4b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5c4b",
+          "transcript": "屋子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5c4b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5c4b",
+          "transcript": "屋顶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5c4b",
+          "readingId": "reading-5c4b",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "屋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5c4b-1",
+          "readingId": null,
+          "wordId": "word-5c4b-1",
+          "checkId": null,
+          "transcript": "屋子里的灯亮着。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5c4b-2",
+          "readingId": null,
+          "wordId": "word-5c4b-2",
+          "checkId": null,
+          "transcript": "小鸟停在屋顶上。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-623f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-623f",
+          "transcript": "房",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-623f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-623f",
+          "transcript": "房",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-623f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-623f",
+          "transcript": "房",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-623f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-623f",
+          "transcript": "房间",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-623f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-623f",
+          "transcript": "厨房",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-623f",
+          "readingId": "reading-623f",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "房",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-623f-1",
+          "readingId": null,
+          "wordId": "word-623f-1",
+          "checkId": null,
+          "transcript": "我们把房间收拾干净。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-623f-2",
+          "readingId": null,
+          "wordId": "word-623f-2",
+          "checkId": null,
+          "transcript": "厨房里传来面包的香味。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

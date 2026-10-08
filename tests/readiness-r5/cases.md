@@ -1,0 +1,24 @@
+# Independent finite R5 test matrix
+
+Basis: r5-spec-2 / r5-integration-1. All NOT RUN; runtime and exact SQL/DTO/control map pending. Ten literal pairs and schedule offsets are tester-owned in oracle.mjs. Reading/meaning entries are basic target-reference expectations, not human pronunciation/content approval. Exact words, context questions and public question IDs await reviewed content/wire; answer positions never form the oracle.
+
+Thin first T01: ordinary scoped release fixture → parent explicit collection library → recommendation/proposal/approve → child initial complete → SQL exactly three kinds/separate runs → +24h visit → +7d visit → parent recap/export → app/database restart and fresh owned browser readback. Assert all dates/digests/first/help facts unchanged and own browser IDs persisted before faults. This is mechanisms evidence if review facts are simulated.
+
+| Case | EARS | Concrete positive / negative oracles |
+| --- | --- | --- |
+| H01 |001| Import all ten exact versions/20 distinct targets; two words/target and required ordinary/delayed/playback capabilities. Reject changed immutable digest, missing reference/profile, unknown adapter; correction new version retains old evidence. |
+| H02 |002| Exact independently executed R5 proof/review/owner/current scoped generation permits ordinary use. V4 proof, wrong package/collection/install/artifact and stale/withdrawn generation refuse; exact accepted replay does not reactivate authority. |
+| H03 |003| Explicit collection selector returns safe ordered eligible catalog, recommends lowest uncompleted eligible. Setup new/some/confident and supported/unavailable histories do not diagnose mastery. Unknown selector refuses; absent preserves V4. GET assigns nothing; empty calm state. |
+| H04 |004| First null predecessor/source recommendation, same current-source selection reuses proposal; alternative appends explained selection. Stale predecessor/source409 cannot change active proposal. |
+| H05 |005| Two linked parents race different choices/approvals; one coherent plan/selected assignment/initial schedule. Final-write constraint, source/link/session/review/publication change leaves no partial group; foreign family404 and child/teacher selection denied. |
+| H06 |006| Every one of ten pairs executes independent target-specific unfamiliar/familiar/mixed/helped route. Confident plus one miss remains mixed; first wrong then helped correct supported; audio unavailable distinct. Literal target choice, no product grading-map import. |
+| H07 |007| Resume saved state after restart/freshbrowser; lost accepted response exact explicit retry produces one event. Known ack/readGET503 GET-only retry;409 preserves input/noauto rebase; identity/speech/animation stale callbacks cannot write/leak. |
+| H08 |008| Initial completion creates exactly one24h and one7d schedule offset from original completion, separate run IDs/revisions/events. Duplicate completion/restart no extra schedules/no altered initial evidence. |
+| H09 |009| IncompleteB primary Continue, overdueA24h/7d remain explicit alternatives across newer approved plans. FinishB retains A due; no approvednext→parentpreparation, noeligible→calm state. |
+| H10 |010| At due-1ms denied; exactdue allowed; missed remains due. Client suppliedclock/scores/adapter invalid. Literal correct target rotates positions where choicecount permits across initial/24h/7d; visits separately recorded, no quiet teaching cues. |
+| H11 |011| Parent progress/export dates/content/schedule identity and first/help/unavailable grouped initial/24h/7d; missing no evidence, comparelike tasks. Teacher read-only currentgrant; foreign/revoked/disabled/password-change access denied. |
+| H12 |012| Real paired v5 capture validates exact45learningtables/0006 plus ops, allten new tables populated through APIs, signatures/history/due replay; tamper/refusal before destination mutation, finalconstraint/lostack confirmed readback; fresh identities/no sessions/currentauthority. Olderformats strict and incompatible rollback refused. |
+| B01 |013| Loaded library/selection/childhome/lesson/check/recap/progress/reviewer at390/820×zoom1/2; one complete keyboard path,44px/focus/contrast/reducedmotion. Pending/unavailable/empty/conflict words clear, field error preserves input. |
+| R01 |014| Report exactly10 authored/20 targets versus actual reviewed/released count and executed paths; everyAC/EARS status. Device/audio/human/hosted/owner gates separately pending. |
+
+Execute a complete journey per renderer family and finite all-ten target paths, not only 木/林 reuse. For context/audio questions extend literal tester tables from reviewed frozen source, never derive expected answers by reading product reducers/server validation. Private notes/full server answer maps must be absent from actual served client assets. Every accepted fixture approval is labelled simulated; no production, real family data or active service.

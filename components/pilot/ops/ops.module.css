@@ -1,0 +1,194 @@
+.operatorPage,
+.panel,
+.card,
+.form,
+.row,
+.fields,
+.history,
+.accountPane {
+  min-width: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-wrap: anywhere;
+}
+.operatorPage {
+  grid-template-columns: minmax(0, 1fr) !important;
+}
+.operatorPage > header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  min-width: 0;
+}
+.operatorPage > header > div {
+  flex: 1 1 24rem;
+  min-width: 0;
+}
+.operatorPage > header > span {
+  white-space: normal;
+  max-width: 100%;
+}
+.operatorRoot nav,
+.operatorRoot [data-pilot-top-actions] {
+  flex-wrap: wrap;
+}
+.operatorRoot nav > *,
+.operatorRoot [data-pilot-top-actions] > * {
+  min-width: 0;
+  max-width: 100%;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+.accountPane {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: minmax(0, 1fr);
+}
+.accountPane[hidden],
+.panel[hidden] {
+  display: none;
+}
+.panel {
+  font-family: var(--cs-font, system-ui, sans-serif);
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #182c49;
+  display: grid;
+  gap: 1rem;
+}
+.panel :where(h2, h3, p, ul) {
+  margin: 0 0 0.65rem;
+}
+.panel :where(input, textarea, select, button, summary) {
+  font: inherit;
+  min-height: 44px;
+  min-width: 44px;
+  max-width: 100%;
+  box-sizing: border-box;
+  white-space: normal;
+}
+.panel :where(input, textarea, select) {
+  width: 100%;
+  border: 1px solid #53647b;
+  border-radius: 0.65rem;
+  background: white;
+  padding: 0.65rem;
+  color: #182c49;
+}
+.panel textarea {
+  min-height: 7rem;
+  resize: vertical;
+}
+.panel button,
+.tabs button {
+  padding: 0.65rem 1rem;
+  border: 1px solid #53647b;
+  border-radius: 0.7rem;
+  background: white;
+  color: #182c49;
+  font: inherit;
+  cursor: pointer;
+  min-height: 44px;
+  min-width: 44px;
+  max-width: 100%;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+.panel button:disabled,
+.tabs button:disabled {
+  opacity: 0.7;
+  cursor: default;
+}
+.panel button.primary,
+.tabs button[aria-pressed='true'] {
+  background: #245bd6;
+  color: white;
+  border-color: #245bd6;
+}
+.panel :where(input, textarea, select, button, summary):focus-visible,
+.tabs button:focus-visible {
+  outline: 4px solid #1945aa;
+  outline-offset: 3px;
+}
+.card {
+  padding: 1.25rem;
+  background: white;
+  border: 1px solid #b9c9df;
+  border-radius: 1rem;
+}
+.notice {
+  padding: 1rem;
+  background: #edf4ff;
+  border-left: 4px solid #245bd6;
+  border-radius: 0.65rem;
+}
+.error {
+  color: #9b2525;
+  background: #fff2ef;
+  padding: 0.85rem;
+  border-left: 4px solid #9b2525;
+  border-radius: 0.5rem;
+}
+.muted {
+  color: #53647b;
+}
+.row,
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+}
+.row > * {
+  min-width: 0;
+  max-width: 100%;
+}
+.tabs {
+  margin: 0.5rem 0;
+}
+.fields {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr));
+  gap: 1rem;
+}
+.form {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: minmax(0, 1fr);
+}
+.form label {
+  display: grid;
+  gap: 0.35rem;
+  min-width: 0;
+  max-width: 100%;
+}
+.history {
+  margin: 0.75rem 0;
+  padding: 0.85rem;
+  border-left: 3px solid #b9c9df;
+  background: #f6f9fd;
+}
+.code {
+  font-size: 0.9rem;
+  overflow-wrap: anywhere;
+}
+.panel summary {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.accountPane :where(form, section, div, label, p, h2, h3) {
+  min-width: 0;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+}
+.accountPane div {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+}
+.accountPane :where(input, select, textarea) {
+  min-width: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+}

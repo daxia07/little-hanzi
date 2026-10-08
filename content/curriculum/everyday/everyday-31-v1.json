@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-31",
+  "lessonVersion": "everyday-31-v1",
+  "title": "Clouds and a blackboard",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 44
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara watches clouds and visits a classroom. Compare white and black in words.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-767d",
+      "hanzi": "白",
+      "readings": [
+        {
+          "readingId": "reading-767d",
+          "pinyin": "bái",
+          "audioText": "白",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#白",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "white",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#白",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-767d-1",
+          "text": "白色",
+          "pinyin": "bái sè",
+          "english": "white colour",
+          "readingId": "reading-767d",
+          "context": {
+            "hanzi": "这只小兔有白色的毛。",
+            "english": "This little rabbit has white fur.",
+            "targetCharacter": "白"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#白色",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-767d-2",
+          "text": "白云",
+          "pinyin": "bái yún",
+          "english": "white clouds",
+          "readingId": "reading-767d",
+          "context": {
+            "hanzi": "我们躺在草地上看白云。",
+            "english": "We lie on the grass and look at the white clouds.",
+            "targetCharacter": "白"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#白云",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find the upper sloping stroke of 白 and compare the whole shape with 日.",
+        "demonstrationEnglish": "This is 白. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-767d",
+        "delayedReview": {
+          "promptId": "later-767d",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-767d"
+        }
+      },
+      "assets": [
+        "asset-glyph-767d",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-9ed1",
+      "hanzi": "黑",
+      "readings": [
+        {
+          "readingId": "reading-9ed1",
+          "pinyin": "hēi",
+          "audioText": "黑",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#黑",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "black",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#黑",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-9ed1-1",
+          "text": "黑色",
+          "pinyin": "hēi sè",
+          "english": "black colour",
+          "readingId": "reading-9ed1",
+          "context": {
+            "hanzi": "这只小猫的尾巴是黑色的。",
+            "english": "This kitten's tail is black.",
+            "targetCharacter": "黑"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#黑色",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-9ed1-2",
+          "text": "黑板",
+          "pinyin": "hēi bǎn",
+          "english": "blackboard",
+          "readingId": "reading-9ed1",
+          "context": {
+            "hanzi": "老师在黑板上画了一只鸟。",
+            "english": "The teacher draws a bird on the blackboard.",
+            "targetCharacter": "黑"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#黑板",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Look at the four small lower marks of 黑 and the shapes above them.",
+        "demonstrationEnglish": "This is 黑. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-9ed1",
+        "delayedReview": {
+          "promptId": "later-9ed1",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-9ed1"
+        }
+      },
+      "assets": [
+        "asset-glyph-9ed1",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-31-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-767d",
+        "familiar-9ed1"
+      ]
+    },
+    {
+      "stepId": "everyday-31-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-31-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-767d",
+        "practice-two-767d",
+        "practice-one-9ed1",
+        "practice-two-9ed1"
+      ]
+    },
+    {
+      "stepId": "everyday-31-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-767d",
+        "check-9ed1"
+      ]
+    },
+    {
+      "stepId": "everyday-31-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-767d",
+      "characterId": "char-767d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "白"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-767d-choice-1",
+          "hanzi": "白"
+        },
+        {
+          "choiceId": "familiar-767d-choice-2",
+          "hanzi": "黑"
+        },
+        {
+          "choiceId": "familiar-767d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-767d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-767d-choice-1"
+    },
+    {
+      "checkId": "check-767d",
+      "characterId": "char-767d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "白"
+      },
+      "choices": [
+        {
+          "choiceId": "check-767d-choice-1",
+          "hanzi": "白"
+        },
+        {
+          "choiceId": "check-767d-choice-2",
+          "hanzi": "黑"
+        },
+        {
+          "choiceId": "check-767d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-767d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-767d-choice-1"
+    },
+    {
+      "checkId": "review-767d",
+      "characterId": "char-767d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "白"
+      },
+      "choices": [
+        {
+          "choiceId": "review-767d-choice-1",
+          "hanzi": "白"
+        },
+        {
+          "choiceId": "review-767d-choice-2",
+          "hanzi": "黑"
+        },
+        {
+          "choiceId": "review-767d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-767d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-767d-choice-1"
+    },
+    {
+      "checkId": "practice-one-767d",
+      "characterId": "char-767d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "白色"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-767d-choice-1",
+          "hanzi": "白"
+        },
+        {
+          "choiceId": "practice-one-767d-choice-2",
+          "hanzi": "黑"
+        },
+        {
+          "choiceId": "practice-one-767d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-767d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-767d-choice-1"
+    },
+    {
+      "checkId": "practice-two-767d",
+      "characterId": "char-767d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "白云"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-767d-choice-1",
+          "hanzi": "白"
+        },
+        {
+          "choiceId": "practice-two-767d-choice-2",
+          "hanzi": "黑"
+        },
+        {
+          "choiceId": "practice-two-767d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-767d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-767d-choice-1"
+    },
+    {
+      "checkId": "familiar-9ed1",
+      "characterId": "char-9ed1",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "黑"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-9ed1-choice-1",
+          "hanzi": "白"
+        },
+        {
+          "choiceId": "familiar-9ed1-choice-2",
+          "hanzi": "黑"
+        },
+        {
+          "choiceId": "familiar-9ed1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-9ed1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-9ed1-choice-2"
+    },
+    {
+      "checkId": "check-9ed1",
+      "characterId": "char-9ed1",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "黑"
+      },
+      "choices": [
+        {
+          "choiceId": "check-9ed1-choice-1",
+          "hanzi": "白"
+        },
+        {
+          "choiceId": "check-9ed1-choice-2",
+          "hanzi": "黑"
+        },
+        {
+          "choiceId": "check-9ed1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-9ed1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-9ed1-choice-2"
+    },
+    {
+      "checkId": "review-9ed1",
+      "characterId": "char-9ed1",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "黑"
+      },
+      "choices": [
+        {
+          "choiceId": "review-9ed1-choice-1",
+          "hanzi": "白"
+        },
+        {
+          "choiceId": "review-9ed1-choice-2",
+          "hanzi": "黑"
+        },
+        {
+          "choiceId": "review-9ed1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-9ed1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-9ed1-choice-2"
+    },
+    {
+      "checkId": "practice-one-9ed1",
+      "characterId": "char-9ed1",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "黑色"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-9ed1-choice-1",
+          "hanzi": "白"
+        },
+        {
+          "choiceId": "practice-one-9ed1-choice-2",
+          "hanzi": "黑"
+        },
+        {
+          "choiceId": "practice-one-9ed1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-9ed1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-9ed1-choice-2"
+    },
+    {
+      "checkId": "practice-two-9ed1",
+      "characterId": "char-9ed1",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "黑板"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-9ed1-choice-1",
+          "hanzi": "白"
+        },
+        {
+          "choiceId": "practice-two-9ed1-choice-2",
+          "hanzi": "黑"
+        },
+        {
+          "choiceId": "practice-two-9ed1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-9ed1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-9ed1-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-767d",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-31-v1/char-767d",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-9ed1",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-31-v1/char-9ed1",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-31-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-31-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Clouds and a blackboard",
+      "instructionEnglish": "Our capybara watches clouds and visits a classroom. Compare white and black in words."
+    },
+    "targets": [
+      {
+        "characterId": "char-767d",
+        "readingId": "reading-767d",
+        "familiarityCheckId": "familiar-767d",
+        "practice": [
+          {
+            "wordId": "word-767d-1",
+            "checkId": "practice-one-767d"
+          },
+          {
+            "wordId": "word-767d-2",
+            "checkId": "practice-two-767d"
+          }
+        ],
+        "immediateCheckId": "check-767d",
+        "reviewCheckId": "review-767d"
+      },
+      {
+        "characterId": "char-9ed1",
+        "readingId": "reading-9ed1",
+        "familiarityCheckId": "familiar-9ed1",
+        "practice": [
+          {
+            "wordId": "word-9ed1-1",
+            "checkId": "practice-one-9ed1"
+          },
+          {
+            "wordId": "word-9ed1-2",
+            "checkId": "practice-two-9ed1"
+          }
+        ],
+        "immediateCheckId": "check-9ed1",
+        "reviewCheckId": "review-9ed1"
+      }
+    ],
+    "reader": {
+      "title": "Clouds and a blackboard",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-767d-1",
+        "word-767d-2",
+        "word-9ed1-1",
+        "word-9ed1-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-767d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-767d",
+          "transcript": "白",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-767d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-767d",
+          "transcript": "白",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-767d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-767d",
+          "transcript": "白",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-767d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-767d",
+          "transcript": "白色",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-767d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-767d",
+          "transcript": "白云",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-767d",
+          "readingId": "reading-767d",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "白",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-767d-1",
+          "readingId": null,
+          "wordId": "word-767d-1",
+          "checkId": null,
+          "transcript": "这只小兔有白色的毛。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-767d-2",
+          "readingId": null,
+          "wordId": "word-767d-2",
+          "checkId": null,
+          "transcript": "我们躺在草地上看白云。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-9ed1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-9ed1",
+          "transcript": "黑",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-9ed1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-9ed1",
+          "transcript": "黑",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-9ed1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-9ed1",
+          "transcript": "黑",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-9ed1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-9ed1",
+          "transcript": "黑色",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-9ed1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-9ed1",
+          "transcript": "黑板",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-9ed1",
+          "readingId": "reading-9ed1",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "黑",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9ed1-1",
+          "readingId": null,
+          "wordId": "word-9ed1-1",
+          "checkId": null,
+          "transcript": "这只小猫的尾巴是黑色的。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9ed1-2",
+          "readingId": null,
+          "wordId": "word-9ed1-2",
+          "checkId": null,
+          "transcript": "老师在黑板上画了一只鸟。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

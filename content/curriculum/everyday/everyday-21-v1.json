@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-21",
+  "lessonVersion": "everyday-21-v1",
+  "title": "A picnic basket",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 34
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara packs a picnic and sees a grown-up making tea. Read words for melons, cucumbers and tea.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-74dc",
+      "hanzi": "瓜",
+      "readings": [
+        {
+          "readingId": "reading-74dc",
+          "pinyin": "guā",
+          "audioText": "瓜",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#瓜",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "melon; gourd",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#瓜",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-74dc-1",
+          "text": "西瓜",
+          "pinyin": "xī guā",
+          "english": "watermelon",
+          "readingId": "reading-74dc",
+          "context": {
+            "hanzi": "大人把西瓜切成小块。",
+            "english": "An adult cuts the watermelon into small pieces.",
+            "targetCharacter": "瓜"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#西瓜",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-74dc-2",
+          "text": "黄瓜",
+          "pinyin": "huáng guā",
+          "english": "cucumber",
+          "readingId": "reading-74dc",
+          "context": {
+            "hanzi": "我们洗好一根黄瓜。",
+            "english": "We wash a cucumber.",
+            "targetCharacter": "瓜"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#黄瓜",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Look closely at the central marks inside the spreading strokes of 瓜.",
+        "demonstrationEnglish": "This is 瓜. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-74dc",
+        "delayedReview": {
+          "promptId": "later-74dc",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-74dc"
+        }
+      },
+      "assets": [
+        "asset-glyph-74dc",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-8336",
+      "hanzi": "茶",
+      "readings": [
+        {
+          "readingId": "reading-8336",
+          "pinyin": "chá",
+          "audioText": "茶",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#茶",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "tea",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#茶",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8336-1",
+          "text": "茶叶",
+          "pinyin": "chá yè",
+          "english": "tea leaves",
+          "readingId": "reading-8336",
+          "context": {
+            "hanzi": "茶叶放在一个小盒子里。",
+            "english": "The tea leaves are kept in a little box.",
+            "targetCharacter": "茶"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#茶叶",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8336-2",
+          "text": "红茶",
+          "pinyin": "hóng chá",
+          "english": "black tea",
+          "readingId": "reading-8336",
+          "context": {
+            "hanzi": "爸爸给自己泡了一杯红茶。",
+            "english": "Dad makes himself a cup of black tea.",
+            "targetCharacter": "茶"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#红茶",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the grass-shaped top of 茶 and the strokes beneath it.",
+        "demonstrationEnglish": "This is 茶. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8336",
+        "delayedReview": {
+          "promptId": "later-8336",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8336"
+        }
+      },
+      "assets": [
+        "asset-glyph-8336",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-21-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-74dc",
+        "familiar-8336"
+      ]
+    },
+    {
+      "stepId": "everyday-21-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-21-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-74dc",
+        "practice-two-74dc",
+        "practice-one-8336",
+        "practice-two-8336"
+      ]
+    },
+    {
+      "stepId": "everyday-21-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-74dc",
+        "check-8336"
+      ]
+    },
+    {
+      "stepId": "everyday-21-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-74dc",
+      "characterId": "char-74dc",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "瓜"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-74dc-choice-1",
+          "hanzi": "瓜"
+        },
+        {
+          "choiceId": "familiar-74dc-choice-2",
+          "hanzi": "茶"
+        },
+        {
+          "choiceId": "familiar-74dc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-74dc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-74dc-choice-1"
+    },
+    {
+      "checkId": "check-74dc",
+      "characterId": "char-74dc",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "瓜"
+      },
+      "choices": [
+        {
+          "choiceId": "check-74dc-choice-1",
+          "hanzi": "瓜"
+        },
+        {
+          "choiceId": "check-74dc-choice-2",
+          "hanzi": "茶"
+        },
+        {
+          "choiceId": "check-74dc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-74dc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-74dc-choice-1"
+    },
+    {
+      "checkId": "review-74dc",
+      "characterId": "char-74dc",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "瓜"
+      },
+      "choices": [
+        {
+          "choiceId": "review-74dc-choice-1",
+          "hanzi": "瓜"
+        },
+        {
+          "choiceId": "review-74dc-choice-2",
+          "hanzi": "茶"
+        },
+        {
+          "choiceId": "review-74dc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-74dc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-74dc-choice-1"
+    },
+    {
+      "checkId": "practice-one-74dc",
+      "characterId": "char-74dc",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "西瓜"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-74dc-choice-1",
+          "hanzi": "瓜"
+        },
+        {
+          "choiceId": "practice-one-74dc-choice-2",
+          "hanzi": "茶"
+        },
+        {
+          "choiceId": "practice-one-74dc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-74dc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-74dc-choice-1"
+    },
+    {
+      "checkId": "practice-two-74dc",
+      "characterId": "char-74dc",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "黄瓜"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-74dc-choice-1",
+          "hanzi": "瓜"
+        },
+        {
+          "choiceId": "practice-two-74dc-choice-2",
+          "hanzi": "茶"
+        },
+        {
+          "choiceId": "practice-two-74dc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-74dc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-74dc-choice-1"
+    },
+    {
+      "checkId": "familiar-8336",
+      "characterId": "char-8336",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "茶"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8336-choice-1",
+          "hanzi": "瓜"
+        },
+        {
+          "choiceId": "familiar-8336-choice-2",
+          "hanzi": "茶"
+        },
+        {
+          "choiceId": "familiar-8336-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8336-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8336-choice-2"
+    },
+    {
+      "checkId": "check-8336",
+      "characterId": "char-8336",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "茶"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8336-choice-1",
+          "hanzi": "瓜"
+        },
+        {
+          "choiceId": "check-8336-choice-2",
+          "hanzi": "茶"
+        },
+        {
+          "choiceId": "check-8336-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8336-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8336-choice-2"
+    },
+    {
+      "checkId": "review-8336",
+      "characterId": "char-8336",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "茶"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8336-choice-1",
+          "hanzi": "瓜"
+        },
+        {
+          "choiceId": "review-8336-choice-2",
+          "hanzi": "茶"
+        },
+        {
+          "choiceId": "review-8336-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8336-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8336-choice-2"
+    },
+    {
+      "checkId": "practice-one-8336",
+      "characterId": "char-8336",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "茶叶"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8336-choice-1",
+          "hanzi": "瓜"
+        },
+        {
+          "choiceId": "practice-one-8336-choice-2",
+          "hanzi": "茶"
+        },
+        {
+          "choiceId": "practice-one-8336-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8336-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8336-choice-2"
+    },
+    {
+      "checkId": "practice-two-8336",
+      "characterId": "char-8336",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "红茶"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8336-choice-1",
+          "hanzi": "瓜"
+        },
+        {
+          "choiceId": "practice-two-8336-choice-2",
+          "hanzi": "茶"
+        },
+        {
+          "choiceId": "practice-two-8336-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8336-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8336-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-74dc",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-21-v1/char-74dc",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-8336",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-21-v1/char-8336",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-21-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-21-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "A picnic basket",
+      "instructionEnglish": "Our capybara packs a picnic and sees a grown-up making tea. Read words for melons, cucumbers and tea."
+    },
+    "targets": [
+      {
+        "characterId": "char-74dc",
+        "readingId": "reading-74dc",
+        "familiarityCheckId": "familiar-74dc",
+        "practice": [
+          {
+            "wordId": "word-74dc-1",
+            "checkId": "practice-one-74dc"
+          },
+          {
+            "wordId": "word-74dc-2",
+            "checkId": "practice-two-74dc"
+          }
+        ],
+        "immediateCheckId": "check-74dc",
+        "reviewCheckId": "review-74dc"
+      },
+      {
+        "characterId": "char-8336",
+        "readingId": "reading-8336",
+        "familiarityCheckId": "familiar-8336",
+        "practice": [
+          {
+            "wordId": "word-8336-1",
+            "checkId": "practice-one-8336"
+          },
+          {
+            "wordId": "word-8336-2",
+            "checkId": "practice-two-8336"
+          }
+        ],
+        "immediateCheckId": "check-8336",
+        "reviewCheckId": "review-8336"
+      }
+    ],
+    "reader": {
+      "title": "A picnic basket",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-74dc-1",
+        "word-74dc-2",
+        "word-8336-1",
+        "word-8336-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-74dc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-74dc",
+          "transcript": "瓜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-74dc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-74dc",
+          "transcript": "瓜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-74dc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-74dc",
+          "transcript": "瓜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-74dc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-74dc",
+          "transcript": "西瓜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-74dc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-74dc",
+          "transcript": "黄瓜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-74dc",
+          "readingId": "reading-74dc",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "瓜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-74dc-1",
+          "readingId": null,
+          "wordId": "word-74dc-1",
+          "checkId": null,
+          "transcript": "大人把西瓜切成小块。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-74dc-2",
+          "readingId": null,
+          "wordId": "word-74dc-2",
+          "checkId": null,
+          "transcript": "我们洗好一根黄瓜。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-8336",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8336",
+          "transcript": "茶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8336",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8336",
+          "transcript": "茶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8336",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8336",
+          "transcript": "茶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8336",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8336",
+          "transcript": "茶叶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8336",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8336",
+          "transcript": "红茶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8336",
+          "readingId": "reading-8336",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "茶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8336-1",
+          "readingId": null,
+          "wordId": "word-8336-1",
+          "checkId": null,
+          "transcript": "茶叶放在一个小盒子里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8336-2",
+          "readingId": null,
+          "wordId": "word-8336-2",
+          "checkId": null,
+          "transcript": "爸爸给自己泡了一杯红茶。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-25",
+  "lessonVersion": "everyday-25-v1",
+  "title": "Paper and a pencil",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 38
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara makes a drawing. Read words for paper, pencils and a writing brush.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-7eb8",
+      "hanzi": "纸",
+      "readings": [
+        {
+          "readingId": "reading-7eb8",
+          "pinyin": "zhǐ",
+          "audioText": "纸",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#纸",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "paper",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#纸",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7eb8-1",
+          "text": "纸张",
+          "pinyin": "zhǐ zhāng",
+          "english": "sheets of paper",
+          "readingId": "reading-7eb8",
+          "context": {
+            "hanzi": "我们把纸张整齐地放好。",
+            "english": "We stack the sheets of paper neatly.",
+            "targetCharacter": "纸"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#纸张",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7eb8-2",
+          "text": "纸巾",
+          "pinyin": "zhǐ jīn",
+          "english": "paper tissue",
+          "readingId": "reading-7eb8",
+          "context": {
+            "hanzi": "我用纸巾擦干桌上的水。",
+            "english": "I use a tissue to wipe the water off the table.",
+            "targetCharacter": "纸"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#纸巾",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the narrow thread-shaped left part of 纸 and the strokes on the right.",
+        "demonstrationEnglish": "This is 纸. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7eb8",
+        "delayedReview": {
+          "promptId": "later-7eb8",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7eb8"
+        }
+      },
+      "assets": [
+        "asset-glyph-7eb8",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-7b14",
+      "hanzi": "笔",
+      "readings": [
+        {
+          "readingId": "reading-7b14",
+          "pinyin": "bǐ",
+          "audioText": "笔",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#笔",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "pen; writing tool",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#笔",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7b14-1",
+          "text": "铅笔",
+          "pinyin": "qiān bǐ",
+          "english": "pencil",
+          "readingId": "reading-7b14",
+          "context": {
+            "hanzi": "我用铅笔画了一朵花。",
+            "english": "I draw a flower with a pencil.",
+            "targetCharacter": "笔"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#铅笔",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7b14-2",
+          "text": "毛笔",
+          "pinyin": "máo bǐ",
+          "english": "brush for writing",
+          "readingId": "reading-7b14",
+          "context": {
+            "hanzi": "老师用毛笔写了一个大字。",
+            "english": "The teacher writes a large character with a writing brush.",
+            "targetCharacter": "笔"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#毛笔",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Look at the bamboo-shaped top of 笔 and the turning stroke beneath it.",
+        "demonstrationEnglish": "This is 笔. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7b14",
+        "delayedReview": {
+          "promptId": "later-7b14",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7b14"
+        }
+      },
+      "assets": [
+        "asset-glyph-7b14",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-25-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-7eb8",
+        "familiar-7b14"
+      ]
+    },
+    {
+      "stepId": "everyday-25-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-25-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-7eb8",
+        "practice-two-7eb8",
+        "practice-one-7b14",
+        "practice-two-7b14"
+      ]
+    },
+    {
+      "stepId": "everyday-25-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-7eb8",
+        "check-7b14"
+      ]
+    },
+    {
+      "stepId": "everyday-25-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-7eb8",
+      "characterId": "char-7eb8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "纸"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7eb8-choice-1",
+          "hanzi": "纸"
+        },
+        {
+          "choiceId": "familiar-7eb8-choice-2",
+          "hanzi": "笔"
+        },
+        {
+          "choiceId": "familiar-7eb8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7eb8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7eb8-choice-1"
+    },
+    {
+      "checkId": "check-7eb8",
+      "characterId": "char-7eb8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "纸"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7eb8-choice-1",
+          "hanzi": "纸"
+        },
+        {
+          "choiceId": "check-7eb8-choice-2",
+          "hanzi": "笔"
+        },
+        {
+          "choiceId": "check-7eb8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7eb8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7eb8-choice-1"
+    },
+    {
+      "checkId": "review-7eb8",
+      "characterId": "char-7eb8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "纸"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7eb8-choice-1",
+          "hanzi": "纸"
+        },
+        {
+          "choiceId": "review-7eb8-choice-2",
+          "hanzi": "笔"
+        },
+        {
+          "choiceId": "review-7eb8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7eb8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7eb8-choice-1"
+    },
+    {
+      "checkId": "practice-one-7eb8",
+      "characterId": "char-7eb8",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "纸张"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7eb8-choice-1",
+          "hanzi": "纸"
+        },
+        {
+          "choiceId": "practice-one-7eb8-choice-2",
+          "hanzi": "笔"
+        },
+        {
+          "choiceId": "practice-one-7eb8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7eb8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7eb8-choice-1"
+    },
+    {
+      "checkId": "practice-two-7eb8",
+      "characterId": "char-7eb8",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "纸巾"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7eb8-choice-1",
+          "hanzi": "纸"
+        },
+        {
+          "choiceId": "practice-two-7eb8-choice-2",
+          "hanzi": "笔"
+        },
+        {
+          "choiceId": "practice-two-7eb8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7eb8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7eb8-choice-1"
+    },
+    {
+      "checkId": "familiar-7b14",
+      "characterId": "char-7b14",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "笔"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7b14-choice-1",
+          "hanzi": "纸"
+        },
+        {
+          "choiceId": "familiar-7b14-choice-2",
+          "hanzi": "笔"
+        },
+        {
+          "choiceId": "familiar-7b14-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7b14-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7b14-choice-2"
+    },
+    {
+      "checkId": "check-7b14",
+      "characterId": "char-7b14",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "笔"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7b14-choice-1",
+          "hanzi": "纸"
+        },
+        {
+          "choiceId": "check-7b14-choice-2",
+          "hanzi": "笔"
+        },
+        {
+          "choiceId": "check-7b14-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7b14-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7b14-choice-2"
+    },
+    {
+      "checkId": "review-7b14",
+      "characterId": "char-7b14",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "笔"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7b14-choice-1",
+          "hanzi": "纸"
+        },
+        {
+          "choiceId": "review-7b14-choice-2",
+          "hanzi": "笔"
+        },
+        {
+          "choiceId": "review-7b14-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7b14-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7b14-choice-2"
+    },
+    {
+      "checkId": "practice-one-7b14",
+      "characterId": "char-7b14",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "铅笔"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7b14-choice-1",
+          "hanzi": "纸"
+        },
+        {
+          "choiceId": "practice-one-7b14-choice-2",
+          "hanzi": "笔"
+        },
+        {
+          "choiceId": "practice-one-7b14-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7b14-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7b14-choice-2"
+    },
+    {
+      "checkId": "practice-two-7b14",
+      "characterId": "char-7b14",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "毛笔"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7b14-choice-1",
+          "hanzi": "纸"
+        },
+        {
+          "choiceId": "practice-two-7b14-choice-2",
+          "hanzi": "笔"
+        },
+        {
+          "choiceId": "practice-two-7b14-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7b14-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7b14-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-7eb8",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-25-v1/char-7eb8",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-7b14",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-25-v1/char-7b14",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-25-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-25-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Paper and a pencil",
+      "instructionEnglish": "Our capybara makes a drawing. Read words for paper, pencils and a writing brush."
+    },
+    "targets": [
+      {
+        "characterId": "char-7eb8",
+        "readingId": "reading-7eb8",
+        "familiarityCheckId": "familiar-7eb8",
+        "practice": [
+          {
+            "wordId": "word-7eb8-1",
+            "checkId": "practice-one-7eb8"
+          },
+          {
+            "wordId": "word-7eb8-2",
+            "checkId": "practice-two-7eb8"
+          }
+        ],
+        "immediateCheckId": "check-7eb8",
+        "reviewCheckId": "review-7eb8"
+      },
+      {
+        "characterId": "char-7b14",
+        "readingId": "reading-7b14",
+        "familiarityCheckId": "familiar-7b14",
+        "practice": [
+          {
+            "wordId": "word-7b14-1",
+            "checkId": "practice-one-7b14"
+          },
+          {
+            "wordId": "word-7b14-2",
+            "checkId": "practice-two-7b14"
+          }
+        ],
+        "immediateCheckId": "check-7b14",
+        "reviewCheckId": "review-7b14"
+      }
+    ],
+    "reader": {
+      "title": "Paper and a pencil",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-7eb8-1",
+        "word-7eb8-2",
+        "word-7b14-1",
+        "word-7b14-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-7eb8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7eb8",
+          "transcript": "纸",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7eb8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7eb8",
+          "transcript": "纸",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7eb8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7eb8",
+          "transcript": "纸",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7eb8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7eb8",
+          "transcript": "纸张",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7eb8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7eb8",
+          "transcript": "纸巾",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7eb8",
+          "readingId": "reading-7eb8",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "纸",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7eb8-1",
+          "readingId": null,
+          "wordId": "word-7eb8-1",
+          "checkId": null,
+          "transcript": "我们把纸张整齐地放好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7eb8-2",
+          "readingId": null,
+          "wordId": "word-7eb8-2",
+          "checkId": null,
+          "transcript": "我用纸巾擦干桌上的水。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-7b14",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7b14",
+          "transcript": "笔",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7b14",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7b14",
+          "transcript": "笔",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7b14",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7b14",
+          "transcript": "笔",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7b14",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7b14",
+          "transcript": "铅笔",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7b14",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7b14",
+          "transcript": "毛笔",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7b14",
+          "readingId": "reading-7b14",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "笔",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7b14-1",
+          "readingId": null,
+          "wordId": "word-7b14-1",
+          "checkId": null,
+          "transcript": "我用铅笔画了一朵花。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7b14-2",
+          "readingId": null,
+          "wordId": "word-7b14-2",
+          "checkId": null,
+          "transcript": "老师用毛笔写了一个大字。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

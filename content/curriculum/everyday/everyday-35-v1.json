@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-35",
+  "lessonVersion": "everyday-35-v1",
+  "title": "Read and write",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 48
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara reads a sentence and writes a card. Notice read and write in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-8bfb",
+      "hanzi": "读",
+      "readings": [
+        {
+          "readingId": "reading-8bfb",
+          "pinyin": "dú",
+          "audioText": "读",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#读",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "read",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#读",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8bfb-1",
+          "text": "读书",
+          "pinyin": "dú shū",
+          "english": "read; study",
+          "readingId": "reading-8bfb",
+          "context": {
+            "hanzi": "我们在树荫下读书。",
+            "english": "We read in the shade of the tree.",
+            "targetCharacter": "读"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#读书",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8bfb-2",
+          "text": "朗读",
+          "pinyin": "lǎng dú",
+          "english": "read aloud",
+          "readingId": "reading-8bfb",
+          "context": {
+            "hanzi": "老师请我朗读这一句话。",
+            "english": "The teacher asks me to read this sentence aloud.",
+            "targetCharacter": "读"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#朗读",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the speech-shaped left part of 读; compare it with 写.",
+        "demonstrationEnglish": "This is 读. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8bfb",
+        "delayedReview": {
+          "promptId": "later-8bfb",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8bfb"
+        }
+      },
+      "assets": [
+        "asset-glyph-8bfb",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5199",
+      "hanzi": "写",
+      "readings": [
+        {
+          "readingId": "reading-5199",
+          "pinyin": "xiě",
+          "audioText": "写",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#写",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "write",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#写",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5199-1",
+          "text": "写字",
+          "pinyin": "xiě zì",
+          "english": "write characters",
+          "readingId": "reading-5199",
+          "context": {
+            "hanzi": "我在本子上认真写字。",
+            "english": "I carefully write characters in my notebook.",
+            "targetCharacter": "写"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#写字",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5199-2",
+          "text": "书写",
+          "pinyin": "shū xiě",
+          "english": "write; handwriting",
+          "readingId": "reading-5199",
+          "context": {
+            "hanzi": "这张卡片是我自己书写的。",
+            "english": "I write this card myself.",
+            "targetCharacter": "写"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#书写",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the covering top and the strokes beneath it in 写.",
+        "demonstrationEnglish": "This is 写. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5199",
+        "delayedReview": {
+          "promptId": "later-5199",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5199"
+        }
+      },
+      "assets": [
+        "asset-glyph-5199",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-35-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-8bfb",
+        "familiar-5199"
+      ]
+    },
+    {
+      "stepId": "everyday-35-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-35-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-8bfb",
+        "practice-two-8bfb",
+        "practice-one-5199",
+        "practice-two-5199"
+      ]
+    },
+    {
+      "stepId": "everyday-35-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-8bfb",
+        "check-5199"
+      ]
+    },
+    {
+      "stepId": "everyday-35-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-8bfb",
+      "characterId": "char-8bfb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "读"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8bfb-choice-1",
+          "hanzi": "读"
+        },
+        {
+          "choiceId": "familiar-8bfb-choice-2",
+          "hanzi": "写"
+        },
+        {
+          "choiceId": "familiar-8bfb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8bfb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8bfb-choice-1"
+    },
+    {
+      "checkId": "check-8bfb",
+      "characterId": "char-8bfb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "读"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8bfb-choice-1",
+          "hanzi": "读"
+        },
+        {
+          "choiceId": "check-8bfb-choice-2",
+          "hanzi": "写"
+        },
+        {
+          "choiceId": "check-8bfb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8bfb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8bfb-choice-1"
+    },
+    {
+      "checkId": "review-8bfb",
+      "characterId": "char-8bfb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "读"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8bfb-choice-1",
+          "hanzi": "读"
+        },
+        {
+          "choiceId": "review-8bfb-choice-2",
+          "hanzi": "写"
+        },
+        {
+          "choiceId": "review-8bfb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8bfb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8bfb-choice-1"
+    },
+    {
+      "checkId": "practice-one-8bfb",
+      "characterId": "char-8bfb",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "读书"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8bfb-choice-1",
+          "hanzi": "读"
+        },
+        {
+          "choiceId": "practice-one-8bfb-choice-2",
+          "hanzi": "写"
+        },
+        {
+          "choiceId": "practice-one-8bfb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8bfb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8bfb-choice-1"
+    },
+    {
+      "checkId": "practice-two-8bfb",
+      "characterId": "char-8bfb",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "朗读"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8bfb-choice-1",
+          "hanzi": "读"
+        },
+        {
+          "choiceId": "practice-two-8bfb-choice-2",
+          "hanzi": "写"
+        },
+        {
+          "choiceId": "practice-two-8bfb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8bfb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8bfb-choice-1"
+    },
+    {
+      "checkId": "familiar-5199",
+      "characterId": "char-5199",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "写"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5199-choice-1",
+          "hanzi": "读"
+        },
+        {
+          "choiceId": "familiar-5199-choice-2",
+          "hanzi": "写"
+        },
+        {
+          "choiceId": "familiar-5199-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5199-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5199-choice-2"
+    },
+    {
+      "checkId": "check-5199",
+      "characterId": "char-5199",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "写"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5199-choice-1",
+          "hanzi": "读"
+        },
+        {
+          "choiceId": "check-5199-choice-2",
+          "hanzi": "写"
+        },
+        {
+          "choiceId": "check-5199-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5199-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5199-choice-2"
+    },
+    {
+      "checkId": "review-5199",
+      "characterId": "char-5199",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "写"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5199-choice-1",
+          "hanzi": "读"
+        },
+        {
+          "choiceId": "review-5199-choice-2",
+          "hanzi": "写"
+        },
+        {
+          "choiceId": "review-5199-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5199-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5199-choice-2"
+    },
+    {
+      "checkId": "practice-one-5199",
+      "characterId": "char-5199",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "写字"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5199-choice-1",
+          "hanzi": "读"
+        },
+        {
+          "choiceId": "practice-one-5199-choice-2",
+          "hanzi": "写"
+        },
+        {
+          "choiceId": "practice-one-5199-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5199-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5199-choice-2"
+    },
+    {
+      "checkId": "practice-two-5199",
+      "characterId": "char-5199",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "书写"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5199-choice-1",
+          "hanzi": "读"
+        },
+        {
+          "choiceId": "practice-two-5199-choice-2",
+          "hanzi": "写"
+        },
+        {
+          "choiceId": "practice-two-5199-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5199-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5199-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-8bfb",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-35-v1/char-8bfb",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5199",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-35-v1/char-5199",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-35-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-35-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Read and write",
+      "instructionEnglish": "Our capybara reads a sentence and writes a card. Notice read and write in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-8bfb",
+        "readingId": "reading-8bfb",
+        "familiarityCheckId": "familiar-8bfb",
+        "practice": [
+          {
+            "wordId": "word-8bfb-1",
+            "checkId": "practice-one-8bfb"
+          },
+          {
+            "wordId": "word-8bfb-2",
+            "checkId": "practice-two-8bfb"
+          }
+        ],
+        "immediateCheckId": "check-8bfb",
+        "reviewCheckId": "review-8bfb"
+      },
+      {
+        "characterId": "char-5199",
+        "readingId": "reading-5199",
+        "familiarityCheckId": "familiar-5199",
+        "practice": [
+          {
+            "wordId": "word-5199-1",
+            "checkId": "practice-one-5199"
+          },
+          {
+            "wordId": "word-5199-2",
+            "checkId": "practice-two-5199"
+          }
+        ],
+        "immediateCheckId": "check-5199",
+        "reviewCheckId": "review-5199"
+      }
+    ],
+    "reader": {
+      "title": "Read and write",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-8bfb-1",
+        "word-8bfb-2",
+        "word-5199-1",
+        "word-5199-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-8bfb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8bfb",
+          "transcript": "读",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8bfb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8bfb",
+          "transcript": "读",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8bfb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8bfb",
+          "transcript": "读",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8bfb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8bfb",
+          "transcript": "读书",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8bfb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8bfb",
+          "transcript": "朗读",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8bfb",
+          "readingId": "reading-8bfb",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "读",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8bfb-1",
+          "readingId": null,
+          "wordId": "word-8bfb-1",
+          "checkId": null,
+          "transcript": "我们在树荫下读书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8bfb-2",
+          "readingId": null,
+          "wordId": "word-8bfb-2",
+          "checkId": null,
+          "transcript": "老师请我朗读这一句话。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5199",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5199",
+          "transcript": "写",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5199",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5199",
+          "transcript": "写",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5199",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5199",
+          "transcript": "写",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5199",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5199",
+          "transcript": "写字",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5199",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5199",
+          "transcript": "书写",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5199",
+          "readingId": "reading-5199",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "写",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5199-1",
+          "readingId": null,
+          "wordId": "word-5199-1",
+          "checkId": null,
+          "transcript": "我在本子上认真写字。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5199-2",
+          "readingId": null,
+          "wordId": "word-5199-2",
+          "checkId": null,
+          "transcript": "这张卡片是我自己书写的。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

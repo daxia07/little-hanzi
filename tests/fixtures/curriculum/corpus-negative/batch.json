@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "r6-authoring-batch-1",
+  "batchId": "qa-negative-dedup-batch",
+  "batchVersion": "qa-negative-dedup-batch-v1",
+  "items": [
+    {
+      "lessonVersion": "qa-negative-paired-01-v1",
+      "contentDigest": "sha256:3fcd2d57e70f15681f21815277bc5d3140b4c805d0e66bc7a0112b3521d96d6d",
+      "characters": [
+        {
+          "characterId": "char-6728",
+          "coverageIdentity": "木"
+        },
+        {
+          "characterId": "char-6797",
+          "coverageIdentity": "林"
+        }
+      ],
+      "sourceRefs": [
+        "qa-synthetic-fixture"
+      ],
+      "licenseRefs": [],
+      "reviewerRefs": [],
+      "adapterId": "corpus-paired",
+      "adapterVersion": "corpus-paired-v1",
+      "trackId": "qa-negative-synthetic",
+      "sequence": 1
+    },
+    {
+      "lessonVersion": "qa-negative-paired-02-v1",
+      "contentDigest": "sha256:215b2a0574bae593dd51334107deefef7834514856c0b5ab72c9479db4d63d2e",
+      "characters": [
+        {
+          "characterId": "char-6728",
+          "coverageIdentity": "木"
+        },
+        {
+          "characterId": "char-6797",
+          "coverageIdentity": "林"
+        }
+      ],
+      "sourceRefs": [
+        "qa-synthetic-fixture"
+      ],
+      "licenseRefs": [],
+      "reviewerRefs": [],
+      "adapterId": "corpus-paired",
+      "adapterVersion": "corpus-paired-v1",
+      "trackId": "qa-negative-synthetic",
+      "sequence": 2
+    }
+  ],
+  "intendedScope": "draft",
+  "unresolvedFields": [
+    "FIXTURE",
+    "UNREVIEWED_CONTENT",
+    "UNREVIEWED_AUDIO",
+    "INVALID_PROOF"
+  ]
+}

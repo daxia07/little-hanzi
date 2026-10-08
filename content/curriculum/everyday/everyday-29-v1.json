@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-29",
+  "lessonVersion": "everyday-29-v1",
+  "title": "Red and yellow things",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 42
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara looks for red and yellow things. Notice the colour characters in familiar words.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-7ea2",
+      "hanzi": "红",
+      "readings": [
+        {
+          "readingId": "reading-7ea2",
+          "pinyin": "hóng",
+          "audioText": "红",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#红",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "red",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#红",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7ea2-1",
+          "text": "红色",
+          "pinyin": "hóng sè",
+          "english": "red colour",
+          "readingId": "reading-7ea2",
+          "context": {
+            "hanzi": "我用红色的笔画了一颗心。",
+            "english": "I draw a heart with a red pen.",
+            "targetCharacter": "红"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#红色",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7ea2-2",
+          "text": "红花",
+          "pinyin": "hóng huā",
+          "english": "red flower",
+          "readingId": "reading-7ea2",
+          "context": {
+            "hanzi": "花园里开着一朵红花。",
+            "english": "A red flower blooms in the garden.",
+            "targetCharacter": "红"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#红花",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the thread-shaped left part of 红 and 工 on the right.",
+        "demonstrationEnglish": "This is 红. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7ea2",
+        "delayedReview": {
+          "promptId": "later-7ea2",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7ea2"
+        }
+      },
+      "assets": [
+        "asset-glyph-7ea2",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-9ec4",
+      "hanzi": "黄",
+      "readings": [
+        {
+          "readingId": "reading-9ec4",
+          "pinyin": "huáng",
+          "audioText": "黄",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#黄",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "yellow",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#黄",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-9ec4-1",
+          "text": "黄色",
+          "pinyin": "huáng sè",
+          "english": "yellow colour",
+          "readingId": "reading-9ec4",
+          "context": {
+            "hanzi": "这辆小车是黄色的。",
+            "english": "This little toy car is yellow.",
+            "targetCharacter": "黄"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#黄色",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-9ec4-2",
+          "text": "黄瓜",
+          "pinyin": "huáng guā",
+          "english": "cucumber",
+          "readingId": "reading-9ec4",
+          "context": {
+            "hanzi": "篮子里有一根黄瓜。",
+            "english": "There is a cucumber in the basket.",
+            "targetCharacter": "黄"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#黄瓜",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the middle box and the lower spreading strokes of 黄.",
+        "demonstrationEnglish": "This is 黄. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-9ec4",
+        "delayedReview": {
+          "promptId": "later-9ec4",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-9ec4"
+        }
+      },
+      "assets": [
+        "asset-glyph-9ec4",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-29-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-7ea2",
+        "familiar-9ec4"
+      ]
+    },
+    {
+      "stepId": "everyday-29-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-29-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-7ea2",
+        "practice-two-7ea2",
+        "practice-one-9ec4",
+        "practice-two-9ec4"
+      ]
+    },
+    {
+      "stepId": "everyday-29-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-7ea2",
+        "check-9ec4"
+      ]
+    },
+    {
+      "stepId": "everyday-29-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-7ea2",
+      "characterId": "char-7ea2",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "红"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7ea2-choice-1",
+          "hanzi": "红"
+        },
+        {
+          "choiceId": "familiar-7ea2-choice-2",
+          "hanzi": "黄"
+        },
+        {
+          "choiceId": "familiar-7ea2-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7ea2-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7ea2-choice-1"
+    },
+    {
+      "checkId": "check-7ea2",
+      "characterId": "char-7ea2",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "红"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7ea2-choice-1",
+          "hanzi": "红"
+        },
+        {
+          "choiceId": "check-7ea2-choice-2",
+          "hanzi": "黄"
+        },
+        {
+          "choiceId": "check-7ea2-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7ea2-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7ea2-choice-1"
+    },
+    {
+      "checkId": "review-7ea2",
+      "characterId": "char-7ea2",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "红"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7ea2-choice-1",
+          "hanzi": "红"
+        },
+        {
+          "choiceId": "review-7ea2-choice-2",
+          "hanzi": "黄"
+        },
+        {
+          "choiceId": "review-7ea2-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7ea2-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7ea2-choice-1"
+    },
+    {
+      "checkId": "practice-one-7ea2",
+      "characterId": "char-7ea2",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "红色"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7ea2-choice-1",
+          "hanzi": "红"
+        },
+        {
+          "choiceId": "practice-one-7ea2-choice-2",
+          "hanzi": "黄"
+        },
+        {
+          "choiceId": "practice-one-7ea2-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7ea2-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7ea2-choice-1"
+    },
+    {
+      "checkId": "practice-two-7ea2",
+      "characterId": "char-7ea2",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "红花"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7ea2-choice-1",
+          "hanzi": "红"
+        },
+        {
+          "choiceId": "practice-two-7ea2-choice-2",
+          "hanzi": "黄"
+        },
+        {
+          "choiceId": "practice-two-7ea2-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7ea2-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7ea2-choice-1"
+    },
+    {
+      "checkId": "familiar-9ec4",
+      "characterId": "char-9ec4",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "黄"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-9ec4-choice-1",
+          "hanzi": "红"
+        },
+        {
+          "choiceId": "familiar-9ec4-choice-2",
+          "hanzi": "黄"
+        },
+        {
+          "choiceId": "familiar-9ec4-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-9ec4-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-9ec4-choice-2"
+    },
+    {
+      "checkId": "check-9ec4",
+      "characterId": "char-9ec4",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "黄"
+      },
+      "choices": [
+        {
+          "choiceId": "check-9ec4-choice-1",
+          "hanzi": "红"
+        },
+        {
+          "choiceId": "check-9ec4-choice-2",
+          "hanzi": "黄"
+        },
+        {
+          "choiceId": "check-9ec4-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-9ec4-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-9ec4-choice-2"
+    },
+    {
+      "checkId": "review-9ec4",
+      "characterId": "char-9ec4",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "黄"
+      },
+      "choices": [
+        {
+          "choiceId": "review-9ec4-choice-1",
+          "hanzi": "红"
+        },
+        {
+          "choiceId": "review-9ec4-choice-2",
+          "hanzi": "黄"
+        },
+        {
+          "choiceId": "review-9ec4-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-9ec4-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-9ec4-choice-2"
+    },
+    {
+      "checkId": "practice-one-9ec4",
+      "characterId": "char-9ec4",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "黄色"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-9ec4-choice-1",
+          "hanzi": "红"
+        },
+        {
+          "choiceId": "practice-one-9ec4-choice-2",
+          "hanzi": "黄"
+        },
+        {
+          "choiceId": "practice-one-9ec4-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-9ec4-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-9ec4-choice-2"
+    },
+    {
+      "checkId": "practice-two-9ec4",
+      "characterId": "char-9ec4",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "黄瓜"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-9ec4-choice-1",
+          "hanzi": "红"
+        },
+        {
+          "choiceId": "practice-two-9ec4-choice-2",
+          "hanzi": "黄"
+        },
+        {
+          "choiceId": "practice-two-9ec4-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-9ec4-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-9ec4-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-7ea2",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-29-v1/char-7ea2",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-9ec4",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-29-v1/char-9ec4",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-29-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-29-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Red and yellow things",
+      "instructionEnglish": "Our capybara looks for red and yellow things. Notice the colour characters in familiar words."
+    },
+    "targets": [
+      {
+        "characterId": "char-7ea2",
+        "readingId": "reading-7ea2",
+        "familiarityCheckId": "familiar-7ea2",
+        "practice": [
+          {
+            "wordId": "word-7ea2-1",
+            "checkId": "practice-one-7ea2"
+          },
+          {
+            "wordId": "word-7ea2-2",
+            "checkId": "practice-two-7ea2"
+          }
+        ],
+        "immediateCheckId": "check-7ea2",
+        "reviewCheckId": "review-7ea2"
+      },
+      {
+        "characterId": "char-9ec4",
+        "readingId": "reading-9ec4",
+        "familiarityCheckId": "familiar-9ec4",
+        "practice": [
+          {
+            "wordId": "word-9ec4-1",
+            "checkId": "practice-one-9ec4"
+          },
+          {
+            "wordId": "word-9ec4-2",
+            "checkId": "practice-two-9ec4"
+          }
+        ],
+        "immediateCheckId": "check-9ec4",
+        "reviewCheckId": "review-9ec4"
+      }
+    ],
+    "reader": {
+      "title": "Red and yellow things",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-7ea2-1",
+        "word-7ea2-2",
+        "word-9ec4-1",
+        "word-9ec4-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-7ea2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7ea2",
+          "transcript": "红",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7ea2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7ea2",
+          "transcript": "红",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7ea2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7ea2",
+          "transcript": "红",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7ea2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7ea2",
+          "transcript": "红色",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7ea2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7ea2",
+          "transcript": "红花",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7ea2",
+          "readingId": "reading-7ea2",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "红",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7ea2-1",
+          "readingId": null,
+          "wordId": "word-7ea2-1",
+          "checkId": null,
+          "transcript": "我用红色的笔画了一颗心。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7ea2-2",
+          "readingId": null,
+          "wordId": "word-7ea2-2",
+          "checkId": null,
+          "transcript": "花园里开着一朵红花。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-9ec4",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-9ec4",
+          "transcript": "黄",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-9ec4",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-9ec4",
+          "transcript": "黄",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-9ec4",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-9ec4",
+          "transcript": "黄",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-9ec4",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-9ec4",
+          "transcript": "黄色",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-9ec4",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-9ec4",
+          "transcript": "黄瓜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-9ec4",
+          "readingId": "reading-9ec4",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "黄",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9ec4-1",
+          "readingId": null,
+          "wordId": "word-9ec4-1",
+          "checkId": null,
+          "transcript": "这辆小车是黄色的。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9ec4-2",
+          "readingId": null,
+          "wordId": "word-9ec4-2",
+          "checkId": null,
+          "transcript": "篮子里有一根黄瓜。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

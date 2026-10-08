@@ -1,0 +1,788 @@
+{
+  "lessonId": "corpus-path-02",
+  "lessonVersion": "corpus-path-02-v1",
+  "title": "A moonlit birthday",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 2
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara has a birthday book. Follow the day into a bright moonlit evening.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-65e5",
+      "hanzi": "日",
+      "readings": [
+        {
+          "readingId": "reading-65e5",
+          "pinyin": "rì",
+          "audioText": "日",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#日",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "day; sun in words",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#日",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-65e5-1",
+          "text": "日子",
+          "pinyin": "rì zi",
+          "english": "day; days",
+          "readingId": "reading-65e5",
+          "context": {
+            "hanzi": "今天是个快乐的日子。",
+            "english": "Today is a happy day.",
+            "targetCharacter": "日"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#日子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-65e5-2",
+          "text": "生日",
+          "pinyin": "shēng rì",
+          "english": "birthday",
+          "readingId": "reading-65e5",
+          "context": {
+            "hanzi": "我在生日那天收到一本书。",
+            "english": "I received a book on my birthday.",
+            "targetCharacter": "日"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#生日",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Look for one short line inside a tall box. Compare it carefully with 目.",
+        "demonstrationEnglish": "This is 日. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-65e5",
+        "delayedReview": {
+          "promptId": "later-65e5",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-65e5"
+        }
+      },
+      "assets": [
+        "asset-glyph-65e5",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6708",
+      "hanzi": "月",
+      "readings": [
+        {
+          "readingId": "reading-6708",
+          "pinyin": "yuè",
+          "audioText": "月",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#月",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "moon; month",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#月",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6708-1",
+          "text": "月亮",
+          "pinyin": "yuè liang",
+          "english": "moon",
+          "readingId": "reading-6708",
+          "context": {
+            "hanzi": "月亮慢慢升起来了。",
+            "english": "The moon slowly rose.",
+            "targetCharacter": "月"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#月亮",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6708-2",
+          "text": "月光",
+          "pinyin": "yuè guāng",
+          "english": "moonlight",
+          "readingId": "reading-6708",
+          "context": {
+            "hanzi": "月光照在窗边的书上。",
+            "english": "Moonlight shines on the book beside the window.",
+            "targetCharacter": "月"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#月光",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the two short lines inside and the open space between the lower strokes.",
+        "demonstrationEnglish": "This is 月. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6708",
+        "delayedReview": {
+          "promptId": "later-6708",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6708"
+        }
+      },
+      "assets": [
+        "asset-glyph-6708",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "path-02-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-65e5",
+        "familiar-6708"
+      ]
+    },
+    {
+      "stepId": "path-02-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "path-02-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-65e5-1",
+        "practice-65e5-2",
+        "practice-6708-1",
+        "practice-6708-2"
+      ]
+    },
+    {
+      "stepId": "path-02-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-65e5",
+        "check-6708"
+      ]
+    },
+    {
+      "stepId": "path-02-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-65e5",
+      "characterId": "char-65e5",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "日"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-65e5-choice-1",
+          "hanzi": "日"
+        },
+        {
+          "choiceId": "familiar-65e5-choice-2",
+          "hanzi": "月"
+        },
+        {
+          "choiceId": "familiar-65e5-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-65e5-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-65e5-choice-1"
+    },
+    {
+      "checkId": "check-65e5",
+      "characterId": "char-65e5",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "日"
+      },
+      "choices": [
+        {
+          "choiceId": "check-65e5-choice-1",
+          "hanzi": "日"
+        },
+        {
+          "choiceId": "check-65e5-choice-2",
+          "hanzi": "月"
+        },
+        {
+          "choiceId": "check-65e5-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-65e5-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-65e5-choice-1"
+    },
+    {
+      "checkId": "review-65e5",
+      "characterId": "char-65e5",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "日"
+      },
+      "choices": [
+        {
+          "choiceId": "review-65e5-choice-1",
+          "hanzi": "日"
+        },
+        {
+          "choiceId": "review-65e5-choice-2",
+          "hanzi": "月"
+        },
+        {
+          "choiceId": "review-65e5-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-65e5-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-65e5-choice-1"
+    },
+    {
+      "checkId": "practice-65e5-1",
+      "characterId": "char-65e5",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "日子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-65e5-1-choice-1",
+          "hanzi": "日"
+        },
+        {
+          "choiceId": "practice-65e5-1-choice-2",
+          "hanzi": "月"
+        },
+        {
+          "choiceId": "practice-65e5-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-65e5-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-65e5-1-choice-1"
+    },
+    {
+      "checkId": "practice-65e5-2",
+      "characterId": "char-65e5",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "生日"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-65e5-2-choice-1",
+          "hanzi": "日"
+        },
+        {
+          "choiceId": "practice-65e5-2-choice-2",
+          "hanzi": "月"
+        },
+        {
+          "choiceId": "practice-65e5-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-65e5-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-65e5-2-choice-1"
+    },
+    {
+      "checkId": "familiar-6708",
+      "characterId": "char-6708",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "月"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6708-choice-1",
+          "hanzi": "日"
+        },
+        {
+          "choiceId": "familiar-6708-choice-2",
+          "hanzi": "月"
+        },
+        {
+          "choiceId": "familiar-6708-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-6708-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-6708-choice-2"
+    },
+    {
+      "checkId": "check-6708",
+      "characterId": "char-6708",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "月"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6708-choice-1",
+          "hanzi": "日"
+        },
+        {
+          "choiceId": "check-6708-choice-2",
+          "hanzi": "月"
+        },
+        {
+          "choiceId": "check-6708-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-6708-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-6708-choice-2"
+    },
+    {
+      "checkId": "review-6708",
+      "characterId": "char-6708",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "月"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6708-choice-1",
+          "hanzi": "日"
+        },
+        {
+          "choiceId": "review-6708-choice-2",
+          "hanzi": "月"
+        },
+        {
+          "choiceId": "review-6708-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-6708-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-6708-choice-2"
+    },
+    {
+      "checkId": "practice-6708-1",
+      "characterId": "char-6708",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "月亮"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-6708-1-choice-1",
+          "hanzi": "日"
+        },
+        {
+          "choiceId": "practice-6708-1-choice-2",
+          "hanzi": "月"
+        },
+        {
+          "choiceId": "practice-6708-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-6708-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-6708-1-choice-2"
+    },
+    {
+      "checkId": "practice-6708-2",
+      "characterId": "char-6708",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "月光"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-6708-2-choice-1",
+          "hanzi": "日"
+        },
+        {
+          "choiceId": "practice-6708-2-choice-2",
+          "hanzi": "月"
+        },
+        {
+          "choiceId": "practice-6708-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-6708-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-6708-2-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-65e5",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-02-v1/char-65e5",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6708",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-02-v1/char-6708",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Songti SC/STSong or local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/path-02-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device-provided speech; voice suitability and terms require review",
+      "evidenceRef": "draft/audio/path-02-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "A moonlit birthday",
+      "instructionEnglish": "Our capybara has a birthday book. Follow the day into a bright moonlit evening."
+    },
+    "targets": [
+      {
+        "characterId": "char-65e5",
+        "readingId": "reading-65e5",
+        "familiarityCheckId": "familiar-65e5",
+        "practice": [
+          {
+            "wordId": "word-65e5-1",
+            "checkId": "practice-65e5-1"
+          },
+          {
+            "wordId": "word-65e5-2",
+            "checkId": "practice-65e5-2"
+          }
+        ],
+        "immediateCheckId": "check-65e5",
+        "reviewCheckId": "review-65e5"
+      },
+      {
+        "characterId": "char-6708",
+        "readingId": "reading-6708",
+        "familiarityCheckId": "familiar-6708",
+        "practice": [
+          {
+            "wordId": "word-6708-1",
+            "checkId": "practice-6708-1"
+          },
+          {
+            "wordId": "word-6708-2",
+            "checkId": "practice-6708-2"
+          }
+        ],
+        "immediateCheckId": "check-6708",
+        "reviewCheckId": "review-6708"
+      }
+    ],
+    "reader": {
+      "title": "From daytime to moonlight",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-65e5-1",
+        "word-65e5-2",
+        "word-6708-1",
+        "word-6708-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-65e5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-65e5",
+          "transcript": "日",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-65e5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-65e5",
+          "transcript": "日",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-65e5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-65e5",
+          "transcript": "日",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-65e5-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-65e5-1",
+          "transcript": "日子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-65e5-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-65e5-2",
+          "transcript": "生日",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-65e5",
+          "readingId": "reading-65e5",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "日",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-65e5-1",
+          "readingId": null,
+          "wordId": "word-65e5-1",
+          "checkId": null,
+          "transcript": "今天是个快乐的日子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-65e5-2",
+          "readingId": null,
+          "wordId": "word-65e5-2",
+          "checkId": null,
+          "transcript": "我在生日那天收到一本书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6708",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6708",
+          "transcript": "月",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6708",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6708",
+          "transcript": "月",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6708",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6708",
+          "transcript": "月",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-6708-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-6708-1",
+          "transcript": "月亮",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-6708-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-6708-2",
+          "transcript": "月光",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6708",
+          "readingId": "reading-6708",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "月",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6708-1",
+          "readingId": null,
+          "wordId": "word-6708-1",
+          "checkId": null,
+          "transcript": "月亮慢慢升起来了。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6708-2",
+          "readingId": null,
+          "wordId": "word-6708-2",
+          "checkId": null,
+          "transcript": "月光照在窗边的书上。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

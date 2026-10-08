@@ -1,0 +1,788 @@
+{
+  "lessonId": "corpus-path-04",
+  "lessonVersion": "corpus-path-04-v1",
+  "title": "Follow the stream",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 4
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara follows a little stream beside a hill. Help notice mountain and water words.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5c71",
+      "hanzi": "山",
+      "readings": [
+        {
+          "readingId": "reading-5c71",
+          "pinyin": "shān",
+          "audioText": "山",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#山",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "mountain; hill",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#山",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5c71-1",
+          "text": "山顶",
+          "pinyin": "shān dǐng",
+          "english": "mountaintop; hilltop",
+          "readingId": "reading-5c71",
+          "context": {
+            "hanzi": "山顶上有一棵树。",
+            "english": "There is a tree on the hilltop.",
+            "targetCharacter": "山"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#山顶",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5c71-2",
+          "text": "山坡",
+          "pinyin": "shān pō",
+          "english": "hillside",
+          "readingId": "reading-5c71",
+          "context": {
+            "hanzi": "山坡上开着小花。",
+            "english": "Little flowers bloom on the hillside.",
+            "targetCharacter": "山"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#山坡",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Memory picture: three upright strokes can remind you of three mountain peaks.",
+        "demonstrationEnglish": "This is 山. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5c71",
+        "delayedReview": {
+          "promptId": "later-5c71",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5c71"
+        }
+      },
+      "assets": [
+        "asset-glyph-5c71",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6c34",
+      "hanzi": "水",
+      "readings": [
+        {
+          "readingId": "reading-6c34",
+          "pinyin": "shuǐ",
+          "audioText": "水",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#水",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "water",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#水",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6c34-1",
+          "text": "水果",
+          "pinyin": "shuǐ guǒ",
+          "english": "fruit",
+          "readingId": "reading-6c34",
+          "context": {
+            "hanzi": "我们带了一盒水果。",
+            "english": "We brought a box of fruit.",
+            "targetCharacter": "水"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#水果",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6c34-2",
+          "text": "河水",
+          "pinyin": "hé shuǐ",
+          "english": "river water",
+          "readingId": "reading-6c34",
+          "context": {
+            "hanzi": "河水从小桥下面流过。",
+            "english": "The river water flows under the little bridge.",
+            "targetCharacter": "水"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#河水",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the long middle stroke and the strokes spreading to both sides.",
+        "demonstrationEnglish": "This is 水. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6c34",
+        "delayedReview": {
+          "promptId": "later-6c34",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6c34"
+        }
+      },
+      "assets": [
+        "asset-glyph-6c34",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "path-04-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5c71",
+        "familiar-6c34"
+      ]
+    },
+    {
+      "stepId": "path-04-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "path-04-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-5c71-1",
+        "practice-5c71-2",
+        "practice-6c34-1",
+        "practice-6c34-2"
+      ]
+    },
+    {
+      "stepId": "path-04-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5c71",
+        "check-6c34"
+      ]
+    },
+    {
+      "stepId": "path-04-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5c71",
+      "characterId": "char-5c71",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "山"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5c71-choice-1",
+          "hanzi": "山"
+        },
+        {
+          "choiceId": "familiar-5c71-choice-2",
+          "hanzi": "水"
+        },
+        {
+          "choiceId": "familiar-5c71-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-5c71-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-5c71-choice-1"
+    },
+    {
+      "checkId": "check-5c71",
+      "characterId": "char-5c71",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "山"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5c71-choice-1",
+          "hanzi": "山"
+        },
+        {
+          "choiceId": "check-5c71-choice-2",
+          "hanzi": "水"
+        },
+        {
+          "choiceId": "check-5c71-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-5c71-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-5c71-choice-1"
+    },
+    {
+      "checkId": "review-5c71",
+      "characterId": "char-5c71",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "山"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5c71-choice-1",
+          "hanzi": "山"
+        },
+        {
+          "choiceId": "review-5c71-choice-2",
+          "hanzi": "水"
+        },
+        {
+          "choiceId": "review-5c71-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-5c71-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-5c71-choice-1"
+    },
+    {
+      "checkId": "practice-5c71-1",
+      "characterId": "char-5c71",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "山顶"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-5c71-1-choice-1",
+          "hanzi": "山"
+        },
+        {
+          "choiceId": "practice-5c71-1-choice-2",
+          "hanzi": "水"
+        },
+        {
+          "choiceId": "practice-5c71-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-5c71-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-5c71-1-choice-1"
+    },
+    {
+      "checkId": "practice-5c71-2",
+      "characterId": "char-5c71",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "山坡"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-5c71-2-choice-1",
+          "hanzi": "山"
+        },
+        {
+          "choiceId": "practice-5c71-2-choice-2",
+          "hanzi": "水"
+        },
+        {
+          "choiceId": "practice-5c71-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-5c71-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-5c71-2-choice-1"
+    },
+    {
+      "checkId": "familiar-6c34",
+      "characterId": "char-6c34",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "水"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6c34-choice-1",
+          "hanzi": "山"
+        },
+        {
+          "choiceId": "familiar-6c34-choice-2",
+          "hanzi": "水"
+        },
+        {
+          "choiceId": "familiar-6c34-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-6c34-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-6c34-choice-2"
+    },
+    {
+      "checkId": "check-6c34",
+      "characterId": "char-6c34",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "水"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6c34-choice-1",
+          "hanzi": "山"
+        },
+        {
+          "choiceId": "check-6c34-choice-2",
+          "hanzi": "水"
+        },
+        {
+          "choiceId": "check-6c34-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-6c34-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-6c34-choice-2"
+    },
+    {
+      "checkId": "review-6c34",
+      "characterId": "char-6c34",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "水"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6c34-choice-1",
+          "hanzi": "山"
+        },
+        {
+          "choiceId": "review-6c34-choice-2",
+          "hanzi": "水"
+        },
+        {
+          "choiceId": "review-6c34-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-6c34-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-6c34-choice-2"
+    },
+    {
+      "checkId": "practice-6c34-1",
+      "characterId": "char-6c34",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "水果"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-6c34-1-choice-1",
+          "hanzi": "山"
+        },
+        {
+          "choiceId": "practice-6c34-1-choice-2",
+          "hanzi": "水"
+        },
+        {
+          "choiceId": "practice-6c34-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-6c34-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-6c34-1-choice-2"
+    },
+    {
+      "checkId": "practice-6c34-2",
+      "characterId": "char-6c34",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "河水"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-6c34-2-choice-1",
+          "hanzi": "山"
+        },
+        {
+          "choiceId": "practice-6c34-2-choice-2",
+          "hanzi": "水"
+        },
+        {
+          "choiceId": "practice-6c34-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-6c34-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-6c34-2-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5c71",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-04-v1/char-5c71",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6c34",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-04-v1/char-6c34",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Songti SC/STSong or local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/path-04-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device-provided speech; voice suitability and terms require review",
+      "evidenceRef": "draft/audio/path-04-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Follow the stream",
+      "instructionEnglish": "Our capybara follows a little stream beside a hill. Help notice mountain and water words."
+    },
+    "targets": [
+      {
+        "characterId": "char-5c71",
+        "readingId": "reading-5c71",
+        "familiarityCheckId": "familiar-5c71",
+        "practice": [
+          {
+            "wordId": "word-5c71-1",
+            "checkId": "practice-5c71-1"
+          },
+          {
+            "wordId": "word-5c71-2",
+            "checkId": "practice-5c71-2"
+          }
+        ],
+        "immediateCheckId": "check-5c71",
+        "reviewCheckId": "review-5c71"
+      },
+      {
+        "characterId": "char-6c34",
+        "readingId": "reading-6c34",
+        "familiarityCheckId": "familiar-6c34",
+        "practice": [
+          {
+            "wordId": "word-6c34-1",
+            "checkId": "practice-6c34-1"
+          },
+          {
+            "wordId": "word-6c34-2",
+            "checkId": "practice-6c34-2"
+          }
+        ],
+        "immediateCheckId": "check-6c34",
+        "reviewCheckId": "review-6c34"
+      }
+    ],
+    "reader": {
+      "title": "A walk beside the water",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5c71-1",
+        "word-5c71-2",
+        "word-6c34-1",
+        "word-6c34-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5c71",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5c71",
+          "transcript": "山",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5c71",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5c71",
+          "transcript": "山",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5c71",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5c71",
+          "transcript": "山",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-5c71-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-5c71-1",
+          "transcript": "山顶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-5c71-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-5c71-2",
+          "transcript": "山坡",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5c71",
+          "readingId": "reading-5c71",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "山",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5c71-1",
+          "readingId": null,
+          "wordId": "word-5c71-1",
+          "checkId": null,
+          "transcript": "山顶上有一棵树。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5c71-2",
+          "readingId": null,
+          "wordId": "word-5c71-2",
+          "checkId": null,
+          "transcript": "山坡上开着小花。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6c34",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6c34",
+          "transcript": "水",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6c34",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6c34",
+          "transcript": "水",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6c34",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6c34",
+          "transcript": "水",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-6c34-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-6c34-1",
+          "transcript": "水果",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-6c34-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-6c34-2",
+          "transcript": "河水",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6c34",
+          "readingId": "reading-6c34",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "水",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6c34-1",
+          "readingId": null,
+          "wordId": "word-6c34-1",
+          "checkId": null,
+          "transcript": "我们带了一盒水果。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6c34-2",
+          "readingId": null,
+          "wordId": "word-6c34-2",
+          "checkId": null,
+          "transcript": "河水从小桥下面流过。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

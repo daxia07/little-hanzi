@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-30",
+  "lessonVersion": "everyday-30-v1",
+  "title": "Blue and green outside",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 43
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara looks at the sky and leaves. Read blue and green in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-84dd",
+      "hanzi": "蓝",
+      "readings": [
+        {
+          "readingId": "reading-84dd",
+          "pinyin": "lán",
+          "audioText": "蓝",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#蓝",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "blue",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#蓝",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-84dd-1",
+          "text": "蓝色",
+          "pinyin": "lán sè",
+          "english": "blue colour",
+          "readingId": "reading-84dd",
+          "context": {
+            "hanzi": "我选了一张蓝色的纸。",
+            "english": "I choose a sheet of blue paper.",
+            "targetCharacter": "蓝"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#蓝色",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-84dd-2",
+          "text": "蓝天",
+          "pinyin": "lán tiān",
+          "english": "blue sky",
+          "readingId": "reading-84dd",
+          "context": {
+            "hanzi": "白云在蓝天上慢慢飘。",
+            "english": "White clouds drift slowly across the blue sky.",
+            "targetCharacter": "蓝"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#蓝天",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the grass-shaped top of 蓝 and the wide lower part.",
+        "demonstrationEnglish": "This is 蓝. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-84dd",
+        "delayedReview": {
+          "promptId": "later-84dd",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-84dd"
+        }
+      },
+      "assets": [
+        "asset-glyph-84dd",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-7eff",
+      "hanzi": "绿",
+      "readings": [
+        {
+          "readingId": "reading-7eff",
+          "pinyin": "lǜ",
+          "audioText": "绿",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#绿",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "green",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#绿",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7eff-1",
+          "text": "绿色",
+          "pinyin": "lǜ sè",
+          "english": "green colour",
+          "readingId": "reading-7eff",
+          "context": {
+            "hanzi": "春天的小草是绿色的。",
+            "english": "The little blades of grass in spring are green.",
+            "targetCharacter": "绿"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#绿色",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7eff-2",
+          "text": "绿叶",
+          "pinyin": "lǜ yè",
+          "english": "green leaf; green leaves",
+          "readingId": "reading-7eff",
+          "context": {
+            "hanzi": "小鸟躲在绿叶后面。",
+            "english": "The little bird hides behind the green leaves.",
+            "targetCharacter": "绿"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#绿叶",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Compare the left parts of 绿 and 红; then look at their different right parts.",
+        "demonstrationEnglish": "This is 绿. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7eff",
+        "delayedReview": {
+          "promptId": "later-7eff",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7eff"
+        }
+      },
+      "assets": [
+        "asset-glyph-7eff",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-30-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-84dd",
+        "familiar-7eff"
+      ]
+    },
+    {
+      "stepId": "everyday-30-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-30-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-84dd",
+        "practice-two-84dd",
+        "practice-one-7eff",
+        "practice-two-7eff"
+      ]
+    },
+    {
+      "stepId": "everyday-30-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-84dd",
+        "check-7eff"
+      ]
+    },
+    {
+      "stepId": "everyday-30-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-84dd",
+      "characterId": "char-84dd",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "蓝"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-84dd-choice-1",
+          "hanzi": "蓝"
+        },
+        {
+          "choiceId": "familiar-84dd-choice-2",
+          "hanzi": "绿"
+        },
+        {
+          "choiceId": "familiar-84dd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-84dd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-84dd-choice-1"
+    },
+    {
+      "checkId": "check-84dd",
+      "characterId": "char-84dd",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "蓝"
+      },
+      "choices": [
+        {
+          "choiceId": "check-84dd-choice-1",
+          "hanzi": "蓝"
+        },
+        {
+          "choiceId": "check-84dd-choice-2",
+          "hanzi": "绿"
+        },
+        {
+          "choiceId": "check-84dd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-84dd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-84dd-choice-1"
+    },
+    {
+      "checkId": "review-84dd",
+      "characterId": "char-84dd",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "蓝"
+      },
+      "choices": [
+        {
+          "choiceId": "review-84dd-choice-1",
+          "hanzi": "蓝"
+        },
+        {
+          "choiceId": "review-84dd-choice-2",
+          "hanzi": "绿"
+        },
+        {
+          "choiceId": "review-84dd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-84dd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-84dd-choice-1"
+    },
+    {
+      "checkId": "practice-one-84dd",
+      "characterId": "char-84dd",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "蓝色"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-84dd-choice-1",
+          "hanzi": "蓝"
+        },
+        {
+          "choiceId": "practice-one-84dd-choice-2",
+          "hanzi": "绿"
+        },
+        {
+          "choiceId": "practice-one-84dd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-84dd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-84dd-choice-1"
+    },
+    {
+      "checkId": "practice-two-84dd",
+      "characterId": "char-84dd",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "蓝天"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-84dd-choice-1",
+          "hanzi": "蓝"
+        },
+        {
+          "choiceId": "practice-two-84dd-choice-2",
+          "hanzi": "绿"
+        },
+        {
+          "choiceId": "practice-two-84dd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-84dd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-84dd-choice-1"
+    },
+    {
+      "checkId": "familiar-7eff",
+      "characterId": "char-7eff",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "绿"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7eff-choice-1",
+          "hanzi": "蓝"
+        },
+        {
+          "choiceId": "familiar-7eff-choice-2",
+          "hanzi": "绿"
+        },
+        {
+          "choiceId": "familiar-7eff-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7eff-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7eff-choice-2"
+    },
+    {
+      "checkId": "check-7eff",
+      "characterId": "char-7eff",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "绿"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7eff-choice-1",
+          "hanzi": "蓝"
+        },
+        {
+          "choiceId": "check-7eff-choice-2",
+          "hanzi": "绿"
+        },
+        {
+          "choiceId": "check-7eff-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7eff-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7eff-choice-2"
+    },
+    {
+      "checkId": "review-7eff",
+      "characterId": "char-7eff",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "绿"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7eff-choice-1",
+          "hanzi": "蓝"
+        },
+        {
+          "choiceId": "review-7eff-choice-2",
+          "hanzi": "绿"
+        },
+        {
+          "choiceId": "review-7eff-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7eff-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7eff-choice-2"
+    },
+    {
+      "checkId": "practice-one-7eff",
+      "characterId": "char-7eff",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "绿色"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7eff-choice-1",
+          "hanzi": "蓝"
+        },
+        {
+          "choiceId": "practice-one-7eff-choice-2",
+          "hanzi": "绿"
+        },
+        {
+          "choiceId": "practice-one-7eff-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7eff-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7eff-choice-2"
+    },
+    {
+      "checkId": "practice-two-7eff",
+      "characterId": "char-7eff",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "绿叶"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7eff-choice-1",
+          "hanzi": "蓝"
+        },
+        {
+          "choiceId": "practice-two-7eff-choice-2",
+          "hanzi": "绿"
+        },
+        {
+          "choiceId": "practice-two-7eff-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7eff-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7eff-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-84dd",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-30-v1/char-84dd",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-7eff",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-30-v1/char-7eff",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-30-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-30-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Blue and green outside",
+      "instructionEnglish": "Our capybara looks at the sky and leaves. Read blue and green in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-84dd",
+        "readingId": "reading-84dd",
+        "familiarityCheckId": "familiar-84dd",
+        "practice": [
+          {
+            "wordId": "word-84dd-1",
+            "checkId": "practice-one-84dd"
+          },
+          {
+            "wordId": "word-84dd-2",
+            "checkId": "practice-two-84dd"
+          }
+        ],
+        "immediateCheckId": "check-84dd",
+        "reviewCheckId": "review-84dd"
+      },
+      {
+        "characterId": "char-7eff",
+        "readingId": "reading-7eff",
+        "familiarityCheckId": "familiar-7eff",
+        "practice": [
+          {
+            "wordId": "word-7eff-1",
+            "checkId": "practice-one-7eff"
+          },
+          {
+            "wordId": "word-7eff-2",
+            "checkId": "practice-two-7eff"
+          }
+        ],
+        "immediateCheckId": "check-7eff",
+        "reviewCheckId": "review-7eff"
+      }
+    ],
+    "reader": {
+      "title": "Blue and green outside",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-84dd-1",
+        "word-84dd-2",
+        "word-7eff-1",
+        "word-7eff-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-84dd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-84dd",
+          "transcript": "蓝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-84dd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-84dd",
+          "transcript": "蓝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-84dd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-84dd",
+          "transcript": "蓝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-84dd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-84dd",
+          "transcript": "蓝色",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-84dd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-84dd",
+          "transcript": "蓝天",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-84dd",
+          "readingId": "reading-84dd",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "蓝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-84dd-1",
+          "readingId": null,
+          "wordId": "word-84dd-1",
+          "checkId": null,
+          "transcript": "我选了一张蓝色的纸。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-84dd-2",
+          "readingId": null,
+          "wordId": "word-84dd-2",
+          "checkId": null,
+          "transcript": "白云在蓝天上慢慢飘。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-7eff",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7eff",
+          "transcript": "绿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7eff",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7eff",
+          "transcript": "绿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7eff",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7eff",
+          "transcript": "绿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7eff",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7eff",
+          "transcript": "绿色",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7eff",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7eff",
+          "transcript": "绿叶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7eff",
+          "readingId": "reading-7eff",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "绿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7eff-1",
+          "readingId": null,
+          "wordId": "word-7eff-1",
+          "checkId": null,
+          "transcript": "春天的小草是绿色的。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7eff-2",
+          "readingId": null,
+          "wordId": "word-7eff-2",
+          "checkId": null,
+          "transcript": "小鸟躲在绿叶后面。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

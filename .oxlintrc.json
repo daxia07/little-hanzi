@@ -25,11 +25,37 @@
   "ignorePatterns": [
     ".next/**",
     ".vinext/**",
+    ".vercel/**",
+    ".output/**",
+    ".nitro/**",
     "out/**",
     "build/**",
     "dist/**",
     "coverage/**",
     "next-env.d.ts"
+  ],
+  "overrides": [
+    {
+      "files": [
+        "tests/**/*.test.mjs",
+        "tests/readiness-r6/bootstrap-security.mjs",
+        "tests/readiness-r6/persistence.mjs",
+        "tests/readiness-r6/learning.mjs",
+        "tests/readiness-r6/entry.mjs",
+        "tests/readiness-r6/authority.mjs",
+        "tests/readiness-r6/family.mjs"
+      ],
+      "rules": {
+        "typescript/no-floating-promises": [
+          "error",
+          {
+            "allowForKnownSafeCalls": [
+              { "from": "package", "package": "node", "name": "test" }
+            ]
+          }
+        ]
+      }
+    }
   ],
   "rules": {
     "no-array-constructor": "error",

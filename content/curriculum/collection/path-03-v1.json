@@ -1,0 +1,788 @@
+{
+  "lessonId": "path-03",
+  "lessonVersion": "path-03-v1",
+  "title": "Welcome to the picnic",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 3
+  },
+  "renderer": {
+    "adapterId": "paired-story",
+    "adapterVersion": "paired-story-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara is meeting friends for a picnic. Notice the people and the doorway where they meet.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4eba",
+      "hanzi": "人",
+      "readings": [
+        {
+          "readingId": "reading-4eba",
+          "pinyin": "rén",
+          "audioText": "人",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#人",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "person; people",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#人",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4eba-1",
+          "text": "人们",
+          "pinyin": "rén men",
+          "english": "people",
+          "readingId": "reading-4eba",
+          "context": {
+            "hanzi": "人们在公园里一起野餐。",
+            "english": "People are having a picnic together in the park.",
+            "targetCharacter": "人"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#人们",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4eba-2",
+          "text": "大人",
+          "pinyin": "dà ren",
+          "english": "adult; grown-up",
+          "readingId": "reading-4eba",
+          "context": {
+            "hanzi": "大人和孩子一起收拾东西。",
+            "english": "The adults and children pack things away together.",
+            "targetCharacter": "人"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#大人",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Memory picture: two sloping strokes look like someone standing with their legs apart.",
+        "demonstrationEnglish": "This is 人. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4eba",
+        "delayedReview": {
+          "promptId": "later-4eba",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4eba"
+        }
+      },
+      "assets": [
+        "asset-glyph-4eba",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-53e3",
+      "hanzi": "口",
+      "readings": [
+        {
+          "readingId": "reading-53e3",
+          "pinyin": "kǒu",
+          "audioText": "口",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#口",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "mouth; opening in words",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#口",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-53e3-1",
+          "text": "口水",
+          "pinyin": "kǒu shuǐ",
+          "english": "saliva",
+          "readingId": "reading-53e3",
+          "context": {
+            "hanzi": "看到好吃的水果，我都要流口水了。",
+            "english": "The tasty-looking fruit makes my mouth water.",
+            "targetCharacter": "口"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#口水",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-53e3-2",
+          "text": "门口",
+          "pinyin": "mén kǒu",
+          "english": "doorway; entrance",
+          "readingId": "reading-53e3",
+          "context": {
+            "hanzi": "我们在门口等朋友。",
+            "english": "We wait for our friends at the doorway.",
+            "targetCharacter": "口"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#门口",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice an empty box with no line inside. Compare it with 日.",
+        "demonstrationEnglish": "This is 口. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-53e3",
+        "delayedReview": {
+          "promptId": "later-53e3",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-53e3"
+        }
+      },
+      "assets": [
+        "asset-glyph-53e3",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "path-03-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4eba",
+        "familiar-53e3"
+      ]
+    },
+    {
+      "stepId": "path-03-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "path-03-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-4eba-1",
+        "practice-4eba-2",
+        "practice-53e3-1",
+        "practice-53e3-2"
+      ]
+    },
+    {
+      "stepId": "path-03-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4eba",
+        "check-53e3"
+      ]
+    },
+    {
+      "stepId": "path-03-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4eba",
+      "characterId": "char-4eba",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "人"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4eba-choice-1",
+          "hanzi": "人"
+        },
+        {
+          "choiceId": "familiar-4eba-choice-2",
+          "hanzi": "口"
+        },
+        {
+          "choiceId": "familiar-4eba-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-4eba-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-4eba-choice-1"
+    },
+    {
+      "checkId": "check-4eba",
+      "characterId": "char-4eba",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "人"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4eba-choice-1",
+          "hanzi": "人"
+        },
+        {
+          "choiceId": "check-4eba-choice-2",
+          "hanzi": "口"
+        },
+        {
+          "choiceId": "check-4eba-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-4eba-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-4eba-choice-1"
+    },
+    {
+      "checkId": "review-4eba",
+      "characterId": "char-4eba",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "人"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4eba-choice-1",
+          "hanzi": "人"
+        },
+        {
+          "choiceId": "review-4eba-choice-2",
+          "hanzi": "口"
+        },
+        {
+          "choiceId": "review-4eba-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-4eba-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-4eba-choice-1"
+    },
+    {
+      "checkId": "practice-4eba-1",
+      "characterId": "char-4eba",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "人们"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-4eba-1-choice-1",
+          "hanzi": "人"
+        },
+        {
+          "choiceId": "practice-4eba-1-choice-2",
+          "hanzi": "口"
+        },
+        {
+          "choiceId": "practice-4eba-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-4eba-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-4eba-1-choice-1"
+    },
+    {
+      "checkId": "practice-4eba-2",
+      "characterId": "char-4eba",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "大人"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-4eba-2-choice-1",
+          "hanzi": "人"
+        },
+        {
+          "choiceId": "practice-4eba-2-choice-2",
+          "hanzi": "口"
+        },
+        {
+          "choiceId": "practice-4eba-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-4eba-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-4eba-2-choice-1"
+    },
+    {
+      "checkId": "familiar-53e3",
+      "characterId": "char-53e3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "口"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-53e3-choice-1",
+          "hanzi": "人"
+        },
+        {
+          "choiceId": "familiar-53e3-choice-2",
+          "hanzi": "口"
+        },
+        {
+          "choiceId": "familiar-53e3-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-53e3-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-53e3-choice-2"
+    },
+    {
+      "checkId": "check-53e3",
+      "characterId": "char-53e3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "口"
+      },
+      "choices": [
+        {
+          "choiceId": "check-53e3-choice-1",
+          "hanzi": "人"
+        },
+        {
+          "choiceId": "check-53e3-choice-2",
+          "hanzi": "口"
+        },
+        {
+          "choiceId": "check-53e3-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-53e3-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-53e3-choice-2"
+    },
+    {
+      "checkId": "review-53e3",
+      "characterId": "char-53e3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "口"
+      },
+      "choices": [
+        {
+          "choiceId": "review-53e3-choice-1",
+          "hanzi": "人"
+        },
+        {
+          "choiceId": "review-53e3-choice-2",
+          "hanzi": "口"
+        },
+        {
+          "choiceId": "review-53e3-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-53e3-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-53e3-choice-2"
+    },
+    {
+      "checkId": "practice-53e3-1",
+      "characterId": "char-53e3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "口水"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-53e3-1-choice-1",
+          "hanzi": "人"
+        },
+        {
+          "choiceId": "practice-53e3-1-choice-2",
+          "hanzi": "口"
+        },
+        {
+          "choiceId": "practice-53e3-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-53e3-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-53e3-1-choice-2"
+    },
+    {
+      "checkId": "practice-53e3-2",
+      "characterId": "char-53e3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "门口"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-53e3-2-choice-1",
+          "hanzi": "人"
+        },
+        {
+          "choiceId": "practice-53e3-2-choice-2",
+          "hanzi": "口"
+        },
+        {
+          "choiceId": "practice-53e3-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-53e3-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-53e3-2-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4eba",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-03-v1/char-4eba",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-53e3",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-03-v1/char-53e3",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Songti SC/STSong or local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/path-03-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device-provided speech; voice suitability and terms require review",
+      "evidenceRef": "draft/audio/path-03-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Welcome to the picnic",
+      "instructionEnglish": "Our capybara is meeting friends for a picnic. Notice the people and the doorway where they meet."
+    },
+    "targets": [
+      {
+        "characterId": "char-4eba",
+        "readingId": "reading-4eba",
+        "familiarityCheckId": "familiar-4eba",
+        "practice": [
+          {
+            "wordId": "word-4eba-1",
+            "checkId": "practice-4eba-1"
+          },
+          {
+            "wordId": "word-4eba-2",
+            "checkId": "practice-4eba-2"
+          }
+        ],
+        "immediateCheckId": "check-4eba",
+        "reviewCheckId": "review-4eba"
+      },
+      {
+        "characterId": "char-53e3",
+        "readingId": "reading-53e3",
+        "familiarityCheckId": "familiar-53e3",
+        "practice": [
+          {
+            "wordId": "word-53e3-1",
+            "checkId": "practice-53e3-1"
+          },
+          {
+            "wordId": "word-53e3-2",
+            "checkId": "practice-53e3-2"
+          }
+        ],
+        "immediateCheckId": "check-53e3",
+        "reviewCheckId": "review-53e3"
+      }
+    ],
+    "reader": {
+      "title": "Friends come together",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4eba-1",
+        "word-4eba-2",
+        "word-53e3-1",
+        "word-53e3-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4eba",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4eba",
+          "transcript": "人",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4eba",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4eba",
+          "transcript": "人",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4eba",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4eba",
+          "transcript": "人",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-4eba-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-4eba-1",
+          "transcript": "人们",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-4eba-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-4eba-2",
+          "transcript": "大人",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4eba",
+          "readingId": "reading-4eba",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "人",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4eba-1",
+          "readingId": null,
+          "wordId": "word-4eba-1",
+          "checkId": null,
+          "transcript": "人们在公园里一起野餐。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4eba-2",
+          "readingId": null,
+          "wordId": "word-4eba-2",
+          "checkId": null,
+          "transcript": "大人和孩子一起收拾东西。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-53e3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-53e3",
+          "transcript": "口",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-53e3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-53e3",
+          "transcript": "口",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-53e3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-53e3",
+          "transcript": "口",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-53e3-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-53e3-1",
+          "transcript": "口水",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-53e3-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-53e3-2",
+          "transcript": "门口",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-53e3",
+          "readingId": "reading-53e3",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "口",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-53e3-1",
+          "readingId": null,
+          "wordId": "word-53e3-1",
+          "checkId": null,
+          "transcript": "看到好吃的水果，我都要流口水了。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-53e3-2",
+          "readingId": null,
+          "wordId": "word-53e3-2",
+          "checkId": null,
+          "transcript": "我们在门口等朋友。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

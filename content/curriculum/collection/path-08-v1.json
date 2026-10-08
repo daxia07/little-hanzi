@@ -1,0 +1,788 @@
+{
+  "lessonId": "path-08",
+  "lessonVersion": "path-08-v1",
+  "title": "A rainy train ride",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 8
+  },
+  "renderer": {
+    "adapterId": "paired-story",
+    "adapterVersion": "paired-story-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara has a window seat on a train. Spot fire and rain characters in useful words.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-706b",
+      "hanzi": "火",
+      "readings": [
+        {
+          "readingId": "reading-706b",
+          "pinyin": "huǒ",
+          "audioText": "火",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#火",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "fire",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#火",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-706b-1",
+          "text": "火车",
+          "pinyin": "huǒ chē",
+          "english": "train",
+          "readingId": "reading-706b",
+          "context": {
+            "hanzi": "火车慢慢驶进车站。",
+            "english": "The train slowly pulls into the station.",
+            "targetCharacter": "火"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#火车",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-706b-2",
+          "text": "火苗",
+          "pinyin": "huǒ miáo",
+          "english": "flame",
+          "readingId": "reading-706b",
+          "context": {
+            "hanzi": "我们和大人一起看蜡烛上的火苗。",
+            "english": "We look at the candle flame together with a grown-up.",
+            "targetCharacter": "火"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#火苗",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Memory picture: the spreading middle strokes and two small strokes can remind you of a flame.",
+        "demonstrationEnglish": "This is 火. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-706b",
+        "delayedReview": {
+          "promptId": "later-706b",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-706b"
+        }
+      },
+      "assets": [
+        "asset-glyph-706b",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-96e8",
+      "hanzi": "雨",
+      "readings": [
+        {
+          "readingId": "reading-96e8",
+          "pinyin": "yǔ",
+          "audioText": "雨",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#雨",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "rain",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#雨",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-96e8-1",
+          "text": "雨水",
+          "pinyin": "yǔ shuǐ",
+          "english": "rainwater",
+          "readingId": "reading-96e8",
+          "context": {
+            "hanzi": "雨水落在窗户上。",
+            "english": "Rainwater falls on the window.",
+            "targetCharacter": "雨"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#雨水",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-96e8-2",
+          "text": "雨衣",
+          "pinyin": "yǔ yī",
+          "english": "raincoat",
+          "readingId": "reading-96e8",
+          "context": {
+            "hanzi": "我穿上雨衣再出门。",
+            "english": "I put on my raincoat before going outside.",
+            "targetCharacter": "雨"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/r5-cc-cedict-evidence.json",
+            "evidenceRef": "content/sources/r5-cc-cedict-evidence.json#雨衣",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Memory picture: notice the little marks inside, like drops seen through a window.",
+        "demonstrationEnglish": "This is 雨. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-96e8",
+        "delayedReview": {
+          "promptId": "later-96e8",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-96e8"
+        }
+      },
+      "assets": [
+        "asset-glyph-96e8",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "path-08-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-706b",
+        "familiar-96e8"
+      ]
+    },
+    {
+      "stepId": "path-08-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "path-08-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-706b-1",
+        "practice-706b-2",
+        "practice-96e8-1",
+        "practice-96e8-2"
+      ]
+    },
+    {
+      "stepId": "path-08-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-706b",
+        "check-96e8"
+      ]
+    },
+    {
+      "stepId": "path-08-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-706b",
+      "characterId": "char-706b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "火"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-706b-choice-1",
+          "hanzi": "火"
+        },
+        {
+          "choiceId": "familiar-706b-choice-2",
+          "hanzi": "雨"
+        },
+        {
+          "choiceId": "familiar-706b-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-706b-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-706b-choice-1"
+    },
+    {
+      "checkId": "check-706b",
+      "characterId": "char-706b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "火"
+      },
+      "choices": [
+        {
+          "choiceId": "check-706b-choice-1",
+          "hanzi": "火"
+        },
+        {
+          "choiceId": "check-706b-choice-2",
+          "hanzi": "雨"
+        },
+        {
+          "choiceId": "check-706b-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-706b-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-706b-choice-1"
+    },
+    {
+      "checkId": "review-706b",
+      "characterId": "char-706b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "火"
+      },
+      "choices": [
+        {
+          "choiceId": "review-706b-choice-1",
+          "hanzi": "火"
+        },
+        {
+          "choiceId": "review-706b-choice-2",
+          "hanzi": "雨"
+        },
+        {
+          "choiceId": "review-706b-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-706b-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-706b-choice-1"
+    },
+    {
+      "checkId": "practice-706b-1",
+      "characterId": "char-706b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "火车"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-706b-1-choice-1",
+          "hanzi": "火"
+        },
+        {
+          "choiceId": "practice-706b-1-choice-2",
+          "hanzi": "雨"
+        },
+        {
+          "choiceId": "practice-706b-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-706b-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-706b-1-choice-1"
+    },
+    {
+      "checkId": "practice-706b-2",
+      "characterId": "char-706b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "火苗"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-706b-2-choice-1",
+          "hanzi": "火"
+        },
+        {
+          "choiceId": "practice-706b-2-choice-2",
+          "hanzi": "雨"
+        },
+        {
+          "choiceId": "practice-706b-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-706b-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-706b-2-choice-1"
+    },
+    {
+      "checkId": "familiar-96e8",
+      "characterId": "char-96e8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "雨"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-96e8-choice-1",
+          "hanzi": "火"
+        },
+        {
+          "choiceId": "familiar-96e8-choice-2",
+          "hanzi": "雨"
+        },
+        {
+          "choiceId": "familiar-96e8-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "familiar-96e8-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "familiar-96e8-choice-2"
+    },
+    {
+      "checkId": "check-96e8",
+      "characterId": "char-96e8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "雨"
+      },
+      "choices": [
+        {
+          "choiceId": "check-96e8-choice-1",
+          "hanzi": "火"
+        },
+        {
+          "choiceId": "check-96e8-choice-2",
+          "hanzi": "雨"
+        },
+        {
+          "choiceId": "check-96e8-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "check-96e8-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "check-96e8-choice-2"
+    },
+    {
+      "checkId": "review-96e8",
+      "characterId": "char-96e8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "雨"
+      },
+      "choices": [
+        {
+          "choiceId": "review-96e8-choice-1",
+          "hanzi": "火"
+        },
+        {
+          "choiceId": "review-96e8-choice-2",
+          "hanzi": "雨"
+        },
+        {
+          "choiceId": "review-96e8-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "review-96e8-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "review-96e8-choice-2"
+    },
+    {
+      "checkId": "practice-96e8-1",
+      "characterId": "char-96e8",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "雨水"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-96e8-1-choice-1",
+          "hanzi": "火"
+        },
+        {
+          "choiceId": "practice-96e8-1-choice-2",
+          "hanzi": "雨"
+        },
+        {
+          "choiceId": "practice-96e8-1-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-96e8-1-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-96e8-1-choice-2"
+    },
+    {
+      "checkId": "practice-96e8-2",
+      "characterId": "char-96e8",
+      "kind": "word-context",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which character from this lesson is in the spoken word?",
+        "hanzi": "雨衣"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-96e8-2-choice-1",
+          "hanzi": "火"
+        },
+        {
+          "choiceId": "practice-96e8-2-choice-2",
+          "hanzi": "雨"
+        },
+        {
+          "choiceId": "practice-96e8-2-choice-3",
+          "hanzi": "一"
+        },
+        {
+          "choiceId": "practice-96e8-2-choice-4",
+          "hanzi": "二"
+        }
+      ],
+      "correctChoiceId": "practice-96e8-2-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-706b",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-08-v1/char-706b",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-96e8",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; font supplied by the device and not redistributed",
+      "evidenceRef": "draft/device/path-08-v1/char-96e8",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Songti SC/STSong or local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/path-08-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device-provided speech; voice suitability and terms require review",
+      "evidenceRef": "draft/audio/path-08-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "A rainy train ride",
+      "instructionEnglish": "Our capybara has a window seat on a train. Spot fire and rain characters in useful words."
+    },
+    "targets": [
+      {
+        "characterId": "char-706b",
+        "readingId": "reading-706b",
+        "familiarityCheckId": "familiar-706b",
+        "practice": [
+          {
+            "wordId": "word-706b-1",
+            "checkId": "practice-706b-1"
+          },
+          {
+            "wordId": "word-706b-2",
+            "checkId": "practice-706b-2"
+          }
+        ],
+        "immediateCheckId": "check-706b",
+        "reviewCheckId": "review-706b"
+      },
+      {
+        "characterId": "char-96e8",
+        "readingId": "reading-96e8",
+        "familiarityCheckId": "familiar-96e8",
+        "practice": [
+          {
+            "wordId": "word-96e8-1",
+            "checkId": "practice-96e8-1"
+          },
+          {
+            "wordId": "word-96e8-2",
+            "checkId": "practice-96e8-2"
+          }
+        ],
+        "immediateCheckId": "check-96e8",
+        "reviewCheckId": "review-96e8"
+      }
+    ],
+    "reader": {
+      "title": "Watching through the window",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-706b-1",
+        "word-706b-2",
+        "word-96e8-1",
+        "word-96e8-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-706b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-706b",
+          "transcript": "火",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-706b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-706b",
+          "transcript": "火",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-706b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-706b",
+          "transcript": "火",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-706b-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-706b-1",
+          "transcript": "火车",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-706b-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-706b-2",
+          "transcript": "火苗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-706b",
+          "readingId": "reading-706b",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "火",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-706b-1",
+          "readingId": null,
+          "wordId": "word-706b-1",
+          "checkId": null,
+          "transcript": "火车慢慢驶进车站。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-706b-2",
+          "readingId": null,
+          "wordId": "word-706b-2",
+          "checkId": null,
+          "transcript": "我们和大人一起看蜡烛上的火苗。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-96e8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-96e8",
+          "transcript": "雨",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-96e8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-96e8",
+          "transcript": "雨",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-96e8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-96e8",
+          "transcript": "雨",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-96e8-1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-96e8-1",
+          "transcript": "雨水",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-96e8-2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-96e8-2",
+          "transcript": "雨衣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-96e8",
+          "readingId": "reading-96e8",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "雨",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-96e8-1",
+          "readingId": null,
+          "wordId": "word-96e8-1",
+          "checkId": null,
+          "transcript": "雨水落在窗户上。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-96e8-2",
+          "readingId": null,
+          "wordId": "word-96e8-2",
+          "checkId": null,
+          "transcript": "我穿上雨衣再出门。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

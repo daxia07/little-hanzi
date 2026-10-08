@@ -1,0 +1,1417 @@
+{
+  "schemaVersion": "r6-member-oracles-1",
+  "corpusVersion": "hanzi-starter-draft-v1",
+  "corpusDigest": "sha256:b73af09d4bfcd9409001421c8b227d6407cfffefc94cd6a9853427ee14930397",
+  "items": [
+    {
+      "schemaVersion": "r6-member-oracle-1",
+      "lessonVersion": "corpus-path-01-v1",
+      "contentDigest": "sha256:0fc19f33e7048acf632b16c377cf88a8231551e4ceb354ad0ae98cde03dbc76b",
+      "targets": [
+        {
+          "characterId": "char-6728",
+          "hanzi": "木",
+          "reading": {
+            "readingId": "reading-6728",
+            "pinyin": "mù",
+            "audioText": "木"
+          },
+          "words": [
+            {
+              "wordId": "word-6728-1",
+              "text": "木头",
+              "pinyin": "mù tou",
+              "english": "wood; a log",
+              "context": {
+                "hanzi": "一块木头放在树下。",
+                "english": "A piece of wood lies under the tree."
+              }
+            },
+            {
+              "wordId": "word-6728-2",
+              "text": "树木",
+              "pinyin": "shù mù",
+              "english": "trees",
+              "context": {
+                "hanzi": "树木给我们带来树荫。",
+                "english": "The trees give us shade."
+              }
+            }
+          ]
+        },
+        {
+          "characterId": "char-6797",
+          "hanzi": "林",
+          "reading": {
+            "readingId": "reading-6797",
+            "pinyin": "lín",
+            "audioText": "林"
+          },
+          "words": [
+            {
+              "wordId": "word-6797-1",
+              "text": "森林",
+              "pinyin": "sēn lín",
+              "english": "forest",
+              "context": {
+                "hanzi": "森林里有一条小路。",
+                "english": "There is a little path in the forest."
+              }
+            },
+            {
+              "wordId": "word-6797-2",
+              "text": "树林",
+              "pinyin": "shù lín",
+              "english": "woods; grove",
+              "context": {
+                "hanzi": "我们在树林旁边看书。",
+                "english": "We read beside the grove."
+              }
+            }
+          ]
+        }
+      ],
+      "checks": [
+        {
+          "checkId": "familiar-6728",
+          "characterId": "char-6728",
+          "kind": "plain-print",
+          "expectedHanzi": "木",
+          "promptHanzi": "木"
+        },
+        {
+          "checkId": "check-6728",
+          "characterId": "char-6728",
+          "kind": "plain-print",
+          "expectedHanzi": "木",
+          "promptHanzi": "木"
+        },
+        {
+          "checkId": "review-6728",
+          "characterId": "char-6728",
+          "kind": "plain-print",
+          "expectedHanzi": "木",
+          "promptHanzi": "木"
+        },
+        {
+          "checkId": "practice-6728-1",
+          "characterId": "char-6728",
+          "kind": "word-context",
+          "expectedHanzi": "木",
+          "promptHanzi": "木头"
+        },
+        {
+          "checkId": "practice-6728-2",
+          "characterId": "char-6728",
+          "kind": "word-context",
+          "expectedHanzi": "木",
+          "promptHanzi": "树木"
+        },
+        {
+          "checkId": "familiar-6797",
+          "characterId": "char-6797",
+          "kind": "plain-print",
+          "expectedHanzi": "林",
+          "promptHanzi": "林"
+        },
+        {
+          "checkId": "check-6797",
+          "characterId": "char-6797",
+          "kind": "plain-print",
+          "expectedHanzi": "林",
+          "promptHanzi": "林"
+        },
+        {
+          "checkId": "review-6797",
+          "characterId": "char-6797",
+          "kind": "plain-print",
+          "expectedHanzi": "林",
+          "promptHanzi": "林"
+        },
+        {
+          "checkId": "practice-6797-1",
+          "characterId": "char-6797",
+          "kind": "word-context",
+          "expectedHanzi": "林",
+          "promptHanzi": "森林"
+        },
+        {
+          "checkId": "practice-6797-2",
+          "characterId": "char-6797",
+          "kind": "word-context",
+          "expectedHanzi": "林",
+          "promptHanzi": "树林"
+        }
+      ]
+    },
+    {
+      "schemaVersion": "r6-member-oracle-1",
+      "lessonVersion": "corpus-path-02-v1",
+      "contentDigest": "sha256:36bdc32daebe926d3194418efb90dd620fb8c4c628841e5f5dc530727ae2337e",
+      "targets": [
+        {
+          "characterId": "char-65e5",
+          "hanzi": "日",
+          "reading": {
+            "readingId": "reading-65e5",
+            "pinyin": "rì",
+            "audioText": "日"
+          },
+          "words": [
+            {
+              "wordId": "word-65e5-1",
+              "text": "日子",
+              "pinyin": "rì zi",
+              "english": "day; days",
+              "context": {
+                "hanzi": "今天是个快乐的日子。",
+                "english": "Today is a happy day."
+              }
+            },
+            {
+              "wordId": "word-65e5-2",
+              "text": "生日",
+              "pinyin": "shēng rì",
+              "english": "birthday",
+              "context": {
+                "hanzi": "我在生日那天收到一本书。",
+                "english": "I received a book on my birthday."
+              }
+            }
+          ]
+        },
+        {
+          "characterId": "char-6708",
+          "hanzi": "月",
+          "reading": {
+            "readingId": "reading-6708",
+            "pinyin": "yuè",
+            "audioText": "月"
+          },
+          "words": [
+            {
+              "wordId": "word-6708-1",
+              "text": "月亮",
+              "pinyin": "yuè liang",
+              "english": "moon",
+              "context": {
+                "hanzi": "月亮慢慢升起来了。",
+                "english": "The moon slowly rose."
+              }
+            },
+            {
+              "wordId": "word-6708-2",
+              "text": "月光",
+              "pinyin": "yuè guāng",
+              "english": "moonlight",
+              "context": {
+                "hanzi": "月光照在窗边的书上。",
+                "english": "Moonlight shines on the book beside the window."
+              }
+            }
+          ]
+        }
+      ],
+      "checks": [
+        {
+          "checkId": "familiar-65e5",
+          "characterId": "char-65e5",
+          "kind": "plain-print",
+          "expectedHanzi": "日",
+          "promptHanzi": "日"
+        },
+        {
+          "checkId": "check-65e5",
+          "characterId": "char-65e5",
+          "kind": "plain-print",
+          "expectedHanzi": "日",
+          "promptHanzi": "日"
+        },
+        {
+          "checkId": "review-65e5",
+          "characterId": "char-65e5",
+          "kind": "plain-print",
+          "expectedHanzi": "日",
+          "promptHanzi": "日"
+        },
+        {
+          "checkId": "practice-65e5-1",
+          "characterId": "char-65e5",
+          "kind": "word-context",
+          "expectedHanzi": "日",
+          "promptHanzi": "日子"
+        },
+        {
+          "checkId": "practice-65e5-2",
+          "characterId": "char-65e5",
+          "kind": "word-context",
+          "expectedHanzi": "日",
+          "promptHanzi": "生日"
+        },
+        {
+          "checkId": "familiar-6708",
+          "characterId": "char-6708",
+          "kind": "plain-print",
+          "expectedHanzi": "月",
+          "promptHanzi": "月"
+        },
+        {
+          "checkId": "check-6708",
+          "characterId": "char-6708",
+          "kind": "plain-print",
+          "expectedHanzi": "月",
+          "promptHanzi": "月"
+        },
+        {
+          "checkId": "review-6708",
+          "characterId": "char-6708",
+          "kind": "plain-print",
+          "expectedHanzi": "月",
+          "promptHanzi": "月"
+        },
+        {
+          "checkId": "practice-6708-1",
+          "characterId": "char-6708",
+          "kind": "word-context",
+          "expectedHanzi": "月",
+          "promptHanzi": "月亮"
+        },
+        {
+          "checkId": "practice-6708-2",
+          "characterId": "char-6708",
+          "kind": "word-context",
+          "expectedHanzi": "月",
+          "promptHanzi": "月光"
+        }
+      ]
+    },
+    {
+      "schemaVersion": "r6-member-oracle-1",
+      "lessonVersion": "corpus-path-03-v1",
+      "contentDigest": "sha256:97ec0855455e76fdc07e470a0c6ff3e00315d1f35d35fd2c8f77880e63a29358",
+      "targets": [
+        {
+          "characterId": "char-4eba",
+          "hanzi": "人",
+          "reading": {
+            "readingId": "reading-4eba",
+            "pinyin": "rén",
+            "audioText": "人"
+          },
+          "words": [
+            {
+              "wordId": "word-4eba-1",
+              "text": "人们",
+              "pinyin": "rén men",
+              "english": "people",
+              "context": {
+                "hanzi": "人们在公园里一起野餐。",
+                "english": "People are having a picnic together in the park."
+              }
+            },
+            {
+              "wordId": "word-4eba-2",
+              "text": "大人",
+              "pinyin": "dà ren",
+              "english": "adult; grown-up",
+              "context": {
+                "hanzi": "大人和孩子一起收拾东西。",
+                "english": "The adults and children pack things away together."
+              }
+            }
+          ]
+        },
+        {
+          "characterId": "char-53e3",
+          "hanzi": "口",
+          "reading": {
+            "readingId": "reading-53e3",
+            "pinyin": "kǒu",
+            "audioText": "口"
+          },
+          "words": [
+            {
+              "wordId": "word-53e3-1",
+              "text": "口水",
+              "pinyin": "kǒu shuǐ",
+              "english": "saliva",
+              "context": {
+                "hanzi": "看到好吃的水果，我都要流口水了。",
+                "english": "The tasty-looking fruit makes my mouth water."
+              }
+            },
+            {
+              "wordId": "word-53e3-2",
+              "text": "门口",
+              "pinyin": "mén kǒu",
+              "english": "doorway; entrance",
+              "context": {
+                "hanzi": "我们在门口等朋友。",
+                "english": "We wait for our friends at the doorway."
+              }
+            }
+          ]
+        }
+      ],
+      "checks": [
+        {
+          "checkId": "familiar-4eba",
+          "characterId": "char-4eba",
+          "kind": "plain-print",
+          "expectedHanzi": "人",
+          "promptHanzi": "人"
+        },
+        {
+          "checkId": "check-4eba",
+          "characterId": "char-4eba",
+          "kind": "plain-print",
+          "expectedHanzi": "人",
+          "promptHanzi": "人"
+        },
+        {
+          "checkId": "review-4eba",
+          "characterId": "char-4eba",
+          "kind": "plain-print",
+          "expectedHanzi": "人",
+          "promptHanzi": "人"
+        },
+        {
+          "checkId": "practice-4eba-1",
+          "characterId": "char-4eba",
+          "kind": "word-context",
+          "expectedHanzi": "人",
+          "promptHanzi": "人们"
+        },
+        {
+          "checkId": "practice-4eba-2",
+          "characterId": "char-4eba",
+          "kind": "word-context",
+          "expectedHanzi": "人",
+          "promptHanzi": "大人"
+        },
+        {
+          "checkId": "familiar-53e3",
+          "characterId": "char-53e3",
+          "kind": "plain-print",
+          "expectedHanzi": "口",
+          "promptHanzi": "口"
+        },
+        {
+          "checkId": "check-53e3",
+          "characterId": "char-53e3",
+          "kind": "plain-print",
+          "expectedHanzi": "口",
+          "promptHanzi": "口"
+        },
+        {
+          "checkId": "review-53e3",
+          "characterId": "char-53e3",
+          "kind": "plain-print",
+          "expectedHanzi": "口",
+          "promptHanzi": "口"
+        },
+        {
+          "checkId": "practice-53e3-1",
+          "characterId": "char-53e3",
+          "kind": "word-context",
+          "expectedHanzi": "口",
+          "promptHanzi": "口水"
+        },
+        {
+          "checkId": "practice-53e3-2",
+          "characterId": "char-53e3",
+          "kind": "word-context",
+          "expectedHanzi": "口",
+          "promptHanzi": "门口"
+        }
+      ]
+    },
+    {
+      "schemaVersion": "r6-member-oracle-1",
+      "lessonVersion": "corpus-path-04-v1",
+      "contentDigest": "sha256:565d760a56b72cd95011247c13f491eb9bfbc75b366b9753f60e4a3b20632c13",
+      "targets": [
+        {
+          "characterId": "char-5c71",
+          "hanzi": "山",
+          "reading": {
+            "readingId": "reading-5c71",
+            "pinyin": "shān",
+            "audioText": "山"
+          },
+          "words": [
+            {
+              "wordId": "word-5c71-1",
+              "text": "山顶",
+              "pinyin": "shān dǐng",
+              "english": "mountaintop; hilltop",
+              "context": {
+                "hanzi": "山顶上有一棵树。",
+                "english": "There is a tree on the hilltop."
+              }
+            },
+            {
+              "wordId": "word-5c71-2",
+              "text": "山坡",
+              "pinyin": "shān pō",
+              "english": "hillside",
+              "context": {
+                "hanzi": "山坡上开着小花。",
+                "english": "Little flowers bloom on the hillside."
+              }
+            }
+          ]
+        },
+        {
+          "characterId": "char-6c34",
+          "hanzi": "水",
+          "reading": {
+            "readingId": "reading-6c34",
+            "pinyin": "shuǐ",
+            "audioText": "水"
+          },
+          "words": [
+            {
+              "wordId": "word-6c34-1",
+              "text": "水果",
+              "pinyin": "shuǐ guǒ",
+              "english": "fruit",
+              "context": {
+                "hanzi": "我们带了一盒水果。",
+                "english": "We brought a box of fruit."
+              }
+            },
+            {
+              "wordId": "word-6c34-2",
+              "text": "河水",
+              "pinyin": "hé shuǐ",
+              "english": "river water",
+              "context": {
+                "hanzi": "河水从小桥下面流过。",
+                "english": "The river water flows under the little bridge."
+              }
+            }
+          ]
+        }
+      ],
+      "checks": [
+        {
+          "checkId": "familiar-5c71",
+          "characterId": "char-5c71",
+          "kind": "plain-print",
+          "expectedHanzi": "山",
+          "promptHanzi": "山"
+        },
+        {
+          "checkId": "check-5c71",
+          "characterId": "char-5c71",
+          "kind": "plain-print",
+          "expectedHanzi": "山",
+          "promptHanzi": "山"
+        },
+        {
+          "checkId": "review-5c71",
+          "characterId": "char-5c71",
+          "kind": "plain-print",
+          "expectedHanzi": "山",
+          "promptHanzi": "山"
+        },
+        {
+          "checkId": "practice-5c71-1",
+          "characterId": "char-5c71",
+          "kind": "word-context",
+          "expectedHanzi": "山",
+          "promptHanzi": "山顶"
+        },
+        {
+          "checkId": "practice-5c71-2",
+          "characterId": "char-5c71",
+          "kind": "word-context",
+          "expectedHanzi": "山",
+          "promptHanzi": "山坡"
+        },
+        {
+          "checkId": "familiar-6c34",
+          "characterId": "char-6c34",
+          "kind": "plain-print",
+          "expectedHanzi": "水",
+          "promptHanzi": "水"
+        },
+        {
+          "checkId": "check-6c34",
+          "characterId": "char-6c34",
+          "kind": "plain-print",
+          "expectedHanzi": "水",
+          "promptHanzi": "水"
+        },
+        {
+          "checkId": "review-6c34",
+          "characterId": "char-6c34",
+          "kind": "plain-print",
+          "expectedHanzi": "水",
+          "promptHanzi": "水"
+        },
+        {
+          "checkId": "practice-6c34-1",
+          "characterId": "char-6c34",
+          "kind": "word-context",
+          "expectedHanzi": "水",
+          "promptHanzi": "水果"
+        },
+        {
+          "checkId": "practice-6c34-2",
+          "characterId": "char-6c34",
+          "kind": "word-context",
+          "expectedHanzi": "水",
+          "promptHanzi": "河水"
+        }
+      ]
+    },
+    {
+      "schemaVersion": "r6-member-oracle-1",
+      "lessonVersion": "corpus-path-05-v1",
+      "contentDigest": "sha256:6c1a1bd4c7c0798b34dd721a22de7645468032bd751b92ee115e60fa9462e89d",
+      "targets": [
+        {
+          "characterId": "char-5927",
+          "hanzi": "大",
+          "reading": {
+            "readingId": "reading-5927",
+            "pinyin": "dà",
+            "audioText": "大"
+          },
+          "words": [
+            {
+              "wordId": "word-5927-1",
+              "text": "大小",
+              "pinyin": "dà xiǎo",
+              "english": "size; big and small",
+              "context": {
+                "hanzi": "这两个书包的大小不一样。",
+                "english": "These two schoolbags are different sizes."
+              }
+            },
+            {
+              "wordId": "word-5927-2",
+              "text": "大风",
+              "pinyin": "dà fēng",
+              "english": "strong wind",
+              "context": {
+                "hanzi": "大风把树叶吹起来了。",
+                "english": "The strong wind blew the leaves into the air."
+              }
+            }
+          ]
+        },
+        {
+          "characterId": "char-5c0f",
+          "hanzi": "小",
+          "reading": {
+            "readingId": "reading-5c0f",
+            "pinyin": "xiǎo",
+            "audioText": "小"
+          },
+          "words": [
+            {
+              "wordId": "word-5c0f-1",
+              "text": "小学",
+              "pinyin": "xiǎo xué",
+              "english": "primary school",
+              "context": {
+                "hanzi": "我的小学旁边有一个公园。",
+                "english": "There is a park beside my primary school."
+              }
+            },
+            {
+              "wordId": "word-5c0f-2",
+              "text": "小孩",
+              "pinyin": "xiǎo hái",
+              "english": "child",
+              "context": {
+                "hanzi": "小孩把书放进书包里。",
+                "english": "The child puts a book into the schoolbag."
+              }
+            }
+          ]
+        }
+      ],
+      "checks": [
+        {
+          "checkId": "familiar-5927",
+          "characterId": "char-5927",
+          "kind": "plain-print",
+          "expectedHanzi": "大",
+          "promptHanzi": "大"
+        },
+        {
+          "checkId": "check-5927",
+          "characterId": "char-5927",
+          "kind": "plain-print",
+          "expectedHanzi": "大",
+          "promptHanzi": "大"
+        },
+        {
+          "checkId": "review-5927",
+          "characterId": "char-5927",
+          "kind": "plain-print",
+          "expectedHanzi": "大",
+          "promptHanzi": "大"
+        },
+        {
+          "checkId": "practice-5927-1",
+          "characterId": "char-5927",
+          "kind": "word-context",
+          "expectedHanzi": "大",
+          "promptHanzi": "大小"
+        },
+        {
+          "checkId": "practice-5927-2",
+          "characterId": "char-5927",
+          "kind": "word-context",
+          "expectedHanzi": "大",
+          "promptHanzi": "大风"
+        },
+        {
+          "checkId": "familiar-5c0f",
+          "characterId": "char-5c0f",
+          "kind": "plain-print",
+          "expectedHanzi": "小",
+          "promptHanzi": "小"
+        },
+        {
+          "checkId": "check-5c0f",
+          "characterId": "char-5c0f",
+          "kind": "plain-print",
+          "expectedHanzi": "小",
+          "promptHanzi": "小"
+        },
+        {
+          "checkId": "review-5c0f",
+          "characterId": "char-5c0f",
+          "kind": "plain-print",
+          "expectedHanzi": "小",
+          "promptHanzi": "小"
+        },
+        {
+          "checkId": "practice-5c0f-1",
+          "characterId": "char-5c0f",
+          "kind": "word-context",
+          "expectedHanzi": "小",
+          "promptHanzi": "小学"
+        },
+        {
+          "checkId": "practice-5c0f-2",
+          "characterId": "char-5c0f",
+          "kind": "word-context",
+          "expectedHanzi": "小",
+          "promptHanzi": "小孩"
+        }
+      ]
+    },
+    {
+      "schemaVersion": "r6-member-oracle-1",
+      "lessonVersion": "corpus-path-06-v1",
+      "contentDigest": "sha256:e29ed5d711fc616b34c96837ae4a9466194aebf622fcb3d98ccddb3305f900c7",
+      "targets": [
+        {
+          "characterId": "char-4e0a",
+          "hanzi": "上",
+          "reading": {
+            "readingId": "reading-4e0a",
+            "pinyin": "shàng",
+            "audioText": "上"
+          },
+          "words": [
+            {
+              "wordId": "word-4e0a-1",
+              "text": "上面",
+              "pinyin": "shàng miàn",
+              "english": "on top; above",
+              "context": {
+                "hanzi": "帽子在书架上面。",
+                "english": "The hat is on top of the bookshelf."
+              }
+            },
+            {
+              "wordId": "word-4e0a-2",
+              "text": "上山",
+              "pinyin": "shàng shān",
+              "english": "go up a mountain",
+              "context": {
+                "hanzi": "我们沿着小路上山。",
+                "english": "We follow the little path up the hill."
+              }
+            }
+          ]
+        },
+        {
+          "characterId": "char-4e0b",
+          "hanzi": "下",
+          "reading": {
+            "readingId": "reading-4e0b",
+            "pinyin": "xià",
+            "audioText": "下"
+          },
+          "words": [
+            {
+              "wordId": "word-4e0b-1",
+              "text": "下面",
+              "pinyin": "xià miàn",
+              "english": "below; underneath",
+              "context": {
+                "hanzi": "小猫在桌子下面睡觉。",
+                "english": "The kitten sleeps under the table."
+              }
+            },
+            {
+              "wordId": "word-4e0b-2",
+              "text": "下雨",
+              "pinyin": "xià yǔ",
+              "english": "to rain",
+              "context": {
+                "hanzi": "下雨了，我们带上雨伞。",
+                "english": "It is raining, so we take an umbrella."
+              }
+            }
+          ]
+        }
+      ],
+      "checks": [
+        {
+          "checkId": "familiar-4e0a",
+          "characterId": "char-4e0a",
+          "kind": "plain-print",
+          "expectedHanzi": "上",
+          "promptHanzi": "上"
+        },
+        {
+          "checkId": "check-4e0a",
+          "characterId": "char-4e0a",
+          "kind": "plain-print",
+          "expectedHanzi": "上",
+          "promptHanzi": "上"
+        },
+        {
+          "checkId": "review-4e0a",
+          "characterId": "char-4e0a",
+          "kind": "plain-print",
+          "expectedHanzi": "上",
+          "promptHanzi": "上"
+        },
+        {
+          "checkId": "practice-4e0a-1",
+          "characterId": "char-4e0a",
+          "kind": "word-context",
+          "expectedHanzi": "上",
+          "promptHanzi": "上面"
+        },
+        {
+          "checkId": "practice-4e0a-2",
+          "characterId": "char-4e0a",
+          "kind": "word-context",
+          "expectedHanzi": "上",
+          "promptHanzi": "上山"
+        },
+        {
+          "checkId": "familiar-4e0b",
+          "characterId": "char-4e0b",
+          "kind": "plain-print",
+          "expectedHanzi": "下",
+          "promptHanzi": "下"
+        },
+        {
+          "checkId": "check-4e0b",
+          "characterId": "char-4e0b",
+          "kind": "plain-print",
+          "expectedHanzi": "下",
+          "promptHanzi": "下"
+        },
+        {
+          "checkId": "review-4e0b",
+          "characterId": "char-4e0b",
+          "kind": "plain-print",
+          "expectedHanzi": "下",
+          "promptHanzi": "下"
+        },
+        {
+          "checkId": "practice-4e0b-1",
+          "characterId": "char-4e0b",
+          "kind": "word-context",
+          "expectedHanzi": "下",
+          "promptHanzi": "下面"
+        },
+        {
+          "checkId": "practice-4e0b-2",
+          "characterId": "char-4e0b",
+          "kind": "word-context",
+          "expectedHanzi": "下",
+          "promptHanzi": "下雨"
+        }
+      ]
+    },
+    {
+      "schemaVersion": "r6-member-oracle-1",
+      "lessonVersion": "corpus-path-07-v1",
+      "contentDigest": "sha256:5c184600343ab6b397850f6031009c69fcdcab3a421e6bd431a0236e8d965f24",
+      "targets": [
+        {
+          "characterId": "char-7530",
+          "hanzi": "田",
+          "reading": {
+            "readingId": "reading-7530",
+            "pinyin": "tián",
+            "audioText": "田"
+          },
+          "words": [
+            {
+              "wordId": "word-7530-1",
+              "text": "田地",
+              "pinyin": "tián dì",
+              "english": "field; farmland",
+              "context": {
+                "hanzi": "田地里长着绿色的蔬菜。",
+                "english": "Green vegetables grow in the field."
+              }
+            },
+            {
+              "wordId": "word-7530-2",
+              "text": "水田",
+              "pinyin": "shuǐ tián",
+              "english": "rice paddy; flooded field",
+              "context": {
+                "hanzi": "水田里有小小的秧苗。",
+                "english": "There are little rice seedlings in the paddy field."
+              }
+            }
+          ]
+        },
+        {
+          "characterId": "char-571f",
+          "hanzi": "土",
+          "reading": {
+            "readingId": "reading-571f",
+            "pinyin": "tǔ",
+            "audioText": "土"
+          },
+          "words": [
+            {
+              "wordId": "word-571f-1",
+              "text": "泥土",
+              "pinyin": "ní tǔ",
+              "english": "soil; earth",
+              "context": {
+                "hanzi": "种子藏在湿湿的泥土里。",
+                "english": "The seed is tucked into the damp soil."
+              }
+            },
+            {
+              "wordId": "word-571f-2",
+              "text": "土地",
+              "pinyin": "tǔ dì",
+              "english": "land; soil",
+              "context": {
+                "hanzi": "这片土地上种着花。",
+                "english": "Flowers grow on this patch of land."
+              }
+            }
+          ]
+        }
+      ],
+      "checks": [
+        {
+          "checkId": "familiar-7530",
+          "characterId": "char-7530",
+          "kind": "plain-print",
+          "expectedHanzi": "田",
+          "promptHanzi": "田"
+        },
+        {
+          "checkId": "check-7530",
+          "characterId": "char-7530",
+          "kind": "plain-print",
+          "expectedHanzi": "田",
+          "promptHanzi": "田"
+        },
+        {
+          "checkId": "review-7530",
+          "characterId": "char-7530",
+          "kind": "plain-print",
+          "expectedHanzi": "田",
+          "promptHanzi": "田"
+        },
+        {
+          "checkId": "practice-7530-1",
+          "characterId": "char-7530",
+          "kind": "word-context",
+          "expectedHanzi": "田",
+          "promptHanzi": "田地"
+        },
+        {
+          "checkId": "practice-7530-2",
+          "characterId": "char-7530",
+          "kind": "word-context",
+          "expectedHanzi": "田",
+          "promptHanzi": "水田"
+        },
+        {
+          "checkId": "familiar-571f",
+          "characterId": "char-571f",
+          "kind": "plain-print",
+          "expectedHanzi": "土",
+          "promptHanzi": "土"
+        },
+        {
+          "checkId": "check-571f",
+          "characterId": "char-571f",
+          "kind": "plain-print",
+          "expectedHanzi": "土",
+          "promptHanzi": "土"
+        },
+        {
+          "checkId": "review-571f",
+          "characterId": "char-571f",
+          "kind": "plain-print",
+          "expectedHanzi": "土",
+          "promptHanzi": "土"
+        },
+        {
+          "checkId": "practice-571f-1",
+          "characterId": "char-571f",
+          "kind": "word-context",
+          "expectedHanzi": "土",
+          "promptHanzi": "泥土"
+        },
+        {
+          "checkId": "practice-571f-2",
+          "characterId": "char-571f",
+          "kind": "word-context",
+          "expectedHanzi": "土",
+          "promptHanzi": "土地"
+        }
+      ]
+    },
+    {
+      "schemaVersion": "r6-member-oracle-1",
+      "lessonVersion": "corpus-path-08-v1",
+      "contentDigest": "sha256:470f756154b8604438c717530166e9b84335c0c75076d424fea479394dd2773f",
+      "targets": [
+        {
+          "characterId": "char-706b",
+          "hanzi": "火",
+          "reading": {
+            "readingId": "reading-706b",
+            "pinyin": "huǒ",
+            "audioText": "火"
+          },
+          "words": [
+            {
+              "wordId": "word-706b-1",
+              "text": "火车",
+              "pinyin": "huǒ chē",
+              "english": "train",
+              "context": {
+                "hanzi": "火车慢慢驶进车站。",
+                "english": "The train slowly pulls into the station."
+              }
+            },
+            {
+              "wordId": "word-706b-2",
+              "text": "火苗",
+              "pinyin": "huǒ miáo",
+              "english": "flame",
+              "context": {
+                "hanzi": "我们和大人一起看蜡烛上的火苗。",
+                "english": "We look at the candle flame together with a grown-up."
+              }
+            }
+          ]
+        },
+        {
+          "characterId": "char-96e8",
+          "hanzi": "雨",
+          "reading": {
+            "readingId": "reading-96e8",
+            "pinyin": "yǔ",
+            "audioText": "雨"
+          },
+          "words": [
+            {
+              "wordId": "word-96e8-1",
+              "text": "雨水",
+              "pinyin": "yǔ shuǐ",
+              "english": "rainwater",
+              "context": {
+                "hanzi": "雨水落在窗户上。",
+                "english": "Rainwater falls on the window."
+              }
+            },
+            {
+              "wordId": "word-96e8-2",
+              "text": "雨衣",
+              "pinyin": "yǔ yī",
+              "english": "raincoat",
+              "context": {
+                "hanzi": "我穿上雨衣再出门。",
+                "english": "I put on my raincoat before going outside."
+              }
+            }
+          ]
+        }
+      ],
+      "checks": [
+        {
+          "checkId": "familiar-706b",
+          "characterId": "char-706b",
+          "kind": "plain-print",
+          "expectedHanzi": "火",
+          "promptHanzi": "火"
+        },
+        {
+          "checkId": "check-706b",
+          "characterId": "char-706b",
+          "kind": "plain-print",
+          "expectedHanzi": "火",
+          "promptHanzi": "火"
+        },
+        {
+          "checkId": "review-706b",
+          "characterId": "char-706b",
+          "kind": "plain-print",
+          "expectedHanzi": "火",
+          "promptHanzi": "火"
+        },
+        {
+          "checkId": "practice-706b-1",
+          "characterId": "char-706b",
+          "kind": "word-context",
+          "expectedHanzi": "火",
+          "promptHanzi": "火车"
+        },
+        {
+          "checkId": "practice-706b-2",
+          "characterId": "char-706b",
+          "kind": "word-context",
+          "expectedHanzi": "火",
+          "promptHanzi": "火苗"
+        },
+        {
+          "checkId": "familiar-96e8",
+          "characterId": "char-96e8",
+          "kind": "plain-print",
+          "expectedHanzi": "雨",
+          "promptHanzi": "雨"
+        },
+        {
+          "checkId": "check-96e8",
+          "characterId": "char-96e8",
+          "kind": "plain-print",
+          "expectedHanzi": "雨",
+          "promptHanzi": "雨"
+        },
+        {
+          "checkId": "review-96e8",
+          "characterId": "char-96e8",
+          "kind": "plain-print",
+          "expectedHanzi": "雨",
+          "promptHanzi": "雨"
+        },
+        {
+          "checkId": "practice-96e8-1",
+          "characterId": "char-96e8",
+          "kind": "word-context",
+          "expectedHanzi": "雨",
+          "promptHanzi": "雨水"
+        },
+        {
+          "checkId": "practice-96e8-2",
+          "characterId": "char-96e8",
+          "kind": "word-context",
+          "expectedHanzi": "雨",
+          "promptHanzi": "雨衣"
+        }
+      ]
+    },
+    {
+      "schemaVersion": "r6-member-oracle-1",
+      "lessonVersion": "corpus-path-09-v1",
+      "contentDigest": "sha256:0b204052bc6f136e8c626beb829f61954061395637172b6a4748ed0eed8da33f",
+      "targets": [
+        {
+          "characterId": "char-624b",
+          "hanzi": "手",
+          "reading": {
+            "readingId": "reading-624b",
+            "pinyin": "shǒu",
+            "audioText": "手"
+          },
+          "words": [
+            {
+              "wordId": "word-624b-1",
+              "text": "手心",
+              "pinyin": "shǒu xīn",
+              "english": "palm of the hand",
+              "context": {
+                "hanzi": "一颗小石子放在我的手心里。",
+                "english": "A little pebble rests in my palm."
+              }
+            },
+            {
+              "wordId": "word-624b-2",
+              "text": "双手",
+              "pinyin": "shuāng shǒu",
+              "english": "both hands",
+              "context": {
+                "hanzi": "我用双手拿着这本大书。",
+                "english": "I hold this big book with both hands."
+              }
+            }
+          ]
+        },
+        {
+          "characterId": "char-76ee",
+          "hanzi": "目",
+          "reading": {
+            "readingId": "reading-76ee",
+            "pinyin": "mù",
+            "audioText": "目"
+          },
+          "words": [
+            {
+              "wordId": "word-76ee-1",
+              "text": "目光",
+              "pinyin": "mù guāng",
+              "english": "gaze; where someone looks",
+              "context": {
+                "hanzi": "他的目光停在那本书上。",
+                "english": "His gaze rests on that book."
+              }
+            },
+            {
+              "wordId": "word-76ee-2",
+              "text": "目标",
+              "pinyin": "mù biāo",
+              "english": "goal; target",
+              "context": {
+                "hanzi": "今天的目标是读完这本书。",
+                "english": "Today's goal is to finish reading this book."
+              }
+            }
+          ]
+        }
+      ],
+      "checks": [
+        {
+          "checkId": "familiar-624b",
+          "characterId": "char-624b",
+          "kind": "plain-print",
+          "expectedHanzi": "手",
+          "promptHanzi": "手"
+        },
+        {
+          "checkId": "check-624b",
+          "characterId": "char-624b",
+          "kind": "plain-print",
+          "expectedHanzi": "手",
+          "promptHanzi": "手"
+        },
+        {
+          "checkId": "review-624b",
+          "characterId": "char-624b",
+          "kind": "plain-print",
+          "expectedHanzi": "手",
+          "promptHanzi": "手"
+        },
+        {
+          "checkId": "practice-624b-1",
+          "characterId": "char-624b",
+          "kind": "word-context",
+          "expectedHanzi": "手",
+          "promptHanzi": "手心"
+        },
+        {
+          "checkId": "practice-624b-2",
+          "characterId": "char-624b",
+          "kind": "word-context",
+          "expectedHanzi": "手",
+          "promptHanzi": "双手"
+        },
+        {
+          "checkId": "familiar-76ee",
+          "characterId": "char-76ee",
+          "kind": "plain-print",
+          "expectedHanzi": "目",
+          "promptHanzi": "目"
+        },
+        {
+          "checkId": "check-76ee",
+          "characterId": "char-76ee",
+          "kind": "plain-print",
+          "expectedHanzi": "目",
+          "promptHanzi": "目"
+        },
+        {
+          "checkId": "review-76ee",
+          "characterId": "char-76ee",
+          "kind": "plain-print",
+          "expectedHanzi": "目",
+          "promptHanzi": "目"
+        },
+        {
+          "checkId": "practice-76ee-1",
+          "characterId": "char-76ee",
+          "kind": "word-context",
+          "expectedHanzi": "目",
+          "promptHanzi": "目光"
+        },
+        {
+          "checkId": "practice-76ee-2",
+          "characterId": "char-76ee",
+          "kind": "word-context",
+          "expectedHanzi": "目",
+          "promptHanzi": "目标"
+        }
+      ]
+    },
+    {
+      "schemaVersion": "r6-member-oracle-1",
+      "lessonVersion": "corpus-path-10-v1",
+      "contentDigest": "sha256:8e805afd63b2be74191f03c58a75fa96ab564f383093ad151b5c6f20baf332ad",
+      "targets": [
+        {
+          "characterId": "char-95e8",
+          "hanzi": "门",
+          "reading": {
+            "readingId": "reading-95e8",
+            "pinyin": "mén",
+            "audioText": "门"
+          },
+          "words": [
+            {
+              "wordId": "word-95e8-1",
+              "text": "大门",
+              "pinyin": "dà mén",
+              "english": "main entrance; gate",
+              "context": {
+                "hanzi": "学校的大门打开了。",
+                "english": "The school gate is open."
+              }
+            },
+            {
+              "wordId": "word-95e8-2",
+              "text": "门口",
+              "pinyin": "mén kǒu",
+              "english": "doorway; entrance",
+              "context": {
+                "hanzi": "老师在门口欢迎我们。",
+                "english": "The teacher welcomes us at the doorway."
+              }
+            }
+          ]
+        },
+        {
+          "characterId": "char-8f66",
+          "hanzi": "车",
+          "reading": {
+            "readingId": "reading-8f66",
+            "pinyin": "chē",
+            "audioText": "车"
+          },
+          "words": [
+            {
+              "wordId": "word-8f66-1",
+              "text": "火车",
+              "pinyin": "huǒ chē",
+              "english": "train",
+              "context": {
+                "hanzi": "这列火车经过一座小桥。",
+                "english": "This train crosses a little bridge."
+              }
+            },
+            {
+              "wordId": "word-8f66-2",
+              "text": "汽车",
+              "pinyin": "qì chē",
+              "english": "car",
+              "context": {
+                "hanzi": "我们坐汽车去学校。",
+                "english": "We go to school by car."
+              }
+            }
+          ]
+        }
+      ],
+      "checks": [
+        {
+          "checkId": "familiar-95e8",
+          "characterId": "char-95e8",
+          "kind": "plain-print",
+          "expectedHanzi": "门",
+          "promptHanzi": "门"
+        },
+        {
+          "checkId": "check-95e8",
+          "characterId": "char-95e8",
+          "kind": "plain-print",
+          "expectedHanzi": "门",
+          "promptHanzi": "门"
+        },
+        {
+          "checkId": "review-95e8",
+          "characterId": "char-95e8",
+          "kind": "plain-print",
+          "expectedHanzi": "门",
+          "promptHanzi": "门"
+        },
+        {
+          "checkId": "practice-95e8-1",
+          "characterId": "char-95e8",
+          "kind": "word-context",
+          "expectedHanzi": "门",
+          "promptHanzi": "大门"
+        },
+        {
+          "checkId": "practice-95e8-2",
+          "characterId": "char-95e8",
+          "kind": "word-context",
+          "expectedHanzi": "门",
+          "promptHanzi": "门口"
+        },
+        {
+          "checkId": "familiar-8f66",
+          "characterId": "char-8f66",
+          "kind": "plain-print",
+          "expectedHanzi": "车",
+          "promptHanzi": "车"
+        },
+        {
+          "checkId": "check-8f66",
+          "characterId": "char-8f66",
+          "kind": "plain-print",
+          "expectedHanzi": "车",
+          "promptHanzi": "车"
+        },
+        {
+          "checkId": "review-8f66",
+          "characterId": "char-8f66",
+          "kind": "plain-print",
+          "expectedHanzi": "车",
+          "promptHanzi": "车"
+        },
+        {
+          "checkId": "practice-8f66-1",
+          "characterId": "char-8f66",
+          "kind": "word-context",
+          "expectedHanzi": "车",
+          "promptHanzi": "火车"
+        },
+        {
+          "checkId": "practice-8f66-2",
+          "characterId": "char-8f66",
+          "kind": "word-context",
+          "expectedHanzi": "车",
+          "promptHanzi": "汽车"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "everyday-28",
+  "lessonVersion": "everyday-28-v1",
+  "title": "Bedtime lights",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 41
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara gets ready for bedtime. Read words for a bed and lights.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5e8a",
+      "hanzi": "床",
+      "readings": [
+        {
+          "readingId": "reading-5e8a",
+          "pinyin": "chuáng",
+          "audioText": "床",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#床",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "bed",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#床",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5e8a-1",
+          "text": "床单",
+          "pinyin": "chuáng dān",
+          "english": "bed sheet",
+          "readingId": "reading-5e8a",
+          "context": {
+            "hanzi": "床单上有蓝色的小花。",
+            "english": "There are little blue flowers on the bed sheet.",
+            "targetCharacter": "床"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#床单",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5e8a-2",
+          "text": "起床",
+          "pinyin": "qǐ chuáng",
+          "english": "get out of bed",
+          "readingId": "reading-5e8a",
+          "context": {
+            "hanzi": "早上，我起床后整理床铺。",
+            "english": "In the morning, I get out of bed and make the bed.",
+            "targetCharacter": "床"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#起床",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the covering shape above 木 in 床.",
+        "demonstrationEnglish": "This is 床. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5e8a",
+        "delayedReview": {
+          "promptId": "later-5e8a",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5e8a"
+        }
+      },
+      "assets": [
+        "asset-glyph-5e8a",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-706f",
+      "hanzi": "灯",
+      "readings": [
+        {
+          "readingId": "reading-706f",
+          "pinyin": "dēng",
+          "audioText": "灯",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#灯",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "lamp; light",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#灯",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-706f-1",
+          "text": "台灯",
+          "pinyin": "tái dēng",
+          "english": "desk lamp",
+          "readingId": "reading-706f",
+          "context": {
+            "hanzi": "台灯照亮了我的书本。",
+            "english": "The desk lamp lights up my book.",
+            "targetCharacter": "灯"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#台灯",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-706f-2",
+          "text": "路灯",
+          "pinyin": "lù dēng",
+          "english": "street light",
+          "readingId": "reading-706f",
+          "context": {
+            "hanzi": "天黑以后，路灯亮了。",
+            "english": "The street lights come on after dark.",
+            "targetCharacter": "灯"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/everyday-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/everyday-cc-cedict-20261008.json#路灯",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 火 on the left of 灯 and the simpler strokes on the right.",
+        "demonstrationEnglish": "This is 灯. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-706f",
+        "delayedReview": {
+          "promptId": "later-706f",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-706f"
+        }
+      },
+      "assets": [
+        "asset-glyph-706f",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "everyday-28-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5e8a",
+        "familiar-706f"
+      ]
+    },
+    {
+      "stepId": "everyday-28-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "everyday-28-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-5e8a",
+        "practice-two-5e8a",
+        "practice-one-706f",
+        "practice-two-706f"
+      ]
+    },
+    {
+      "stepId": "everyday-28-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5e8a",
+        "check-706f"
+      ]
+    },
+    {
+      "stepId": "everyday-28-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5e8a",
+      "characterId": "char-5e8a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "床"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5e8a-choice-1",
+          "hanzi": "床"
+        },
+        {
+          "choiceId": "familiar-5e8a-choice-2",
+          "hanzi": "灯"
+        },
+        {
+          "choiceId": "familiar-5e8a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5e8a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5e8a-choice-1"
+    },
+    {
+      "checkId": "check-5e8a",
+      "characterId": "char-5e8a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "床"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5e8a-choice-1",
+          "hanzi": "床"
+        },
+        {
+          "choiceId": "check-5e8a-choice-2",
+          "hanzi": "灯"
+        },
+        {
+          "choiceId": "check-5e8a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5e8a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5e8a-choice-1"
+    },
+    {
+      "checkId": "review-5e8a",
+      "characterId": "char-5e8a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "床"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5e8a-choice-1",
+          "hanzi": "床"
+        },
+        {
+          "choiceId": "review-5e8a-choice-2",
+          "hanzi": "灯"
+        },
+        {
+          "choiceId": "review-5e8a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5e8a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5e8a-choice-1"
+    },
+    {
+      "checkId": "practice-one-5e8a",
+      "characterId": "char-5e8a",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "床单"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5e8a-choice-1",
+          "hanzi": "床"
+        },
+        {
+          "choiceId": "practice-one-5e8a-choice-2",
+          "hanzi": "灯"
+        },
+        {
+          "choiceId": "practice-one-5e8a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5e8a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5e8a-choice-1"
+    },
+    {
+      "checkId": "practice-two-5e8a",
+      "characterId": "char-5e8a",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "起床"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5e8a-choice-1",
+          "hanzi": "床"
+        },
+        {
+          "choiceId": "practice-two-5e8a-choice-2",
+          "hanzi": "灯"
+        },
+        {
+          "choiceId": "practice-two-5e8a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5e8a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5e8a-choice-1"
+    },
+    {
+      "checkId": "familiar-706f",
+      "characterId": "char-706f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "灯"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-706f-choice-1",
+          "hanzi": "床"
+        },
+        {
+          "choiceId": "familiar-706f-choice-2",
+          "hanzi": "灯"
+        },
+        {
+          "choiceId": "familiar-706f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-706f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-706f-choice-2"
+    },
+    {
+      "checkId": "check-706f",
+      "characterId": "char-706f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "灯"
+      },
+      "choices": [
+        {
+          "choiceId": "check-706f-choice-1",
+          "hanzi": "床"
+        },
+        {
+          "choiceId": "check-706f-choice-2",
+          "hanzi": "灯"
+        },
+        {
+          "choiceId": "check-706f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-706f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-706f-choice-2"
+    },
+    {
+      "checkId": "review-706f",
+      "characterId": "char-706f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "灯"
+      },
+      "choices": [
+        {
+          "choiceId": "review-706f-choice-1",
+          "hanzi": "床"
+        },
+        {
+          "choiceId": "review-706f-choice-2",
+          "hanzi": "灯"
+        },
+        {
+          "choiceId": "review-706f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-706f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-706f-choice-2"
+    },
+    {
+      "checkId": "practice-one-706f",
+      "characterId": "char-706f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "台灯"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-706f-choice-1",
+          "hanzi": "床"
+        },
+        {
+          "choiceId": "practice-one-706f-choice-2",
+          "hanzi": "灯"
+        },
+        {
+          "choiceId": "practice-one-706f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-706f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-706f-choice-2"
+    },
+    {
+      "checkId": "practice-two-706f",
+      "characterId": "char-706f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "路灯"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-706f-choice-1",
+          "hanzi": "床"
+        },
+        {
+          "choiceId": "practice-two-706f-choice-2",
+          "hanzi": "灯"
+        },
+        {
+          "choiceId": "practice-two-706f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-706f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-706f-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5e8a",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-28-v1/char-5e8a",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-706f",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/everyday-28-v1/char-706f",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/everyday-28-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/everyday-28-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Bedtime lights",
+      "instructionEnglish": "Our capybara gets ready for bedtime. Read words for a bed and lights."
+    },
+    "targets": [
+      {
+        "characterId": "char-5e8a",
+        "readingId": "reading-5e8a",
+        "familiarityCheckId": "familiar-5e8a",
+        "practice": [
+          {
+            "wordId": "word-5e8a-1",
+            "checkId": "practice-one-5e8a"
+          },
+          {
+            "wordId": "word-5e8a-2",
+            "checkId": "practice-two-5e8a"
+          }
+        ],
+        "immediateCheckId": "check-5e8a",
+        "reviewCheckId": "review-5e8a"
+      },
+      {
+        "characterId": "char-706f",
+        "readingId": "reading-706f",
+        "familiarityCheckId": "familiar-706f",
+        "practice": [
+          {
+            "wordId": "word-706f-1",
+            "checkId": "practice-one-706f"
+          },
+          {
+            "wordId": "word-706f-2",
+            "checkId": "practice-two-706f"
+          }
+        ],
+        "immediateCheckId": "check-706f",
+        "reviewCheckId": "review-706f"
+      }
+    ],
+    "reader": {
+      "title": "Bedtime lights",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5e8a-1",
+        "word-5e8a-2",
+        "word-706f-1",
+        "word-706f-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5e8a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5e8a",
+          "transcript": "床",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5e8a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5e8a",
+          "transcript": "床",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5e8a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5e8a",
+          "transcript": "床",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5e8a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5e8a",
+          "transcript": "床单",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5e8a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5e8a",
+          "transcript": "起床",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5e8a",
+          "readingId": "reading-5e8a",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "床",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5e8a-1",
+          "readingId": null,
+          "wordId": "word-5e8a-1",
+          "checkId": null,
+          "transcript": "床单上有蓝色的小花。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5e8a-2",
+          "readingId": null,
+          "wordId": "word-5e8a-2",
+          "checkId": null,
+          "transcript": "早上，我起床后整理床铺。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-706f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-706f",
+          "transcript": "灯",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-706f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-706f",
+          "transcript": "灯",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-706f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-706f",
+          "transcript": "灯",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-706f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-706f",
+          "transcript": "台灯",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-706f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-706f",
+          "transcript": "路灯",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-706f",
+          "readingId": "reading-706f",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "灯",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-706f-1",
+          "readingId": null,
+          "wordId": "word-706f-1",
+          "checkId": null,
+          "transcript": "台灯照亮了我的书本。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-706f-2",
+          "readingId": null,
+          "wordId": "word-706f-2",
+          "checkId": null,
+          "transcript": "天黑以后，路灯亮了。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}
