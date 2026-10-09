@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-126",
+  "lessonVersion": "expansion-126-v1",
+  "title": "Helping hands and tidying: 脏 and 湿",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 186
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 脏 and 湿 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-810f",
+      "hanzi": "脏",
+      "readings": [
+        {
+          "readingId": "reading-810f",
+          "pinyin": "zāng",
+          "audioText": "脏",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#脏",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "dirty",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#脏",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-810f-1",
+          "text": "脏水",
+          "pinyin": "zāng shuǐ",
+          "english": "dirty water",
+          "readingId": "reading-810f",
+          "context": {
+            "hanzi": "我们不玩脏水，玩过后要洗手。",
+            "english": "We do not play with dirty water; we wash our hands after playing.",
+            "targetCharacter": "脏"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#脏水",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-810f-2",
+          "text": "脏乱",
+          "pinyin": "zāng luàn",
+          "english": "dirty and messy",
+          "readingId": "reading-810f",
+          "context": {
+            "hanzi": "房间有点脏乱，我们一起收拾。",
+            "english": "The room is a little dirty and messy; we tidy it together.",
+            "targetCharacter": "脏"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#脏乱",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 月 beside 庄 in 脏; these words use zāng.",
+        "demonstrationEnglish": "This is 脏. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-810f",
+        "delayedReview": {
+          "promptId": "later-810f",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-810f"
+        }
+      },
+      "assets": [
+        "asset-glyph-810f",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6e7f",
+      "hanzi": "湿",
+      "readings": [
+        {
+          "readingId": "reading-6e7f",
+          "pinyin": "shī",
+          "audioText": "湿",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#湿",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "wet",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#湿",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6e7f-1",
+          "text": "湿润",
+          "pinyin": "shī rùn",
+          "english": "moist",
+          "readingId": "reading-6e7f",
+          "context": {
+            "hanzi": "花盆的土很湿润。",
+            "english": "The soil in the flower pot is moist.",
+            "targetCharacter": "湿"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#湿润",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6e7f-2",
+          "text": "潮湿",
+          "pinyin": "cháo shī",
+          "english": "damp",
+          "readingId": "reading-6e7f",
+          "context": {
+            "hanzi": "这张纸很潮湿。",
+            "english": "This sheet of paper is damp.",
+            "targetCharacter": "湿"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#潮湿",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 氵 beside 显 in 湿.",
+        "demonstrationEnglish": "This is 湿. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6e7f",
+        "delayedReview": {
+          "promptId": "later-6e7f",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6e7f"
+        }
+      },
+      "assets": [
+        "asset-glyph-6e7f",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-126-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-810f",
+        "familiar-6e7f"
+      ]
+    },
+    {
+      "stepId": "expansion-126-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-126-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-810f",
+        "practice-two-810f",
+        "practice-one-6e7f",
+        "practice-two-6e7f"
+      ]
+    },
+    {
+      "stepId": "expansion-126-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-810f",
+        "check-6e7f"
+      ]
+    },
+    {
+      "stepId": "expansion-126-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-810f",
+      "characterId": "char-810f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "脏"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-810f-choice-1",
+          "hanzi": "脏"
+        },
+        {
+          "choiceId": "familiar-810f-choice-2",
+          "hanzi": "湿"
+        },
+        {
+          "choiceId": "familiar-810f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-810f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-810f-choice-1"
+    },
+    {
+      "checkId": "check-810f",
+      "characterId": "char-810f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "脏"
+      },
+      "choices": [
+        {
+          "choiceId": "check-810f-choice-1",
+          "hanzi": "脏"
+        },
+        {
+          "choiceId": "check-810f-choice-2",
+          "hanzi": "湿"
+        },
+        {
+          "choiceId": "check-810f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-810f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-810f-choice-1"
+    },
+    {
+      "checkId": "review-810f",
+      "characterId": "char-810f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "脏"
+      },
+      "choices": [
+        {
+          "choiceId": "review-810f-choice-1",
+          "hanzi": "脏"
+        },
+        {
+          "choiceId": "review-810f-choice-2",
+          "hanzi": "湿"
+        },
+        {
+          "choiceId": "review-810f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-810f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-810f-choice-1"
+    },
+    {
+      "checkId": "practice-one-810f",
+      "characterId": "char-810f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "脏水"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-810f-choice-1",
+          "hanzi": "脏"
+        },
+        {
+          "choiceId": "practice-one-810f-choice-2",
+          "hanzi": "湿"
+        },
+        {
+          "choiceId": "practice-one-810f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-810f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-810f-choice-1"
+    },
+    {
+      "checkId": "practice-two-810f",
+      "characterId": "char-810f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "脏乱"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-810f-choice-1",
+          "hanzi": "脏"
+        },
+        {
+          "choiceId": "practice-two-810f-choice-2",
+          "hanzi": "湿"
+        },
+        {
+          "choiceId": "practice-two-810f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-810f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-810f-choice-1"
+    },
+    {
+      "checkId": "familiar-6e7f",
+      "characterId": "char-6e7f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "湿"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6e7f-choice-1",
+          "hanzi": "脏"
+        },
+        {
+          "choiceId": "familiar-6e7f-choice-2",
+          "hanzi": "湿"
+        },
+        {
+          "choiceId": "familiar-6e7f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6e7f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6e7f-choice-2"
+    },
+    {
+      "checkId": "check-6e7f",
+      "characterId": "char-6e7f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "湿"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6e7f-choice-1",
+          "hanzi": "脏"
+        },
+        {
+          "choiceId": "check-6e7f-choice-2",
+          "hanzi": "湿"
+        },
+        {
+          "choiceId": "check-6e7f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6e7f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6e7f-choice-2"
+    },
+    {
+      "checkId": "review-6e7f",
+      "characterId": "char-6e7f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "湿"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6e7f-choice-1",
+          "hanzi": "脏"
+        },
+        {
+          "choiceId": "review-6e7f-choice-2",
+          "hanzi": "湿"
+        },
+        {
+          "choiceId": "review-6e7f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6e7f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6e7f-choice-2"
+    },
+    {
+      "checkId": "practice-one-6e7f",
+      "characterId": "char-6e7f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "湿润"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6e7f-choice-1",
+          "hanzi": "脏"
+        },
+        {
+          "choiceId": "practice-one-6e7f-choice-2",
+          "hanzi": "湿"
+        },
+        {
+          "choiceId": "practice-one-6e7f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6e7f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6e7f-choice-2"
+    },
+    {
+      "checkId": "practice-two-6e7f",
+      "characterId": "char-6e7f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "潮湿"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6e7f-choice-1",
+          "hanzi": "脏"
+        },
+        {
+          "choiceId": "practice-two-6e7f-choice-2",
+          "hanzi": "湿"
+        },
+        {
+          "choiceId": "practice-two-6e7f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6e7f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6e7f-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-810f",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-126-v1/char-810f",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6e7f",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-126-v1/char-6e7f",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-126-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-126-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Helping hands and tidying: 脏 and 湿",
+      "instructionEnglish": "Read two short word examples for 脏 and 湿 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-810f",
+        "readingId": "reading-810f",
+        "familiarityCheckId": "familiar-810f",
+        "practice": [
+          {
+            "wordId": "word-810f-1",
+            "checkId": "practice-one-810f"
+          },
+          {
+            "wordId": "word-810f-2",
+            "checkId": "practice-two-810f"
+          }
+        ],
+        "immediateCheckId": "check-810f",
+        "reviewCheckId": "review-810f"
+      },
+      {
+        "characterId": "char-6e7f",
+        "readingId": "reading-6e7f",
+        "familiarityCheckId": "familiar-6e7f",
+        "practice": [
+          {
+            "wordId": "word-6e7f-1",
+            "checkId": "practice-one-6e7f"
+          },
+          {
+            "wordId": "word-6e7f-2",
+            "checkId": "practice-two-6e7f"
+          }
+        ],
+        "immediateCheckId": "check-6e7f",
+        "reviewCheckId": "review-6e7f"
+      }
+    ],
+    "reader": {
+      "title": "Helping hands and tidying: 脏 and 湿",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-810f-1",
+        "word-810f-2",
+        "word-6e7f-1",
+        "word-6e7f-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-810f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-810f",
+          "transcript": "脏",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-810f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-810f",
+          "transcript": "脏",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-810f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-810f",
+          "transcript": "脏",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-810f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-810f",
+          "transcript": "脏水",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-810f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-810f",
+          "transcript": "脏乱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-810f",
+          "readingId": "reading-810f",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "脏",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-810f-1",
+          "readingId": null,
+          "wordId": "word-810f-1",
+          "checkId": null,
+          "transcript": "我们不玩脏水，玩过后要洗手。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-810f-2",
+          "readingId": null,
+          "wordId": "word-810f-2",
+          "checkId": null,
+          "transcript": "房间有点脏乱，我们一起收拾。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6e7f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6e7f",
+          "transcript": "湿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6e7f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6e7f",
+          "transcript": "湿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6e7f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6e7f",
+          "transcript": "湿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6e7f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6e7f",
+          "transcript": "湿润",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6e7f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6e7f",
+          "transcript": "潮湿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6e7f",
+          "readingId": "reading-6e7f",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "湿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6e7f-1",
+          "readingId": null,
+          "wordId": "word-6e7f-1",
+          "checkId": null,
+          "transcript": "花盆的土很湿润。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6e7f-2",
+          "readingId": null,
+          "wordId": "word-6e7f-2",
+          "checkId": null,
+          "transcript": "这张纸很潮湿。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-086",
+  "lessonVersion": "expansion-086-v1",
+  "title": "Meals and containers: 饱 and 饿",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 146
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 饱 and 饿 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-9971",
+      "hanzi": "饱",
+      "readings": [
+        {
+          "readingId": "reading-9971",
+          "pinyin": "bǎo",
+          "audioText": "饱",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#饱",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "full after eating",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#饱",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-9971-1",
+          "text": "吃饱",
+          "pinyin": "chī bǎo",
+          "english": "eat one's fill",
+          "readingId": "reading-9971",
+          "context": {
+            "hanzi": "我们一起吃饭，吃饱后就收好碗。",
+            "english": "We eat together and put the bowls away when we have had enough.",
+            "targetCharacter": "饱"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#吃饱",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-9971-2",
+          "text": "饱满",
+          "pinyin": "bǎo mǎn",
+          "english": "full and plump",
+          "readingId": "reading-9971",
+          "context": {
+            "hanzi": "这颗种子很饱满。",
+            "english": "This seed is full and plump.",
+            "targetCharacter": "饱"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#饱满",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 饣 beside 包 in 饱.",
+        "demonstrationEnglish": "This is 饱. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-9971",
+        "delayedReview": {
+          "promptId": "later-9971",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-9971"
+        }
+      },
+      "assets": [
+        "asset-glyph-9971",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-997f",
+      "hanzi": "饿",
+      "readings": [
+        {
+          "readingId": "reading-997f",
+          "pinyin": "è",
+          "audioText": "饿",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#饿",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "hungry",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#饿",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-997f-1",
+          "text": "饥饿",
+          "pinyin": "jī è",
+          "english": "hungry",
+          "readingId": "reading-997f",
+          "context": {
+            "hanzi": "故事里的小兔很饥饿。",
+            "english": "The little rabbit in the story is hungry.",
+            "targetCharacter": "饿"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#饥饿",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-997f-2",
+          "text": "饿了",
+          "pinyin": "è le",
+          "english": "become hungry",
+          "readingId": "reading-997f",
+          "context": {
+            "hanzi": "小兔饿了，就去找食物。",
+            "english": "The little rabbit becomes hungry and looks for food.",
+            "targetCharacter": "饿"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#饿了",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 饣 beside 我 in 饿.",
+        "demonstrationEnglish": "This is 饿. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-997f",
+        "delayedReview": {
+          "promptId": "later-997f",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-997f"
+        }
+      },
+      "assets": [
+        "asset-glyph-997f",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-086-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-9971",
+        "familiar-997f"
+      ]
+    },
+    {
+      "stepId": "expansion-086-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-086-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-9971",
+        "practice-two-9971",
+        "practice-one-997f",
+        "practice-two-997f"
+      ]
+    },
+    {
+      "stepId": "expansion-086-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-9971",
+        "check-997f"
+      ]
+    },
+    {
+      "stepId": "expansion-086-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-9971",
+      "characterId": "char-9971",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "饱"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-9971-choice-1",
+          "hanzi": "饱"
+        },
+        {
+          "choiceId": "familiar-9971-choice-2",
+          "hanzi": "饿"
+        },
+        {
+          "choiceId": "familiar-9971-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-9971-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-9971-choice-1"
+    },
+    {
+      "checkId": "check-9971",
+      "characterId": "char-9971",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "饱"
+      },
+      "choices": [
+        {
+          "choiceId": "check-9971-choice-1",
+          "hanzi": "饱"
+        },
+        {
+          "choiceId": "check-9971-choice-2",
+          "hanzi": "饿"
+        },
+        {
+          "choiceId": "check-9971-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-9971-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-9971-choice-1"
+    },
+    {
+      "checkId": "review-9971",
+      "characterId": "char-9971",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "饱"
+      },
+      "choices": [
+        {
+          "choiceId": "review-9971-choice-1",
+          "hanzi": "饱"
+        },
+        {
+          "choiceId": "review-9971-choice-2",
+          "hanzi": "饿"
+        },
+        {
+          "choiceId": "review-9971-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-9971-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-9971-choice-1"
+    },
+    {
+      "checkId": "practice-one-9971",
+      "characterId": "char-9971",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "吃饱"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-9971-choice-1",
+          "hanzi": "饱"
+        },
+        {
+          "choiceId": "practice-one-9971-choice-2",
+          "hanzi": "饿"
+        },
+        {
+          "choiceId": "practice-one-9971-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-9971-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-9971-choice-1"
+    },
+    {
+      "checkId": "practice-two-9971",
+      "characterId": "char-9971",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "饱满"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-9971-choice-1",
+          "hanzi": "饱"
+        },
+        {
+          "choiceId": "practice-two-9971-choice-2",
+          "hanzi": "饿"
+        },
+        {
+          "choiceId": "practice-two-9971-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-9971-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-9971-choice-1"
+    },
+    {
+      "checkId": "familiar-997f",
+      "characterId": "char-997f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "饿"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-997f-choice-1",
+          "hanzi": "饱"
+        },
+        {
+          "choiceId": "familiar-997f-choice-2",
+          "hanzi": "饿"
+        },
+        {
+          "choiceId": "familiar-997f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-997f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-997f-choice-2"
+    },
+    {
+      "checkId": "check-997f",
+      "characterId": "char-997f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "饿"
+      },
+      "choices": [
+        {
+          "choiceId": "check-997f-choice-1",
+          "hanzi": "饱"
+        },
+        {
+          "choiceId": "check-997f-choice-2",
+          "hanzi": "饿"
+        },
+        {
+          "choiceId": "check-997f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-997f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-997f-choice-2"
+    },
+    {
+      "checkId": "review-997f",
+      "characterId": "char-997f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "饿"
+      },
+      "choices": [
+        {
+          "choiceId": "review-997f-choice-1",
+          "hanzi": "饱"
+        },
+        {
+          "choiceId": "review-997f-choice-2",
+          "hanzi": "饿"
+        },
+        {
+          "choiceId": "review-997f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-997f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-997f-choice-2"
+    },
+    {
+      "checkId": "practice-one-997f",
+      "characterId": "char-997f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "饥饿"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-997f-choice-1",
+          "hanzi": "饱"
+        },
+        {
+          "choiceId": "practice-one-997f-choice-2",
+          "hanzi": "饿"
+        },
+        {
+          "choiceId": "practice-one-997f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-997f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-997f-choice-2"
+    },
+    {
+      "checkId": "practice-two-997f",
+      "characterId": "char-997f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "饿了"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-997f-choice-1",
+          "hanzi": "饱"
+        },
+        {
+          "choiceId": "practice-two-997f-choice-2",
+          "hanzi": "饿"
+        },
+        {
+          "choiceId": "practice-two-997f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-997f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-997f-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-9971",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-086-v1/char-9971",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-997f",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-086-v1/char-997f",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-086-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-086-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Meals and containers: 饱 and 饿",
+      "instructionEnglish": "Read two short word examples for 饱 and 饿 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-9971",
+        "readingId": "reading-9971",
+        "familiarityCheckId": "familiar-9971",
+        "practice": [
+          {
+            "wordId": "word-9971-1",
+            "checkId": "practice-one-9971"
+          },
+          {
+            "wordId": "word-9971-2",
+            "checkId": "practice-two-9971"
+          }
+        ],
+        "immediateCheckId": "check-9971",
+        "reviewCheckId": "review-9971"
+      },
+      {
+        "characterId": "char-997f",
+        "readingId": "reading-997f",
+        "familiarityCheckId": "familiar-997f",
+        "practice": [
+          {
+            "wordId": "word-997f-1",
+            "checkId": "practice-one-997f"
+          },
+          {
+            "wordId": "word-997f-2",
+            "checkId": "practice-two-997f"
+          }
+        ],
+        "immediateCheckId": "check-997f",
+        "reviewCheckId": "review-997f"
+      }
+    ],
+    "reader": {
+      "title": "Meals and containers: 饱 and 饿",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-9971-1",
+        "word-9971-2",
+        "word-997f-1",
+        "word-997f-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-9971",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-9971",
+          "transcript": "饱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-9971",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-9971",
+          "transcript": "饱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-9971",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-9971",
+          "transcript": "饱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-9971",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-9971",
+          "transcript": "吃饱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-9971",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-9971",
+          "transcript": "饱满",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-9971",
+          "readingId": "reading-9971",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "饱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9971-1",
+          "readingId": null,
+          "wordId": "word-9971-1",
+          "checkId": null,
+          "transcript": "我们一起吃饭，吃饱后就收好碗。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9971-2",
+          "readingId": null,
+          "wordId": "word-9971-2",
+          "checkId": null,
+          "transcript": "这颗种子很饱满。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-997f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-997f",
+          "transcript": "饿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-997f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-997f",
+          "transcript": "饿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-997f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-997f",
+          "transcript": "饿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-997f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-997f",
+          "transcript": "饥饿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-997f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-997f",
+          "transcript": "饿了",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-997f",
+          "readingId": "reading-997f",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "饿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-997f-1",
+          "readingId": null,
+          "wordId": "word-997f-1",
+          "checkId": null,
+          "transcript": "故事里的小兔很饥饿。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-997f-2",
+          "readingId": null,
+          "wordId": "word-997f-2",
+          "checkId": null,
+          "transcript": "小兔饿了，就去找食物。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

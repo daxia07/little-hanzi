@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-118",
+  "lessonVersion": "expansion-118-v1",
+  "title": "Art, music and games: 接 and 扔",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 178
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 接 and 扔 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-63a5",
+      "hanzi": "接",
+      "readings": [
+        {
+          "readingId": "reading-63a5",
+          "pinyin": "jiē",
+          "audioText": "接",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#接",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "receive; catch",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#接",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-63a5-1",
+          "text": "接住",
+          "pinyin": "jiē zhù",
+          "english": "catch",
+          "readingId": "reading-63a5",
+          "context": {
+            "hanzi": "我接住了朋友传来的球。",
+            "english": "I catch the ball my friend passes to me.",
+            "targetCharacter": "接"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#接住",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-63a5-2",
+          "text": "接力",
+          "pinyin": "jiē lì",
+          "english": "a relay",
+          "readingId": "reading-63a5",
+          "context": {
+            "hanzi": "这本书介绍了接力。",
+            "english": "This book introduces a relay.",
+            "targetCharacter": "接"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#接力",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 扌 beside 妾 in 接.",
+        "demonstrationEnglish": "This is 接. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-63a5",
+        "delayedReview": {
+          "promptId": "later-63a5",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-63a5"
+        }
+      },
+      "assets": [
+        "asset-glyph-63a5",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6254",
+      "hanzi": "扔",
+      "readings": [
+        {
+          "readingId": "reading-6254",
+          "pinyin": "rēng",
+          "audioText": "扔",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#扔",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "throw",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#扔",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6254-1",
+          "text": "扔掉",
+          "pinyin": "rēng diào",
+          "english": "throw away",
+          "readingId": "reading-6254",
+          "context": {
+            "hanzi": "我们不把纸片随便扔掉。",
+            "english": "We do not discard pieces of paper carelessly.",
+            "targetCharacter": "扔"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#扔掉",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6254-2",
+          "text": "扔球",
+          "pinyin": "rēng qiú",
+          "english": "throw a ball",
+          "readingId": "reading-6254",
+          "context": {
+            "hanzi": "我们一起扔球。",
+            "english": "We throw a ball together.",
+            "targetCharacter": "扔"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#扔球",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 扌 beside 乃 in 扔.",
+        "demonstrationEnglish": "This is 扔. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6254",
+        "delayedReview": {
+          "promptId": "later-6254",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6254"
+        }
+      },
+      "assets": [
+        "asset-glyph-6254",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-118-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-63a5",
+        "familiar-6254"
+      ]
+    },
+    {
+      "stepId": "expansion-118-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-118-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-63a5",
+        "practice-two-63a5",
+        "practice-one-6254",
+        "practice-two-6254"
+      ]
+    },
+    {
+      "stepId": "expansion-118-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-63a5",
+        "check-6254"
+      ]
+    },
+    {
+      "stepId": "expansion-118-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-63a5",
+      "characterId": "char-63a5",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "接"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-63a5-choice-1",
+          "hanzi": "接"
+        },
+        {
+          "choiceId": "familiar-63a5-choice-2",
+          "hanzi": "扔"
+        },
+        {
+          "choiceId": "familiar-63a5-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-63a5-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-63a5-choice-1"
+    },
+    {
+      "checkId": "check-63a5",
+      "characterId": "char-63a5",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "接"
+      },
+      "choices": [
+        {
+          "choiceId": "check-63a5-choice-1",
+          "hanzi": "接"
+        },
+        {
+          "choiceId": "check-63a5-choice-2",
+          "hanzi": "扔"
+        },
+        {
+          "choiceId": "check-63a5-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-63a5-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-63a5-choice-1"
+    },
+    {
+      "checkId": "review-63a5",
+      "characterId": "char-63a5",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "接"
+      },
+      "choices": [
+        {
+          "choiceId": "review-63a5-choice-1",
+          "hanzi": "接"
+        },
+        {
+          "choiceId": "review-63a5-choice-2",
+          "hanzi": "扔"
+        },
+        {
+          "choiceId": "review-63a5-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-63a5-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-63a5-choice-1"
+    },
+    {
+      "checkId": "practice-one-63a5",
+      "characterId": "char-63a5",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "接住"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-63a5-choice-1",
+          "hanzi": "接"
+        },
+        {
+          "choiceId": "practice-one-63a5-choice-2",
+          "hanzi": "扔"
+        },
+        {
+          "choiceId": "practice-one-63a5-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-63a5-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-63a5-choice-1"
+    },
+    {
+      "checkId": "practice-two-63a5",
+      "characterId": "char-63a5",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "接力"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-63a5-choice-1",
+          "hanzi": "接"
+        },
+        {
+          "choiceId": "practice-two-63a5-choice-2",
+          "hanzi": "扔"
+        },
+        {
+          "choiceId": "practice-two-63a5-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-63a5-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-63a5-choice-1"
+    },
+    {
+      "checkId": "familiar-6254",
+      "characterId": "char-6254",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "扔"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6254-choice-1",
+          "hanzi": "接"
+        },
+        {
+          "choiceId": "familiar-6254-choice-2",
+          "hanzi": "扔"
+        },
+        {
+          "choiceId": "familiar-6254-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6254-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6254-choice-2"
+    },
+    {
+      "checkId": "check-6254",
+      "characterId": "char-6254",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "扔"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6254-choice-1",
+          "hanzi": "接"
+        },
+        {
+          "choiceId": "check-6254-choice-2",
+          "hanzi": "扔"
+        },
+        {
+          "choiceId": "check-6254-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6254-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6254-choice-2"
+    },
+    {
+      "checkId": "review-6254",
+      "characterId": "char-6254",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "扔"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6254-choice-1",
+          "hanzi": "接"
+        },
+        {
+          "choiceId": "review-6254-choice-2",
+          "hanzi": "扔"
+        },
+        {
+          "choiceId": "review-6254-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6254-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6254-choice-2"
+    },
+    {
+      "checkId": "practice-one-6254",
+      "characterId": "char-6254",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "扔掉"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6254-choice-1",
+          "hanzi": "接"
+        },
+        {
+          "choiceId": "practice-one-6254-choice-2",
+          "hanzi": "扔"
+        },
+        {
+          "choiceId": "practice-one-6254-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6254-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6254-choice-2"
+    },
+    {
+      "checkId": "practice-two-6254",
+      "characterId": "char-6254",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "扔球"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6254-choice-1",
+          "hanzi": "接"
+        },
+        {
+          "choiceId": "practice-two-6254-choice-2",
+          "hanzi": "扔"
+        },
+        {
+          "choiceId": "practice-two-6254-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6254-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6254-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-63a5",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-118-v1/char-63a5",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6254",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-118-v1/char-6254",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-118-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-118-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Art, music and games: 接 and 扔",
+      "instructionEnglish": "Read two short word examples for 接 and 扔 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-63a5",
+        "readingId": "reading-63a5",
+        "familiarityCheckId": "familiar-63a5",
+        "practice": [
+          {
+            "wordId": "word-63a5-1",
+            "checkId": "practice-one-63a5"
+          },
+          {
+            "wordId": "word-63a5-2",
+            "checkId": "practice-two-63a5"
+          }
+        ],
+        "immediateCheckId": "check-63a5",
+        "reviewCheckId": "review-63a5"
+      },
+      {
+        "characterId": "char-6254",
+        "readingId": "reading-6254",
+        "familiarityCheckId": "familiar-6254",
+        "practice": [
+          {
+            "wordId": "word-6254-1",
+            "checkId": "practice-one-6254"
+          },
+          {
+            "wordId": "word-6254-2",
+            "checkId": "practice-two-6254"
+          }
+        ],
+        "immediateCheckId": "check-6254",
+        "reviewCheckId": "review-6254"
+      }
+    ],
+    "reader": {
+      "title": "Art, music and games: 接 and 扔",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-63a5-1",
+        "word-63a5-2",
+        "word-6254-1",
+        "word-6254-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-63a5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-63a5",
+          "transcript": "接",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-63a5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-63a5",
+          "transcript": "接",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-63a5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-63a5",
+          "transcript": "接",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-63a5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-63a5",
+          "transcript": "接住",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-63a5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-63a5",
+          "transcript": "接力",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-63a5",
+          "readingId": "reading-63a5",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "接",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-63a5-1",
+          "readingId": null,
+          "wordId": "word-63a5-1",
+          "checkId": null,
+          "transcript": "我接住了朋友传来的球。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-63a5-2",
+          "readingId": null,
+          "wordId": "word-63a5-2",
+          "checkId": null,
+          "transcript": "这本书介绍了接力。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6254",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6254",
+          "transcript": "扔",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6254",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6254",
+          "transcript": "扔",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6254",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6254",
+          "transcript": "扔",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6254",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6254",
+          "transcript": "扔掉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6254",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6254",
+          "transcript": "扔球",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6254",
+          "readingId": "reading-6254",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "扔",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6254-1",
+          "readingId": null,
+          "wordId": "word-6254-1",
+          "checkId": null,
+          "transcript": "我们不把纸片随便扔掉。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6254-2",
+          "readingId": null,
+          "wordId": "word-6254-2",
+          "checkId": null,
+          "transcript": "我们一起扔球。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

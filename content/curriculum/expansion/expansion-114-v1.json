@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-114",
+  "lessonVersion": "expansion-114-v1",
+  "title": "Art, music and games: 球 and 棋",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 174
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 球 and 棋 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-7403",
+      "hanzi": "球",
+      "readings": [
+        {
+          "readingId": "reading-7403",
+          "pinyin": "qiú",
+          "audioText": "球",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#球",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "ball",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#球",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7403-1",
+          "text": "足球",
+          "pinyin": "zú qiú",
+          "english": "a football",
+          "readingId": "reading-7403",
+          "context": {
+            "hanzi": "我在图画里看到了足球。",
+            "english": "I see a football in the picture.",
+            "targetCharacter": "球"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#足球",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7403-2",
+          "text": "皮球",
+          "pinyin": "pí qiú",
+          "english": "a ball",
+          "readingId": "reading-7403",
+          "context": {
+            "hanzi": "我们把皮球放进小盒子。",
+            "english": "We put a ball into a small box.",
+            "targetCharacter": "球"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#皮球",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 王 beside 求 in 球.",
+        "demonstrationEnglish": "This is 球. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7403",
+        "delayedReview": {
+          "promptId": "later-7403",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7403"
+        }
+      },
+      "assets": [
+        "asset-glyph-7403",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-68cb",
+      "hanzi": "棋",
+      "readings": [
+        {
+          "readingId": "reading-68cb",
+          "pinyin": "qí",
+          "audioText": "棋",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#棋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "board game",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#棋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-68cb-1",
+          "text": "棋子",
+          "pinyin": "qí zǐ",
+          "english": "a game piece",
+          "readingId": "reading-68cb",
+          "context": {
+            "hanzi": "我们把棋子放进小盒子。",
+            "english": "We put a game piece into a small box.",
+            "targetCharacter": "棋"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#棋子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-68cb-2",
+          "text": "围棋",
+          "pinyin": "wéi qí",
+          "english": "the game of Go",
+          "readingId": "reading-68cb",
+          "context": {
+            "hanzi": "这本书介绍了围棋。",
+            "english": "This book introduces the game of Go.",
+            "targetCharacter": "棋"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#围棋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 木 beside 其 in 棋.",
+        "demonstrationEnglish": "This is 棋. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-68cb",
+        "delayedReview": {
+          "promptId": "later-68cb",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-68cb"
+        }
+      },
+      "assets": [
+        "asset-glyph-68cb",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-114-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-7403",
+        "familiar-68cb"
+      ]
+    },
+    {
+      "stepId": "expansion-114-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-114-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-7403",
+        "practice-two-7403",
+        "practice-one-68cb",
+        "practice-two-68cb"
+      ]
+    },
+    {
+      "stepId": "expansion-114-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-7403",
+        "check-68cb"
+      ]
+    },
+    {
+      "stepId": "expansion-114-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-7403",
+      "characterId": "char-7403",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "球"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7403-choice-1",
+          "hanzi": "球"
+        },
+        {
+          "choiceId": "familiar-7403-choice-2",
+          "hanzi": "棋"
+        },
+        {
+          "choiceId": "familiar-7403-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7403-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7403-choice-1"
+    },
+    {
+      "checkId": "check-7403",
+      "characterId": "char-7403",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "球"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7403-choice-1",
+          "hanzi": "球"
+        },
+        {
+          "choiceId": "check-7403-choice-2",
+          "hanzi": "棋"
+        },
+        {
+          "choiceId": "check-7403-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7403-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7403-choice-1"
+    },
+    {
+      "checkId": "review-7403",
+      "characterId": "char-7403",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "球"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7403-choice-1",
+          "hanzi": "球"
+        },
+        {
+          "choiceId": "review-7403-choice-2",
+          "hanzi": "棋"
+        },
+        {
+          "choiceId": "review-7403-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7403-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7403-choice-1"
+    },
+    {
+      "checkId": "practice-one-7403",
+      "characterId": "char-7403",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "足球"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7403-choice-1",
+          "hanzi": "球"
+        },
+        {
+          "choiceId": "practice-one-7403-choice-2",
+          "hanzi": "棋"
+        },
+        {
+          "choiceId": "practice-one-7403-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7403-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7403-choice-1"
+    },
+    {
+      "checkId": "practice-two-7403",
+      "characterId": "char-7403",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "皮球"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7403-choice-1",
+          "hanzi": "球"
+        },
+        {
+          "choiceId": "practice-two-7403-choice-2",
+          "hanzi": "棋"
+        },
+        {
+          "choiceId": "practice-two-7403-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7403-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7403-choice-1"
+    },
+    {
+      "checkId": "familiar-68cb",
+      "characterId": "char-68cb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "棋"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-68cb-choice-1",
+          "hanzi": "球"
+        },
+        {
+          "choiceId": "familiar-68cb-choice-2",
+          "hanzi": "棋"
+        },
+        {
+          "choiceId": "familiar-68cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-68cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-68cb-choice-2"
+    },
+    {
+      "checkId": "check-68cb",
+      "characterId": "char-68cb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "棋"
+      },
+      "choices": [
+        {
+          "choiceId": "check-68cb-choice-1",
+          "hanzi": "球"
+        },
+        {
+          "choiceId": "check-68cb-choice-2",
+          "hanzi": "棋"
+        },
+        {
+          "choiceId": "check-68cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-68cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-68cb-choice-2"
+    },
+    {
+      "checkId": "review-68cb",
+      "characterId": "char-68cb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "棋"
+      },
+      "choices": [
+        {
+          "choiceId": "review-68cb-choice-1",
+          "hanzi": "球"
+        },
+        {
+          "choiceId": "review-68cb-choice-2",
+          "hanzi": "棋"
+        },
+        {
+          "choiceId": "review-68cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-68cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-68cb-choice-2"
+    },
+    {
+      "checkId": "practice-one-68cb",
+      "characterId": "char-68cb",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "棋子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-68cb-choice-1",
+          "hanzi": "球"
+        },
+        {
+          "choiceId": "practice-one-68cb-choice-2",
+          "hanzi": "棋"
+        },
+        {
+          "choiceId": "practice-one-68cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-68cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-68cb-choice-2"
+    },
+    {
+      "checkId": "practice-two-68cb",
+      "characterId": "char-68cb",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "围棋"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-68cb-choice-1",
+          "hanzi": "球"
+        },
+        {
+          "choiceId": "practice-two-68cb-choice-2",
+          "hanzi": "棋"
+        },
+        {
+          "choiceId": "practice-two-68cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-68cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-68cb-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-7403",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-114-v1/char-7403",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-68cb",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-114-v1/char-68cb",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-114-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-114-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Art, music and games: 球 and 棋",
+      "instructionEnglish": "Read two short word examples for 球 and 棋 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-7403",
+        "readingId": "reading-7403",
+        "familiarityCheckId": "familiar-7403",
+        "practice": [
+          {
+            "wordId": "word-7403-1",
+            "checkId": "practice-one-7403"
+          },
+          {
+            "wordId": "word-7403-2",
+            "checkId": "practice-two-7403"
+          }
+        ],
+        "immediateCheckId": "check-7403",
+        "reviewCheckId": "review-7403"
+      },
+      {
+        "characterId": "char-68cb",
+        "readingId": "reading-68cb",
+        "familiarityCheckId": "familiar-68cb",
+        "practice": [
+          {
+            "wordId": "word-68cb-1",
+            "checkId": "practice-one-68cb"
+          },
+          {
+            "wordId": "word-68cb-2",
+            "checkId": "practice-two-68cb"
+          }
+        ],
+        "immediateCheckId": "check-68cb",
+        "reviewCheckId": "review-68cb"
+      }
+    ],
+    "reader": {
+      "title": "Art, music and games: 球 and 棋",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-7403-1",
+        "word-7403-2",
+        "word-68cb-1",
+        "word-68cb-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-7403",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7403",
+          "transcript": "球",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7403",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7403",
+          "transcript": "球",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7403",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7403",
+          "transcript": "球",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7403",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7403",
+          "transcript": "足球",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7403",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7403",
+          "transcript": "皮球",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7403",
+          "readingId": "reading-7403",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "球",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7403-1",
+          "readingId": null,
+          "wordId": "word-7403-1",
+          "checkId": null,
+          "transcript": "我在图画里看到了足球。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7403-2",
+          "readingId": null,
+          "wordId": "word-7403-2",
+          "checkId": null,
+          "transcript": "我们把皮球放进小盒子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-68cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-68cb",
+          "transcript": "棋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-68cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-68cb",
+          "transcript": "棋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-68cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-68cb",
+          "transcript": "棋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-68cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-68cb",
+          "transcript": "棋子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-68cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-68cb",
+          "transcript": "围棋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-68cb",
+          "readingId": "reading-68cb",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "棋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-68cb-1",
+          "readingId": null,
+          "wordId": "word-68cb-1",
+          "checkId": null,
+          "transcript": "我们把棋子放进小盒子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-68cb-2",
+          "readingId": null,
+          "wordId": "word-68cb-2",
+          "checkId": null,
+          "transcript": "这本书介绍了围棋。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-006",
+  "lessonVersion": "expansion-006-v1",
+  "title": "Useful connecting words: 每 and 各",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 66
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 每 and 各 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-6bcf",
+      "hanzi": "每",
+      "readings": [
+        {
+          "readingId": "reading-6bcf",
+          "pinyin": "měi",
+          "audioText": "每",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#每",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "every; each",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#每",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6bcf-1",
+          "text": "每天",
+          "pinyin": "měi tiān",
+          "english": "every day",
+          "readingId": "reading-6bcf",
+          "context": {
+            "hanzi": "我每天看看小花的土干不干。",
+            "english": "Every day, I check whether the little flower's soil is dry.",
+            "targetCharacter": "每"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#每天",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6bcf-2",
+          "text": "每次",
+          "pinyin": "měi cì",
+          "english": "every time",
+          "readingId": "reading-6bcf",
+          "context": {
+            "hanzi": "每次看完书，我都把它放回书架。",
+            "english": "Every time I finish a book, I put it back on the shelf.",
+            "targetCharacter": "每"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#每次",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find the two small dots inside the lower part of 每.",
+        "demonstrationEnglish": "This is 每. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6bcf",
+        "delayedReview": {
+          "promptId": "later-6bcf",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6bcf"
+        }
+      },
+      "assets": [
+        "asset-glyph-6bcf",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5404",
+      "hanzi": "各",
+      "readings": [
+        {
+          "readingId": "reading-5404",
+          "pinyin": "gè",
+          "audioText": "各",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#各",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "each; various",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#各",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5404-1",
+          "text": "各自",
+          "pinyin": "gè zì",
+          "english": "each on their own",
+          "readingId": "reading-5404",
+          "context": {
+            "hanzi": "我们各自选了一张彩纸。",
+            "english": "We each choose a sheet of coloured paper.",
+            "targetCharacter": "各"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#各自",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5404-2",
+          "text": "各地",
+          "pinyin": "gè dì",
+          "english": "various places",
+          "readingId": "reading-5404",
+          "context": {
+            "hanzi": "书里介绍了各地的桥。",
+            "english": "The book introduces bridges in various places.",
+            "targetCharacter": "各"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#各地",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 口 under the crossing top strokes of 各.",
+        "demonstrationEnglish": "This is 各. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5404",
+        "delayedReview": {
+          "promptId": "later-5404",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5404"
+        }
+      },
+      "assets": [
+        "asset-glyph-5404",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-006-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-6bcf",
+        "familiar-5404"
+      ]
+    },
+    {
+      "stepId": "expansion-006-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-006-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-6bcf",
+        "practice-two-6bcf",
+        "practice-one-5404",
+        "practice-two-5404"
+      ]
+    },
+    {
+      "stepId": "expansion-006-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-6bcf",
+        "check-5404"
+      ]
+    },
+    {
+      "stepId": "expansion-006-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-6bcf",
+      "characterId": "char-6bcf",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "每"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6bcf-choice-1",
+          "hanzi": "每"
+        },
+        {
+          "choiceId": "familiar-6bcf-choice-2",
+          "hanzi": "各"
+        },
+        {
+          "choiceId": "familiar-6bcf-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6bcf-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6bcf-choice-1"
+    },
+    {
+      "checkId": "check-6bcf",
+      "characterId": "char-6bcf",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "每"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6bcf-choice-1",
+          "hanzi": "每"
+        },
+        {
+          "choiceId": "check-6bcf-choice-2",
+          "hanzi": "各"
+        },
+        {
+          "choiceId": "check-6bcf-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6bcf-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6bcf-choice-1"
+    },
+    {
+      "checkId": "review-6bcf",
+      "characterId": "char-6bcf",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "每"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6bcf-choice-1",
+          "hanzi": "每"
+        },
+        {
+          "choiceId": "review-6bcf-choice-2",
+          "hanzi": "各"
+        },
+        {
+          "choiceId": "review-6bcf-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6bcf-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6bcf-choice-1"
+    },
+    {
+      "checkId": "practice-one-6bcf",
+      "characterId": "char-6bcf",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "每天"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6bcf-choice-1",
+          "hanzi": "每"
+        },
+        {
+          "choiceId": "practice-one-6bcf-choice-2",
+          "hanzi": "各"
+        },
+        {
+          "choiceId": "practice-one-6bcf-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6bcf-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6bcf-choice-1"
+    },
+    {
+      "checkId": "practice-two-6bcf",
+      "characterId": "char-6bcf",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "每次"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6bcf-choice-1",
+          "hanzi": "每"
+        },
+        {
+          "choiceId": "practice-two-6bcf-choice-2",
+          "hanzi": "各"
+        },
+        {
+          "choiceId": "practice-two-6bcf-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6bcf-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6bcf-choice-1"
+    },
+    {
+      "checkId": "familiar-5404",
+      "characterId": "char-5404",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "各"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5404-choice-1",
+          "hanzi": "每"
+        },
+        {
+          "choiceId": "familiar-5404-choice-2",
+          "hanzi": "各"
+        },
+        {
+          "choiceId": "familiar-5404-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5404-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5404-choice-2"
+    },
+    {
+      "checkId": "check-5404",
+      "characterId": "char-5404",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "各"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5404-choice-1",
+          "hanzi": "每"
+        },
+        {
+          "choiceId": "check-5404-choice-2",
+          "hanzi": "各"
+        },
+        {
+          "choiceId": "check-5404-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5404-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5404-choice-2"
+    },
+    {
+      "checkId": "review-5404",
+      "characterId": "char-5404",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "各"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5404-choice-1",
+          "hanzi": "每"
+        },
+        {
+          "choiceId": "review-5404-choice-2",
+          "hanzi": "各"
+        },
+        {
+          "choiceId": "review-5404-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5404-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5404-choice-2"
+    },
+    {
+      "checkId": "practice-one-5404",
+      "characterId": "char-5404",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "各自"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5404-choice-1",
+          "hanzi": "每"
+        },
+        {
+          "choiceId": "practice-one-5404-choice-2",
+          "hanzi": "各"
+        },
+        {
+          "choiceId": "practice-one-5404-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5404-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5404-choice-2"
+    },
+    {
+      "checkId": "practice-two-5404",
+      "characterId": "char-5404",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "各地"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5404-choice-1",
+          "hanzi": "每"
+        },
+        {
+          "choiceId": "practice-two-5404-choice-2",
+          "hanzi": "各"
+        },
+        {
+          "choiceId": "practice-two-5404-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5404-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5404-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-6bcf",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-006-v1/char-6bcf",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5404",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-006-v1/char-5404",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-006-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-006-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Useful connecting words: 每 and 各",
+      "instructionEnglish": "Read two short word examples for 每 and 各 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-6bcf",
+        "readingId": "reading-6bcf",
+        "familiarityCheckId": "familiar-6bcf",
+        "practice": [
+          {
+            "wordId": "word-6bcf-1",
+            "checkId": "practice-one-6bcf"
+          },
+          {
+            "wordId": "word-6bcf-2",
+            "checkId": "practice-two-6bcf"
+          }
+        ],
+        "immediateCheckId": "check-6bcf",
+        "reviewCheckId": "review-6bcf"
+      },
+      {
+        "characterId": "char-5404",
+        "readingId": "reading-5404",
+        "familiarityCheckId": "familiar-5404",
+        "practice": [
+          {
+            "wordId": "word-5404-1",
+            "checkId": "practice-one-5404"
+          },
+          {
+            "wordId": "word-5404-2",
+            "checkId": "practice-two-5404"
+          }
+        ],
+        "immediateCheckId": "check-5404",
+        "reviewCheckId": "review-5404"
+      }
+    ],
+    "reader": {
+      "title": "Useful connecting words: 每 and 各",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-6bcf-1",
+        "word-6bcf-2",
+        "word-5404-1",
+        "word-5404-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-6bcf",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6bcf",
+          "transcript": "每",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6bcf",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6bcf",
+          "transcript": "每",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6bcf",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6bcf",
+          "transcript": "每",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6bcf",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6bcf",
+          "transcript": "每天",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6bcf",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6bcf",
+          "transcript": "每次",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6bcf",
+          "readingId": "reading-6bcf",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "每",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6bcf-1",
+          "readingId": null,
+          "wordId": "word-6bcf-1",
+          "checkId": null,
+          "transcript": "我每天看看小花的土干不干。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6bcf-2",
+          "readingId": null,
+          "wordId": "word-6bcf-2",
+          "checkId": null,
+          "transcript": "每次看完书，我都把它放回书架。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5404",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5404",
+          "transcript": "各",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5404",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5404",
+          "transcript": "各",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5404",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5404",
+          "transcript": "各",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5404",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5404",
+          "transcript": "各自",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5404",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5404",
+          "transcript": "各地",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5404",
+          "readingId": "reading-5404",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "各",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5404-1",
+          "readingId": null,
+          "wordId": "word-5404-1",
+          "checkId": null,
+          "transcript": "我们各自选了一张彩纸。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5404-2",
+          "readingId": null,
+          "wordId": "word-5404-2",
+          "checkId": null,
+          "transcript": "书里介绍了各地的桥。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

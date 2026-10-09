@@ -10,7 +10,7 @@ approve a lesson. Synthetic test personas use generic names.
 
 ## Current content status
 
-The starter corpus v3 contains **100 distinct draft targets in 50 paired lessons**.
+The starter corpus v5 contains **400 distinct draft targets in 200 paired lessons**.
 All remain unreviewed and unreleased. Mandarin content review, actual licensed
 audio and listening/device acceptance, ordinary hosted flow and version-specific
 owner/recovery evidence remain necessary. No recorded audio is included. Pending
@@ -25,7 +25,9 @@ npm ci
 npm test
 npm run typecheck
 npm run build:node
-node --experimental-strip-types scripts/build-everyday-draft.mjs --check
+node --experimental-strip-types scripts/build-expansion-draft.mjs --check
+# For exact source reproduction, supply the pinned CC-CEDICT gzip archive:
+# node scripts/author-expansion-draft.mjs --archive PATH_TO_PINNED_ARCHIVE --check
 ```
 
 Node builds support source validation without private deployment metadata. A
@@ -35,3 +37,5 @@ local environment variables from `.env.example` and keep real data outside sourc
 
 Code is MIT-licensed. CC-CEDICT-derived lexical facts/curriculum adaptations and
 stroke data retain their separate licenses; see `THIRD_PARTY.md` and item evidence.
+
+This 400-draft branch adds to the preserved 100-draft source commit `4b3b57dca225d74edfabca1c7f2091e4eb532c5f`. The earlier 100-draft branch and labels remain unchanged. No private continuation history is transferred.

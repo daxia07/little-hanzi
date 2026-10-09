@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-047",
+  "lessonVersion": "expansion-047-v1",
+  "title": "Directions and time: 慢 and 早",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 107
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 慢 and 早 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-6162",
+      "hanzi": "慢",
+      "readings": [
+        {
+          "readingId": "reading-6162",
+          "pinyin": "màn",
+          "audioText": "慢",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#慢",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "slow",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#慢",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6162-1",
+          "text": "慢慢",
+          "pinyin": "màn màn",
+          "english": "slowly",
+          "readingId": "reading-6162",
+          "context": {
+            "hanzi": "小乌龟慢慢地爬过草地。",
+            "english": "The little turtle slowly crawls across the grass.",
+            "targetCharacter": "慢"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#慢慢",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6162-2",
+          "text": "慢走",
+          "pinyin": "màn zǒu",
+          "english": "walk slowly; take care as you go",
+          "readingId": "reading-6162",
+          "context": {
+            "hanzi": "奶奶说慢走，路上看清脚下。",
+            "english": "Grandma says to walk carefully and watch our steps.",
+            "targetCharacter": "慢"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#慢走",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 忄 on the left of 慢.",
+        "demonstrationEnglish": "This is 慢. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6162",
+        "delayedReview": {
+          "promptId": "later-6162",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6162"
+        }
+      },
+      "assets": [
+        "asset-glyph-6162",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-65e9",
+      "hanzi": "早",
+      "readings": [
+        {
+          "readingId": "reading-65e9",
+          "pinyin": "zǎo",
+          "audioText": "早",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#早",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "early",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#早",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-65e9-1",
+          "text": "早上",
+          "pinyin": "zǎo shang",
+          "english": "morning",
+          "readingId": "reading-65e9",
+          "context": {
+            "hanzi": "早上，我打开窗帘。",
+            "english": "In the morning, I open the curtains.",
+            "targetCharacter": "早"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#早上",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-65e9-2",
+          "text": "早饭",
+          "pinyin": "zǎo fàn",
+          "english": "breakfast",
+          "readingId": "reading-65e9",
+          "context": {
+            "hanzi": "早饭后，我们把碗放好。",
+            "english": "After breakfast, we put the bowls away.",
+            "targetCharacter": "早"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#早饭",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 十 beneath 日 in 早.",
+        "demonstrationEnglish": "This is 早. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-65e9",
+        "delayedReview": {
+          "promptId": "later-65e9",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-65e9"
+        }
+      },
+      "assets": [
+        "asset-glyph-65e9",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-047-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-6162",
+        "familiar-65e9"
+      ]
+    },
+    {
+      "stepId": "expansion-047-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-047-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-6162",
+        "practice-two-6162",
+        "practice-one-65e9",
+        "practice-two-65e9"
+      ]
+    },
+    {
+      "stepId": "expansion-047-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-6162",
+        "check-65e9"
+      ]
+    },
+    {
+      "stepId": "expansion-047-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-6162",
+      "characterId": "char-6162",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "慢"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6162-choice-1",
+          "hanzi": "慢"
+        },
+        {
+          "choiceId": "familiar-6162-choice-2",
+          "hanzi": "早"
+        },
+        {
+          "choiceId": "familiar-6162-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6162-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6162-choice-1"
+    },
+    {
+      "checkId": "check-6162",
+      "characterId": "char-6162",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "慢"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6162-choice-1",
+          "hanzi": "慢"
+        },
+        {
+          "choiceId": "check-6162-choice-2",
+          "hanzi": "早"
+        },
+        {
+          "choiceId": "check-6162-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6162-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6162-choice-1"
+    },
+    {
+      "checkId": "review-6162",
+      "characterId": "char-6162",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "慢"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6162-choice-1",
+          "hanzi": "慢"
+        },
+        {
+          "choiceId": "review-6162-choice-2",
+          "hanzi": "早"
+        },
+        {
+          "choiceId": "review-6162-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6162-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6162-choice-1"
+    },
+    {
+      "checkId": "practice-one-6162",
+      "characterId": "char-6162",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "慢慢"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6162-choice-1",
+          "hanzi": "慢"
+        },
+        {
+          "choiceId": "practice-one-6162-choice-2",
+          "hanzi": "早"
+        },
+        {
+          "choiceId": "practice-one-6162-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6162-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6162-choice-1"
+    },
+    {
+      "checkId": "practice-two-6162",
+      "characterId": "char-6162",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "慢走"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6162-choice-1",
+          "hanzi": "慢"
+        },
+        {
+          "choiceId": "practice-two-6162-choice-2",
+          "hanzi": "早"
+        },
+        {
+          "choiceId": "practice-two-6162-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6162-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6162-choice-1"
+    },
+    {
+      "checkId": "familiar-65e9",
+      "characterId": "char-65e9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "早"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-65e9-choice-1",
+          "hanzi": "慢"
+        },
+        {
+          "choiceId": "familiar-65e9-choice-2",
+          "hanzi": "早"
+        },
+        {
+          "choiceId": "familiar-65e9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-65e9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-65e9-choice-2"
+    },
+    {
+      "checkId": "check-65e9",
+      "characterId": "char-65e9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "早"
+      },
+      "choices": [
+        {
+          "choiceId": "check-65e9-choice-1",
+          "hanzi": "慢"
+        },
+        {
+          "choiceId": "check-65e9-choice-2",
+          "hanzi": "早"
+        },
+        {
+          "choiceId": "check-65e9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-65e9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-65e9-choice-2"
+    },
+    {
+      "checkId": "review-65e9",
+      "characterId": "char-65e9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "早"
+      },
+      "choices": [
+        {
+          "choiceId": "review-65e9-choice-1",
+          "hanzi": "慢"
+        },
+        {
+          "choiceId": "review-65e9-choice-2",
+          "hanzi": "早"
+        },
+        {
+          "choiceId": "review-65e9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-65e9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-65e9-choice-2"
+    },
+    {
+      "checkId": "practice-one-65e9",
+      "characterId": "char-65e9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "早上"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-65e9-choice-1",
+          "hanzi": "慢"
+        },
+        {
+          "choiceId": "practice-one-65e9-choice-2",
+          "hanzi": "早"
+        },
+        {
+          "choiceId": "practice-one-65e9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-65e9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-65e9-choice-2"
+    },
+    {
+      "checkId": "practice-two-65e9",
+      "characterId": "char-65e9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "早饭"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-65e9-choice-1",
+          "hanzi": "慢"
+        },
+        {
+          "choiceId": "practice-two-65e9-choice-2",
+          "hanzi": "早"
+        },
+        {
+          "choiceId": "practice-two-65e9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-65e9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-65e9-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-6162",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-047-v1/char-6162",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-65e9",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-047-v1/char-65e9",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-047-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-047-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Directions and time: 慢 and 早",
+      "instructionEnglish": "Read two short word examples for 慢 and 早 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-6162",
+        "readingId": "reading-6162",
+        "familiarityCheckId": "familiar-6162",
+        "practice": [
+          {
+            "wordId": "word-6162-1",
+            "checkId": "practice-one-6162"
+          },
+          {
+            "wordId": "word-6162-2",
+            "checkId": "practice-two-6162"
+          }
+        ],
+        "immediateCheckId": "check-6162",
+        "reviewCheckId": "review-6162"
+      },
+      {
+        "characterId": "char-65e9",
+        "readingId": "reading-65e9",
+        "familiarityCheckId": "familiar-65e9",
+        "practice": [
+          {
+            "wordId": "word-65e9-1",
+            "checkId": "practice-one-65e9"
+          },
+          {
+            "wordId": "word-65e9-2",
+            "checkId": "practice-two-65e9"
+          }
+        ],
+        "immediateCheckId": "check-65e9",
+        "reviewCheckId": "review-65e9"
+      }
+    ],
+    "reader": {
+      "title": "Directions and time: 慢 and 早",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-6162-1",
+        "word-6162-2",
+        "word-65e9-1",
+        "word-65e9-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-6162",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6162",
+          "transcript": "慢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6162",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6162",
+          "transcript": "慢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6162",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6162",
+          "transcript": "慢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6162",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6162",
+          "transcript": "慢慢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6162",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6162",
+          "transcript": "慢走",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6162",
+          "readingId": "reading-6162",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "慢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6162-1",
+          "readingId": null,
+          "wordId": "word-6162-1",
+          "checkId": null,
+          "transcript": "小乌龟慢慢地爬过草地。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6162-2",
+          "readingId": null,
+          "wordId": "word-6162-2",
+          "checkId": null,
+          "transcript": "奶奶说慢走，路上看清脚下。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-65e9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-65e9",
+          "transcript": "早",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-65e9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-65e9",
+          "transcript": "早",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-65e9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-65e9",
+          "transcript": "早",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-65e9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-65e9",
+          "transcript": "早上",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-65e9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-65e9",
+          "transcript": "早饭",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-65e9",
+          "readingId": "reading-65e9",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "早",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-65e9-1",
+          "readingId": null,
+          "wordId": "word-65e9-1",
+          "checkId": null,
+          "transcript": "早上，我打开窗帘。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-65e9-2",
+          "readingId": null,
+          "wordId": "word-65e9-2",
+          "checkId": null,
+          "transcript": "早饭后，我们把碗放好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

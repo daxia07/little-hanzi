@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-061",
+  "lessonVersion": "expansion-061-v1",
+  "title": "Streams, plants and fields: 岛 and 岸",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 121
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 岛 and 岸 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5c9b",
+      "hanzi": "岛",
+      "readings": [
+        {
+          "readingId": "reading-5c9b",
+          "pinyin": "dǎo",
+          "audioText": "岛",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#岛",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "island",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#岛",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5c9b-1",
+          "text": "小岛",
+          "pinyin": "xiǎo dǎo",
+          "english": "a small island",
+          "readingId": "reading-5c9b",
+          "context": {
+            "hanzi": "我用彩笔画了小岛。",
+            "english": "I draw a small island with coloured pens.",
+            "targetCharacter": "岛"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#小岛",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5c9b-2",
+          "text": "岛屿",
+          "pinyin": "dǎo yǔ",
+          "english": "islands",
+          "readingId": "reading-5c9b",
+          "context": {
+            "hanzi": "这本书介绍了岛屿。",
+            "english": "This book introduces islands.",
+            "targetCharacter": "岛"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#岛屿",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 山 in the lower part of 岛.",
+        "demonstrationEnglish": "This is 岛. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5c9b",
+        "delayedReview": {
+          "promptId": "later-5c9b",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5c9b"
+        }
+      },
+      "assets": [
+        "asset-glyph-5c9b",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5cb8",
+      "hanzi": "岸",
+      "readings": [
+        {
+          "readingId": "reading-5cb8",
+          "pinyin": "àn",
+          "audioText": "岸",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#岸",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "shore; bank",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#岸",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5cb8-1",
+          "text": "河岸",
+          "pinyin": "hé àn",
+          "english": "a river bank",
+          "readingId": "reading-5cb8",
+          "context": {
+            "hanzi": "我在图画里看到了河岸。",
+            "english": "I see a river bank in the picture.",
+            "targetCharacter": "岸"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#河岸",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5cb8-2",
+          "text": "海岸",
+          "pinyin": "hǎi àn",
+          "english": "the seashore",
+          "readingId": "reading-5cb8",
+          "context": {
+            "hanzi": "我指给朋友看图中的海岸。",
+            "english": "I point out the seashore in the picture to my friend.",
+            "targetCharacter": "岸"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#海岸",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 山 above the lower part of 岸.",
+        "demonstrationEnglish": "This is 岸. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5cb8",
+        "delayedReview": {
+          "promptId": "later-5cb8",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5cb8"
+        }
+      },
+      "assets": [
+        "asset-glyph-5cb8",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-061-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5c9b",
+        "familiar-5cb8"
+      ]
+    },
+    {
+      "stepId": "expansion-061-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-061-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-5c9b",
+        "practice-two-5c9b",
+        "practice-one-5cb8",
+        "practice-two-5cb8"
+      ]
+    },
+    {
+      "stepId": "expansion-061-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5c9b",
+        "check-5cb8"
+      ]
+    },
+    {
+      "stepId": "expansion-061-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5c9b",
+      "characterId": "char-5c9b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "岛"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5c9b-choice-1",
+          "hanzi": "岛"
+        },
+        {
+          "choiceId": "familiar-5c9b-choice-2",
+          "hanzi": "岸"
+        },
+        {
+          "choiceId": "familiar-5c9b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5c9b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5c9b-choice-1"
+    },
+    {
+      "checkId": "check-5c9b",
+      "characterId": "char-5c9b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "岛"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5c9b-choice-1",
+          "hanzi": "岛"
+        },
+        {
+          "choiceId": "check-5c9b-choice-2",
+          "hanzi": "岸"
+        },
+        {
+          "choiceId": "check-5c9b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5c9b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5c9b-choice-1"
+    },
+    {
+      "checkId": "review-5c9b",
+      "characterId": "char-5c9b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "岛"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5c9b-choice-1",
+          "hanzi": "岛"
+        },
+        {
+          "choiceId": "review-5c9b-choice-2",
+          "hanzi": "岸"
+        },
+        {
+          "choiceId": "review-5c9b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5c9b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5c9b-choice-1"
+    },
+    {
+      "checkId": "practice-one-5c9b",
+      "characterId": "char-5c9b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "小岛"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5c9b-choice-1",
+          "hanzi": "岛"
+        },
+        {
+          "choiceId": "practice-one-5c9b-choice-2",
+          "hanzi": "岸"
+        },
+        {
+          "choiceId": "practice-one-5c9b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5c9b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5c9b-choice-1"
+    },
+    {
+      "checkId": "practice-two-5c9b",
+      "characterId": "char-5c9b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "岛屿"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5c9b-choice-1",
+          "hanzi": "岛"
+        },
+        {
+          "choiceId": "practice-two-5c9b-choice-2",
+          "hanzi": "岸"
+        },
+        {
+          "choiceId": "practice-two-5c9b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5c9b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5c9b-choice-1"
+    },
+    {
+      "checkId": "familiar-5cb8",
+      "characterId": "char-5cb8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "岸"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5cb8-choice-1",
+          "hanzi": "岛"
+        },
+        {
+          "choiceId": "familiar-5cb8-choice-2",
+          "hanzi": "岸"
+        },
+        {
+          "choiceId": "familiar-5cb8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5cb8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5cb8-choice-2"
+    },
+    {
+      "checkId": "check-5cb8",
+      "characterId": "char-5cb8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "岸"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5cb8-choice-1",
+          "hanzi": "岛"
+        },
+        {
+          "choiceId": "check-5cb8-choice-2",
+          "hanzi": "岸"
+        },
+        {
+          "choiceId": "check-5cb8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5cb8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5cb8-choice-2"
+    },
+    {
+      "checkId": "review-5cb8",
+      "characterId": "char-5cb8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "岸"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5cb8-choice-1",
+          "hanzi": "岛"
+        },
+        {
+          "choiceId": "review-5cb8-choice-2",
+          "hanzi": "岸"
+        },
+        {
+          "choiceId": "review-5cb8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5cb8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5cb8-choice-2"
+    },
+    {
+      "checkId": "practice-one-5cb8",
+      "characterId": "char-5cb8",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "河岸"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5cb8-choice-1",
+          "hanzi": "岛"
+        },
+        {
+          "choiceId": "practice-one-5cb8-choice-2",
+          "hanzi": "岸"
+        },
+        {
+          "choiceId": "practice-one-5cb8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5cb8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5cb8-choice-2"
+    },
+    {
+      "checkId": "practice-two-5cb8",
+      "characterId": "char-5cb8",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "海岸"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5cb8-choice-1",
+          "hanzi": "岛"
+        },
+        {
+          "choiceId": "practice-two-5cb8-choice-2",
+          "hanzi": "岸"
+        },
+        {
+          "choiceId": "practice-two-5cb8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5cb8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5cb8-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5c9b",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-061-v1/char-5c9b",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5cb8",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-061-v1/char-5cb8",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-061-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-061-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Streams, plants and fields: 岛 and 岸",
+      "instructionEnglish": "Read two short word examples for 岛 and 岸 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-5c9b",
+        "readingId": "reading-5c9b",
+        "familiarityCheckId": "familiar-5c9b",
+        "practice": [
+          {
+            "wordId": "word-5c9b-1",
+            "checkId": "practice-one-5c9b"
+          },
+          {
+            "wordId": "word-5c9b-2",
+            "checkId": "practice-two-5c9b"
+          }
+        ],
+        "immediateCheckId": "check-5c9b",
+        "reviewCheckId": "review-5c9b"
+      },
+      {
+        "characterId": "char-5cb8",
+        "readingId": "reading-5cb8",
+        "familiarityCheckId": "familiar-5cb8",
+        "practice": [
+          {
+            "wordId": "word-5cb8-1",
+            "checkId": "practice-one-5cb8"
+          },
+          {
+            "wordId": "word-5cb8-2",
+            "checkId": "practice-two-5cb8"
+          }
+        ],
+        "immediateCheckId": "check-5cb8",
+        "reviewCheckId": "review-5cb8"
+      }
+    ],
+    "reader": {
+      "title": "Streams, plants and fields: 岛 and 岸",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5c9b-1",
+        "word-5c9b-2",
+        "word-5cb8-1",
+        "word-5cb8-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5c9b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5c9b",
+          "transcript": "岛",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5c9b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5c9b",
+          "transcript": "岛",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5c9b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5c9b",
+          "transcript": "岛",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5c9b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5c9b",
+          "transcript": "小岛",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5c9b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5c9b",
+          "transcript": "岛屿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5c9b",
+          "readingId": "reading-5c9b",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "岛",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5c9b-1",
+          "readingId": null,
+          "wordId": "word-5c9b-1",
+          "checkId": null,
+          "transcript": "我用彩笔画了小岛。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5c9b-2",
+          "readingId": null,
+          "wordId": "word-5c9b-2",
+          "checkId": null,
+          "transcript": "这本书介绍了岛屿。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5cb8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5cb8",
+          "transcript": "岸",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5cb8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5cb8",
+          "transcript": "岸",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5cb8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5cb8",
+          "transcript": "岸",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5cb8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5cb8",
+          "transcript": "河岸",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5cb8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5cb8",
+          "transcript": "海岸",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5cb8",
+          "readingId": "reading-5cb8",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "岸",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5cb8-1",
+          "readingId": null,
+          "wordId": "word-5cb8-1",
+          "checkId": null,
+          "transcript": "我在图画里看到了河岸。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5cb8-2",
+          "readingId": null,
+          "wordId": "word-5cb8-2",
+          "checkId": null,
+          "transcript": "我指给朋友看图中的海岸。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

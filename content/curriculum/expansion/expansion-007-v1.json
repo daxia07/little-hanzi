@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-007",
+  "lessonVersion": "expansion-007-v1",
+  "title": "Useful connecting words: 个 and 只",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 67
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 个 and 只 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4e2a",
+      "hanzi": "个",
+      "readings": [
+        {
+          "readingId": "reading-4e2a",
+          "pinyin": "gè",
+          "audioText": "个",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#个",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "general counting word",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#个",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e2a-1",
+          "text": "个子",
+          "pinyin": "gè zi",
+          "english": "height; stature",
+          "readingId": "reading-4e2a",
+          "context": {
+            "hanzi": "这棵小树的个子比昨天高了。",
+            "english": "This little tree looks taller than yesterday.",
+            "targetCharacter": "个"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#个子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e2a-2",
+          "text": "个人",
+          "pinyin": "gè rén",
+          "english": "individual; personal",
+          "readingId": "reading-4e2a",
+          "context": {
+            "hanzi": "我们尊重每个人的选择。",
+            "english": "We respect each person's choice.",
+            "targetCharacter": "个"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#个人",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the single upright stroke beneath the two spreading strokes in 个.",
+        "demonstrationEnglish": "This is 个. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e2a",
+        "delayedReview": {
+          "promptId": "later-4e2a",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e2a"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e2a",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-53ea",
+      "hanzi": "只",
+      "readings": [
+        {
+          "readingId": "reading-53ea",
+          "pinyin": "zhǐ",
+          "audioText": "只",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#只",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "only; just",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#只",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-53ea-1",
+          "text": "只有",
+          "pinyin": "zhǐ yǒu",
+          "english": "only have; only",
+          "readingId": "reading-53ea",
+          "context": {
+            "hanzi": "盒子里只有一块蓝色积木。",
+            "english": "There is only one blue block in the box.",
+            "targetCharacter": "只"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#只有",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-53ea-2",
+          "text": "只是",
+          "pinyin": "zhǐ shì",
+          "english": "only; just",
+          "readingId": "reading-53ea",
+          "context": {
+            "hanzi": "小猫只是想找一个暖和的地方。",
+            "english": "The kitten only wants to find a warm place.",
+            "targetCharacter": "只"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#只是",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 口 above the two spreading bottom strokes of 只.",
+        "demonstrationEnglish": "This is 只. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-53ea",
+        "delayedReview": {
+          "promptId": "later-53ea",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-53ea"
+        }
+      },
+      "assets": [
+        "asset-glyph-53ea",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-007-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4e2a",
+        "familiar-53ea"
+      ]
+    },
+    {
+      "stepId": "expansion-007-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-007-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-4e2a",
+        "practice-two-4e2a",
+        "practice-one-53ea",
+        "practice-two-53ea"
+      ]
+    },
+    {
+      "stepId": "expansion-007-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4e2a",
+        "check-53ea"
+      ]
+    },
+    {
+      "stepId": "expansion-007-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4e2a",
+      "characterId": "char-4e2a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "个"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e2a-choice-1",
+          "hanzi": "个"
+        },
+        {
+          "choiceId": "familiar-4e2a-choice-2",
+          "hanzi": "只"
+        },
+        {
+          "choiceId": "familiar-4e2a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e2a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e2a-choice-1"
+    },
+    {
+      "checkId": "check-4e2a",
+      "characterId": "char-4e2a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "个"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e2a-choice-1",
+          "hanzi": "个"
+        },
+        {
+          "choiceId": "check-4e2a-choice-2",
+          "hanzi": "只"
+        },
+        {
+          "choiceId": "check-4e2a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e2a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e2a-choice-1"
+    },
+    {
+      "checkId": "review-4e2a",
+      "characterId": "char-4e2a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "个"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e2a-choice-1",
+          "hanzi": "个"
+        },
+        {
+          "choiceId": "review-4e2a-choice-2",
+          "hanzi": "只"
+        },
+        {
+          "choiceId": "review-4e2a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e2a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e2a-choice-1"
+    },
+    {
+      "checkId": "practice-one-4e2a",
+      "characterId": "char-4e2a",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "个子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e2a-choice-1",
+          "hanzi": "个"
+        },
+        {
+          "choiceId": "practice-one-4e2a-choice-2",
+          "hanzi": "只"
+        },
+        {
+          "choiceId": "practice-one-4e2a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e2a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e2a-choice-1"
+    },
+    {
+      "checkId": "practice-two-4e2a",
+      "characterId": "char-4e2a",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "个人"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e2a-choice-1",
+          "hanzi": "个"
+        },
+        {
+          "choiceId": "practice-two-4e2a-choice-2",
+          "hanzi": "只"
+        },
+        {
+          "choiceId": "practice-two-4e2a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e2a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e2a-choice-1"
+    },
+    {
+      "checkId": "familiar-53ea",
+      "characterId": "char-53ea",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "只"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-53ea-choice-1",
+          "hanzi": "个"
+        },
+        {
+          "choiceId": "familiar-53ea-choice-2",
+          "hanzi": "只"
+        },
+        {
+          "choiceId": "familiar-53ea-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-53ea-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-53ea-choice-2"
+    },
+    {
+      "checkId": "check-53ea",
+      "characterId": "char-53ea",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "只"
+      },
+      "choices": [
+        {
+          "choiceId": "check-53ea-choice-1",
+          "hanzi": "个"
+        },
+        {
+          "choiceId": "check-53ea-choice-2",
+          "hanzi": "只"
+        },
+        {
+          "choiceId": "check-53ea-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-53ea-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-53ea-choice-2"
+    },
+    {
+      "checkId": "review-53ea",
+      "characterId": "char-53ea",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "只"
+      },
+      "choices": [
+        {
+          "choiceId": "review-53ea-choice-1",
+          "hanzi": "个"
+        },
+        {
+          "choiceId": "review-53ea-choice-2",
+          "hanzi": "只"
+        },
+        {
+          "choiceId": "review-53ea-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-53ea-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-53ea-choice-2"
+    },
+    {
+      "checkId": "practice-one-53ea",
+      "characterId": "char-53ea",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "只有"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-53ea-choice-1",
+          "hanzi": "个"
+        },
+        {
+          "choiceId": "practice-one-53ea-choice-2",
+          "hanzi": "只"
+        },
+        {
+          "choiceId": "practice-one-53ea-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-53ea-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-53ea-choice-2"
+    },
+    {
+      "checkId": "practice-two-53ea",
+      "characterId": "char-53ea",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "只是"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-53ea-choice-1",
+          "hanzi": "个"
+        },
+        {
+          "choiceId": "practice-two-53ea-choice-2",
+          "hanzi": "只"
+        },
+        {
+          "choiceId": "practice-two-53ea-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-53ea-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-53ea-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4e2a",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-007-v1/char-4e2a",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-53ea",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-007-v1/char-53ea",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-007-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-007-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Useful connecting words: 个 and 只",
+      "instructionEnglish": "Read two short word examples for 个 and 只 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-4e2a",
+        "readingId": "reading-4e2a",
+        "familiarityCheckId": "familiar-4e2a",
+        "practice": [
+          {
+            "wordId": "word-4e2a-1",
+            "checkId": "practice-one-4e2a"
+          },
+          {
+            "wordId": "word-4e2a-2",
+            "checkId": "practice-two-4e2a"
+          }
+        ],
+        "immediateCheckId": "check-4e2a",
+        "reviewCheckId": "review-4e2a"
+      },
+      {
+        "characterId": "char-53ea",
+        "readingId": "reading-53ea",
+        "familiarityCheckId": "familiar-53ea",
+        "practice": [
+          {
+            "wordId": "word-53ea-1",
+            "checkId": "practice-one-53ea"
+          },
+          {
+            "wordId": "word-53ea-2",
+            "checkId": "practice-two-53ea"
+          }
+        ],
+        "immediateCheckId": "check-53ea",
+        "reviewCheckId": "review-53ea"
+      }
+    ],
+    "reader": {
+      "title": "Useful connecting words: 个 and 只",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4e2a-1",
+        "word-4e2a-2",
+        "word-53ea-1",
+        "word-53ea-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4e2a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e2a",
+          "transcript": "个",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e2a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e2a",
+          "transcript": "个",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e2a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e2a",
+          "transcript": "个",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e2a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e2a",
+          "transcript": "个子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e2a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e2a",
+          "transcript": "个人",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e2a",
+          "readingId": "reading-4e2a",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "个",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e2a-1",
+          "readingId": null,
+          "wordId": "word-4e2a-1",
+          "checkId": null,
+          "transcript": "这棵小树的个子比昨天高了。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e2a-2",
+          "readingId": null,
+          "wordId": "word-4e2a-2",
+          "checkId": null,
+          "transcript": "我们尊重每个人的选择。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-53ea",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-53ea",
+          "transcript": "只",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-53ea",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-53ea",
+          "transcript": "只",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-53ea",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-53ea",
+          "transcript": "只",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-53ea",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-53ea",
+          "transcript": "只有",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-53ea",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-53ea",
+          "transcript": "只是",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-53ea",
+          "readingId": "reading-53ea",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "只",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-53ea-1",
+          "readingId": null,
+          "wordId": "word-53ea-1",
+          "checkId": null,
+          "transcript": "盒子里只有一块蓝色积木。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-53ea-2",
+          "readingId": null,
+          "wordId": "word-53ea-2",
+          "checkId": null,
+          "transcript": "小猫只是想找一个暖和的地方。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

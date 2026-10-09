@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-123",
+  "lessonVersion": "expansion-123-v1",
+  "title": "Helping hands and tidying: 收 and 拾",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 183
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 收 and 拾 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-6536",
+      "hanzi": "收",
+      "readings": [
+        {
+          "readingId": "reading-6536",
+          "pinyin": "shōu",
+          "audioText": "收",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#收",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "collect; put away",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#收",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6536-1",
+          "text": "收拾",
+          "pinyin": "shōu shi",
+          "english": "tidy up",
+          "readingId": "reading-6536",
+          "context": {
+            "hanzi": "我们收拾桌上的本子。",
+            "english": "We tidy the notebooks on the table.",
+            "targetCharacter": "收"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#收拾",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6536-2",
+          "text": "收集",
+          "pinyin": "shōu jí",
+          "english": "collect",
+          "readingId": "reading-6536",
+          "context": {
+            "hanzi": "我收集了几片不同的树叶。",
+            "english": "I collect several different leaves.",
+            "targetCharacter": "收"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#收集",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find the left-hand two strokes beside 攵 in 收.",
+        "demonstrationEnglish": "This is 收. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6536",
+        "delayedReview": {
+          "promptId": "later-6536",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6536"
+        }
+      },
+      "assets": [
+        "asset-glyph-6536",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-62fe",
+      "hanzi": "拾",
+      "readings": [
+        {
+          "readingId": "reading-62fe",
+          "pinyin": "shí",
+          "audioText": "拾",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拾",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "pick up",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拾",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-62fe-1",
+          "text": "拾起",
+          "pinyin": "shí qǐ",
+          "english": "pick up",
+          "readingId": "reading-62fe",
+          "context": {
+            "hanzi": "我拾起桌边的一支铅笔。",
+            "english": "I pick up a pencil beside the table.",
+            "targetCharacter": "拾"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拾起",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-62fe-2",
+          "text": "拾取",
+          "pinyin": "shí qǔ",
+          "english": "pick up; collect",
+          "readingId": "reading-62fe",
+          "context": {
+            "hanzi": "我们在林中拾取落叶。",
+            "english": "We collect fallen leaves in the woods.",
+            "targetCharacter": "拾"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拾取",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 扌 beside 合 in 拾.",
+        "demonstrationEnglish": "This is 拾. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-62fe",
+        "delayedReview": {
+          "promptId": "later-62fe",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-62fe"
+        }
+      },
+      "assets": [
+        "asset-glyph-62fe",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-123-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-6536",
+        "familiar-62fe"
+      ]
+    },
+    {
+      "stepId": "expansion-123-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-123-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-6536",
+        "practice-two-6536",
+        "practice-one-62fe",
+        "practice-two-62fe"
+      ]
+    },
+    {
+      "stepId": "expansion-123-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-6536",
+        "check-62fe"
+      ]
+    },
+    {
+      "stepId": "expansion-123-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-6536",
+      "characterId": "char-6536",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "收"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6536-choice-1",
+          "hanzi": "收"
+        },
+        {
+          "choiceId": "familiar-6536-choice-2",
+          "hanzi": "拾"
+        },
+        {
+          "choiceId": "familiar-6536-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6536-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6536-choice-1"
+    },
+    {
+      "checkId": "check-6536",
+      "characterId": "char-6536",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "收"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6536-choice-1",
+          "hanzi": "收"
+        },
+        {
+          "choiceId": "check-6536-choice-2",
+          "hanzi": "拾"
+        },
+        {
+          "choiceId": "check-6536-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6536-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6536-choice-1"
+    },
+    {
+      "checkId": "review-6536",
+      "characterId": "char-6536",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "收"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6536-choice-1",
+          "hanzi": "收"
+        },
+        {
+          "choiceId": "review-6536-choice-2",
+          "hanzi": "拾"
+        },
+        {
+          "choiceId": "review-6536-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6536-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6536-choice-1"
+    },
+    {
+      "checkId": "practice-one-6536",
+      "characterId": "char-6536",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "收拾"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6536-choice-1",
+          "hanzi": "收"
+        },
+        {
+          "choiceId": "practice-one-6536-choice-2",
+          "hanzi": "拾"
+        },
+        {
+          "choiceId": "practice-one-6536-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6536-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6536-choice-1"
+    },
+    {
+      "checkId": "practice-two-6536",
+      "characterId": "char-6536",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "收集"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6536-choice-1",
+          "hanzi": "收"
+        },
+        {
+          "choiceId": "practice-two-6536-choice-2",
+          "hanzi": "拾"
+        },
+        {
+          "choiceId": "practice-two-6536-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6536-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6536-choice-1"
+    },
+    {
+      "checkId": "familiar-62fe",
+      "characterId": "char-62fe",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "拾"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-62fe-choice-1",
+          "hanzi": "收"
+        },
+        {
+          "choiceId": "familiar-62fe-choice-2",
+          "hanzi": "拾"
+        },
+        {
+          "choiceId": "familiar-62fe-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-62fe-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-62fe-choice-2"
+    },
+    {
+      "checkId": "check-62fe",
+      "characterId": "char-62fe",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "拾"
+      },
+      "choices": [
+        {
+          "choiceId": "check-62fe-choice-1",
+          "hanzi": "收"
+        },
+        {
+          "choiceId": "check-62fe-choice-2",
+          "hanzi": "拾"
+        },
+        {
+          "choiceId": "check-62fe-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-62fe-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-62fe-choice-2"
+    },
+    {
+      "checkId": "review-62fe",
+      "characterId": "char-62fe",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "拾"
+      },
+      "choices": [
+        {
+          "choiceId": "review-62fe-choice-1",
+          "hanzi": "收"
+        },
+        {
+          "choiceId": "review-62fe-choice-2",
+          "hanzi": "拾"
+        },
+        {
+          "choiceId": "review-62fe-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-62fe-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-62fe-choice-2"
+    },
+    {
+      "checkId": "practice-one-62fe",
+      "characterId": "char-62fe",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "拾起"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-62fe-choice-1",
+          "hanzi": "收"
+        },
+        {
+          "choiceId": "practice-one-62fe-choice-2",
+          "hanzi": "拾"
+        },
+        {
+          "choiceId": "practice-one-62fe-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-62fe-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-62fe-choice-2"
+    },
+    {
+      "checkId": "practice-two-62fe",
+      "characterId": "char-62fe",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "拾取"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-62fe-choice-1",
+          "hanzi": "收"
+        },
+        {
+          "choiceId": "practice-two-62fe-choice-2",
+          "hanzi": "拾"
+        },
+        {
+          "choiceId": "practice-two-62fe-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-62fe-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-62fe-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-6536",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-123-v1/char-6536",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-62fe",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-123-v1/char-62fe",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-123-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-123-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Helping hands and tidying: 收 and 拾",
+      "instructionEnglish": "Read two short word examples for 收 and 拾 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-6536",
+        "readingId": "reading-6536",
+        "familiarityCheckId": "familiar-6536",
+        "practice": [
+          {
+            "wordId": "word-6536-1",
+            "checkId": "practice-one-6536"
+          },
+          {
+            "wordId": "word-6536-2",
+            "checkId": "practice-two-6536"
+          }
+        ],
+        "immediateCheckId": "check-6536",
+        "reviewCheckId": "review-6536"
+      },
+      {
+        "characterId": "char-62fe",
+        "readingId": "reading-62fe",
+        "familiarityCheckId": "familiar-62fe",
+        "practice": [
+          {
+            "wordId": "word-62fe-1",
+            "checkId": "practice-one-62fe"
+          },
+          {
+            "wordId": "word-62fe-2",
+            "checkId": "practice-two-62fe"
+          }
+        ],
+        "immediateCheckId": "check-62fe",
+        "reviewCheckId": "review-62fe"
+      }
+    ],
+    "reader": {
+      "title": "Helping hands and tidying: 收 and 拾",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-6536-1",
+        "word-6536-2",
+        "word-62fe-1",
+        "word-62fe-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-6536",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6536",
+          "transcript": "收",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6536",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6536",
+          "transcript": "收",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6536",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6536",
+          "transcript": "收",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6536",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6536",
+          "transcript": "收拾",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6536",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6536",
+          "transcript": "收集",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6536",
+          "readingId": "reading-6536",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "收",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6536-1",
+          "readingId": null,
+          "wordId": "word-6536-1",
+          "checkId": null,
+          "transcript": "我们收拾桌上的本子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6536-2",
+          "readingId": null,
+          "wordId": "word-6536-2",
+          "checkId": null,
+          "transcript": "我收集了几片不同的树叶。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-62fe",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-62fe",
+          "transcript": "拾",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-62fe",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-62fe",
+          "transcript": "拾",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-62fe",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-62fe",
+          "transcript": "拾",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-62fe",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-62fe",
+          "transcript": "拾起",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-62fe",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-62fe",
+          "transcript": "拾取",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-62fe",
+          "readingId": "reading-62fe",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "拾",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-62fe-1",
+          "readingId": null,
+          "wordId": "word-62fe-1",
+          "checkId": null,
+          "transcript": "我拾起桌边的一支铅笔。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-62fe-2",
+          "readingId": null,
+          "wordId": "word-62fe-2",
+          "checkId": null,
+          "transcript": "我们在林中拾取落叶。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

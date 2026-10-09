@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-098",
+  "lessonVersion": "expansion-098-v1",
+  "title": "Home and our neighbourhood: 市 and 街",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 158
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 市 and 街 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5e02",
+      "hanzi": "市",
+      "readings": [
+        {
+          "readingId": "reading-5e02",
+          "pinyin": "shì",
+          "audioText": "市",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#市",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "city; market",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#市",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5e02-1",
+          "text": "城市",
+          "pinyin": "chéng shì",
+          "english": "a city",
+          "readingId": "reading-5e02",
+          "context": {
+            "hanzi": "这本书介绍了城市。",
+            "english": "This book introduces a city.",
+            "targetCharacter": "市"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#城市",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5e02-2",
+          "text": "市场",
+          "pinyin": "shì chǎng",
+          "english": "a market",
+          "readingId": "reading-5e02",
+          "context": {
+            "hanzi": "我在图画里看到了市场。",
+            "english": "I see a market in the picture.",
+            "targetCharacter": "市"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#市场",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 巾 beneath the short top strokes of 市.",
+        "demonstrationEnglish": "This is 市. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5e02",
+        "delayedReview": {
+          "promptId": "later-5e02",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5e02"
+        }
+      },
+      "assets": [
+        "asset-glyph-5e02",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-8857",
+      "hanzi": "街",
+      "readings": [
+        {
+          "readingId": "reading-8857",
+          "pinyin": "jiē",
+          "audioText": "街",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#街",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "street",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#街",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8857-1",
+          "text": "街道",
+          "pinyin": "jiē dào",
+          "english": "a street",
+          "readingId": "reading-8857",
+          "context": {
+            "hanzi": "我在图画里看到了街道。",
+            "english": "I see a street in the picture.",
+            "targetCharacter": "街"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#街道",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8857-2",
+          "text": "街角",
+          "pinyin": "jiē jiǎo",
+          "english": "a street corner",
+          "readingId": "reading-8857",
+          "context": {
+            "hanzi": "我指给朋友看图中的街角。",
+            "english": "I point out a street corner in the picture to my friend.",
+            "targetCharacter": "街"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#街角",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 行 enclosing 圭 in 街.",
+        "demonstrationEnglish": "This is 街. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8857",
+        "delayedReview": {
+          "promptId": "later-8857",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8857"
+        }
+      },
+      "assets": [
+        "asset-glyph-8857",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-098-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5e02",
+        "familiar-8857"
+      ]
+    },
+    {
+      "stepId": "expansion-098-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-098-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-5e02",
+        "practice-two-5e02",
+        "practice-one-8857",
+        "practice-two-8857"
+      ]
+    },
+    {
+      "stepId": "expansion-098-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5e02",
+        "check-8857"
+      ]
+    },
+    {
+      "stepId": "expansion-098-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5e02",
+      "characterId": "char-5e02",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "市"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5e02-choice-1",
+          "hanzi": "市"
+        },
+        {
+          "choiceId": "familiar-5e02-choice-2",
+          "hanzi": "街"
+        },
+        {
+          "choiceId": "familiar-5e02-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5e02-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5e02-choice-1"
+    },
+    {
+      "checkId": "check-5e02",
+      "characterId": "char-5e02",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "市"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5e02-choice-1",
+          "hanzi": "市"
+        },
+        {
+          "choiceId": "check-5e02-choice-2",
+          "hanzi": "街"
+        },
+        {
+          "choiceId": "check-5e02-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5e02-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5e02-choice-1"
+    },
+    {
+      "checkId": "review-5e02",
+      "characterId": "char-5e02",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "市"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5e02-choice-1",
+          "hanzi": "市"
+        },
+        {
+          "choiceId": "review-5e02-choice-2",
+          "hanzi": "街"
+        },
+        {
+          "choiceId": "review-5e02-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5e02-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5e02-choice-1"
+    },
+    {
+      "checkId": "practice-one-5e02",
+      "characterId": "char-5e02",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "城市"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5e02-choice-1",
+          "hanzi": "市"
+        },
+        {
+          "choiceId": "practice-one-5e02-choice-2",
+          "hanzi": "街"
+        },
+        {
+          "choiceId": "practice-one-5e02-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5e02-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5e02-choice-1"
+    },
+    {
+      "checkId": "practice-two-5e02",
+      "characterId": "char-5e02",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "市场"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5e02-choice-1",
+          "hanzi": "市"
+        },
+        {
+          "choiceId": "practice-two-5e02-choice-2",
+          "hanzi": "街"
+        },
+        {
+          "choiceId": "practice-two-5e02-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5e02-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5e02-choice-1"
+    },
+    {
+      "checkId": "familiar-8857",
+      "characterId": "char-8857",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "街"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8857-choice-1",
+          "hanzi": "市"
+        },
+        {
+          "choiceId": "familiar-8857-choice-2",
+          "hanzi": "街"
+        },
+        {
+          "choiceId": "familiar-8857-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8857-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8857-choice-2"
+    },
+    {
+      "checkId": "check-8857",
+      "characterId": "char-8857",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "街"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8857-choice-1",
+          "hanzi": "市"
+        },
+        {
+          "choiceId": "check-8857-choice-2",
+          "hanzi": "街"
+        },
+        {
+          "choiceId": "check-8857-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8857-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8857-choice-2"
+    },
+    {
+      "checkId": "review-8857",
+      "characterId": "char-8857",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "街"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8857-choice-1",
+          "hanzi": "市"
+        },
+        {
+          "choiceId": "review-8857-choice-2",
+          "hanzi": "街"
+        },
+        {
+          "choiceId": "review-8857-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8857-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8857-choice-2"
+    },
+    {
+      "checkId": "practice-one-8857",
+      "characterId": "char-8857",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "街道"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8857-choice-1",
+          "hanzi": "市"
+        },
+        {
+          "choiceId": "practice-one-8857-choice-2",
+          "hanzi": "街"
+        },
+        {
+          "choiceId": "practice-one-8857-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8857-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8857-choice-2"
+    },
+    {
+      "checkId": "practice-two-8857",
+      "characterId": "char-8857",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "街角"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8857-choice-1",
+          "hanzi": "市"
+        },
+        {
+          "choiceId": "practice-two-8857-choice-2",
+          "hanzi": "街"
+        },
+        {
+          "choiceId": "practice-two-8857-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8857-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8857-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5e02",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-098-v1/char-5e02",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-8857",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-098-v1/char-8857",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-098-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-098-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Home and our neighbourhood: 市 and 街",
+      "instructionEnglish": "Read two short word examples for 市 and 街 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-5e02",
+        "readingId": "reading-5e02",
+        "familiarityCheckId": "familiar-5e02",
+        "practice": [
+          {
+            "wordId": "word-5e02-1",
+            "checkId": "practice-one-5e02"
+          },
+          {
+            "wordId": "word-5e02-2",
+            "checkId": "practice-two-5e02"
+          }
+        ],
+        "immediateCheckId": "check-5e02",
+        "reviewCheckId": "review-5e02"
+      },
+      {
+        "characterId": "char-8857",
+        "readingId": "reading-8857",
+        "familiarityCheckId": "familiar-8857",
+        "practice": [
+          {
+            "wordId": "word-8857-1",
+            "checkId": "practice-one-8857"
+          },
+          {
+            "wordId": "word-8857-2",
+            "checkId": "practice-two-8857"
+          }
+        ],
+        "immediateCheckId": "check-8857",
+        "reviewCheckId": "review-8857"
+      }
+    ],
+    "reader": {
+      "title": "Home and our neighbourhood: 市 and 街",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5e02-1",
+        "word-5e02-2",
+        "word-8857-1",
+        "word-8857-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5e02",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5e02",
+          "transcript": "市",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5e02",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5e02",
+          "transcript": "市",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5e02",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5e02",
+          "transcript": "市",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5e02",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5e02",
+          "transcript": "城市",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5e02",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5e02",
+          "transcript": "市场",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5e02",
+          "readingId": "reading-5e02",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "市",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5e02-1",
+          "readingId": null,
+          "wordId": "word-5e02-1",
+          "checkId": null,
+          "transcript": "这本书介绍了城市。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5e02-2",
+          "readingId": null,
+          "wordId": "word-5e02-2",
+          "checkId": null,
+          "transcript": "我在图画里看到了市场。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-8857",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8857",
+          "transcript": "街",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8857",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8857",
+          "transcript": "街",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8857",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8857",
+          "transcript": "街",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8857",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8857",
+          "transcript": "街道",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8857",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8857",
+          "transcript": "街角",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8857",
+          "readingId": "reading-8857",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "街",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8857-1",
+          "readingId": null,
+          "wordId": "word-8857-1",
+          "checkId": null,
+          "transcript": "我在图画里看到了街道。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8857-2",
+          "readingId": null,
+          "wordId": "word-8857-2",
+          "checkId": null,
+          "transcript": "我指给朋友看图中的街角。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

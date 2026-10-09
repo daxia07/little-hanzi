@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-050",
+  "lessonVersion": "expansion-050-v1",
+  "title": "Directions and time: 时 and 分",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 110
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 时 and 分 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-65f6",
+      "hanzi": "时",
+      "readings": [
+        {
+          "readingId": "reading-65f6",
+          "pinyin": "shí",
+          "audioText": "时",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#时",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "time; hour",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#时",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-65f6-1",
+          "text": "时间",
+          "pinyin": "shí jiān",
+          "english": "time",
+          "readingId": "reading-65f6",
+          "context": {
+            "hanzi": "看书的时间到了。",
+            "english": "It is time to read.",
+            "targetCharacter": "时"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#时间",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-65f6-2",
+          "text": "小时",
+          "pinyin": "xiǎo shí",
+          "english": "hour",
+          "readingId": "reading-65f6",
+          "context": {
+            "hanzi": "这段路走了半个小时。",
+            "english": "The walk takes half an hour.",
+            "targetCharacter": "时"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#小时",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 日 beside 寸 in 时.",
+        "demonstrationEnglish": "This is 时. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-65f6",
+        "delayedReview": {
+          "promptId": "later-65f6",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-65f6"
+        }
+      },
+      "assets": [
+        "asset-glyph-65f6",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5206",
+      "hanzi": "分",
+      "readings": [
+        {
+          "readingId": "reading-5206",
+          "pinyin": "fēn",
+          "audioText": "分",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#分",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "divide; part; minute",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#分",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5206-1",
+          "text": "分钟",
+          "pinyin": "fēn zhōng",
+          "english": "minute",
+          "readingId": "reading-5206",
+          "context": {
+            "hanzi": "我们休息五分钟。",
+            "english": "We rest for five minutes.",
+            "targetCharacter": "分"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#分钟",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5206-2",
+          "text": "分开",
+          "pinyin": "fēn kāi",
+          "english": "separate",
+          "readingId": "reading-5206",
+          "context": {
+            "hanzi": "我们把两种彩纸分开放。",
+            "english": "We separate the two kinds of coloured paper.",
+            "targetCharacter": "分"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#分开",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 八 above 刀 in 分.",
+        "demonstrationEnglish": "This is 分. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5206",
+        "delayedReview": {
+          "promptId": "later-5206",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5206"
+        }
+      },
+      "assets": [
+        "asset-glyph-5206",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-050-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-65f6",
+        "familiar-5206"
+      ]
+    },
+    {
+      "stepId": "expansion-050-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-050-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-65f6",
+        "practice-two-65f6",
+        "practice-one-5206",
+        "practice-two-5206"
+      ]
+    },
+    {
+      "stepId": "expansion-050-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-65f6",
+        "check-5206"
+      ]
+    },
+    {
+      "stepId": "expansion-050-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-65f6",
+      "characterId": "char-65f6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "时"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-65f6-choice-1",
+          "hanzi": "时"
+        },
+        {
+          "choiceId": "familiar-65f6-choice-2",
+          "hanzi": "分"
+        },
+        {
+          "choiceId": "familiar-65f6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-65f6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-65f6-choice-1"
+    },
+    {
+      "checkId": "check-65f6",
+      "characterId": "char-65f6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "时"
+      },
+      "choices": [
+        {
+          "choiceId": "check-65f6-choice-1",
+          "hanzi": "时"
+        },
+        {
+          "choiceId": "check-65f6-choice-2",
+          "hanzi": "分"
+        },
+        {
+          "choiceId": "check-65f6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-65f6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-65f6-choice-1"
+    },
+    {
+      "checkId": "review-65f6",
+      "characterId": "char-65f6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "时"
+      },
+      "choices": [
+        {
+          "choiceId": "review-65f6-choice-1",
+          "hanzi": "时"
+        },
+        {
+          "choiceId": "review-65f6-choice-2",
+          "hanzi": "分"
+        },
+        {
+          "choiceId": "review-65f6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-65f6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-65f6-choice-1"
+    },
+    {
+      "checkId": "practice-one-65f6",
+      "characterId": "char-65f6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "时间"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-65f6-choice-1",
+          "hanzi": "时"
+        },
+        {
+          "choiceId": "practice-one-65f6-choice-2",
+          "hanzi": "分"
+        },
+        {
+          "choiceId": "practice-one-65f6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-65f6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-65f6-choice-1"
+    },
+    {
+      "checkId": "practice-two-65f6",
+      "characterId": "char-65f6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "小时"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-65f6-choice-1",
+          "hanzi": "时"
+        },
+        {
+          "choiceId": "practice-two-65f6-choice-2",
+          "hanzi": "分"
+        },
+        {
+          "choiceId": "practice-two-65f6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-65f6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-65f6-choice-1"
+    },
+    {
+      "checkId": "familiar-5206",
+      "characterId": "char-5206",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "分"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5206-choice-1",
+          "hanzi": "时"
+        },
+        {
+          "choiceId": "familiar-5206-choice-2",
+          "hanzi": "分"
+        },
+        {
+          "choiceId": "familiar-5206-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5206-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5206-choice-2"
+    },
+    {
+      "checkId": "check-5206",
+      "characterId": "char-5206",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "分"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5206-choice-1",
+          "hanzi": "时"
+        },
+        {
+          "choiceId": "check-5206-choice-2",
+          "hanzi": "分"
+        },
+        {
+          "choiceId": "check-5206-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5206-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5206-choice-2"
+    },
+    {
+      "checkId": "review-5206",
+      "characterId": "char-5206",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "分"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5206-choice-1",
+          "hanzi": "时"
+        },
+        {
+          "choiceId": "review-5206-choice-2",
+          "hanzi": "分"
+        },
+        {
+          "choiceId": "review-5206-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5206-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5206-choice-2"
+    },
+    {
+      "checkId": "practice-one-5206",
+      "characterId": "char-5206",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "分钟"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5206-choice-1",
+          "hanzi": "时"
+        },
+        {
+          "choiceId": "practice-one-5206-choice-2",
+          "hanzi": "分"
+        },
+        {
+          "choiceId": "practice-one-5206-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5206-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5206-choice-2"
+    },
+    {
+      "checkId": "practice-two-5206",
+      "characterId": "char-5206",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "分开"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5206-choice-1",
+          "hanzi": "时"
+        },
+        {
+          "choiceId": "practice-two-5206-choice-2",
+          "hanzi": "分"
+        },
+        {
+          "choiceId": "practice-two-5206-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5206-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5206-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-65f6",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-050-v1/char-65f6",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5206",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-050-v1/char-5206",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-050-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-050-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Directions and time: 时 and 分",
+      "instructionEnglish": "Read two short word examples for 时 and 分 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-65f6",
+        "readingId": "reading-65f6",
+        "familiarityCheckId": "familiar-65f6",
+        "practice": [
+          {
+            "wordId": "word-65f6-1",
+            "checkId": "practice-one-65f6"
+          },
+          {
+            "wordId": "word-65f6-2",
+            "checkId": "practice-two-65f6"
+          }
+        ],
+        "immediateCheckId": "check-65f6",
+        "reviewCheckId": "review-65f6"
+      },
+      {
+        "characterId": "char-5206",
+        "readingId": "reading-5206",
+        "familiarityCheckId": "familiar-5206",
+        "practice": [
+          {
+            "wordId": "word-5206-1",
+            "checkId": "practice-one-5206"
+          },
+          {
+            "wordId": "word-5206-2",
+            "checkId": "practice-two-5206"
+          }
+        ],
+        "immediateCheckId": "check-5206",
+        "reviewCheckId": "review-5206"
+      }
+    ],
+    "reader": {
+      "title": "Directions and time: 时 and 分",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-65f6-1",
+        "word-65f6-2",
+        "word-5206-1",
+        "word-5206-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-65f6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-65f6",
+          "transcript": "时",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-65f6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-65f6",
+          "transcript": "时",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-65f6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-65f6",
+          "transcript": "时",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-65f6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-65f6",
+          "transcript": "时间",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-65f6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-65f6",
+          "transcript": "小时",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-65f6",
+          "readingId": "reading-65f6",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "时",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-65f6-1",
+          "readingId": null,
+          "wordId": "word-65f6-1",
+          "checkId": null,
+          "transcript": "看书的时间到了。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-65f6-2",
+          "readingId": null,
+          "wordId": "word-65f6-2",
+          "checkId": null,
+          "transcript": "这段路走了半个小时。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5206",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5206",
+          "transcript": "分",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5206",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5206",
+          "transcript": "分",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5206",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5206",
+          "transcript": "分",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5206",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5206",
+          "transcript": "分钟",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5206",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5206",
+          "transcript": "分开",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5206",
+          "readingId": "reading-5206",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "分",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5206-1",
+          "readingId": null,
+          "wordId": "word-5206-1",
+          "checkId": null,
+          "transcript": "我们休息五分钟。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5206-2",
+          "readingId": null,
+          "wordId": "word-5206-2",
+          "checkId": null,
+          "transcript": "我们把两种彩纸分开放。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

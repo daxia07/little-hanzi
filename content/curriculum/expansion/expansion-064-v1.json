@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-064",
+  "lessonVersion": "expansion-064-v1",
+  "title": "Streams, plants and fields: 溪 and 森",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 124
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 溪 and 森 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-6eaa",
+      "hanzi": "溪",
+      "readings": [
+        {
+          "readingId": "reading-6eaa",
+          "pinyin": "xī",
+          "audioText": "溪",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#溪",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "stream",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#溪",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6eaa-1",
+          "text": "小溪",
+          "pinyin": "xiǎo xī",
+          "english": "a little stream",
+          "readingId": "reading-6eaa",
+          "context": {
+            "hanzi": "我用彩笔画了小溪。",
+            "english": "I draw a little stream with coloured pens.",
+            "targetCharacter": "溪"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#小溪",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6eaa-2",
+          "text": "溪水",
+          "pinyin": "xī shuǐ",
+          "english": "stream water",
+          "readingId": "reading-6eaa",
+          "context": {
+            "hanzi": "我们仔细观察溪水。",
+            "english": "We carefully observe stream water.",
+            "targetCharacter": "溪"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#溪水",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 氵 on the left of 溪.",
+        "demonstrationEnglish": "This is 溪. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6eaa",
+        "delayedReview": {
+          "promptId": "later-6eaa",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6eaa"
+        }
+      },
+      "assets": [
+        "asset-glyph-6eaa",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-68ee",
+      "hanzi": "森",
+      "readings": [
+        {
+          "readingId": "reading-68ee",
+          "pinyin": "sēn",
+          "audioText": "森",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#森",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "forest; dense trees",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#森",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-68ee-1",
+          "text": "森林",
+          "pinyin": "sēn lín",
+          "english": "a forest",
+          "readingId": "reading-68ee",
+          "context": {
+            "hanzi": "这本书介绍了森林。",
+            "english": "This book introduces a forest.",
+            "targetCharacter": "森"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#森林",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-68ee-2",
+          "text": "森森",
+          "pinyin": "sēn sēn",
+          "english": "dense and forest-like",
+          "readingId": "reading-68ee",
+          "context": {
+            "hanzi": "画里是森森的树林。",
+            "english": "The picture shows dense woods.",
+            "targetCharacter": "森"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#森森",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find three 木 shapes together in 森.",
+        "demonstrationEnglish": "This is 森. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-68ee",
+        "delayedReview": {
+          "promptId": "later-68ee",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-68ee"
+        }
+      },
+      "assets": [
+        "asset-glyph-68ee",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-064-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-6eaa",
+        "familiar-68ee"
+      ]
+    },
+    {
+      "stepId": "expansion-064-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-064-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-6eaa",
+        "practice-two-6eaa",
+        "practice-one-68ee",
+        "practice-two-68ee"
+      ]
+    },
+    {
+      "stepId": "expansion-064-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-6eaa",
+        "check-68ee"
+      ]
+    },
+    {
+      "stepId": "expansion-064-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-6eaa",
+      "characterId": "char-6eaa",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "溪"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6eaa-choice-1",
+          "hanzi": "溪"
+        },
+        {
+          "choiceId": "familiar-6eaa-choice-2",
+          "hanzi": "森"
+        },
+        {
+          "choiceId": "familiar-6eaa-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6eaa-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6eaa-choice-1"
+    },
+    {
+      "checkId": "check-6eaa",
+      "characterId": "char-6eaa",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "溪"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6eaa-choice-1",
+          "hanzi": "溪"
+        },
+        {
+          "choiceId": "check-6eaa-choice-2",
+          "hanzi": "森"
+        },
+        {
+          "choiceId": "check-6eaa-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6eaa-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6eaa-choice-1"
+    },
+    {
+      "checkId": "review-6eaa",
+      "characterId": "char-6eaa",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "溪"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6eaa-choice-1",
+          "hanzi": "溪"
+        },
+        {
+          "choiceId": "review-6eaa-choice-2",
+          "hanzi": "森"
+        },
+        {
+          "choiceId": "review-6eaa-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6eaa-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6eaa-choice-1"
+    },
+    {
+      "checkId": "practice-one-6eaa",
+      "characterId": "char-6eaa",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "小溪"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6eaa-choice-1",
+          "hanzi": "溪"
+        },
+        {
+          "choiceId": "practice-one-6eaa-choice-2",
+          "hanzi": "森"
+        },
+        {
+          "choiceId": "practice-one-6eaa-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6eaa-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6eaa-choice-1"
+    },
+    {
+      "checkId": "practice-two-6eaa",
+      "characterId": "char-6eaa",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "溪水"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6eaa-choice-1",
+          "hanzi": "溪"
+        },
+        {
+          "choiceId": "practice-two-6eaa-choice-2",
+          "hanzi": "森"
+        },
+        {
+          "choiceId": "practice-two-6eaa-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6eaa-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6eaa-choice-1"
+    },
+    {
+      "checkId": "familiar-68ee",
+      "characterId": "char-68ee",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "森"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-68ee-choice-1",
+          "hanzi": "溪"
+        },
+        {
+          "choiceId": "familiar-68ee-choice-2",
+          "hanzi": "森"
+        },
+        {
+          "choiceId": "familiar-68ee-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-68ee-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-68ee-choice-2"
+    },
+    {
+      "checkId": "check-68ee",
+      "characterId": "char-68ee",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "森"
+      },
+      "choices": [
+        {
+          "choiceId": "check-68ee-choice-1",
+          "hanzi": "溪"
+        },
+        {
+          "choiceId": "check-68ee-choice-2",
+          "hanzi": "森"
+        },
+        {
+          "choiceId": "check-68ee-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-68ee-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-68ee-choice-2"
+    },
+    {
+      "checkId": "review-68ee",
+      "characterId": "char-68ee",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "森"
+      },
+      "choices": [
+        {
+          "choiceId": "review-68ee-choice-1",
+          "hanzi": "溪"
+        },
+        {
+          "choiceId": "review-68ee-choice-2",
+          "hanzi": "森"
+        },
+        {
+          "choiceId": "review-68ee-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-68ee-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-68ee-choice-2"
+    },
+    {
+      "checkId": "practice-one-68ee",
+      "characterId": "char-68ee",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "森林"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-68ee-choice-1",
+          "hanzi": "溪"
+        },
+        {
+          "choiceId": "practice-one-68ee-choice-2",
+          "hanzi": "森"
+        },
+        {
+          "choiceId": "practice-one-68ee-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-68ee-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-68ee-choice-2"
+    },
+    {
+      "checkId": "practice-two-68ee",
+      "characterId": "char-68ee",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "森森"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-68ee-choice-1",
+          "hanzi": "溪"
+        },
+        {
+          "choiceId": "practice-two-68ee-choice-2",
+          "hanzi": "森"
+        },
+        {
+          "choiceId": "practice-two-68ee-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-68ee-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-68ee-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-6eaa",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-064-v1/char-6eaa",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-68ee",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-064-v1/char-68ee",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-064-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-064-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Streams, plants and fields: 溪 and 森",
+      "instructionEnglish": "Read two short word examples for 溪 and 森 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-6eaa",
+        "readingId": "reading-6eaa",
+        "familiarityCheckId": "familiar-6eaa",
+        "practice": [
+          {
+            "wordId": "word-6eaa-1",
+            "checkId": "practice-one-6eaa"
+          },
+          {
+            "wordId": "word-6eaa-2",
+            "checkId": "practice-two-6eaa"
+          }
+        ],
+        "immediateCheckId": "check-6eaa",
+        "reviewCheckId": "review-6eaa"
+      },
+      {
+        "characterId": "char-68ee",
+        "readingId": "reading-68ee",
+        "familiarityCheckId": "familiar-68ee",
+        "practice": [
+          {
+            "wordId": "word-68ee-1",
+            "checkId": "practice-one-68ee"
+          },
+          {
+            "wordId": "word-68ee-2",
+            "checkId": "practice-two-68ee"
+          }
+        ],
+        "immediateCheckId": "check-68ee",
+        "reviewCheckId": "review-68ee"
+      }
+    ],
+    "reader": {
+      "title": "Streams, plants and fields: 溪 and 森",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-6eaa-1",
+        "word-6eaa-2",
+        "word-68ee-1",
+        "word-68ee-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-6eaa",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6eaa",
+          "transcript": "溪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6eaa",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6eaa",
+          "transcript": "溪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6eaa",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6eaa",
+          "transcript": "溪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6eaa",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6eaa",
+          "transcript": "小溪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6eaa",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6eaa",
+          "transcript": "溪水",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6eaa",
+          "readingId": "reading-6eaa",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "溪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6eaa-1",
+          "readingId": null,
+          "wordId": "word-6eaa-1",
+          "checkId": null,
+          "transcript": "我用彩笔画了小溪。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6eaa-2",
+          "readingId": null,
+          "wordId": "word-6eaa-2",
+          "checkId": null,
+          "transcript": "我们仔细观察溪水。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-68ee",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-68ee",
+          "transcript": "森",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-68ee",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-68ee",
+          "transcript": "森",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-68ee",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-68ee",
+          "transcript": "森",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-68ee",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-68ee",
+          "transcript": "森林",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-68ee",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-68ee",
+          "transcript": "森森",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-68ee",
+          "readingId": "reading-68ee",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "森",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-68ee-1",
+          "readingId": null,
+          "wordId": "word-68ee-1",
+          "checkId": null,
+          "transcript": "这本书介绍了森林。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-68ee-2",
+          "readingId": null,
+          "wordId": "word-68ee-2",
+          "checkId": null,
+          "transcript": "画里是森森的树林。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-001",
+  "lessonVersion": "expansion-001-v1",
+  "title": "Useful connecting words: 与 and 也",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 61
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 与 and 也 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4e0e",
+      "hanzi": "与",
+      "readings": [
+        {
+          "readingId": "reading-4e0e",
+          "pinyin": "yǔ",
+          "audioText": "与",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#与",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "with; and",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#与",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e0e-1",
+          "text": "与此同时",
+          "pinyin": "yǔ cǐ tóng shí",
+          "english": "at the same time",
+          "readingId": "reading-4e0e",
+          "context": {
+            "hanzi": "妈妈在做饭，与此同时，我们在收拾桌子。",
+            "english": "Mum is cooking; at the same time, we are tidying the table.",
+            "targetCharacter": "与"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#与此同时",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e0e-2",
+          "text": "与其",
+          "pinyin": "yǔ qí",
+          "english": "rather than",
+          "readingId": "reading-4e0e",
+          "context": {
+            "hanzi": "与其等雨停，不如先在屋里看书。",
+            "english": "Rather than wait for the rain to stop, we can read indoors first.",
+            "targetCharacter": "与"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#与其",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the long top line and the lower curved stroke in 与.",
+        "demonstrationEnglish": "This is 与. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e0e",
+        "delayedReview": {
+          "promptId": "later-4e0e",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e0e"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e0e",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-4e5f",
+      "hanzi": "也",
+      "readings": [
+        {
+          "readingId": "reading-4e5f",
+          "pinyin": "yě",
+          "audioText": "也",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#也",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "also; too",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#也",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e5f-1",
+          "text": "也许",
+          "pinyin": "yě xǔ",
+          "english": "perhaps",
+          "readingId": "reading-4e5f",
+          "context": {
+            "hanzi": "也许小猫正在屋里睡觉。",
+            "english": "Perhaps the kitten is sleeping indoors.",
+            "targetCharacter": "也"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#也许",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e5f-2",
+          "text": "也好",
+          "pinyin": "yě hǎo",
+          "english": "also fine",
+          "readingId": "reading-4e5f",
+          "context": {
+            "hanzi": "先画一棵树也好。",
+            "english": "Drawing a tree first is also fine.",
+            "targetCharacter": "也"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#也好",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Follow the bottom curved stroke of 也 as it rises on the right.",
+        "demonstrationEnglish": "This is 也. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e5f",
+        "delayedReview": {
+          "promptId": "later-4e5f",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e5f"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e5f",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-001-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4e0e",
+        "familiar-4e5f"
+      ]
+    },
+    {
+      "stepId": "expansion-001-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-001-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-4e0e",
+        "practice-two-4e0e",
+        "practice-one-4e5f",
+        "practice-two-4e5f"
+      ]
+    },
+    {
+      "stepId": "expansion-001-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4e0e",
+        "check-4e5f"
+      ]
+    },
+    {
+      "stepId": "expansion-001-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4e0e",
+      "characterId": "char-4e0e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "与"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e0e-choice-1",
+          "hanzi": "与"
+        },
+        {
+          "choiceId": "familiar-4e0e-choice-2",
+          "hanzi": "也"
+        },
+        {
+          "choiceId": "familiar-4e0e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e0e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e0e-choice-1"
+    },
+    {
+      "checkId": "check-4e0e",
+      "characterId": "char-4e0e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "与"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e0e-choice-1",
+          "hanzi": "与"
+        },
+        {
+          "choiceId": "check-4e0e-choice-2",
+          "hanzi": "也"
+        },
+        {
+          "choiceId": "check-4e0e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e0e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e0e-choice-1"
+    },
+    {
+      "checkId": "review-4e0e",
+      "characterId": "char-4e0e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "与"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e0e-choice-1",
+          "hanzi": "与"
+        },
+        {
+          "choiceId": "review-4e0e-choice-2",
+          "hanzi": "也"
+        },
+        {
+          "choiceId": "review-4e0e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e0e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e0e-choice-1"
+    },
+    {
+      "checkId": "practice-one-4e0e",
+      "characterId": "char-4e0e",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "与此同时"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e0e-choice-1",
+          "hanzi": "与"
+        },
+        {
+          "choiceId": "practice-one-4e0e-choice-2",
+          "hanzi": "也"
+        },
+        {
+          "choiceId": "practice-one-4e0e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e0e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e0e-choice-1"
+    },
+    {
+      "checkId": "practice-two-4e0e",
+      "characterId": "char-4e0e",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "与其"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e0e-choice-1",
+          "hanzi": "与"
+        },
+        {
+          "choiceId": "practice-two-4e0e-choice-2",
+          "hanzi": "也"
+        },
+        {
+          "choiceId": "practice-two-4e0e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e0e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e0e-choice-1"
+    },
+    {
+      "checkId": "familiar-4e5f",
+      "characterId": "char-4e5f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "也"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e5f-choice-1",
+          "hanzi": "与"
+        },
+        {
+          "choiceId": "familiar-4e5f-choice-2",
+          "hanzi": "也"
+        },
+        {
+          "choiceId": "familiar-4e5f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e5f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e5f-choice-2"
+    },
+    {
+      "checkId": "check-4e5f",
+      "characterId": "char-4e5f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "也"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e5f-choice-1",
+          "hanzi": "与"
+        },
+        {
+          "choiceId": "check-4e5f-choice-2",
+          "hanzi": "也"
+        },
+        {
+          "choiceId": "check-4e5f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e5f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e5f-choice-2"
+    },
+    {
+      "checkId": "review-4e5f",
+      "characterId": "char-4e5f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "也"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e5f-choice-1",
+          "hanzi": "与"
+        },
+        {
+          "choiceId": "review-4e5f-choice-2",
+          "hanzi": "也"
+        },
+        {
+          "choiceId": "review-4e5f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e5f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e5f-choice-2"
+    },
+    {
+      "checkId": "practice-one-4e5f",
+      "characterId": "char-4e5f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "也许"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e5f-choice-1",
+          "hanzi": "与"
+        },
+        {
+          "choiceId": "practice-one-4e5f-choice-2",
+          "hanzi": "也"
+        },
+        {
+          "choiceId": "practice-one-4e5f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e5f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e5f-choice-2"
+    },
+    {
+      "checkId": "practice-two-4e5f",
+      "characterId": "char-4e5f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "也好"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e5f-choice-1",
+          "hanzi": "与"
+        },
+        {
+          "choiceId": "practice-two-4e5f-choice-2",
+          "hanzi": "也"
+        },
+        {
+          "choiceId": "practice-two-4e5f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e5f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e5f-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4e0e",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-001-v1/char-4e0e",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-4e5f",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-001-v1/char-4e5f",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-001-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-001-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Useful connecting words: 与 and 也",
+      "instructionEnglish": "Read two short word examples for 与 and 也 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-4e0e",
+        "readingId": "reading-4e0e",
+        "familiarityCheckId": "familiar-4e0e",
+        "practice": [
+          {
+            "wordId": "word-4e0e-1",
+            "checkId": "practice-one-4e0e"
+          },
+          {
+            "wordId": "word-4e0e-2",
+            "checkId": "practice-two-4e0e"
+          }
+        ],
+        "immediateCheckId": "check-4e0e",
+        "reviewCheckId": "review-4e0e"
+      },
+      {
+        "characterId": "char-4e5f",
+        "readingId": "reading-4e5f",
+        "familiarityCheckId": "familiar-4e5f",
+        "practice": [
+          {
+            "wordId": "word-4e5f-1",
+            "checkId": "practice-one-4e5f"
+          },
+          {
+            "wordId": "word-4e5f-2",
+            "checkId": "practice-two-4e5f"
+          }
+        ],
+        "immediateCheckId": "check-4e5f",
+        "reviewCheckId": "review-4e5f"
+      }
+    ],
+    "reader": {
+      "title": "Useful connecting words: 与 and 也",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4e0e-1",
+        "word-4e0e-2",
+        "word-4e5f-1",
+        "word-4e5f-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4e0e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e0e",
+          "transcript": "与",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e0e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e0e",
+          "transcript": "与",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e0e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e0e",
+          "transcript": "与",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e0e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e0e",
+          "transcript": "与此同时",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e0e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e0e",
+          "transcript": "与其",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e0e",
+          "readingId": "reading-4e0e",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "与",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e0e-1",
+          "readingId": null,
+          "wordId": "word-4e0e-1",
+          "checkId": null,
+          "transcript": "妈妈在做饭，与此同时，我们在收拾桌子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e0e-2",
+          "readingId": null,
+          "wordId": "word-4e0e-2",
+          "checkId": null,
+          "transcript": "与其等雨停，不如先在屋里看书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-4e5f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e5f",
+          "transcript": "也",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e5f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e5f",
+          "transcript": "也",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e5f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e5f",
+          "transcript": "也",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e5f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e5f",
+          "transcript": "也许",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e5f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e5f",
+          "transcript": "也好",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e5f",
+          "readingId": "reading-4e5f",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "也",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e5f-1",
+          "readingId": null,
+          "wordId": "word-4e5f-1",
+          "checkId": null,
+          "transcript": "也许小猫正在屋里睡觉。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e5f-2",
+          "readingId": null,
+          "wordId": "word-4e5f-2",
+          "checkId": null,
+          "transcript": "先画一棵树也好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

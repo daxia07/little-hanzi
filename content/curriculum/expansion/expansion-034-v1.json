@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-034",
+  "lessonVersion": "expansion-034-v1",
+  "title": "Friends and positions: 同 and 老",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 94
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 同 and 老 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-540c",
+      "hanzi": "同",
+      "readings": [
+        {
+          "readingId": "reading-540c",
+          "pinyin": "tóng",
+          "audioText": "同",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#同",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "same; together",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#同",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-540c-1",
+          "text": "同学",
+          "pinyin": "tóng xué",
+          "english": "classmate",
+          "readingId": "reading-540c",
+          "context": {
+            "hanzi": "同学们一起打扫教室。",
+            "english": "The classmates clean the classroom together.",
+            "targetCharacter": "同"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#同学",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-540c-2",
+          "text": "相同",
+          "pinyin": "xiāng tóng",
+          "english": "the same",
+          "readingId": "reading-540c",
+          "context": {
+            "hanzi": "这两块积木的颜色相同。",
+            "english": "These two blocks have the same colour.",
+            "targetCharacter": "同"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#相同",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 口 inside the outer frame of 同.",
+        "demonstrationEnglish": "This is 同. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-540c",
+        "delayedReview": {
+          "promptId": "later-540c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-540c"
+        }
+      },
+      "assets": [
+        "asset-glyph-540c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-8001",
+      "hanzi": "老",
+      "readings": [
+        {
+          "readingId": "reading-8001",
+          "pinyin": "lǎo",
+          "audioText": "老",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#老",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "old; experienced",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#老",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8001-1",
+          "text": "老师",
+          "pinyin": "lǎo shī",
+          "english": "teacher",
+          "readingId": "reading-8001",
+          "context": {
+            "hanzi": "老师给我们讲了一个故事。",
+            "english": "The teacher tells us a story.",
+            "targetCharacter": "老"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#老师",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8001-2",
+          "text": "老人",
+          "pinyin": "lǎo rén",
+          "english": "older person",
+          "readingId": "reading-8001",
+          "context": {
+            "hanzi": "我们在车上给老人让座。",
+            "english": "We offer an older person a seat on the bus.",
+            "targetCharacter": "老"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#老人",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the slanting stroke crossing above 匕 in 老.",
+        "demonstrationEnglish": "This is 老. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8001",
+        "delayedReview": {
+          "promptId": "later-8001",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8001"
+        }
+      },
+      "assets": [
+        "asset-glyph-8001",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-034-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-540c",
+        "familiar-8001"
+      ]
+    },
+    {
+      "stepId": "expansion-034-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-034-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-540c",
+        "practice-two-540c",
+        "practice-one-8001",
+        "practice-two-8001"
+      ]
+    },
+    {
+      "stepId": "expansion-034-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-540c",
+        "check-8001"
+      ]
+    },
+    {
+      "stepId": "expansion-034-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-540c",
+      "characterId": "char-540c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "同"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-540c-choice-1",
+          "hanzi": "同"
+        },
+        {
+          "choiceId": "familiar-540c-choice-2",
+          "hanzi": "老"
+        },
+        {
+          "choiceId": "familiar-540c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-540c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-540c-choice-1"
+    },
+    {
+      "checkId": "check-540c",
+      "characterId": "char-540c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "同"
+      },
+      "choices": [
+        {
+          "choiceId": "check-540c-choice-1",
+          "hanzi": "同"
+        },
+        {
+          "choiceId": "check-540c-choice-2",
+          "hanzi": "老"
+        },
+        {
+          "choiceId": "check-540c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-540c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-540c-choice-1"
+    },
+    {
+      "checkId": "review-540c",
+      "characterId": "char-540c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "同"
+      },
+      "choices": [
+        {
+          "choiceId": "review-540c-choice-1",
+          "hanzi": "同"
+        },
+        {
+          "choiceId": "review-540c-choice-2",
+          "hanzi": "老"
+        },
+        {
+          "choiceId": "review-540c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-540c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-540c-choice-1"
+    },
+    {
+      "checkId": "practice-one-540c",
+      "characterId": "char-540c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "同学"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-540c-choice-1",
+          "hanzi": "同"
+        },
+        {
+          "choiceId": "practice-one-540c-choice-2",
+          "hanzi": "老"
+        },
+        {
+          "choiceId": "practice-one-540c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-540c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-540c-choice-1"
+    },
+    {
+      "checkId": "practice-two-540c",
+      "characterId": "char-540c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "相同"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-540c-choice-1",
+          "hanzi": "同"
+        },
+        {
+          "choiceId": "practice-two-540c-choice-2",
+          "hanzi": "老"
+        },
+        {
+          "choiceId": "practice-two-540c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-540c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-540c-choice-1"
+    },
+    {
+      "checkId": "familiar-8001",
+      "characterId": "char-8001",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "老"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8001-choice-1",
+          "hanzi": "同"
+        },
+        {
+          "choiceId": "familiar-8001-choice-2",
+          "hanzi": "老"
+        },
+        {
+          "choiceId": "familiar-8001-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8001-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8001-choice-2"
+    },
+    {
+      "checkId": "check-8001",
+      "characterId": "char-8001",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "老"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8001-choice-1",
+          "hanzi": "同"
+        },
+        {
+          "choiceId": "check-8001-choice-2",
+          "hanzi": "老"
+        },
+        {
+          "choiceId": "check-8001-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8001-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8001-choice-2"
+    },
+    {
+      "checkId": "review-8001",
+      "characterId": "char-8001",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "老"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8001-choice-1",
+          "hanzi": "同"
+        },
+        {
+          "choiceId": "review-8001-choice-2",
+          "hanzi": "老"
+        },
+        {
+          "choiceId": "review-8001-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8001-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8001-choice-2"
+    },
+    {
+      "checkId": "practice-one-8001",
+      "characterId": "char-8001",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "老师"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8001-choice-1",
+          "hanzi": "同"
+        },
+        {
+          "choiceId": "practice-one-8001-choice-2",
+          "hanzi": "老"
+        },
+        {
+          "choiceId": "practice-one-8001-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8001-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8001-choice-2"
+    },
+    {
+      "checkId": "practice-two-8001",
+      "characterId": "char-8001",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "老人"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8001-choice-1",
+          "hanzi": "同"
+        },
+        {
+          "choiceId": "practice-two-8001-choice-2",
+          "hanzi": "老"
+        },
+        {
+          "choiceId": "practice-two-8001-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8001-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8001-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-540c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-034-v1/char-540c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-8001",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-034-v1/char-8001",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-034-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-034-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Friends and positions: 同 and 老",
+      "instructionEnglish": "Read two short word examples for 同 and 老 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-540c",
+        "readingId": "reading-540c",
+        "familiarityCheckId": "familiar-540c",
+        "practice": [
+          {
+            "wordId": "word-540c-1",
+            "checkId": "practice-one-540c"
+          },
+          {
+            "wordId": "word-540c-2",
+            "checkId": "practice-two-540c"
+          }
+        ],
+        "immediateCheckId": "check-540c",
+        "reviewCheckId": "review-540c"
+      },
+      {
+        "characterId": "char-8001",
+        "readingId": "reading-8001",
+        "familiarityCheckId": "familiar-8001",
+        "practice": [
+          {
+            "wordId": "word-8001-1",
+            "checkId": "practice-one-8001"
+          },
+          {
+            "wordId": "word-8001-2",
+            "checkId": "practice-two-8001"
+          }
+        ],
+        "immediateCheckId": "check-8001",
+        "reviewCheckId": "review-8001"
+      }
+    ],
+    "reader": {
+      "title": "Friends and positions: 同 and 老",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-540c-1",
+        "word-540c-2",
+        "word-8001-1",
+        "word-8001-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-540c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-540c",
+          "transcript": "同",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-540c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-540c",
+          "transcript": "同",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-540c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-540c",
+          "transcript": "同",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-540c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-540c",
+          "transcript": "同学",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-540c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-540c",
+          "transcript": "相同",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-540c",
+          "readingId": "reading-540c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "同",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-540c-1",
+          "readingId": null,
+          "wordId": "word-540c-1",
+          "checkId": null,
+          "transcript": "同学们一起打扫教室。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-540c-2",
+          "readingId": null,
+          "wordId": "word-540c-2",
+          "checkId": null,
+          "transcript": "这两块积木的颜色相同。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-8001",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8001",
+          "transcript": "老",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8001",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8001",
+          "transcript": "老",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8001",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8001",
+          "transcript": "老",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8001",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8001",
+          "transcript": "老师",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8001",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8001",
+          "transcript": "老人",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8001",
+          "readingId": "reading-8001",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "老",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8001-1",
+          "readingId": null,
+          "wordId": "word-8001-1",
+          "checkId": null,
+          "transcript": "老师给我们讲了一个故事。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8001-2",
+          "readingId": null,
+          "wordId": "word-8001-2",
+          "checkId": null,
+          "transcript": "我们在车上给老人让座。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

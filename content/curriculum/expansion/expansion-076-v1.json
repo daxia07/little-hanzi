@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-076",
+  "lessonVersion": "expansion-076-v1",
+  "title": "Metals, fruit and cooking: 枣 and 柿",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 136
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 枣 and 柿 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-67a3",
+      "hanzi": "枣",
+      "readings": [
+        {
+          "readingId": "reading-67a3",
+          "pinyin": "zǎo",
+          "audioText": "枣",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#枣",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "jujube; date fruit",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#枣",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-67a3-1",
+          "text": "红枣",
+          "pinyin": "hóng zǎo",
+          "english": "red jujubes",
+          "readingId": "reading-67a3",
+          "context": {
+            "hanzi": "篮子里装着红枣。",
+            "english": "The basket holds red jujubes.",
+            "targetCharacter": "枣"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#红枣",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-67a3-2",
+          "text": "枣树",
+          "pinyin": "zǎo shù",
+          "english": "a jujube tree",
+          "readingId": "reading-67a3",
+          "context": {
+            "hanzi": "花园里有枣树。",
+            "english": "The garden has a jujube tree.",
+            "targetCharacter": "枣"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#枣树",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the two small bottom dots beneath the top of 枣.",
+        "demonstrationEnglish": "This is 枣. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-67a3",
+        "delayedReview": {
+          "promptId": "later-67a3",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-67a3"
+        }
+      },
+      "assets": [
+        "asset-glyph-67a3",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-67ff",
+      "hanzi": "柿",
+      "readings": [
+        {
+          "readingId": "reading-67ff",
+          "pinyin": "shì",
+          "audioText": "柿",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#柿",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "persimmon",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#柿",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-67ff-1",
+          "text": "柿子",
+          "pinyin": "shì zi",
+          "english": "persimmons",
+          "readingId": "reading-67ff",
+          "context": {
+            "hanzi": "大人把柿子放在盘子里。",
+            "english": "An adult puts persimmons on the plate.",
+            "targetCharacter": "柿"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#柿子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-67ff-2",
+          "text": "柿饼",
+          "pinyin": "shì bǐng",
+          "english": "dried persimmons",
+          "readingId": "reading-67ff",
+          "context": {
+            "hanzi": "篮子里装着柿饼。",
+            "english": "The basket holds dried persimmons.",
+            "targetCharacter": "柿"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#柿饼",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 木 beside 市 in 柿.",
+        "demonstrationEnglish": "This is 柿. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-67ff",
+        "delayedReview": {
+          "promptId": "later-67ff",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-67ff"
+        }
+      },
+      "assets": [
+        "asset-glyph-67ff",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-076-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-67a3",
+        "familiar-67ff"
+      ]
+    },
+    {
+      "stepId": "expansion-076-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-076-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-67a3",
+        "practice-two-67a3",
+        "practice-one-67ff",
+        "practice-two-67ff"
+      ]
+    },
+    {
+      "stepId": "expansion-076-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-67a3",
+        "check-67ff"
+      ]
+    },
+    {
+      "stepId": "expansion-076-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-67a3",
+      "characterId": "char-67a3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "枣"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-67a3-choice-1",
+          "hanzi": "枣"
+        },
+        {
+          "choiceId": "familiar-67a3-choice-2",
+          "hanzi": "柿"
+        },
+        {
+          "choiceId": "familiar-67a3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-67a3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-67a3-choice-1"
+    },
+    {
+      "checkId": "check-67a3",
+      "characterId": "char-67a3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "枣"
+      },
+      "choices": [
+        {
+          "choiceId": "check-67a3-choice-1",
+          "hanzi": "枣"
+        },
+        {
+          "choiceId": "check-67a3-choice-2",
+          "hanzi": "柿"
+        },
+        {
+          "choiceId": "check-67a3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-67a3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-67a3-choice-1"
+    },
+    {
+      "checkId": "review-67a3",
+      "characterId": "char-67a3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "枣"
+      },
+      "choices": [
+        {
+          "choiceId": "review-67a3-choice-1",
+          "hanzi": "枣"
+        },
+        {
+          "choiceId": "review-67a3-choice-2",
+          "hanzi": "柿"
+        },
+        {
+          "choiceId": "review-67a3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-67a3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-67a3-choice-1"
+    },
+    {
+      "checkId": "practice-one-67a3",
+      "characterId": "char-67a3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "红枣"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-67a3-choice-1",
+          "hanzi": "枣"
+        },
+        {
+          "choiceId": "practice-one-67a3-choice-2",
+          "hanzi": "柿"
+        },
+        {
+          "choiceId": "practice-one-67a3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-67a3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-67a3-choice-1"
+    },
+    {
+      "checkId": "practice-two-67a3",
+      "characterId": "char-67a3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "枣树"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-67a3-choice-1",
+          "hanzi": "枣"
+        },
+        {
+          "choiceId": "practice-two-67a3-choice-2",
+          "hanzi": "柿"
+        },
+        {
+          "choiceId": "practice-two-67a3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-67a3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-67a3-choice-1"
+    },
+    {
+      "checkId": "familiar-67ff",
+      "characterId": "char-67ff",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "柿"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-67ff-choice-1",
+          "hanzi": "枣"
+        },
+        {
+          "choiceId": "familiar-67ff-choice-2",
+          "hanzi": "柿"
+        },
+        {
+          "choiceId": "familiar-67ff-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-67ff-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-67ff-choice-2"
+    },
+    {
+      "checkId": "check-67ff",
+      "characterId": "char-67ff",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "柿"
+      },
+      "choices": [
+        {
+          "choiceId": "check-67ff-choice-1",
+          "hanzi": "枣"
+        },
+        {
+          "choiceId": "check-67ff-choice-2",
+          "hanzi": "柿"
+        },
+        {
+          "choiceId": "check-67ff-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-67ff-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-67ff-choice-2"
+    },
+    {
+      "checkId": "review-67ff",
+      "characterId": "char-67ff",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "柿"
+      },
+      "choices": [
+        {
+          "choiceId": "review-67ff-choice-1",
+          "hanzi": "枣"
+        },
+        {
+          "choiceId": "review-67ff-choice-2",
+          "hanzi": "柿"
+        },
+        {
+          "choiceId": "review-67ff-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-67ff-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-67ff-choice-2"
+    },
+    {
+      "checkId": "practice-one-67ff",
+      "characterId": "char-67ff",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "柿子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-67ff-choice-1",
+          "hanzi": "枣"
+        },
+        {
+          "choiceId": "practice-one-67ff-choice-2",
+          "hanzi": "柿"
+        },
+        {
+          "choiceId": "practice-one-67ff-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-67ff-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-67ff-choice-2"
+    },
+    {
+      "checkId": "practice-two-67ff",
+      "characterId": "char-67ff",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "柿饼"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-67ff-choice-1",
+          "hanzi": "枣"
+        },
+        {
+          "choiceId": "practice-two-67ff-choice-2",
+          "hanzi": "柿"
+        },
+        {
+          "choiceId": "practice-two-67ff-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-67ff-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-67ff-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-67a3",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-076-v1/char-67a3",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-67ff",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-076-v1/char-67ff",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-076-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-076-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Metals, fruit and cooking: 枣 and 柿",
+      "instructionEnglish": "Read two short word examples for 枣 and 柿 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-67a3",
+        "readingId": "reading-67a3",
+        "familiarityCheckId": "familiar-67a3",
+        "practice": [
+          {
+            "wordId": "word-67a3-1",
+            "checkId": "practice-one-67a3"
+          },
+          {
+            "wordId": "word-67a3-2",
+            "checkId": "practice-two-67a3"
+          }
+        ],
+        "immediateCheckId": "check-67a3",
+        "reviewCheckId": "review-67a3"
+      },
+      {
+        "characterId": "char-67ff",
+        "readingId": "reading-67ff",
+        "familiarityCheckId": "familiar-67ff",
+        "practice": [
+          {
+            "wordId": "word-67ff-1",
+            "checkId": "practice-one-67ff"
+          },
+          {
+            "wordId": "word-67ff-2",
+            "checkId": "practice-two-67ff"
+          }
+        ],
+        "immediateCheckId": "check-67ff",
+        "reviewCheckId": "review-67ff"
+      }
+    ],
+    "reader": {
+      "title": "Metals, fruit and cooking: 枣 and 柿",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-67a3-1",
+        "word-67a3-2",
+        "word-67ff-1",
+        "word-67ff-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-67a3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-67a3",
+          "transcript": "枣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-67a3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-67a3",
+          "transcript": "枣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-67a3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-67a3",
+          "transcript": "枣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-67a3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-67a3",
+          "transcript": "红枣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-67a3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-67a3",
+          "transcript": "枣树",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-67a3",
+          "readingId": "reading-67a3",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "枣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-67a3-1",
+          "readingId": null,
+          "wordId": "word-67a3-1",
+          "checkId": null,
+          "transcript": "篮子里装着红枣。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-67a3-2",
+          "readingId": null,
+          "wordId": "word-67a3-2",
+          "checkId": null,
+          "transcript": "花园里有枣树。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-67ff",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-67ff",
+          "transcript": "柿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-67ff",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-67ff",
+          "transcript": "柿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-67ff",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-67ff",
+          "transcript": "柿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-67ff",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-67ff",
+          "transcript": "柿子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-67ff",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-67ff",
+          "transcript": "柿饼",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-67ff",
+          "readingId": "reading-67ff",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "柿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-67ff-1",
+          "readingId": null,
+          "wordId": "word-67ff-1",
+          "checkId": null,
+          "transcript": "大人把柿子放在盘子里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-67ff-2",
+          "readingId": null,
+          "wordId": "word-67ff-2",
+          "checkId": null,
+          "transcript": "篮子里装着柿饼。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

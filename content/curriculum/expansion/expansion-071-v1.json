@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-071",
+  "lessonVersion": "expansion-071-v1",
+  "title": "Metals, fruit and cooking: 铁 and 桃",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 131
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 铁 and 桃 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-94c1",
+      "hanzi": "铁",
+      "readings": [
+        {
+          "readingId": "reading-94c1",
+          "pinyin": "tiě",
+          "audioText": "铁",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#铁",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "iron",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#铁",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-94c1-1",
+          "text": "铁路",
+          "pinyin": "tiě lù",
+          "english": "a railway",
+          "readingId": "reading-94c1",
+          "context": {
+            "hanzi": "我用彩笔画了铁路。",
+            "english": "I draw a railway with coloured pens.",
+            "targetCharacter": "铁"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#铁路",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-94c1-2",
+          "text": "铁门",
+          "pinyin": "tiě mén",
+          "english": "an iron gate",
+          "readingId": "reading-94c1",
+          "context": {
+            "hanzi": "我在图画里看到了铁门。",
+            "english": "I see an iron gate in the picture.",
+            "targetCharacter": "铁"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#铁门",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 钅 beside 失 in 铁.",
+        "demonstrationEnglish": "This is 铁. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-94c1",
+        "delayedReview": {
+          "promptId": "later-94c1",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-94c1"
+        }
+      },
+      "assets": [
+        "asset-glyph-94c1",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6843",
+      "hanzi": "桃",
+      "readings": [
+        {
+          "readingId": "reading-6843",
+          "pinyin": "táo",
+          "audioText": "桃",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#桃",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "peach",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#桃",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6843-1",
+          "text": "桃子",
+          "pinyin": "táo zi",
+          "english": "peaches",
+          "readingId": "reading-6843",
+          "context": {
+            "hanzi": "篮子里装着桃子。",
+            "english": "The basket holds peaches.",
+            "targetCharacter": "桃"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#桃子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6843-2",
+          "text": "桃花",
+          "pinyin": "táo huā",
+          "english": "peach blossoms",
+          "readingId": "reading-6843",
+          "context": {
+            "hanzi": "花园里有桃花。",
+            "english": "The garden has peach blossoms.",
+            "targetCharacter": "桃"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#桃花",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 木 beside 兆 in 桃.",
+        "demonstrationEnglish": "This is 桃. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6843",
+        "delayedReview": {
+          "promptId": "later-6843",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6843"
+        }
+      },
+      "assets": [
+        "asset-glyph-6843",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-071-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-94c1",
+        "familiar-6843"
+      ]
+    },
+    {
+      "stepId": "expansion-071-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-071-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-94c1",
+        "practice-two-94c1",
+        "practice-one-6843",
+        "practice-two-6843"
+      ]
+    },
+    {
+      "stepId": "expansion-071-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-94c1",
+        "check-6843"
+      ]
+    },
+    {
+      "stepId": "expansion-071-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-94c1",
+      "characterId": "char-94c1",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "铁"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-94c1-choice-1",
+          "hanzi": "铁"
+        },
+        {
+          "choiceId": "familiar-94c1-choice-2",
+          "hanzi": "桃"
+        },
+        {
+          "choiceId": "familiar-94c1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-94c1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-94c1-choice-1"
+    },
+    {
+      "checkId": "check-94c1",
+      "characterId": "char-94c1",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "铁"
+      },
+      "choices": [
+        {
+          "choiceId": "check-94c1-choice-1",
+          "hanzi": "铁"
+        },
+        {
+          "choiceId": "check-94c1-choice-2",
+          "hanzi": "桃"
+        },
+        {
+          "choiceId": "check-94c1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-94c1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-94c1-choice-1"
+    },
+    {
+      "checkId": "review-94c1",
+      "characterId": "char-94c1",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "铁"
+      },
+      "choices": [
+        {
+          "choiceId": "review-94c1-choice-1",
+          "hanzi": "铁"
+        },
+        {
+          "choiceId": "review-94c1-choice-2",
+          "hanzi": "桃"
+        },
+        {
+          "choiceId": "review-94c1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-94c1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-94c1-choice-1"
+    },
+    {
+      "checkId": "practice-one-94c1",
+      "characterId": "char-94c1",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "铁路"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-94c1-choice-1",
+          "hanzi": "铁"
+        },
+        {
+          "choiceId": "practice-one-94c1-choice-2",
+          "hanzi": "桃"
+        },
+        {
+          "choiceId": "practice-one-94c1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-94c1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-94c1-choice-1"
+    },
+    {
+      "checkId": "practice-two-94c1",
+      "characterId": "char-94c1",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "铁门"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-94c1-choice-1",
+          "hanzi": "铁"
+        },
+        {
+          "choiceId": "practice-two-94c1-choice-2",
+          "hanzi": "桃"
+        },
+        {
+          "choiceId": "practice-two-94c1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-94c1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-94c1-choice-1"
+    },
+    {
+      "checkId": "familiar-6843",
+      "characterId": "char-6843",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "桃"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6843-choice-1",
+          "hanzi": "铁"
+        },
+        {
+          "choiceId": "familiar-6843-choice-2",
+          "hanzi": "桃"
+        },
+        {
+          "choiceId": "familiar-6843-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6843-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6843-choice-2"
+    },
+    {
+      "checkId": "check-6843",
+      "characterId": "char-6843",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "桃"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6843-choice-1",
+          "hanzi": "铁"
+        },
+        {
+          "choiceId": "check-6843-choice-2",
+          "hanzi": "桃"
+        },
+        {
+          "choiceId": "check-6843-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6843-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6843-choice-2"
+    },
+    {
+      "checkId": "review-6843",
+      "characterId": "char-6843",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "桃"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6843-choice-1",
+          "hanzi": "铁"
+        },
+        {
+          "choiceId": "review-6843-choice-2",
+          "hanzi": "桃"
+        },
+        {
+          "choiceId": "review-6843-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6843-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6843-choice-2"
+    },
+    {
+      "checkId": "practice-one-6843",
+      "characterId": "char-6843",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "桃子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6843-choice-1",
+          "hanzi": "铁"
+        },
+        {
+          "choiceId": "practice-one-6843-choice-2",
+          "hanzi": "桃"
+        },
+        {
+          "choiceId": "practice-one-6843-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6843-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6843-choice-2"
+    },
+    {
+      "checkId": "practice-two-6843",
+      "characterId": "char-6843",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "桃花"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6843-choice-1",
+          "hanzi": "铁"
+        },
+        {
+          "choiceId": "practice-two-6843-choice-2",
+          "hanzi": "桃"
+        },
+        {
+          "choiceId": "practice-two-6843-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6843-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6843-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-94c1",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-071-v1/char-94c1",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6843",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-071-v1/char-6843",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-071-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-071-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Metals, fruit and cooking: 铁 and 桃",
+      "instructionEnglish": "Read two short word examples for 铁 and 桃 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-94c1",
+        "readingId": "reading-94c1",
+        "familiarityCheckId": "familiar-94c1",
+        "practice": [
+          {
+            "wordId": "word-94c1-1",
+            "checkId": "practice-one-94c1"
+          },
+          {
+            "wordId": "word-94c1-2",
+            "checkId": "practice-two-94c1"
+          }
+        ],
+        "immediateCheckId": "check-94c1",
+        "reviewCheckId": "review-94c1"
+      },
+      {
+        "characterId": "char-6843",
+        "readingId": "reading-6843",
+        "familiarityCheckId": "familiar-6843",
+        "practice": [
+          {
+            "wordId": "word-6843-1",
+            "checkId": "practice-one-6843"
+          },
+          {
+            "wordId": "word-6843-2",
+            "checkId": "practice-two-6843"
+          }
+        ],
+        "immediateCheckId": "check-6843",
+        "reviewCheckId": "review-6843"
+      }
+    ],
+    "reader": {
+      "title": "Metals, fruit and cooking: 铁 and 桃",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-94c1-1",
+        "word-94c1-2",
+        "word-6843-1",
+        "word-6843-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-94c1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-94c1",
+          "transcript": "铁",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-94c1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-94c1",
+          "transcript": "铁",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-94c1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-94c1",
+          "transcript": "铁",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-94c1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-94c1",
+          "transcript": "铁路",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-94c1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-94c1",
+          "transcript": "铁门",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-94c1",
+          "readingId": "reading-94c1",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "铁",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-94c1-1",
+          "readingId": null,
+          "wordId": "word-94c1-1",
+          "checkId": null,
+          "transcript": "我用彩笔画了铁路。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-94c1-2",
+          "readingId": null,
+          "wordId": "word-94c1-2",
+          "checkId": null,
+          "transcript": "我在图画里看到了铁门。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6843",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6843",
+          "transcript": "桃",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6843",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6843",
+          "transcript": "桃",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6843",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6843",
+          "transcript": "桃",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6843",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6843",
+          "transcript": "桃子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6843",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6843",
+          "transcript": "桃花",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6843",
+          "readingId": "reading-6843",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "桃",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6843-1",
+          "readingId": null,
+          "wordId": "word-6843-1",
+          "checkId": null,
+          "transcript": "篮子里装着桃子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6843-2",
+          "readingId": null,
+          "wordId": "word-6843-2",
+          "checkId": null,
+          "transcript": "花园里有桃花。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

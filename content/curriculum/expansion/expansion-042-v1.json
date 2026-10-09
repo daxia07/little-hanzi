@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-042",
+  "lessonVersion": "expansion-042-v1",
+  "title": "Directions and time: 南 and 东",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 102
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 南 and 东 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5357",
+      "hanzi": "南",
+      "readings": [
+        {
+          "readingId": "reading-5357",
+          "pinyin": "nán",
+          "audioText": "南",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#南",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "south",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#南",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5357-1",
+          "text": "南方",
+          "pinyin": "nán fāng",
+          "english": "the south",
+          "readingId": "reading-5357",
+          "context": {
+            "hanzi": "冬天，有些鸟会飞向南方。",
+            "english": "In winter, some birds fly south.",
+            "targetCharacter": "南"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#南方",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5357-2",
+          "text": "南瓜",
+          "pinyin": "nán guā",
+          "english": "pumpkin",
+          "readingId": "reading-5357",
+          "context": {
+            "hanzi": "篮子里装着南瓜。",
+            "english": "The basket holds pumpkin.",
+            "targetCharacter": "南"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#南瓜",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the outer frame and short upper upright of 南.",
+        "demonstrationEnglish": "This is 南. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5357",
+        "delayedReview": {
+          "promptId": "later-5357",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5357"
+        }
+      },
+      "assets": [
+        "asset-glyph-5357",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-4e1c",
+      "hanzi": "东",
+      "readings": [
+        {
+          "readingId": "reading-4e1c",
+          "pinyin": "dōng",
+          "audioText": "东",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#东",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "east",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#东",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e1c-1",
+          "text": "东方",
+          "pinyin": "dōng fāng",
+          "english": "the east",
+          "readingId": "reading-4e1c",
+          "context": {
+            "hanzi": "早晨，太阳从东方升起。",
+            "english": "In the morning, the sun rises in the east.",
+            "targetCharacter": "东"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#东方",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e1c-2",
+          "text": "东边",
+          "pinyin": "dōng bian",
+          "english": "east side",
+          "readingId": "reading-4e1c",
+          "context": {
+            "hanzi": "公园的东边有一条小河。",
+            "english": "There is a little river on the east side of the park.",
+            "targetCharacter": "东"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#东边",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the small spreading bottom strokes of 东.",
+        "demonstrationEnglish": "This is 东. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e1c",
+        "delayedReview": {
+          "promptId": "later-4e1c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e1c"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e1c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-042-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5357",
+        "familiar-4e1c"
+      ]
+    },
+    {
+      "stepId": "expansion-042-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-042-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-5357",
+        "practice-two-5357",
+        "practice-one-4e1c",
+        "practice-two-4e1c"
+      ]
+    },
+    {
+      "stepId": "expansion-042-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5357",
+        "check-4e1c"
+      ]
+    },
+    {
+      "stepId": "expansion-042-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5357",
+      "characterId": "char-5357",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "南"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5357-choice-1",
+          "hanzi": "南"
+        },
+        {
+          "choiceId": "familiar-5357-choice-2",
+          "hanzi": "东"
+        },
+        {
+          "choiceId": "familiar-5357-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5357-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5357-choice-1"
+    },
+    {
+      "checkId": "check-5357",
+      "characterId": "char-5357",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "南"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5357-choice-1",
+          "hanzi": "南"
+        },
+        {
+          "choiceId": "check-5357-choice-2",
+          "hanzi": "东"
+        },
+        {
+          "choiceId": "check-5357-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5357-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5357-choice-1"
+    },
+    {
+      "checkId": "review-5357",
+      "characterId": "char-5357",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "南"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5357-choice-1",
+          "hanzi": "南"
+        },
+        {
+          "choiceId": "review-5357-choice-2",
+          "hanzi": "东"
+        },
+        {
+          "choiceId": "review-5357-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5357-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5357-choice-1"
+    },
+    {
+      "checkId": "practice-one-5357",
+      "characterId": "char-5357",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "南方"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5357-choice-1",
+          "hanzi": "南"
+        },
+        {
+          "choiceId": "practice-one-5357-choice-2",
+          "hanzi": "东"
+        },
+        {
+          "choiceId": "practice-one-5357-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5357-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5357-choice-1"
+    },
+    {
+      "checkId": "practice-two-5357",
+      "characterId": "char-5357",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "南瓜"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5357-choice-1",
+          "hanzi": "南"
+        },
+        {
+          "choiceId": "practice-two-5357-choice-2",
+          "hanzi": "东"
+        },
+        {
+          "choiceId": "practice-two-5357-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5357-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5357-choice-1"
+    },
+    {
+      "checkId": "familiar-4e1c",
+      "characterId": "char-4e1c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "东"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e1c-choice-1",
+          "hanzi": "南"
+        },
+        {
+          "choiceId": "familiar-4e1c-choice-2",
+          "hanzi": "东"
+        },
+        {
+          "choiceId": "familiar-4e1c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e1c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e1c-choice-2"
+    },
+    {
+      "checkId": "check-4e1c",
+      "characterId": "char-4e1c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "东"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e1c-choice-1",
+          "hanzi": "南"
+        },
+        {
+          "choiceId": "check-4e1c-choice-2",
+          "hanzi": "东"
+        },
+        {
+          "choiceId": "check-4e1c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e1c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e1c-choice-2"
+    },
+    {
+      "checkId": "review-4e1c",
+      "characterId": "char-4e1c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "东"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e1c-choice-1",
+          "hanzi": "南"
+        },
+        {
+          "choiceId": "review-4e1c-choice-2",
+          "hanzi": "东"
+        },
+        {
+          "choiceId": "review-4e1c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e1c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e1c-choice-2"
+    },
+    {
+      "checkId": "practice-one-4e1c",
+      "characterId": "char-4e1c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "东方"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e1c-choice-1",
+          "hanzi": "南"
+        },
+        {
+          "choiceId": "practice-one-4e1c-choice-2",
+          "hanzi": "东"
+        },
+        {
+          "choiceId": "practice-one-4e1c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e1c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e1c-choice-2"
+    },
+    {
+      "checkId": "practice-two-4e1c",
+      "characterId": "char-4e1c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "东边"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e1c-choice-1",
+          "hanzi": "南"
+        },
+        {
+          "choiceId": "practice-two-4e1c-choice-2",
+          "hanzi": "东"
+        },
+        {
+          "choiceId": "practice-two-4e1c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e1c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e1c-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5357",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-042-v1/char-5357",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-4e1c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-042-v1/char-4e1c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-042-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-042-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Directions and time: 南 and 东",
+      "instructionEnglish": "Read two short word examples for 南 and 东 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-5357",
+        "readingId": "reading-5357",
+        "familiarityCheckId": "familiar-5357",
+        "practice": [
+          {
+            "wordId": "word-5357-1",
+            "checkId": "practice-one-5357"
+          },
+          {
+            "wordId": "word-5357-2",
+            "checkId": "practice-two-5357"
+          }
+        ],
+        "immediateCheckId": "check-5357",
+        "reviewCheckId": "review-5357"
+      },
+      {
+        "characterId": "char-4e1c",
+        "readingId": "reading-4e1c",
+        "familiarityCheckId": "familiar-4e1c",
+        "practice": [
+          {
+            "wordId": "word-4e1c-1",
+            "checkId": "practice-one-4e1c"
+          },
+          {
+            "wordId": "word-4e1c-2",
+            "checkId": "practice-two-4e1c"
+          }
+        ],
+        "immediateCheckId": "check-4e1c",
+        "reviewCheckId": "review-4e1c"
+      }
+    ],
+    "reader": {
+      "title": "Directions and time: 南 and 东",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5357-1",
+        "word-5357-2",
+        "word-4e1c-1",
+        "word-4e1c-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5357",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5357",
+          "transcript": "南",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5357",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5357",
+          "transcript": "南",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5357",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5357",
+          "transcript": "南",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5357",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5357",
+          "transcript": "南方",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5357",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5357",
+          "transcript": "南瓜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5357",
+          "readingId": "reading-5357",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "南",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5357-1",
+          "readingId": null,
+          "wordId": "word-5357-1",
+          "checkId": null,
+          "transcript": "冬天，有些鸟会飞向南方。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5357-2",
+          "readingId": null,
+          "wordId": "word-5357-2",
+          "checkId": null,
+          "transcript": "篮子里装着南瓜。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-4e1c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e1c",
+          "transcript": "东",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e1c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e1c",
+          "transcript": "东",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e1c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e1c",
+          "transcript": "东",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e1c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e1c",
+          "transcript": "东方",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e1c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e1c",
+          "transcript": "东边",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e1c",
+          "readingId": "reading-4e1c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "东",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e1c-1",
+          "readingId": null,
+          "wordId": "word-4e1c-1",
+          "checkId": null,
+          "transcript": "早晨，太阳从东方升起。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e1c-2",
+          "readingId": null,
+          "wordId": "word-4e1c-2",
+          "checkId": null,
+          "transcript": "公园的东边有一条小河。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

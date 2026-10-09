@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-031",
+  "lessonVersion": "expansion-031-v1",
+  "title": "Friends and positions: 谢 and 再",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 91
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 谢 and 再 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-8c22",
+      "hanzi": "谢",
+      "readings": [
+        {
+          "readingId": "reading-8c22",
+          "pinyin": "xiè",
+          "audioText": "谢",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#谢",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "thank",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#谢",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8c22-1",
+          "text": "谢谢",
+          "pinyin": "xiè xie",
+          "english": "thank you",
+          "readingId": "reading-8c22",
+          "context": {
+            "hanzi": "收到卡片以后，我说谢谢。",
+            "english": "After receiving the card, I say thank you.",
+            "targetCharacter": "谢"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#谢谢",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8c22-2",
+          "text": "感谢",
+          "pinyin": "gǎn xiè",
+          "english": "thank; be grateful",
+          "readingId": "reading-8c22",
+          "context": {
+            "hanzi": "我感谢朋友帮我找到了铅笔。",
+            "english": "I thank my friend for helping me find my pencil.",
+            "targetCharacter": "谢"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#感谢",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 讠 beside 射 in 谢.",
+        "demonstrationEnglish": "This is 谢. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8c22",
+        "delayedReview": {
+          "promptId": "later-8c22",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8c22"
+        }
+      },
+      "assets": [
+        "asset-glyph-8c22",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-518d",
+      "hanzi": "再",
+      "readings": [
+        {
+          "readingId": "reading-518d",
+          "pinyin": "zài",
+          "audioText": "再",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#再",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "again",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#再",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-518d-1",
+          "text": "再见",
+          "pinyin": "zài jiàn",
+          "english": "goodbye",
+          "readingId": "reading-518d",
+          "context": {
+            "hanzi": "回家前，我们向朋友说再见。",
+            "english": "Before going home, we say goodbye to our friends.",
+            "targetCharacter": "再"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#再见",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-518d-2",
+          "text": "再次",
+          "pinyin": "zài cì",
+          "english": "again; once more",
+          "readingId": "reading-518d",
+          "context": {
+            "hanzi": "我再次试着把纸船折好。",
+            "english": "I try folding the paper boat once more.",
+            "targetCharacter": "再"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#再次",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the long middle horizontal stroke extending on both sides of 再.",
+        "demonstrationEnglish": "This is 再. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-518d",
+        "delayedReview": {
+          "promptId": "later-518d",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-518d"
+        }
+      },
+      "assets": [
+        "asset-glyph-518d",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-031-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-8c22",
+        "familiar-518d"
+      ]
+    },
+    {
+      "stepId": "expansion-031-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-031-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-8c22",
+        "practice-two-8c22",
+        "practice-one-518d",
+        "practice-two-518d"
+      ]
+    },
+    {
+      "stepId": "expansion-031-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-8c22",
+        "check-518d"
+      ]
+    },
+    {
+      "stepId": "expansion-031-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-8c22",
+      "characterId": "char-8c22",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "谢"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8c22-choice-1",
+          "hanzi": "谢"
+        },
+        {
+          "choiceId": "familiar-8c22-choice-2",
+          "hanzi": "再"
+        },
+        {
+          "choiceId": "familiar-8c22-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8c22-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8c22-choice-1"
+    },
+    {
+      "checkId": "check-8c22",
+      "characterId": "char-8c22",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "谢"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8c22-choice-1",
+          "hanzi": "谢"
+        },
+        {
+          "choiceId": "check-8c22-choice-2",
+          "hanzi": "再"
+        },
+        {
+          "choiceId": "check-8c22-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8c22-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8c22-choice-1"
+    },
+    {
+      "checkId": "review-8c22",
+      "characterId": "char-8c22",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "谢"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8c22-choice-1",
+          "hanzi": "谢"
+        },
+        {
+          "choiceId": "review-8c22-choice-2",
+          "hanzi": "再"
+        },
+        {
+          "choiceId": "review-8c22-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8c22-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8c22-choice-1"
+    },
+    {
+      "checkId": "practice-one-8c22",
+      "characterId": "char-8c22",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "谢谢"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8c22-choice-1",
+          "hanzi": "谢"
+        },
+        {
+          "choiceId": "practice-one-8c22-choice-2",
+          "hanzi": "再"
+        },
+        {
+          "choiceId": "practice-one-8c22-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8c22-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8c22-choice-1"
+    },
+    {
+      "checkId": "practice-two-8c22",
+      "characterId": "char-8c22",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "感谢"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8c22-choice-1",
+          "hanzi": "谢"
+        },
+        {
+          "choiceId": "practice-two-8c22-choice-2",
+          "hanzi": "再"
+        },
+        {
+          "choiceId": "practice-two-8c22-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8c22-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8c22-choice-1"
+    },
+    {
+      "checkId": "familiar-518d",
+      "characterId": "char-518d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "再"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-518d-choice-1",
+          "hanzi": "谢"
+        },
+        {
+          "choiceId": "familiar-518d-choice-2",
+          "hanzi": "再"
+        },
+        {
+          "choiceId": "familiar-518d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-518d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-518d-choice-2"
+    },
+    {
+      "checkId": "check-518d",
+      "characterId": "char-518d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "再"
+      },
+      "choices": [
+        {
+          "choiceId": "check-518d-choice-1",
+          "hanzi": "谢"
+        },
+        {
+          "choiceId": "check-518d-choice-2",
+          "hanzi": "再"
+        },
+        {
+          "choiceId": "check-518d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-518d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-518d-choice-2"
+    },
+    {
+      "checkId": "review-518d",
+      "characterId": "char-518d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "再"
+      },
+      "choices": [
+        {
+          "choiceId": "review-518d-choice-1",
+          "hanzi": "谢"
+        },
+        {
+          "choiceId": "review-518d-choice-2",
+          "hanzi": "再"
+        },
+        {
+          "choiceId": "review-518d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-518d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-518d-choice-2"
+    },
+    {
+      "checkId": "practice-one-518d",
+      "characterId": "char-518d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "再见"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-518d-choice-1",
+          "hanzi": "谢"
+        },
+        {
+          "choiceId": "practice-one-518d-choice-2",
+          "hanzi": "再"
+        },
+        {
+          "choiceId": "practice-one-518d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-518d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-518d-choice-2"
+    },
+    {
+      "checkId": "practice-two-518d",
+      "characterId": "char-518d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "再次"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-518d-choice-1",
+          "hanzi": "谢"
+        },
+        {
+          "choiceId": "practice-two-518d-choice-2",
+          "hanzi": "再"
+        },
+        {
+          "choiceId": "practice-two-518d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-518d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-518d-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-8c22",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-031-v1/char-8c22",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-518d",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-031-v1/char-518d",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-031-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-031-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Friends and positions: 谢 and 再",
+      "instructionEnglish": "Read two short word examples for 谢 and 再 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-8c22",
+        "readingId": "reading-8c22",
+        "familiarityCheckId": "familiar-8c22",
+        "practice": [
+          {
+            "wordId": "word-8c22-1",
+            "checkId": "practice-one-8c22"
+          },
+          {
+            "wordId": "word-8c22-2",
+            "checkId": "practice-two-8c22"
+          }
+        ],
+        "immediateCheckId": "check-8c22",
+        "reviewCheckId": "review-8c22"
+      },
+      {
+        "characterId": "char-518d",
+        "readingId": "reading-518d",
+        "familiarityCheckId": "familiar-518d",
+        "practice": [
+          {
+            "wordId": "word-518d-1",
+            "checkId": "practice-one-518d"
+          },
+          {
+            "wordId": "word-518d-2",
+            "checkId": "practice-two-518d"
+          }
+        ],
+        "immediateCheckId": "check-518d",
+        "reviewCheckId": "review-518d"
+      }
+    ],
+    "reader": {
+      "title": "Friends and positions: 谢 and 再",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-8c22-1",
+        "word-8c22-2",
+        "word-518d-1",
+        "word-518d-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-8c22",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8c22",
+          "transcript": "谢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8c22",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8c22",
+          "transcript": "谢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8c22",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8c22",
+          "transcript": "谢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8c22",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8c22",
+          "transcript": "谢谢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8c22",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8c22",
+          "transcript": "感谢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8c22",
+          "readingId": "reading-8c22",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "谢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8c22-1",
+          "readingId": null,
+          "wordId": "word-8c22-1",
+          "checkId": null,
+          "transcript": "收到卡片以后，我说谢谢。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8c22-2",
+          "readingId": null,
+          "wordId": "word-8c22-2",
+          "checkId": null,
+          "transcript": "我感谢朋友帮我找到了铅笔。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-518d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-518d",
+          "transcript": "再",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-518d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-518d",
+          "transcript": "再",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-518d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-518d",
+          "transcript": "再",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-518d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-518d",
+          "transcript": "再见",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-518d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-518d",
+          "transcript": "再次",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-518d",
+          "readingId": "reading-518d",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "再",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-518d-1",
+          "readingId": null,
+          "wordId": "word-518d-1",
+          "checkId": null,
+          "transcript": "回家前，我们向朋友说再见。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-518d-2",
+          "readingId": null,
+          "wordId": "word-518d-2",
+          "checkId": null,
+          "transcript": "我再次试着把纸船折好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

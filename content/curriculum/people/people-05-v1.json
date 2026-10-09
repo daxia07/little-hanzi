@@ -1,0 +1,788 @@
+{
+  "lessonId": "people-05",
+  "lessonVersion": "people-05-v1",
+  "title": "Have it or not",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 55
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Our capybara checks a useful ruler and tries a knot. Read words about having and not being able to do something.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-6709",
+      "hanzi": "有",
+      "readings": [
+        {
+          "readingId": "reading-6709",
+          "pinyin": "yǒu",
+          "audioText": "有",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#有",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "have; there is",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#有",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6709-1",
+          "text": "有用",
+          "pinyin": "yǒu yòng",
+          "english": "useful",
+          "readingId": "reading-6709",
+          "context": {
+            "hanzi": "这把小尺子很有用。",
+            "english": "This little ruler is useful.",
+            "targetCharacter": "有"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#有用",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6709-2",
+          "text": "所有",
+          "pinyin": "suǒ yǒu",
+          "english": "all",
+          "readingId": "reading-6709",
+          "context": {
+            "hanzi": "所有小朋友都拿到了一张纸。",
+            "english": "All the children get a sheet of paper.",
+            "targetCharacter": "有"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#所有",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the crossing top strokes above 月 in 有.",
+        "demonstrationEnglish": "This is 有. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6709",
+        "delayedReview": {
+          "promptId": "later-6709",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6709"
+        }
+      },
+      "assets": [
+        "asset-glyph-6709",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-4e0d",
+      "hanzi": "不",
+      "readings": [
+        {
+          "readingId": "reading-4e0d",
+          "pinyin": "bù",
+          "audioText": "不",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#不",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "not; no",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#不",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e0d-1",
+          "text": "不会",
+          "pinyin": "bù huì",
+          "english": "cannot; have not learned how",
+          "readingId": "reading-4e0d",
+          "context": {
+            "hanzi": "我还不会打这个结，请你教我。",
+            "english": "I cannot tie this knot yet; please teach me.",
+            "targetCharacter": "不"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#不会",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e0d-2",
+          "text": "不行",
+          "pinyin": "bù xíng",
+          "english": "not possible; will not do",
+          "readingId": "reading-4e0d",
+          "context": {
+            "hanzi": "这根绳子太短了，用它不行。",
+            "english": "This string is too short; it will not do.",
+            "targetCharacter": "不"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#不行",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the top horizontal stroke and the two spreading strokes in 不.",
+        "demonstrationEnglish": "This is 不. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e0d",
+        "delayedReview": {
+          "promptId": "later-4e0d",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e0d"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e0d",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "people-05-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-6709",
+        "familiar-4e0d"
+      ]
+    },
+    {
+      "stepId": "people-05-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "people-05-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-6709",
+        "practice-two-6709",
+        "practice-one-4e0d",
+        "practice-two-4e0d"
+      ]
+    },
+    {
+      "stepId": "people-05-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-6709",
+        "check-4e0d"
+      ]
+    },
+    {
+      "stepId": "people-05-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-6709",
+      "characterId": "char-6709",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "有"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6709-choice-1",
+          "hanzi": "有"
+        },
+        {
+          "choiceId": "familiar-6709-choice-2",
+          "hanzi": "不"
+        },
+        {
+          "choiceId": "familiar-6709-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6709-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6709-choice-1"
+    },
+    {
+      "checkId": "check-6709",
+      "characterId": "char-6709",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "有"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6709-choice-1",
+          "hanzi": "有"
+        },
+        {
+          "choiceId": "check-6709-choice-2",
+          "hanzi": "不"
+        },
+        {
+          "choiceId": "check-6709-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6709-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6709-choice-1"
+    },
+    {
+      "checkId": "review-6709",
+      "characterId": "char-6709",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "有"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6709-choice-1",
+          "hanzi": "有"
+        },
+        {
+          "choiceId": "review-6709-choice-2",
+          "hanzi": "不"
+        },
+        {
+          "choiceId": "review-6709-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6709-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6709-choice-1"
+    },
+    {
+      "checkId": "practice-one-6709",
+      "characterId": "char-6709",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "有用"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6709-choice-1",
+          "hanzi": "有"
+        },
+        {
+          "choiceId": "practice-one-6709-choice-2",
+          "hanzi": "不"
+        },
+        {
+          "choiceId": "practice-one-6709-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6709-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6709-choice-1"
+    },
+    {
+      "checkId": "practice-two-6709",
+      "characterId": "char-6709",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "所有"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6709-choice-1",
+          "hanzi": "有"
+        },
+        {
+          "choiceId": "practice-two-6709-choice-2",
+          "hanzi": "不"
+        },
+        {
+          "choiceId": "practice-two-6709-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6709-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6709-choice-1"
+    },
+    {
+      "checkId": "familiar-4e0d",
+      "characterId": "char-4e0d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "不"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e0d-choice-1",
+          "hanzi": "有"
+        },
+        {
+          "choiceId": "familiar-4e0d-choice-2",
+          "hanzi": "不"
+        },
+        {
+          "choiceId": "familiar-4e0d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e0d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e0d-choice-2"
+    },
+    {
+      "checkId": "check-4e0d",
+      "characterId": "char-4e0d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "不"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e0d-choice-1",
+          "hanzi": "有"
+        },
+        {
+          "choiceId": "check-4e0d-choice-2",
+          "hanzi": "不"
+        },
+        {
+          "choiceId": "check-4e0d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e0d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e0d-choice-2"
+    },
+    {
+      "checkId": "review-4e0d",
+      "characterId": "char-4e0d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "不"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e0d-choice-1",
+          "hanzi": "有"
+        },
+        {
+          "choiceId": "review-4e0d-choice-2",
+          "hanzi": "不"
+        },
+        {
+          "choiceId": "review-4e0d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e0d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e0d-choice-2"
+    },
+    {
+      "checkId": "practice-one-4e0d",
+      "characterId": "char-4e0d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "不会"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e0d-choice-1",
+          "hanzi": "有"
+        },
+        {
+          "choiceId": "practice-one-4e0d-choice-2",
+          "hanzi": "不"
+        },
+        {
+          "choiceId": "practice-one-4e0d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e0d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e0d-choice-2"
+    },
+    {
+      "checkId": "practice-two-4e0d",
+      "characterId": "char-4e0d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "不行"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e0d-choice-1",
+          "hanzi": "有"
+        },
+        {
+          "choiceId": "practice-two-4e0d-choice-2",
+          "hanzi": "不"
+        },
+        {
+          "choiceId": "practice-two-4e0d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e0d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e0d-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-6709",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/people-05-v1/char-6709",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-4e0d",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/people-05-v1/char-4e0d",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/people-05-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/people-05-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Have it or not",
+      "instructionEnglish": "Our capybara checks a useful ruler and tries a knot. Read words about having and not being able to do something."
+    },
+    "targets": [
+      {
+        "characterId": "char-6709",
+        "readingId": "reading-6709",
+        "familiarityCheckId": "familiar-6709",
+        "practice": [
+          {
+            "wordId": "word-6709-1",
+            "checkId": "practice-one-6709"
+          },
+          {
+            "wordId": "word-6709-2",
+            "checkId": "practice-two-6709"
+          }
+        ],
+        "immediateCheckId": "check-6709",
+        "reviewCheckId": "review-6709"
+      },
+      {
+        "characterId": "char-4e0d",
+        "readingId": "reading-4e0d",
+        "familiarityCheckId": "familiar-4e0d",
+        "practice": [
+          {
+            "wordId": "word-4e0d-1",
+            "checkId": "practice-one-4e0d"
+          },
+          {
+            "wordId": "word-4e0d-2",
+            "checkId": "practice-two-4e0d"
+          }
+        ],
+        "immediateCheckId": "check-4e0d",
+        "reviewCheckId": "review-4e0d"
+      }
+    ],
+    "reader": {
+      "title": "Have it or not",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-6709-1",
+        "word-6709-2",
+        "word-4e0d-1",
+        "word-4e0d-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-6709",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6709",
+          "transcript": "有",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6709",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6709",
+          "transcript": "有",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6709",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6709",
+          "transcript": "有",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6709",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6709",
+          "transcript": "有用",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6709",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6709",
+          "transcript": "所有",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6709",
+          "readingId": "reading-6709",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "有",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6709-1",
+          "readingId": null,
+          "wordId": "word-6709-1",
+          "checkId": null,
+          "transcript": "这把小尺子很有用。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6709-2",
+          "readingId": null,
+          "wordId": "word-6709-2",
+          "checkId": null,
+          "transcript": "所有小朋友都拿到了一张纸。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-4e0d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e0d",
+          "transcript": "不",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e0d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e0d",
+          "transcript": "不",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e0d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e0d",
+          "transcript": "不",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e0d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e0d",
+          "transcript": "不会",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e0d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e0d",
+          "transcript": "不行",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e0d",
+          "readingId": "reading-4e0d",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "不",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e0d-1",
+          "readingId": null,
+          "wordId": "word-4e0d-1",
+          "checkId": null,
+          "transcript": "我还不会打这个结，请你教我。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e0d-2",
+          "readingId": null,
+          "wordId": "word-4e0d-2",
+          "checkId": null,
+          "transcript": "这根绳子太短了，用它不行。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

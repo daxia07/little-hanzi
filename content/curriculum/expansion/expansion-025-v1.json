@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-025",
+  "lessonVersion": "expansion-025-v1",
+  "title": "Questions, learning and helping: 认 and 学",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 85
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 认 and 学 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-8ba4",
+      "hanzi": "认",
+      "readings": [
+        {
+          "readingId": "reading-8ba4",
+          "pinyin": "rèn",
+          "audioText": "认",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#认",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "recognise",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#认",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8ba4-1",
+          "text": "认识",
+          "pinyin": "rèn shi",
+          "english": "know; recognise",
+          "readingId": "reading-8ba4",
+          "context": {
+            "hanzi": "我认识书上的这个字。",
+            "english": "I recognise this character in the book.",
+            "targetCharacter": "认"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#认识",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8ba4-2",
+          "text": "认真",
+          "pinyin": "rèn zhēn",
+          "english": "careful; serious",
+          "readingId": "reading-8ba4",
+          "context": {
+            "hanzi": "我们认真把纸船折好。",
+            "english": "We carefully fold the paper boat.",
+            "targetCharacter": "认"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#认真",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 讠 beside 人 in 认.",
+        "demonstrationEnglish": "This is 认. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8ba4",
+        "delayedReview": {
+          "promptId": "later-8ba4",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8ba4"
+        }
+      },
+      "assets": [
+        "asset-glyph-8ba4",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5b66",
+      "hanzi": "学",
+      "readings": [
+        {
+          "readingId": "reading-5b66",
+          "pinyin": "xué",
+          "audioText": "学",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#学",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "learn; study",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#学",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5b66-1",
+          "text": "学习",
+          "pinyin": "xué xí",
+          "english": "learn; study",
+          "readingId": "reading-5b66",
+          "context": {
+            "hanzi": "我们一起学习两个新字。",
+            "english": "We learn two new characters together.",
+            "targetCharacter": "学"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#学习",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5b66-2",
+          "text": "学校",
+          "pinyin": "xué xiào",
+          "english": "school",
+          "readingId": "reading-5b66",
+          "context": {
+            "hanzi": "学校的花园里有一棵大树。",
+            "english": "There is a large tree in the school garden.",
+            "targetCharacter": "学"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#学校",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 子 under the roof-like middle of 学.",
+        "demonstrationEnglish": "This is 学. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5b66",
+        "delayedReview": {
+          "promptId": "later-5b66",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5b66"
+        }
+      },
+      "assets": [
+        "asset-glyph-5b66",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-025-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-8ba4",
+        "familiar-5b66"
+      ]
+    },
+    {
+      "stepId": "expansion-025-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-025-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-8ba4",
+        "practice-two-8ba4",
+        "practice-one-5b66",
+        "practice-two-5b66"
+      ]
+    },
+    {
+      "stepId": "expansion-025-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-8ba4",
+        "check-5b66"
+      ]
+    },
+    {
+      "stepId": "expansion-025-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-8ba4",
+      "characterId": "char-8ba4",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "认"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8ba4-choice-1",
+          "hanzi": "认"
+        },
+        {
+          "choiceId": "familiar-8ba4-choice-2",
+          "hanzi": "学"
+        },
+        {
+          "choiceId": "familiar-8ba4-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8ba4-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8ba4-choice-1"
+    },
+    {
+      "checkId": "check-8ba4",
+      "characterId": "char-8ba4",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "认"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8ba4-choice-1",
+          "hanzi": "认"
+        },
+        {
+          "choiceId": "check-8ba4-choice-2",
+          "hanzi": "学"
+        },
+        {
+          "choiceId": "check-8ba4-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8ba4-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8ba4-choice-1"
+    },
+    {
+      "checkId": "review-8ba4",
+      "characterId": "char-8ba4",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "认"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8ba4-choice-1",
+          "hanzi": "认"
+        },
+        {
+          "choiceId": "review-8ba4-choice-2",
+          "hanzi": "学"
+        },
+        {
+          "choiceId": "review-8ba4-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8ba4-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8ba4-choice-1"
+    },
+    {
+      "checkId": "practice-one-8ba4",
+      "characterId": "char-8ba4",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "认识"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8ba4-choice-1",
+          "hanzi": "认"
+        },
+        {
+          "choiceId": "practice-one-8ba4-choice-2",
+          "hanzi": "学"
+        },
+        {
+          "choiceId": "practice-one-8ba4-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8ba4-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8ba4-choice-1"
+    },
+    {
+      "checkId": "practice-two-8ba4",
+      "characterId": "char-8ba4",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "认真"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8ba4-choice-1",
+          "hanzi": "认"
+        },
+        {
+          "choiceId": "practice-two-8ba4-choice-2",
+          "hanzi": "学"
+        },
+        {
+          "choiceId": "practice-two-8ba4-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8ba4-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8ba4-choice-1"
+    },
+    {
+      "checkId": "familiar-5b66",
+      "characterId": "char-5b66",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "学"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5b66-choice-1",
+          "hanzi": "认"
+        },
+        {
+          "choiceId": "familiar-5b66-choice-2",
+          "hanzi": "学"
+        },
+        {
+          "choiceId": "familiar-5b66-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5b66-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5b66-choice-2"
+    },
+    {
+      "checkId": "check-5b66",
+      "characterId": "char-5b66",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "学"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5b66-choice-1",
+          "hanzi": "认"
+        },
+        {
+          "choiceId": "check-5b66-choice-2",
+          "hanzi": "学"
+        },
+        {
+          "choiceId": "check-5b66-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5b66-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5b66-choice-2"
+    },
+    {
+      "checkId": "review-5b66",
+      "characterId": "char-5b66",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "学"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5b66-choice-1",
+          "hanzi": "认"
+        },
+        {
+          "choiceId": "review-5b66-choice-2",
+          "hanzi": "学"
+        },
+        {
+          "choiceId": "review-5b66-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5b66-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5b66-choice-2"
+    },
+    {
+      "checkId": "practice-one-5b66",
+      "characterId": "char-5b66",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "学习"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5b66-choice-1",
+          "hanzi": "认"
+        },
+        {
+          "choiceId": "practice-one-5b66-choice-2",
+          "hanzi": "学"
+        },
+        {
+          "choiceId": "practice-one-5b66-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5b66-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5b66-choice-2"
+    },
+    {
+      "checkId": "practice-two-5b66",
+      "characterId": "char-5b66",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "学校"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5b66-choice-1",
+          "hanzi": "认"
+        },
+        {
+          "choiceId": "practice-two-5b66-choice-2",
+          "hanzi": "学"
+        },
+        {
+          "choiceId": "practice-two-5b66-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5b66-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5b66-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-8ba4",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-025-v1/char-8ba4",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5b66",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-025-v1/char-5b66",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-025-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-025-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Questions, learning and helping: 认 and 学",
+      "instructionEnglish": "Read two short word examples for 认 and 学 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-8ba4",
+        "readingId": "reading-8ba4",
+        "familiarityCheckId": "familiar-8ba4",
+        "practice": [
+          {
+            "wordId": "word-8ba4-1",
+            "checkId": "practice-one-8ba4"
+          },
+          {
+            "wordId": "word-8ba4-2",
+            "checkId": "practice-two-8ba4"
+          }
+        ],
+        "immediateCheckId": "check-8ba4",
+        "reviewCheckId": "review-8ba4"
+      },
+      {
+        "characterId": "char-5b66",
+        "readingId": "reading-5b66",
+        "familiarityCheckId": "familiar-5b66",
+        "practice": [
+          {
+            "wordId": "word-5b66-1",
+            "checkId": "practice-one-5b66"
+          },
+          {
+            "wordId": "word-5b66-2",
+            "checkId": "practice-two-5b66"
+          }
+        ],
+        "immediateCheckId": "check-5b66",
+        "reviewCheckId": "review-5b66"
+      }
+    ],
+    "reader": {
+      "title": "Questions, learning and helping: 认 and 学",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-8ba4-1",
+        "word-8ba4-2",
+        "word-5b66-1",
+        "word-5b66-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-8ba4",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8ba4",
+          "transcript": "认",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8ba4",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8ba4",
+          "transcript": "认",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8ba4",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8ba4",
+          "transcript": "认",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8ba4",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8ba4",
+          "transcript": "认识",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8ba4",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8ba4",
+          "transcript": "认真",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8ba4",
+          "readingId": "reading-8ba4",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "认",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8ba4-1",
+          "readingId": null,
+          "wordId": "word-8ba4-1",
+          "checkId": null,
+          "transcript": "我认识书上的这个字。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8ba4-2",
+          "readingId": null,
+          "wordId": "word-8ba4-2",
+          "checkId": null,
+          "transcript": "我们认真把纸船折好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5b66",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5b66",
+          "transcript": "学",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5b66",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5b66",
+          "transcript": "学",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5b66",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5b66",
+          "transcript": "学",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5b66",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5b66",
+          "transcript": "学习",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5b66",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5b66",
+          "transcript": "学校",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5b66",
+          "readingId": "reading-5b66",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "学",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5b66-1",
+          "readingId": null,
+          "wordId": "word-5b66-1",
+          "checkId": null,
+          "transcript": "我们一起学习两个新字。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5b66-2",
+          "readingId": null,
+          "wordId": "word-5b66-2",
+          "checkId": null,
+          "transcript": "学校的花园里有一棵大树。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

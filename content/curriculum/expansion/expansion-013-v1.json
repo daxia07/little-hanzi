@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-013",
+  "lessonVersion": "expansion-013-v1",
+  "title": "Moving and doing: 拿 and 放",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 73
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 拿 and 放 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-62ff",
+      "hanzi": "拿",
+      "readings": [
+        {
+          "readingId": "reading-62ff",
+          "pinyin": "ná",
+          "audioText": "拿",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拿",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "take; hold",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拿",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-62ff-1",
+          "text": "拿起",
+          "pinyin": "ná qǐ",
+          "english": "pick up",
+          "readingId": "reading-62ff",
+          "context": {
+            "hanzi": "我拿起铅笔画了一朵花。",
+            "english": "I pick up a pencil and draw a flower.",
+            "targetCharacter": "拿"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拿起",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-62ff-2",
+          "text": "拿手",
+          "pinyin": "ná shǒu",
+          "english": "skilled at",
+          "readingId": "reading-62ff",
+          "context": {
+            "hanzi": "折纸是姐姐的拿手本领。",
+            "english": "Paper folding is one of my older sister's skills.",
+            "targetCharacter": "拿"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拿手",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 手 beneath 合 in 拿.",
+        "demonstrationEnglish": "This is 拿. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-62ff",
+        "delayedReview": {
+          "promptId": "later-62ff",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-62ff"
+        }
+      },
+      "assets": [
+        "asset-glyph-62ff",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-653e",
+      "hanzi": "放",
+      "readings": [
+        {
+          "readingId": "reading-653e",
+          "pinyin": "fàng",
+          "audioText": "放",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#放",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "put; release",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#放",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-653e-1",
+          "text": "放下",
+          "pinyin": "fàng xià",
+          "english": "put down",
+          "readingId": "reading-653e",
+          "context": {
+            "hanzi": "小朋友轻轻放下水杯。",
+            "english": "The child gently puts down the drinking cup.",
+            "targetCharacter": "放"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#放下",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-653e-2",
+          "text": "放学",
+          "pinyin": "fàng xué",
+          "english": "finish school",
+          "readingId": "reading-653e",
+          "context": {
+            "hanzi": "放学后，我们一起走回家。",
+            "english": "After school, we walk home together.",
+            "targetCharacter": "放"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#放学",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 方 beside 攵 in 放.",
+        "demonstrationEnglish": "This is 放. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-653e",
+        "delayedReview": {
+          "promptId": "later-653e",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-653e"
+        }
+      },
+      "assets": [
+        "asset-glyph-653e",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-013-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-62ff",
+        "familiar-653e"
+      ]
+    },
+    {
+      "stepId": "expansion-013-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-013-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-62ff",
+        "practice-two-62ff",
+        "practice-one-653e",
+        "practice-two-653e"
+      ]
+    },
+    {
+      "stepId": "expansion-013-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-62ff",
+        "check-653e"
+      ]
+    },
+    {
+      "stepId": "expansion-013-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-62ff",
+      "characterId": "char-62ff",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "拿"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-62ff-choice-1",
+          "hanzi": "拿"
+        },
+        {
+          "choiceId": "familiar-62ff-choice-2",
+          "hanzi": "放"
+        },
+        {
+          "choiceId": "familiar-62ff-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-62ff-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-62ff-choice-1"
+    },
+    {
+      "checkId": "check-62ff",
+      "characterId": "char-62ff",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "拿"
+      },
+      "choices": [
+        {
+          "choiceId": "check-62ff-choice-1",
+          "hanzi": "拿"
+        },
+        {
+          "choiceId": "check-62ff-choice-2",
+          "hanzi": "放"
+        },
+        {
+          "choiceId": "check-62ff-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-62ff-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-62ff-choice-1"
+    },
+    {
+      "checkId": "review-62ff",
+      "characterId": "char-62ff",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "拿"
+      },
+      "choices": [
+        {
+          "choiceId": "review-62ff-choice-1",
+          "hanzi": "拿"
+        },
+        {
+          "choiceId": "review-62ff-choice-2",
+          "hanzi": "放"
+        },
+        {
+          "choiceId": "review-62ff-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-62ff-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-62ff-choice-1"
+    },
+    {
+      "checkId": "practice-one-62ff",
+      "characterId": "char-62ff",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "拿起"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-62ff-choice-1",
+          "hanzi": "拿"
+        },
+        {
+          "choiceId": "practice-one-62ff-choice-2",
+          "hanzi": "放"
+        },
+        {
+          "choiceId": "practice-one-62ff-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-62ff-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-62ff-choice-1"
+    },
+    {
+      "checkId": "practice-two-62ff",
+      "characterId": "char-62ff",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "拿手"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-62ff-choice-1",
+          "hanzi": "拿"
+        },
+        {
+          "choiceId": "practice-two-62ff-choice-2",
+          "hanzi": "放"
+        },
+        {
+          "choiceId": "practice-two-62ff-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-62ff-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-62ff-choice-1"
+    },
+    {
+      "checkId": "familiar-653e",
+      "characterId": "char-653e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "放"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-653e-choice-1",
+          "hanzi": "拿"
+        },
+        {
+          "choiceId": "familiar-653e-choice-2",
+          "hanzi": "放"
+        },
+        {
+          "choiceId": "familiar-653e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-653e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-653e-choice-2"
+    },
+    {
+      "checkId": "check-653e",
+      "characterId": "char-653e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "放"
+      },
+      "choices": [
+        {
+          "choiceId": "check-653e-choice-1",
+          "hanzi": "拿"
+        },
+        {
+          "choiceId": "check-653e-choice-2",
+          "hanzi": "放"
+        },
+        {
+          "choiceId": "check-653e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-653e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-653e-choice-2"
+    },
+    {
+      "checkId": "review-653e",
+      "characterId": "char-653e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "放"
+      },
+      "choices": [
+        {
+          "choiceId": "review-653e-choice-1",
+          "hanzi": "拿"
+        },
+        {
+          "choiceId": "review-653e-choice-2",
+          "hanzi": "放"
+        },
+        {
+          "choiceId": "review-653e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-653e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-653e-choice-2"
+    },
+    {
+      "checkId": "practice-one-653e",
+      "characterId": "char-653e",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "放下"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-653e-choice-1",
+          "hanzi": "拿"
+        },
+        {
+          "choiceId": "practice-one-653e-choice-2",
+          "hanzi": "放"
+        },
+        {
+          "choiceId": "practice-one-653e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-653e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-653e-choice-2"
+    },
+    {
+      "checkId": "practice-two-653e",
+      "characterId": "char-653e",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "放学"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-653e-choice-1",
+          "hanzi": "拿"
+        },
+        {
+          "choiceId": "practice-two-653e-choice-2",
+          "hanzi": "放"
+        },
+        {
+          "choiceId": "practice-two-653e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-653e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-653e-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-62ff",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-013-v1/char-62ff",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-653e",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-013-v1/char-653e",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-013-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-013-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Moving and doing: 拿 and 放",
+      "instructionEnglish": "Read two short word examples for 拿 and 放 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-62ff",
+        "readingId": "reading-62ff",
+        "familiarityCheckId": "familiar-62ff",
+        "practice": [
+          {
+            "wordId": "word-62ff-1",
+            "checkId": "practice-one-62ff"
+          },
+          {
+            "wordId": "word-62ff-2",
+            "checkId": "practice-two-62ff"
+          }
+        ],
+        "immediateCheckId": "check-62ff",
+        "reviewCheckId": "review-62ff"
+      },
+      {
+        "characterId": "char-653e",
+        "readingId": "reading-653e",
+        "familiarityCheckId": "familiar-653e",
+        "practice": [
+          {
+            "wordId": "word-653e-1",
+            "checkId": "practice-one-653e"
+          },
+          {
+            "wordId": "word-653e-2",
+            "checkId": "practice-two-653e"
+          }
+        ],
+        "immediateCheckId": "check-653e",
+        "reviewCheckId": "review-653e"
+      }
+    ],
+    "reader": {
+      "title": "Moving and doing: 拿 and 放",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-62ff-1",
+        "word-62ff-2",
+        "word-653e-1",
+        "word-653e-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-62ff",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-62ff",
+          "transcript": "拿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-62ff",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-62ff",
+          "transcript": "拿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-62ff",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-62ff",
+          "transcript": "拿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-62ff",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-62ff",
+          "transcript": "拿起",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-62ff",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-62ff",
+          "transcript": "拿手",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-62ff",
+          "readingId": "reading-62ff",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "拿",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-62ff-1",
+          "readingId": null,
+          "wordId": "word-62ff-1",
+          "checkId": null,
+          "transcript": "我拿起铅笔画了一朵花。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-62ff-2",
+          "readingId": null,
+          "wordId": "word-62ff-2",
+          "checkId": null,
+          "transcript": "折纸是姐姐的拿手本领。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-653e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-653e",
+          "transcript": "放",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-653e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-653e",
+          "transcript": "放",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-653e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-653e",
+          "transcript": "放",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-653e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-653e",
+          "transcript": "放下",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-653e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-653e",
+          "transcript": "放学",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-653e",
+          "readingId": "reading-653e",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "放",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-653e-1",
+          "readingId": null,
+          "wordId": "word-653e-1",
+          "checkId": null,
+          "transcript": "小朋友轻轻放下水杯。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-653e-2",
+          "readingId": null,
+          "wordId": "word-653e-2",
+          "checkId": null,
+          "transcript": "放学后，我们一起走回家。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

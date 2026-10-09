@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-066",
+  "lessonVersion": "expansion-066-v1",
+  "title": "Streams, plants and fields: 枝 and 苗",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 126
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 枝 and 苗 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-679d",
+      "hanzi": "枝",
+      "readings": [
+        {
+          "readingId": "reading-679d",
+          "pinyin": "zhī",
+          "audioText": "枝",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#枝",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "branch",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#枝",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-679d-1",
+          "text": "树枝",
+          "pinyin": "shù zhī",
+          "english": "a branch",
+          "readingId": "reading-679d",
+          "context": {
+            "hanzi": "我们仔细观察树枝。",
+            "english": "We carefully observe a branch.",
+            "targetCharacter": "枝"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#树枝",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-679d-2",
+          "text": "枝条",
+          "pinyin": "zhī tiáo",
+          "english": "branches",
+          "readingId": "reading-679d",
+          "context": {
+            "hanzi": "我在图画里看到了枝条。",
+            "english": "I see branches in the picture.",
+            "targetCharacter": "枝"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#枝条",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 木 beside 支 in 枝.",
+        "demonstrationEnglish": "This is 枝. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-679d",
+        "delayedReview": {
+          "promptId": "later-679d",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-679d"
+        }
+      },
+      "assets": [
+        "asset-glyph-679d",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-82d7",
+      "hanzi": "苗",
+      "readings": [
+        {
+          "readingId": "reading-82d7",
+          "pinyin": "miáo",
+          "audioText": "苗",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#苗",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "seedling",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#苗",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-82d7-1",
+          "text": "树苗",
+          "pinyin": "shù miáo",
+          "english": "a tree seedling",
+          "readingId": "reading-82d7",
+          "context": {
+            "hanzi": "花园里有树苗。",
+            "english": "The garden has a tree seedling.",
+            "targetCharacter": "苗"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#树苗",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-82d7-2",
+          "text": "幼苗",
+          "pinyin": "yòu miáo",
+          "english": "a young seedling",
+          "readingId": "reading-82d7",
+          "context": {
+            "hanzi": "我们仔细观察幼苗。",
+            "english": "We carefully observe a young seedling.",
+            "targetCharacter": "苗"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#幼苗",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 艹 above 田 in 苗.",
+        "demonstrationEnglish": "This is 苗. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-82d7",
+        "delayedReview": {
+          "promptId": "later-82d7",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-82d7"
+        }
+      },
+      "assets": [
+        "asset-glyph-82d7",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-066-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-679d",
+        "familiar-82d7"
+      ]
+    },
+    {
+      "stepId": "expansion-066-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-066-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-679d",
+        "practice-two-679d",
+        "practice-one-82d7",
+        "practice-two-82d7"
+      ]
+    },
+    {
+      "stepId": "expansion-066-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-679d",
+        "check-82d7"
+      ]
+    },
+    {
+      "stepId": "expansion-066-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-679d",
+      "characterId": "char-679d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "枝"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-679d-choice-1",
+          "hanzi": "枝"
+        },
+        {
+          "choiceId": "familiar-679d-choice-2",
+          "hanzi": "苗"
+        },
+        {
+          "choiceId": "familiar-679d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-679d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-679d-choice-1"
+    },
+    {
+      "checkId": "check-679d",
+      "characterId": "char-679d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "枝"
+      },
+      "choices": [
+        {
+          "choiceId": "check-679d-choice-1",
+          "hanzi": "枝"
+        },
+        {
+          "choiceId": "check-679d-choice-2",
+          "hanzi": "苗"
+        },
+        {
+          "choiceId": "check-679d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-679d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-679d-choice-1"
+    },
+    {
+      "checkId": "review-679d",
+      "characterId": "char-679d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "枝"
+      },
+      "choices": [
+        {
+          "choiceId": "review-679d-choice-1",
+          "hanzi": "枝"
+        },
+        {
+          "choiceId": "review-679d-choice-2",
+          "hanzi": "苗"
+        },
+        {
+          "choiceId": "review-679d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-679d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-679d-choice-1"
+    },
+    {
+      "checkId": "practice-one-679d",
+      "characterId": "char-679d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "树枝"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-679d-choice-1",
+          "hanzi": "枝"
+        },
+        {
+          "choiceId": "practice-one-679d-choice-2",
+          "hanzi": "苗"
+        },
+        {
+          "choiceId": "practice-one-679d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-679d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-679d-choice-1"
+    },
+    {
+      "checkId": "practice-two-679d",
+      "characterId": "char-679d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "枝条"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-679d-choice-1",
+          "hanzi": "枝"
+        },
+        {
+          "choiceId": "practice-two-679d-choice-2",
+          "hanzi": "苗"
+        },
+        {
+          "choiceId": "practice-two-679d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-679d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-679d-choice-1"
+    },
+    {
+      "checkId": "familiar-82d7",
+      "characterId": "char-82d7",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "苗"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-82d7-choice-1",
+          "hanzi": "枝"
+        },
+        {
+          "choiceId": "familiar-82d7-choice-2",
+          "hanzi": "苗"
+        },
+        {
+          "choiceId": "familiar-82d7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-82d7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-82d7-choice-2"
+    },
+    {
+      "checkId": "check-82d7",
+      "characterId": "char-82d7",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "苗"
+      },
+      "choices": [
+        {
+          "choiceId": "check-82d7-choice-1",
+          "hanzi": "枝"
+        },
+        {
+          "choiceId": "check-82d7-choice-2",
+          "hanzi": "苗"
+        },
+        {
+          "choiceId": "check-82d7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-82d7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-82d7-choice-2"
+    },
+    {
+      "checkId": "review-82d7",
+      "characterId": "char-82d7",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "苗"
+      },
+      "choices": [
+        {
+          "choiceId": "review-82d7-choice-1",
+          "hanzi": "枝"
+        },
+        {
+          "choiceId": "review-82d7-choice-2",
+          "hanzi": "苗"
+        },
+        {
+          "choiceId": "review-82d7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-82d7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-82d7-choice-2"
+    },
+    {
+      "checkId": "practice-one-82d7",
+      "characterId": "char-82d7",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "树苗"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-82d7-choice-1",
+          "hanzi": "枝"
+        },
+        {
+          "choiceId": "practice-one-82d7-choice-2",
+          "hanzi": "苗"
+        },
+        {
+          "choiceId": "practice-one-82d7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-82d7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-82d7-choice-2"
+    },
+    {
+      "checkId": "practice-two-82d7",
+      "characterId": "char-82d7",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "幼苗"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-82d7-choice-1",
+          "hanzi": "枝"
+        },
+        {
+          "choiceId": "practice-two-82d7-choice-2",
+          "hanzi": "苗"
+        },
+        {
+          "choiceId": "practice-two-82d7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-82d7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-82d7-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-679d",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-066-v1/char-679d",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-82d7",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-066-v1/char-82d7",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-066-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-066-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Streams, plants and fields: 枝 and 苗",
+      "instructionEnglish": "Read two short word examples for 枝 and 苗 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-679d",
+        "readingId": "reading-679d",
+        "familiarityCheckId": "familiar-679d",
+        "practice": [
+          {
+            "wordId": "word-679d-1",
+            "checkId": "practice-one-679d"
+          },
+          {
+            "wordId": "word-679d-2",
+            "checkId": "practice-two-679d"
+          }
+        ],
+        "immediateCheckId": "check-679d",
+        "reviewCheckId": "review-679d"
+      },
+      {
+        "characterId": "char-82d7",
+        "readingId": "reading-82d7",
+        "familiarityCheckId": "familiar-82d7",
+        "practice": [
+          {
+            "wordId": "word-82d7-1",
+            "checkId": "practice-one-82d7"
+          },
+          {
+            "wordId": "word-82d7-2",
+            "checkId": "practice-two-82d7"
+          }
+        ],
+        "immediateCheckId": "check-82d7",
+        "reviewCheckId": "review-82d7"
+      }
+    ],
+    "reader": {
+      "title": "Streams, plants and fields: 枝 and 苗",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-679d-1",
+        "word-679d-2",
+        "word-82d7-1",
+        "word-82d7-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-679d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-679d",
+          "transcript": "枝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-679d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-679d",
+          "transcript": "枝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-679d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-679d",
+          "transcript": "枝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-679d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-679d",
+          "transcript": "树枝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-679d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-679d",
+          "transcript": "枝条",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-679d",
+          "readingId": "reading-679d",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "枝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-679d-1",
+          "readingId": null,
+          "wordId": "word-679d-1",
+          "checkId": null,
+          "transcript": "我们仔细观察树枝。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-679d-2",
+          "readingId": null,
+          "wordId": "word-679d-2",
+          "checkId": null,
+          "transcript": "我在图画里看到了枝条。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-82d7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-82d7",
+          "transcript": "苗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-82d7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-82d7",
+          "transcript": "苗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-82d7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-82d7",
+          "transcript": "苗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-82d7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-82d7",
+          "transcript": "树苗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-82d7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-82d7",
+          "transcript": "幼苗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-82d7",
+          "readingId": "reading-82d7",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "苗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-82d7-1",
+          "readingId": null,
+          "wordId": "word-82d7-1",
+          "checkId": null,
+          "transcript": "花园里有树苗。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-82d7-2",
+          "readingId": null,
+          "wordId": "word-82d7-2",
+          "checkId": null,
+          "transcript": "我们仔细观察幼苗。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

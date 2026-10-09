@@ -1,9 +1,9 @@
 {
   "schemaVersion": "hanzi-source-transfer-1",
-  "sourceCommit": "bc149000648caf3da1a3b3d034f2eda8ad7319d5",
-  "contentCheckpoint": "bbed45bff98b997024151228d891385e99462411",
+  "sourceCommit": "b83cc1e7558079e0c8b37096ad2a7c5f66b0cd25",
+  "contentCheckpoint": "b83cc1e7558079e0c8b37096ad2a7c5f66b0cd25",
   "publicHistoryBase": "05123f1f3d8ec237d6d1d20eaaea545ceaa22259",
-  "status": "100 draft targets; 50 paired packages; human acceptance and release pending",
+  "status": "400 draft targets; 200 paired packages; attributed human acceptance and release pending",
   "privateHistoryTransferred": false,
   "privacyReview": "PASS; metadata certificates public, fixture emails reserved; private continuation history excluded",
   "excluded": "internal AGENTS and task notes, all internal docs/reports/logs, hosting/account metadata, untracked/ignored files, private recordings/data and local continuation history",
@@ -11,8 +11,16 @@
   "validation": {
     "typecheck": "PASS",
     "nodeBuild": "PASS",
-    "scopedTests": "11 PASS",
-    "reproduction": "PASS",
-    "fullTests": "Initial 761/762 PASS; existing BACKUP_CORPUS_INVALID failure retained privately; unchanged retry 762/762 PASS. Cause unconfirmed. No browser/device/hosted proof."
-  }
+    "scopedTypeAwareLint": "PASS",
+    "reproduction": "PASS exact source archive and package generation",
+    "fullTests": "774/774 PASS, zero failures/skips; no browser/device/hosted acceptance",
+    "independentPrivacyLicenseReview": "PASS after retaining existing generated-capybara art notice"
+  },
+  "publicParent": "4b3b57dca225d74edfabca1c7f2091e4eb532c5f",
+  "corpusVersion": "hanzi-starter-draft-v5",
+  "corpusDigest": "sha256:cd9ba5cff2ba8c66e79cc7722ca69d812de7494ddfffdc9a4deb1f6640418acb",
+  "humanReviewedTargets": 0,
+  "releasedTargets": 0,
+  "previous100Reference": "source-transfer/agent-mini-100-drafts-20261008",
+  "newSourceDeltaFiles": 176
 }

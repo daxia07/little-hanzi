@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-111",
+  "lessonVersion": "expansion-111-v1",
+  "title": "Art, music and games: 音 and 声",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 171
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 音 and 声 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-97f3",
+      "hanzi": "音",
+      "readings": [
+        {
+          "readingId": "reading-97f3",
+          "pinyin": "yīn",
+          "audioText": "音",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#音",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "sound",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#音",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-97f3-1",
+          "text": "声音",
+          "pinyin": "shēng yīn",
+          "english": "a sound",
+          "readingId": "reading-97f3",
+          "context": {
+            "hanzi": "我们听到了声音。",
+            "english": "We hear a sound.",
+            "targetCharacter": "音"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#声音",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-97f3-2",
+          "text": "音乐",
+          "pinyin": "yīn yuè",
+          "english": "music",
+          "readingId": "reading-97f3",
+          "context": {
+            "hanzi": "我们听到了音乐。",
+            "english": "We hear music.",
+            "targetCharacter": "音"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#音乐",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 立 above 日 in 音.",
+        "demonstrationEnglish": "This is 音. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-97f3",
+        "delayedReview": {
+          "promptId": "later-97f3",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-97f3"
+        }
+      },
+      "assets": [
+        "asset-glyph-97f3",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-58f0",
+      "hanzi": "声",
+      "readings": [
+        {
+          "readingId": "reading-58f0",
+          "pinyin": "shēng",
+          "audioText": "声",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#声",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "sound; voice",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#声",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-58f0-1",
+          "text": "声音",
+          "pinyin": "shēng yīn",
+          "english": "a sound",
+          "readingId": "reading-58f0",
+          "context": {
+            "hanzi": "我们听到了声音。",
+            "english": "We hear a sound.",
+            "targetCharacter": "声"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#声音",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-58f0-2",
+          "text": "歌声",
+          "pinyin": "gē shēng",
+          "english": "singing",
+          "readingId": "reading-58f0",
+          "context": {
+            "hanzi": "我们听到了歌声。",
+            "english": "We hear singing.",
+            "targetCharacter": "声"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#歌声",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 士 above the lower part of 声.",
+        "demonstrationEnglish": "This is 声. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-58f0",
+        "delayedReview": {
+          "promptId": "later-58f0",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-58f0"
+        }
+      },
+      "assets": [
+        "asset-glyph-58f0",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-111-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-97f3",
+        "familiar-58f0"
+      ]
+    },
+    {
+      "stepId": "expansion-111-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-111-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-97f3",
+        "practice-two-97f3",
+        "practice-one-58f0",
+        "practice-two-58f0"
+      ]
+    },
+    {
+      "stepId": "expansion-111-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-97f3",
+        "check-58f0"
+      ]
+    },
+    {
+      "stepId": "expansion-111-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-97f3",
+      "characterId": "char-97f3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "音"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-97f3-choice-1",
+          "hanzi": "音"
+        },
+        {
+          "choiceId": "familiar-97f3-choice-2",
+          "hanzi": "声"
+        },
+        {
+          "choiceId": "familiar-97f3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-97f3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-97f3-choice-1"
+    },
+    {
+      "checkId": "check-97f3",
+      "characterId": "char-97f3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "音"
+      },
+      "choices": [
+        {
+          "choiceId": "check-97f3-choice-1",
+          "hanzi": "音"
+        },
+        {
+          "choiceId": "check-97f3-choice-2",
+          "hanzi": "声"
+        },
+        {
+          "choiceId": "check-97f3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-97f3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-97f3-choice-1"
+    },
+    {
+      "checkId": "review-97f3",
+      "characterId": "char-97f3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "音"
+      },
+      "choices": [
+        {
+          "choiceId": "review-97f3-choice-1",
+          "hanzi": "音"
+        },
+        {
+          "choiceId": "review-97f3-choice-2",
+          "hanzi": "声"
+        },
+        {
+          "choiceId": "review-97f3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-97f3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-97f3-choice-1"
+    },
+    {
+      "checkId": "practice-one-97f3",
+      "characterId": "char-97f3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "声音"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-97f3-choice-1",
+          "hanzi": "音"
+        },
+        {
+          "choiceId": "practice-one-97f3-choice-2",
+          "hanzi": "声"
+        },
+        {
+          "choiceId": "practice-one-97f3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-97f3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-97f3-choice-1"
+    },
+    {
+      "checkId": "practice-two-97f3",
+      "characterId": "char-97f3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "音乐"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-97f3-choice-1",
+          "hanzi": "音"
+        },
+        {
+          "choiceId": "practice-two-97f3-choice-2",
+          "hanzi": "声"
+        },
+        {
+          "choiceId": "practice-two-97f3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-97f3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-97f3-choice-1"
+    },
+    {
+      "checkId": "familiar-58f0",
+      "characterId": "char-58f0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "声"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-58f0-choice-1",
+          "hanzi": "音"
+        },
+        {
+          "choiceId": "familiar-58f0-choice-2",
+          "hanzi": "声"
+        },
+        {
+          "choiceId": "familiar-58f0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-58f0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-58f0-choice-2"
+    },
+    {
+      "checkId": "check-58f0",
+      "characterId": "char-58f0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "声"
+      },
+      "choices": [
+        {
+          "choiceId": "check-58f0-choice-1",
+          "hanzi": "音"
+        },
+        {
+          "choiceId": "check-58f0-choice-2",
+          "hanzi": "声"
+        },
+        {
+          "choiceId": "check-58f0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-58f0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-58f0-choice-2"
+    },
+    {
+      "checkId": "review-58f0",
+      "characterId": "char-58f0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "声"
+      },
+      "choices": [
+        {
+          "choiceId": "review-58f0-choice-1",
+          "hanzi": "音"
+        },
+        {
+          "choiceId": "review-58f0-choice-2",
+          "hanzi": "声"
+        },
+        {
+          "choiceId": "review-58f0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-58f0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-58f0-choice-2"
+    },
+    {
+      "checkId": "practice-one-58f0",
+      "characterId": "char-58f0",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "声音"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-58f0-choice-1",
+          "hanzi": "音"
+        },
+        {
+          "choiceId": "practice-one-58f0-choice-2",
+          "hanzi": "声"
+        },
+        {
+          "choiceId": "practice-one-58f0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-58f0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-58f0-choice-2"
+    },
+    {
+      "checkId": "practice-two-58f0",
+      "characterId": "char-58f0",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "歌声"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-58f0-choice-1",
+          "hanzi": "音"
+        },
+        {
+          "choiceId": "practice-two-58f0-choice-2",
+          "hanzi": "声"
+        },
+        {
+          "choiceId": "practice-two-58f0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-58f0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-58f0-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-97f3",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-111-v1/char-97f3",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-58f0",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-111-v1/char-58f0",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-111-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-111-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Art, music and games: 音 and 声",
+      "instructionEnglish": "Read two short word examples for 音 and 声 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-97f3",
+        "readingId": "reading-97f3",
+        "familiarityCheckId": "familiar-97f3",
+        "practice": [
+          {
+            "wordId": "word-97f3-1",
+            "checkId": "practice-one-97f3"
+          },
+          {
+            "wordId": "word-97f3-2",
+            "checkId": "practice-two-97f3"
+          }
+        ],
+        "immediateCheckId": "check-97f3",
+        "reviewCheckId": "review-97f3"
+      },
+      {
+        "characterId": "char-58f0",
+        "readingId": "reading-58f0",
+        "familiarityCheckId": "familiar-58f0",
+        "practice": [
+          {
+            "wordId": "word-58f0-1",
+            "checkId": "practice-one-58f0"
+          },
+          {
+            "wordId": "word-58f0-2",
+            "checkId": "practice-two-58f0"
+          }
+        ],
+        "immediateCheckId": "check-58f0",
+        "reviewCheckId": "review-58f0"
+      }
+    ],
+    "reader": {
+      "title": "Art, music and games: 音 and 声",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-97f3-1",
+        "word-97f3-2",
+        "word-58f0-1",
+        "word-58f0-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-97f3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-97f3",
+          "transcript": "音",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-97f3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-97f3",
+          "transcript": "音",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-97f3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-97f3",
+          "transcript": "音",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-97f3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-97f3",
+          "transcript": "声音",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-97f3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-97f3",
+          "transcript": "音乐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-97f3",
+          "readingId": "reading-97f3",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "音",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-97f3-1",
+          "readingId": null,
+          "wordId": "word-97f3-1",
+          "checkId": null,
+          "transcript": "我们听到了声音。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-97f3-2",
+          "readingId": null,
+          "wordId": "word-97f3-2",
+          "checkId": null,
+          "transcript": "我们听到了音乐。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-58f0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-58f0",
+          "transcript": "声",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-58f0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-58f0",
+          "transcript": "声",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-58f0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-58f0",
+          "transcript": "声",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-58f0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-58f0",
+          "transcript": "声音",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-58f0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-58f0",
+          "transcript": "歌声",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-58f0",
+          "readingId": "reading-58f0",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "声",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-58f0-1",
+          "readingId": null,
+          "wordId": "word-58f0-1",
+          "checkId": null,
+          "transcript": "我们听到了声音。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-58f0-2",
+          "readingId": null,
+          "wordId": "word-58f0-2",
+          "checkId": null,
+          "transcript": "我们听到了歌声。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

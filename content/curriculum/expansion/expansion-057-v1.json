@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-057",
+  "lessonVersion": "expansion-057-v1",
+  "title": "Seasons, weather and water: 凉 and 冰",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 117
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 凉 and 冰 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-51c9",
+      "hanzi": "凉",
+      "readings": [
+        {
+          "readingId": "reading-51c9",
+          "pinyin": "liáng",
+          "audioText": "凉",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#凉",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "cool",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#凉",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-51c9-1",
+          "text": "凉快",
+          "pinyin": "liáng kuai",
+          "english": "cool and refreshing",
+          "readingId": "reading-51c9",
+          "context": {
+            "hanzi": "树荫下很凉快。",
+            "english": "It is cool and refreshing in the tree's shade.",
+            "targetCharacter": "凉"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#凉快",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-51c9-2",
+          "text": "清凉",
+          "pinyin": "qīng liáng",
+          "english": "cool and refreshing",
+          "readingId": "reading-51c9",
+          "context": {
+            "hanzi": "清凉的风吹过来。",
+            "english": "A cool, refreshing breeze blows past.",
+            "targetCharacter": "凉"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#清凉",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 冫 beside 京 in 凉.",
+        "demonstrationEnglish": "This is 凉. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-51c9",
+        "delayedReview": {
+          "promptId": "later-51c9",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-51c9"
+        }
+      },
+      "assets": [
+        "asset-glyph-51c9",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-51b0",
+      "hanzi": "冰",
+      "readings": [
+        {
+          "readingId": "reading-51b0",
+          "pinyin": "bīng",
+          "audioText": "冰",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#冰",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "ice",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#冰",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-51b0-1",
+          "text": "冰块",
+          "pinyin": "bīng kuài",
+          "english": "ice cubes",
+          "readingId": "reading-51b0",
+          "context": {
+            "hanzi": "大人把冰块放进杯子。",
+            "english": "An adult puts ice cubes into the cup.",
+            "targetCharacter": "冰"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#冰块",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-51b0-2",
+          "text": "冰雪",
+          "pinyin": "bīng xuě",
+          "english": "ice and snow",
+          "readingId": "reading-51b0",
+          "context": {
+            "hanzi": "我在图画里看到了冰雪。",
+            "english": "I see ice and snow in the picture.",
+            "targetCharacter": "冰"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#冰雪",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 冫 beside 水 in 冰.",
+        "demonstrationEnglish": "This is 冰. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-51b0",
+        "delayedReview": {
+          "promptId": "later-51b0",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-51b0"
+        }
+      },
+      "assets": [
+        "asset-glyph-51b0",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-057-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-51c9",
+        "familiar-51b0"
+      ]
+    },
+    {
+      "stepId": "expansion-057-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-057-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-51c9",
+        "practice-two-51c9",
+        "practice-one-51b0",
+        "practice-two-51b0"
+      ]
+    },
+    {
+      "stepId": "expansion-057-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-51c9",
+        "check-51b0"
+      ]
+    },
+    {
+      "stepId": "expansion-057-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-51c9",
+      "characterId": "char-51c9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "凉"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-51c9-choice-1",
+          "hanzi": "凉"
+        },
+        {
+          "choiceId": "familiar-51c9-choice-2",
+          "hanzi": "冰"
+        },
+        {
+          "choiceId": "familiar-51c9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-51c9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-51c9-choice-1"
+    },
+    {
+      "checkId": "check-51c9",
+      "characterId": "char-51c9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "凉"
+      },
+      "choices": [
+        {
+          "choiceId": "check-51c9-choice-1",
+          "hanzi": "凉"
+        },
+        {
+          "choiceId": "check-51c9-choice-2",
+          "hanzi": "冰"
+        },
+        {
+          "choiceId": "check-51c9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-51c9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-51c9-choice-1"
+    },
+    {
+      "checkId": "review-51c9",
+      "characterId": "char-51c9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "凉"
+      },
+      "choices": [
+        {
+          "choiceId": "review-51c9-choice-1",
+          "hanzi": "凉"
+        },
+        {
+          "choiceId": "review-51c9-choice-2",
+          "hanzi": "冰"
+        },
+        {
+          "choiceId": "review-51c9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-51c9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-51c9-choice-1"
+    },
+    {
+      "checkId": "practice-one-51c9",
+      "characterId": "char-51c9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "凉快"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-51c9-choice-1",
+          "hanzi": "凉"
+        },
+        {
+          "choiceId": "practice-one-51c9-choice-2",
+          "hanzi": "冰"
+        },
+        {
+          "choiceId": "practice-one-51c9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-51c9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-51c9-choice-1"
+    },
+    {
+      "checkId": "practice-two-51c9",
+      "characterId": "char-51c9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "清凉"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-51c9-choice-1",
+          "hanzi": "凉"
+        },
+        {
+          "choiceId": "practice-two-51c9-choice-2",
+          "hanzi": "冰"
+        },
+        {
+          "choiceId": "practice-two-51c9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-51c9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-51c9-choice-1"
+    },
+    {
+      "checkId": "familiar-51b0",
+      "characterId": "char-51b0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "冰"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-51b0-choice-1",
+          "hanzi": "凉"
+        },
+        {
+          "choiceId": "familiar-51b0-choice-2",
+          "hanzi": "冰"
+        },
+        {
+          "choiceId": "familiar-51b0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-51b0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-51b0-choice-2"
+    },
+    {
+      "checkId": "check-51b0",
+      "characterId": "char-51b0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "冰"
+      },
+      "choices": [
+        {
+          "choiceId": "check-51b0-choice-1",
+          "hanzi": "凉"
+        },
+        {
+          "choiceId": "check-51b0-choice-2",
+          "hanzi": "冰"
+        },
+        {
+          "choiceId": "check-51b0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-51b0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-51b0-choice-2"
+    },
+    {
+      "checkId": "review-51b0",
+      "characterId": "char-51b0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "冰"
+      },
+      "choices": [
+        {
+          "choiceId": "review-51b0-choice-1",
+          "hanzi": "凉"
+        },
+        {
+          "choiceId": "review-51b0-choice-2",
+          "hanzi": "冰"
+        },
+        {
+          "choiceId": "review-51b0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-51b0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-51b0-choice-2"
+    },
+    {
+      "checkId": "practice-one-51b0",
+      "characterId": "char-51b0",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "冰块"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-51b0-choice-1",
+          "hanzi": "凉"
+        },
+        {
+          "choiceId": "practice-one-51b0-choice-2",
+          "hanzi": "冰"
+        },
+        {
+          "choiceId": "practice-one-51b0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-51b0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-51b0-choice-2"
+    },
+    {
+      "checkId": "practice-two-51b0",
+      "characterId": "char-51b0",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "冰雪"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-51b0-choice-1",
+          "hanzi": "凉"
+        },
+        {
+          "choiceId": "practice-two-51b0-choice-2",
+          "hanzi": "冰"
+        },
+        {
+          "choiceId": "practice-two-51b0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-51b0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-51b0-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-51c9",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-057-v1/char-51c9",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-51b0",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-057-v1/char-51b0",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-057-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-057-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Seasons, weather and water: 凉 and 冰",
+      "instructionEnglish": "Read two short word examples for 凉 and 冰 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-51c9",
+        "readingId": "reading-51c9",
+        "familiarityCheckId": "familiar-51c9",
+        "practice": [
+          {
+            "wordId": "word-51c9-1",
+            "checkId": "practice-one-51c9"
+          },
+          {
+            "wordId": "word-51c9-2",
+            "checkId": "practice-two-51c9"
+          }
+        ],
+        "immediateCheckId": "check-51c9",
+        "reviewCheckId": "review-51c9"
+      },
+      {
+        "characterId": "char-51b0",
+        "readingId": "reading-51b0",
+        "familiarityCheckId": "familiar-51b0",
+        "practice": [
+          {
+            "wordId": "word-51b0-1",
+            "checkId": "practice-one-51b0"
+          },
+          {
+            "wordId": "word-51b0-2",
+            "checkId": "practice-two-51b0"
+          }
+        ],
+        "immediateCheckId": "check-51b0",
+        "reviewCheckId": "review-51b0"
+      }
+    ],
+    "reader": {
+      "title": "Seasons, weather and water: 凉 and 冰",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-51c9-1",
+        "word-51c9-2",
+        "word-51b0-1",
+        "word-51b0-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-51c9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-51c9",
+          "transcript": "凉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-51c9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-51c9",
+          "transcript": "凉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-51c9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-51c9",
+          "transcript": "凉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-51c9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-51c9",
+          "transcript": "凉快",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-51c9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-51c9",
+          "transcript": "清凉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-51c9",
+          "readingId": "reading-51c9",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "凉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-51c9-1",
+          "readingId": null,
+          "wordId": "word-51c9-1",
+          "checkId": null,
+          "transcript": "树荫下很凉快。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-51c9-2",
+          "readingId": null,
+          "wordId": "word-51c9-2",
+          "checkId": null,
+          "transcript": "清凉的风吹过来。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-51b0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-51b0",
+          "transcript": "冰",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-51b0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-51b0",
+          "transcript": "冰",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-51b0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-51b0",
+          "transcript": "冰",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-51b0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-51b0",
+          "transcript": "冰块",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-51b0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-51b0",
+          "transcript": "冰雪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-51b0",
+          "readingId": "reading-51b0",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "冰",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-51b0-1",
+          "readingId": null,
+          "wordId": "word-51b0-1",
+          "checkId": null,
+          "transcript": "大人把冰块放进杯子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-51b0-2",
+          "readingId": null,
+          "wordId": "word-51b0-2",
+          "checkId": null,
+          "transcript": "我在图画里看到了冰雪。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-081",
+  "lessonVersion": "expansion-081-v1",
+  "title": "Meals and containers: 馒 and 芝",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 141
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 馒 and 芝 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-9992",
+      "hanzi": "馒",
+      "readings": [
+        {
+          "readingId": "reading-9992",
+          "pinyin": "mán",
+          "audioText": "馒",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#馒",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "steamed bun, in 馒头",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#馒",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-9992-1",
+          "text": "馒头",
+          "pinyin": "mán tou",
+          "english": "steamed buns",
+          "readingId": "reading-9992",
+          "context": {
+            "hanzi": "大人把馒头放在盘子里。",
+            "english": "An adult puts steamed buns on the plate.",
+            "targetCharacter": "馒"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#馒头",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-9992-2",
+          "text": "馒头片",
+          "pinyin": "mán tou piàn",
+          "english": "slices of steamed bun",
+          "readingId": "reading-9992",
+          "context": {
+            "hanzi": "大人把馒头片放在盘子里。",
+            "english": "An adult puts slices of steamed bun on the plate.",
+            "targetCharacter": "馒"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#馒头片",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 饣 on the left of 馒.",
+        "demonstrationEnglish": "This is 馒. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-9992",
+        "delayedReview": {
+          "promptId": "later-9992",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-9992"
+        }
+      },
+      "assets": [
+        "asset-glyph-9992",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-829d",
+      "hanzi": "芝",
+      "readings": [
+        {
+          "readingId": "reading-829d",
+          "pinyin": "zhī",
+          "audioText": "芝",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#芝",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "sesame, in 芝麻",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#芝",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-829d-1",
+          "text": "芝麻",
+          "pinyin": "zhī ma",
+          "english": "sesame seeds",
+          "readingId": "reading-829d",
+          "context": {
+            "hanzi": "碗里有芝麻。",
+            "english": "The bowl holds sesame seeds.",
+            "targetCharacter": "芝"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#芝麻",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-829d-2",
+          "text": "芝麻油",
+          "pinyin": "zhī ma yóu",
+          "english": "sesame oil",
+          "readingId": "reading-829d",
+          "context": {
+            "hanzi": "大人把一点芝麻油放进汤里。",
+            "english": "An adult puts a little sesame oil into the soup.",
+            "targetCharacter": "芝"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#芝麻油",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 艹 above 之 in 芝.",
+        "demonstrationEnglish": "This is 芝. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-829d",
+        "delayedReview": {
+          "promptId": "later-829d",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-829d"
+        }
+      },
+      "assets": [
+        "asset-glyph-829d",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-081-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-9992",
+        "familiar-829d"
+      ]
+    },
+    {
+      "stepId": "expansion-081-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-081-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-9992",
+        "practice-two-9992",
+        "practice-one-829d",
+        "practice-two-829d"
+      ]
+    },
+    {
+      "stepId": "expansion-081-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-9992",
+        "check-829d"
+      ]
+    },
+    {
+      "stepId": "expansion-081-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-9992",
+      "characterId": "char-9992",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "馒"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-9992-choice-1",
+          "hanzi": "馒"
+        },
+        {
+          "choiceId": "familiar-9992-choice-2",
+          "hanzi": "芝"
+        },
+        {
+          "choiceId": "familiar-9992-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-9992-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-9992-choice-1"
+    },
+    {
+      "checkId": "check-9992",
+      "characterId": "char-9992",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "馒"
+      },
+      "choices": [
+        {
+          "choiceId": "check-9992-choice-1",
+          "hanzi": "馒"
+        },
+        {
+          "choiceId": "check-9992-choice-2",
+          "hanzi": "芝"
+        },
+        {
+          "choiceId": "check-9992-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-9992-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-9992-choice-1"
+    },
+    {
+      "checkId": "review-9992",
+      "characterId": "char-9992",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "馒"
+      },
+      "choices": [
+        {
+          "choiceId": "review-9992-choice-1",
+          "hanzi": "馒"
+        },
+        {
+          "choiceId": "review-9992-choice-2",
+          "hanzi": "芝"
+        },
+        {
+          "choiceId": "review-9992-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-9992-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-9992-choice-1"
+    },
+    {
+      "checkId": "practice-one-9992",
+      "characterId": "char-9992",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "馒头"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-9992-choice-1",
+          "hanzi": "馒"
+        },
+        {
+          "choiceId": "practice-one-9992-choice-2",
+          "hanzi": "芝"
+        },
+        {
+          "choiceId": "practice-one-9992-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-9992-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-9992-choice-1"
+    },
+    {
+      "checkId": "practice-two-9992",
+      "characterId": "char-9992",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "馒头片"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-9992-choice-1",
+          "hanzi": "馒"
+        },
+        {
+          "choiceId": "practice-two-9992-choice-2",
+          "hanzi": "芝"
+        },
+        {
+          "choiceId": "practice-two-9992-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-9992-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-9992-choice-1"
+    },
+    {
+      "checkId": "familiar-829d",
+      "characterId": "char-829d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "芝"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-829d-choice-1",
+          "hanzi": "馒"
+        },
+        {
+          "choiceId": "familiar-829d-choice-2",
+          "hanzi": "芝"
+        },
+        {
+          "choiceId": "familiar-829d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-829d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-829d-choice-2"
+    },
+    {
+      "checkId": "check-829d",
+      "characterId": "char-829d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "芝"
+      },
+      "choices": [
+        {
+          "choiceId": "check-829d-choice-1",
+          "hanzi": "馒"
+        },
+        {
+          "choiceId": "check-829d-choice-2",
+          "hanzi": "芝"
+        },
+        {
+          "choiceId": "check-829d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-829d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-829d-choice-2"
+    },
+    {
+      "checkId": "review-829d",
+      "characterId": "char-829d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "芝"
+      },
+      "choices": [
+        {
+          "choiceId": "review-829d-choice-1",
+          "hanzi": "馒"
+        },
+        {
+          "choiceId": "review-829d-choice-2",
+          "hanzi": "芝"
+        },
+        {
+          "choiceId": "review-829d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-829d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-829d-choice-2"
+    },
+    {
+      "checkId": "practice-one-829d",
+      "characterId": "char-829d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "芝麻"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-829d-choice-1",
+          "hanzi": "馒"
+        },
+        {
+          "choiceId": "practice-one-829d-choice-2",
+          "hanzi": "芝"
+        },
+        {
+          "choiceId": "practice-one-829d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-829d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-829d-choice-2"
+    },
+    {
+      "checkId": "practice-two-829d",
+      "characterId": "char-829d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "芝麻油"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-829d-choice-1",
+          "hanzi": "馒"
+        },
+        {
+          "choiceId": "practice-two-829d-choice-2",
+          "hanzi": "芝"
+        },
+        {
+          "choiceId": "practice-two-829d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-829d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-829d-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-9992",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-081-v1/char-9992",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-829d",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-081-v1/char-829d",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-081-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-081-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Meals and containers: 馒 and 芝",
+      "instructionEnglish": "Read two short word examples for 馒 and 芝 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-9992",
+        "readingId": "reading-9992",
+        "familiarityCheckId": "familiar-9992",
+        "practice": [
+          {
+            "wordId": "word-9992-1",
+            "checkId": "practice-one-9992"
+          },
+          {
+            "wordId": "word-9992-2",
+            "checkId": "practice-two-9992"
+          }
+        ],
+        "immediateCheckId": "check-9992",
+        "reviewCheckId": "review-9992"
+      },
+      {
+        "characterId": "char-829d",
+        "readingId": "reading-829d",
+        "familiarityCheckId": "familiar-829d",
+        "practice": [
+          {
+            "wordId": "word-829d-1",
+            "checkId": "practice-one-829d"
+          },
+          {
+            "wordId": "word-829d-2",
+            "checkId": "practice-two-829d"
+          }
+        ],
+        "immediateCheckId": "check-829d",
+        "reviewCheckId": "review-829d"
+      }
+    ],
+    "reader": {
+      "title": "Meals and containers: 馒 and 芝",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-9992-1",
+        "word-9992-2",
+        "word-829d-1",
+        "word-829d-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-9992",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-9992",
+          "transcript": "馒",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-9992",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-9992",
+          "transcript": "馒",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-9992",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-9992",
+          "transcript": "馒",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-9992",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-9992",
+          "transcript": "馒头",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-9992",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-9992",
+          "transcript": "馒头片",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-9992",
+          "readingId": "reading-9992",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "馒",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9992-1",
+          "readingId": null,
+          "wordId": "word-9992-1",
+          "checkId": null,
+          "transcript": "大人把馒头放在盘子里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9992-2",
+          "readingId": null,
+          "wordId": "word-9992-2",
+          "checkId": null,
+          "transcript": "大人把馒头片放在盘子里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-829d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-829d",
+          "transcript": "芝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-829d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-829d",
+          "transcript": "芝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-829d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-829d",
+          "transcript": "芝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-829d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-829d",
+          "transcript": "芝麻",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-829d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-829d",
+          "transcript": "芝麻油",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-829d",
+          "readingId": "reading-829d",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "芝",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-829d-1",
+          "readingId": null,
+          "wordId": "word-829d-1",
+          "checkId": null,
+          "transcript": "碗里有芝麻。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-829d-2",
+          "readingId": null,
+          "wordId": "word-829d-2",
+          "checkId": null,
+          "transcript": "大人把一点芝麻油放进汤里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

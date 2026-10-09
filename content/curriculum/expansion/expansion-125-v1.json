@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-125",
+  "lessonVersion": "expansion-125-v1",
+  "title": "Helping hands and tidying: 干 and 净",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 185
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 干 and 净 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5e72",
+      "hanzi": "干",
+      "readings": [
+        {
+          "readingId": "reading-5e72",
+          "pinyin": "gān",
+          "audioText": "干",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#干",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "dry",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#干",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5e72-1",
+          "text": "干净",
+          "pinyin": "gān jìng",
+          "english": "clean",
+          "readingId": "reading-5e72",
+          "context": {
+            "hanzi": "这张纸很干净。",
+            "english": "This sheet of paper is clean.",
+            "targetCharacter": "干"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#干净",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5e72-2",
+          "text": "干燥",
+          "pinyin": "gān zào",
+          "english": "dry",
+          "readingId": "reading-5e72",
+          "context": {
+            "hanzi": "这张纸很干燥。",
+            "english": "This sheet of paper is dry.",
+            "targetCharacter": "干"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#干燥",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Compare the three straight strokes of 干 with 十.",
+        "demonstrationEnglish": "This is 干. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5e72",
+        "delayedReview": {
+          "promptId": "later-5e72",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5e72"
+        }
+      },
+      "assets": [
+        "asset-glyph-5e72",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-51c0",
+      "hanzi": "净",
+      "readings": [
+        {
+          "readingId": "reading-51c0",
+          "pinyin": "jìng",
+          "audioText": "净",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#净",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "clean",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#净",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-51c0-1",
+          "text": "洁净",
+          "pinyin": "jié jìng",
+          "english": "clean",
+          "readingId": "reading-51c0",
+          "context": {
+            "hanzi": "这张纸很洁净。",
+            "english": "This sheet of paper is clean.",
+            "targetCharacter": "净"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#洁净",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-51c0-2",
+          "text": "净化",
+          "pinyin": "jìng huà",
+          "english": "purify",
+          "readingId": "reading-51c0",
+          "context": {
+            "hanzi": "书里介绍了净化水的方法。",
+            "english": "The book introduces ways to purify water.",
+            "targetCharacter": "净"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#净化",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 冫 beside 争 in 净.",
+        "demonstrationEnglish": "This is 净. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-51c0",
+        "delayedReview": {
+          "promptId": "later-51c0",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-51c0"
+        }
+      },
+      "assets": [
+        "asset-glyph-51c0",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-125-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5e72",
+        "familiar-51c0"
+      ]
+    },
+    {
+      "stepId": "expansion-125-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-125-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-5e72",
+        "practice-two-5e72",
+        "practice-one-51c0",
+        "practice-two-51c0"
+      ]
+    },
+    {
+      "stepId": "expansion-125-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5e72",
+        "check-51c0"
+      ]
+    },
+    {
+      "stepId": "expansion-125-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5e72",
+      "characterId": "char-5e72",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "干"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5e72-choice-1",
+          "hanzi": "干"
+        },
+        {
+          "choiceId": "familiar-5e72-choice-2",
+          "hanzi": "净"
+        },
+        {
+          "choiceId": "familiar-5e72-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5e72-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5e72-choice-1"
+    },
+    {
+      "checkId": "check-5e72",
+      "characterId": "char-5e72",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "干"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5e72-choice-1",
+          "hanzi": "干"
+        },
+        {
+          "choiceId": "check-5e72-choice-2",
+          "hanzi": "净"
+        },
+        {
+          "choiceId": "check-5e72-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5e72-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5e72-choice-1"
+    },
+    {
+      "checkId": "review-5e72",
+      "characterId": "char-5e72",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "干"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5e72-choice-1",
+          "hanzi": "干"
+        },
+        {
+          "choiceId": "review-5e72-choice-2",
+          "hanzi": "净"
+        },
+        {
+          "choiceId": "review-5e72-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5e72-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5e72-choice-1"
+    },
+    {
+      "checkId": "practice-one-5e72",
+      "characterId": "char-5e72",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "干净"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5e72-choice-1",
+          "hanzi": "干"
+        },
+        {
+          "choiceId": "practice-one-5e72-choice-2",
+          "hanzi": "净"
+        },
+        {
+          "choiceId": "practice-one-5e72-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5e72-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5e72-choice-1"
+    },
+    {
+      "checkId": "practice-two-5e72",
+      "characterId": "char-5e72",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "干燥"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5e72-choice-1",
+          "hanzi": "干"
+        },
+        {
+          "choiceId": "practice-two-5e72-choice-2",
+          "hanzi": "净"
+        },
+        {
+          "choiceId": "practice-two-5e72-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5e72-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5e72-choice-1"
+    },
+    {
+      "checkId": "familiar-51c0",
+      "characterId": "char-51c0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "净"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-51c0-choice-1",
+          "hanzi": "干"
+        },
+        {
+          "choiceId": "familiar-51c0-choice-2",
+          "hanzi": "净"
+        },
+        {
+          "choiceId": "familiar-51c0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-51c0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-51c0-choice-2"
+    },
+    {
+      "checkId": "check-51c0",
+      "characterId": "char-51c0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "净"
+      },
+      "choices": [
+        {
+          "choiceId": "check-51c0-choice-1",
+          "hanzi": "干"
+        },
+        {
+          "choiceId": "check-51c0-choice-2",
+          "hanzi": "净"
+        },
+        {
+          "choiceId": "check-51c0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-51c0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-51c0-choice-2"
+    },
+    {
+      "checkId": "review-51c0",
+      "characterId": "char-51c0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "净"
+      },
+      "choices": [
+        {
+          "choiceId": "review-51c0-choice-1",
+          "hanzi": "干"
+        },
+        {
+          "choiceId": "review-51c0-choice-2",
+          "hanzi": "净"
+        },
+        {
+          "choiceId": "review-51c0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-51c0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-51c0-choice-2"
+    },
+    {
+      "checkId": "practice-one-51c0",
+      "characterId": "char-51c0",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "洁净"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-51c0-choice-1",
+          "hanzi": "干"
+        },
+        {
+          "choiceId": "practice-one-51c0-choice-2",
+          "hanzi": "净"
+        },
+        {
+          "choiceId": "practice-one-51c0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-51c0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-51c0-choice-2"
+    },
+    {
+      "checkId": "practice-two-51c0",
+      "characterId": "char-51c0",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "净化"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-51c0-choice-1",
+          "hanzi": "干"
+        },
+        {
+          "choiceId": "practice-two-51c0-choice-2",
+          "hanzi": "净"
+        },
+        {
+          "choiceId": "practice-two-51c0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-51c0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-51c0-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5e72",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-125-v1/char-5e72",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-51c0",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-125-v1/char-51c0",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-125-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-125-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Helping hands and tidying: 干 and 净",
+      "instructionEnglish": "Read two short word examples for 干 and 净 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-5e72",
+        "readingId": "reading-5e72",
+        "familiarityCheckId": "familiar-5e72",
+        "practice": [
+          {
+            "wordId": "word-5e72-1",
+            "checkId": "practice-one-5e72"
+          },
+          {
+            "wordId": "word-5e72-2",
+            "checkId": "practice-two-5e72"
+          }
+        ],
+        "immediateCheckId": "check-5e72",
+        "reviewCheckId": "review-5e72"
+      },
+      {
+        "characterId": "char-51c0",
+        "readingId": "reading-51c0",
+        "familiarityCheckId": "familiar-51c0",
+        "practice": [
+          {
+            "wordId": "word-51c0-1",
+            "checkId": "practice-one-51c0"
+          },
+          {
+            "wordId": "word-51c0-2",
+            "checkId": "practice-two-51c0"
+          }
+        ],
+        "immediateCheckId": "check-51c0",
+        "reviewCheckId": "review-51c0"
+      }
+    ],
+    "reader": {
+      "title": "Helping hands and tidying: 干 and 净",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5e72-1",
+        "word-5e72-2",
+        "word-51c0-1",
+        "word-51c0-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5e72",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5e72",
+          "transcript": "干",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5e72",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5e72",
+          "transcript": "干",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5e72",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5e72",
+          "transcript": "干",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5e72",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5e72",
+          "transcript": "干净",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5e72",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5e72",
+          "transcript": "干燥",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5e72",
+          "readingId": "reading-5e72",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "干",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5e72-1",
+          "readingId": null,
+          "wordId": "word-5e72-1",
+          "checkId": null,
+          "transcript": "这张纸很干净。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5e72-2",
+          "readingId": null,
+          "wordId": "word-5e72-2",
+          "checkId": null,
+          "transcript": "这张纸很干燥。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-51c0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-51c0",
+          "transcript": "净",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-51c0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-51c0",
+          "transcript": "净",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-51c0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-51c0",
+          "transcript": "净",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-51c0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-51c0",
+          "transcript": "洁净",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-51c0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-51c0",
+          "transcript": "净化",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-51c0",
+          "readingId": "reading-51c0",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "净",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-51c0-1",
+          "readingId": null,
+          "wordId": "word-51c0-1",
+          "checkId": null,
+          "transcript": "这张纸很洁净。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-51c0-2",
+          "readingId": null,
+          "wordId": "word-51c0-2",
+          "checkId": null,
+          "transcript": "书里介绍了净化水的方法。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-083",
+  "lessonVersion": "expansion-083-v1",
+  "title": "Meals and containers: 苦 and 辣",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 143
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 苦 and 辣 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-82e6",
+      "hanzi": "苦",
+      "readings": [
+        {
+          "readingId": "reading-82e6",
+          "pinyin": "kǔ",
+          "audioText": "苦",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#苦",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "bitter",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#苦",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-82e6-1",
+          "text": "苦瓜",
+          "pinyin": "kǔ guā",
+          "english": "bitter gourd",
+          "readingId": "reading-82e6",
+          "context": {
+            "hanzi": "我在图画里看到了苦瓜。",
+            "english": "I see bitter gourd in the picture.",
+            "targetCharacter": "苦"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#苦瓜",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-82e6-2",
+          "text": "苦味",
+          "pinyin": "kǔ wèi",
+          "english": "bitter taste",
+          "readingId": "reading-82e6",
+          "context": {
+            "hanzi": "这种菜带着一点苦味。",
+            "english": "This vegetable has a slightly bitter taste.",
+            "targetCharacter": "苦"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#苦味",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 艹 above 古 in 苦.",
+        "demonstrationEnglish": "This is 苦. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-82e6",
+        "delayedReview": {
+          "promptId": "later-82e6",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-82e6"
+        }
+      },
+      "assets": [
+        "asset-glyph-82e6",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-8fa3",
+      "hanzi": "辣",
+      "readings": [
+        {
+          "readingId": "reading-8fa3",
+          "pinyin": "là",
+          "audioText": "辣",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#辣",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "spicy",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#辣",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8fa3-1",
+          "text": "辣椒",
+          "pinyin": "là jiāo",
+          "english": "chilli peppers",
+          "readingId": "reading-8fa3",
+          "context": {
+            "hanzi": "我在图画里看到了辣椒。",
+            "english": "I see chilli peppers in the picture.",
+            "targetCharacter": "辣"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#辣椒",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8fa3-2",
+          "text": "辣味",
+          "pinyin": "là wèi",
+          "english": "spicy flavour",
+          "readingId": "reading-8fa3",
+          "context": {
+            "hanzi": "这盘菜没有辣味。",
+            "english": "This dish has no spicy flavour.",
+            "targetCharacter": "辣"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#辣味",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 辛 on the left of 辣.",
+        "demonstrationEnglish": "This is 辣. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8fa3",
+        "delayedReview": {
+          "promptId": "later-8fa3",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8fa3"
+        }
+      },
+      "assets": [
+        "asset-glyph-8fa3",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-083-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-82e6",
+        "familiar-8fa3"
+      ]
+    },
+    {
+      "stepId": "expansion-083-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-083-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-82e6",
+        "practice-two-82e6",
+        "practice-one-8fa3",
+        "practice-two-8fa3"
+      ]
+    },
+    {
+      "stepId": "expansion-083-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-82e6",
+        "check-8fa3"
+      ]
+    },
+    {
+      "stepId": "expansion-083-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-82e6",
+      "characterId": "char-82e6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "苦"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-82e6-choice-1",
+          "hanzi": "苦"
+        },
+        {
+          "choiceId": "familiar-82e6-choice-2",
+          "hanzi": "辣"
+        },
+        {
+          "choiceId": "familiar-82e6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-82e6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-82e6-choice-1"
+    },
+    {
+      "checkId": "check-82e6",
+      "characterId": "char-82e6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "苦"
+      },
+      "choices": [
+        {
+          "choiceId": "check-82e6-choice-1",
+          "hanzi": "苦"
+        },
+        {
+          "choiceId": "check-82e6-choice-2",
+          "hanzi": "辣"
+        },
+        {
+          "choiceId": "check-82e6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-82e6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-82e6-choice-1"
+    },
+    {
+      "checkId": "review-82e6",
+      "characterId": "char-82e6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "苦"
+      },
+      "choices": [
+        {
+          "choiceId": "review-82e6-choice-1",
+          "hanzi": "苦"
+        },
+        {
+          "choiceId": "review-82e6-choice-2",
+          "hanzi": "辣"
+        },
+        {
+          "choiceId": "review-82e6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-82e6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-82e6-choice-1"
+    },
+    {
+      "checkId": "practice-one-82e6",
+      "characterId": "char-82e6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "苦瓜"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-82e6-choice-1",
+          "hanzi": "苦"
+        },
+        {
+          "choiceId": "practice-one-82e6-choice-2",
+          "hanzi": "辣"
+        },
+        {
+          "choiceId": "practice-one-82e6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-82e6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-82e6-choice-1"
+    },
+    {
+      "checkId": "practice-two-82e6",
+      "characterId": "char-82e6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "苦味"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-82e6-choice-1",
+          "hanzi": "苦"
+        },
+        {
+          "choiceId": "practice-two-82e6-choice-2",
+          "hanzi": "辣"
+        },
+        {
+          "choiceId": "practice-two-82e6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-82e6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-82e6-choice-1"
+    },
+    {
+      "checkId": "familiar-8fa3",
+      "characterId": "char-8fa3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "辣"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8fa3-choice-1",
+          "hanzi": "苦"
+        },
+        {
+          "choiceId": "familiar-8fa3-choice-2",
+          "hanzi": "辣"
+        },
+        {
+          "choiceId": "familiar-8fa3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8fa3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8fa3-choice-2"
+    },
+    {
+      "checkId": "check-8fa3",
+      "characterId": "char-8fa3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "辣"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8fa3-choice-1",
+          "hanzi": "苦"
+        },
+        {
+          "choiceId": "check-8fa3-choice-2",
+          "hanzi": "辣"
+        },
+        {
+          "choiceId": "check-8fa3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8fa3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8fa3-choice-2"
+    },
+    {
+      "checkId": "review-8fa3",
+      "characterId": "char-8fa3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "辣"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8fa3-choice-1",
+          "hanzi": "苦"
+        },
+        {
+          "choiceId": "review-8fa3-choice-2",
+          "hanzi": "辣"
+        },
+        {
+          "choiceId": "review-8fa3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8fa3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8fa3-choice-2"
+    },
+    {
+      "checkId": "practice-one-8fa3",
+      "characterId": "char-8fa3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "辣椒"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8fa3-choice-1",
+          "hanzi": "苦"
+        },
+        {
+          "choiceId": "practice-one-8fa3-choice-2",
+          "hanzi": "辣"
+        },
+        {
+          "choiceId": "practice-one-8fa3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8fa3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8fa3-choice-2"
+    },
+    {
+      "checkId": "practice-two-8fa3",
+      "characterId": "char-8fa3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "辣味"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8fa3-choice-1",
+          "hanzi": "苦"
+        },
+        {
+          "choiceId": "practice-two-8fa3-choice-2",
+          "hanzi": "辣"
+        },
+        {
+          "choiceId": "practice-two-8fa3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8fa3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8fa3-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-82e6",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-083-v1/char-82e6",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-8fa3",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-083-v1/char-8fa3",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-083-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-083-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Meals and containers: 苦 and 辣",
+      "instructionEnglish": "Read two short word examples for 苦 and 辣 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-82e6",
+        "readingId": "reading-82e6",
+        "familiarityCheckId": "familiar-82e6",
+        "practice": [
+          {
+            "wordId": "word-82e6-1",
+            "checkId": "practice-one-82e6"
+          },
+          {
+            "wordId": "word-82e6-2",
+            "checkId": "practice-two-82e6"
+          }
+        ],
+        "immediateCheckId": "check-82e6",
+        "reviewCheckId": "review-82e6"
+      },
+      {
+        "characterId": "char-8fa3",
+        "readingId": "reading-8fa3",
+        "familiarityCheckId": "familiar-8fa3",
+        "practice": [
+          {
+            "wordId": "word-8fa3-1",
+            "checkId": "practice-one-8fa3"
+          },
+          {
+            "wordId": "word-8fa3-2",
+            "checkId": "practice-two-8fa3"
+          }
+        ],
+        "immediateCheckId": "check-8fa3",
+        "reviewCheckId": "review-8fa3"
+      }
+    ],
+    "reader": {
+      "title": "Meals and containers: 苦 and 辣",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-82e6-1",
+        "word-82e6-2",
+        "word-8fa3-1",
+        "word-8fa3-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-82e6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-82e6",
+          "transcript": "苦",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-82e6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-82e6",
+          "transcript": "苦",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-82e6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-82e6",
+          "transcript": "苦",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-82e6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-82e6",
+          "transcript": "苦瓜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-82e6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-82e6",
+          "transcript": "苦味",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-82e6",
+          "readingId": "reading-82e6",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "苦",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-82e6-1",
+          "readingId": null,
+          "wordId": "word-82e6-1",
+          "checkId": null,
+          "transcript": "我在图画里看到了苦瓜。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-82e6-2",
+          "readingId": null,
+          "wordId": "word-82e6-2",
+          "checkId": null,
+          "transcript": "这种菜带着一点苦味。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-8fa3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8fa3",
+          "transcript": "辣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8fa3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8fa3",
+          "transcript": "辣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8fa3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8fa3",
+          "transcript": "辣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8fa3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8fa3",
+          "transcript": "辣椒",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8fa3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8fa3",
+          "transcript": "辣味",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8fa3",
+          "readingId": "reading-8fa3",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "辣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8fa3-1",
+          "readingId": null,
+          "wordId": "word-8fa3-1",
+          "checkId": null,
+          "transcript": "我在图画里看到了辣椒。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8fa3-2",
+          "readingId": null,
+          "wordId": "word-8fa3-2",
+          "checkId": null,
+          "transcript": "这盘菜没有辣味。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

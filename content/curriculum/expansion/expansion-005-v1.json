@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-005",
+  "lessonVersion": "expansion-005-v1",
+  "title": "Useful connecting words: 更 and 最",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 65
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 更 and 最 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-66f4",
+      "hanzi": "更",
+      "readings": [
+        {
+          "readingId": "reading-66f4",
+          "pinyin": "gèng",
+          "audioText": "更",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#更",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "more; even more",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#更",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-66f4-1",
+          "text": "更加",
+          "pinyin": "gèng jiā",
+          "english": "even more",
+          "readingId": "reading-66f4",
+          "context": {
+            "hanzi": "浇水后，小草更加精神了。",
+            "english": "After watering, the grass looks even more lively.",
+            "targetCharacter": "更"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#更加",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-66f4-2",
+          "text": "更好",
+          "pinyin": "gèng hǎo",
+          "english": "better",
+          "readingId": "reading-66f4",
+          "context": {
+            "hanzi": "把椅子摆齐会更好。",
+            "english": "It would be better to line up the chairs.",
+            "targetCharacter": "更"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#更好",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the broad crossing strokes below the box-like middle of 更.",
+        "demonstrationEnglish": "This is 更. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-66f4",
+        "delayedReview": {
+          "promptId": "later-66f4",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-66f4"
+        }
+      },
+      "assets": [
+        "asset-glyph-66f4",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6700",
+      "hanzi": "最",
+      "readings": [
+        {
+          "readingId": "reading-6700",
+          "pinyin": "zuì",
+          "audioText": "最",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#最",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "most",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#最",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6700-1",
+          "text": "最好",
+          "pinyin": "zuì hǎo",
+          "english": "best; had better",
+          "readingId": "reading-6700",
+          "context": {
+            "hanzi": "下雨时最好带上雨伞。",
+            "english": "It is best to bring an umbrella when it rains.",
+            "targetCharacter": "最"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#最好",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6700-2",
+          "text": "最后",
+          "pinyin": "zuì hòu",
+          "english": "last; finally",
+          "readingId": "reading-6700",
+          "context": {
+            "hanzi": "最后，我们一起把桌子收拾好。",
+            "english": "Finally, we tidy the table together.",
+            "targetCharacter": "最"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#最后",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 日 above the busy lower part of 最.",
+        "demonstrationEnglish": "This is 最. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6700",
+        "delayedReview": {
+          "promptId": "later-6700",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6700"
+        }
+      },
+      "assets": [
+        "asset-glyph-6700",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-005-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-66f4",
+        "familiar-6700"
+      ]
+    },
+    {
+      "stepId": "expansion-005-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-005-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-66f4",
+        "practice-two-66f4",
+        "practice-one-6700",
+        "practice-two-6700"
+      ]
+    },
+    {
+      "stepId": "expansion-005-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-66f4",
+        "check-6700"
+      ]
+    },
+    {
+      "stepId": "expansion-005-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-66f4",
+      "characterId": "char-66f4",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "更"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-66f4-choice-1",
+          "hanzi": "更"
+        },
+        {
+          "choiceId": "familiar-66f4-choice-2",
+          "hanzi": "最"
+        },
+        {
+          "choiceId": "familiar-66f4-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-66f4-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-66f4-choice-1"
+    },
+    {
+      "checkId": "check-66f4",
+      "characterId": "char-66f4",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "更"
+      },
+      "choices": [
+        {
+          "choiceId": "check-66f4-choice-1",
+          "hanzi": "更"
+        },
+        {
+          "choiceId": "check-66f4-choice-2",
+          "hanzi": "最"
+        },
+        {
+          "choiceId": "check-66f4-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-66f4-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-66f4-choice-1"
+    },
+    {
+      "checkId": "review-66f4",
+      "characterId": "char-66f4",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "更"
+      },
+      "choices": [
+        {
+          "choiceId": "review-66f4-choice-1",
+          "hanzi": "更"
+        },
+        {
+          "choiceId": "review-66f4-choice-2",
+          "hanzi": "最"
+        },
+        {
+          "choiceId": "review-66f4-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-66f4-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-66f4-choice-1"
+    },
+    {
+      "checkId": "practice-one-66f4",
+      "characterId": "char-66f4",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "更加"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-66f4-choice-1",
+          "hanzi": "更"
+        },
+        {
+          "choiceId": "practice-one-66f4-choice-2",
+          "hanzi": "最"
+        },
+        {
+          "choiceId": "practice-one-66f4-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-66f4-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-66f4-choice-1"
+    },
+    {
+      "checkId": "practice-two-66f4",
+      "characterId": "char-66f4",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "更好"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-66f4-choice-1",
+          "hanzi": "更"
+        },
+        {
+          "choiceId": "practice-two-66f4-choice-2",
+          "hanzi": "最"
+        },
+        {
+          "choiceId": "practice-two-66f4-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-66f4-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-66f4-choice-1"
+    },
+    {
+      "checkId": "familiar-6700",
+      "characterId": "char-6700",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "最"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6700-choice-1",
+          "hanzi": "更"
+        },
+        {
+          "choiceId": "familiar-6700-choice-2",
+          "hanzi": "最"
+        },
+        {
+          "choiceId": "familiar-6700-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6700-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6700-choice-2"
+    },
+    {
+      "checkId": "check-6700",
+      "characterId": "char-6700",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "最"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6700-choice-1",
+          "hanzi": "更"
+        },
+        {
+          "choiceId": "check-6700-choice-2",
+          "hanzi": "最"
+        },
+        {
+          "choiceId": "check-6700-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6700-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6700-choice-2"
+    },
+    {
+      "checkId": "review-6700",
+      "characterId": "char-6700",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "最"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6700-choice-1",
+          "hanzi": "更"
+        },
+        {
+          "choiceId": "review-6700-choice-2",
+          "hanzi": "最"
+        },
+        {
+          "choiceId": "review-6700-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6700-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6700-choice-2"
+    },
+    {
+      "checkId": "practice-one-6700",
+      "characterId": "char-6700",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "最好"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6700-choice-1",
+          "hanzi": "更"
+        },
+        {
+          "choiceId": "practice-one-6700-choice-2",
+          "hanzi": "最"
+        },
+        {
+          "choiceId": "practice-one-6700-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6700-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6700-choice-2"
+    },
+    {
+      "checkId": "practice-two-6700",
+      "characterId": "char-6700",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "最后"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6700-choice-1",
+          "hanzi": "更"
+        },
+        {
+          "choiceId": "practice-two-6700-choice-2",
+          "hanzi": "最"
+        },
+        {
+          "choiceId": "practice-two-6700-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6700-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6700-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-66f4",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-005-v1/char-66f4",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6700",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-005-v1/char-6700",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-005-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-005-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Useful connecting words: 更 and 最",
+      "instructionEnglish": "Read two short word examples for 更 and 最 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-66f4",
+        "readingId": "reading-66f4",
+        "familiarityCheckId": "familiar-66f4",
+        "practice": [
+          {
+            "wordId": "word-66f4-1",
+            "checkId": "practice-one-66f4"
+          },
+          {
+            "wordId": "word-66f4-2",
+            "checkId": "practice-two-66f4"
+          }
+        ],
+        "immediateCheckId": "check-66f4",
+        "reviewCheckId": "review-66f4"
+      },
+      {
+        "characterId": "char-6700",
+        "readingId": "reading-6700",
+        "familiarityCheckId": "familiar-6700",
+        "practice": [
+          {
+            "wordId": "word-6700-1",
+            "checkId": "practice-one-6700"
+          },
+          {
+            "wordId": "word-6700-2",
+            "checkId": "practice-two-6700"
+          }
+        ],
+        "immediateCheckId": "check-6700",
+        "reviewCheckId": "review-6700"
+      }
+    ],
+    "reader": {
+      "title": "Useful connecting words: 更 and 最",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-66f4-1",
+        "word-66f4-2",
+        "word-6700-1",
+        "word-6700-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-66f4",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-66f4",
+          "transcript": "更",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-66f4",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-66f4",
+          "transcript": "更",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-66f4",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-66f4",
+          "transcript": "更",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-66f4",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-66f4",
+          "transcript": "更加",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-66f4",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-66f4",
+          "transcript": "更好",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-66f4",
+          "readingId": "reading-66f4",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "更",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-66f4-1",
+          "readingId": null,
+          "wordId": "word-66f4-1",
+          "checkId": null,
+          "transcript": "浇水后，小草更加精神了。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-66f4-2",
+          "readingId": null,
+          "wordId": "word-66f4-2",
+          "checkId": null,
+          "transcript": "把椅子摆齐会更好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6700",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6700",
+          "transcript": "最",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6700",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6700",
+          "transcript": "最",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6700",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6700",
+          "transcript": "最",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6700",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6700",
+          "transcript": "最好",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6700",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6700",
+          "transcript": "最后",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6700",
+          "readingId": "reading-6700",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "最",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6700-1",
+          "readingId": null,
+          "wordId": "word-6700-1",
+          "checkId": null,
+          "transcript": "下雨时最好带上雨伞。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6700-2",
+          "readingId": null,
+          "wordId": "word-6700-2",
+          "checkId": null,
+          "transcript": "最后，我们一起把桌子收拾好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

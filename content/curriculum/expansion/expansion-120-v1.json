@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-120",
+  "lessonVersion": "expansion-120-v1",
+  "title": "Art, music and games: 抬 and 搬",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 180
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 抬 and 搬 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-62ac",
+      "hanzi": "抬",
+      "readings": [
+        {
+          "readingId": "reading-62ac",
+          "pinyin": "tái",
+          "audioText": "抬",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#抬",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "lift; raise",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#抬",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-62ac-1",
+          "text": "抬头",
+          "pinyin": "tái tóu",
+          "english": "raise one's head",
+          "readingId": "reading-62ac",
+          "context": {
+            "hanzi": "我们一起抬头看小鸟。",
+            "english": "We raise our heads to look at the bird.",
+            "targetCharacter": "抬"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#抬头",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-62ac-2",
+          "text": "抬起",
+          "pinyin": "tái qǐ",
+          "english": "raise",
+          "readingId": "reading-62ac",
+          "context": {
+            "hanzi": "我抬起手，指着小鸟。",
+            "english": "I raise my hand and point at the bird.",
+            "targetCharacter": "抬"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#抬起",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 扌 beside 台 in 抬.",
+        "demonstrationEnglish": "This is 抬. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-62ac",
+        "delayedReview": {
+          "promptId": "later-62ac",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-62ac"
+        }
+      },
+      "assets": [
+        "asset-glyph-62ac",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-642c",
+      "hanzi": "搬",
+      "readings": [
+        {
+          "readingId": "reading-642c",
+          "pinyin": "bān",
+          "audioText": "搬",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#搬",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "move; carry",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#搬",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-642c-1",
+          "text": "搬家",
+          "pinyin": "bān jiā",
+          "english": "move home",
+          "readingId": "reading-642c",
+          "context": {
+            "hanzi": "故事里的一家人正在搬家。",
+            "english": "The family in the story is moving home.",
+            "targetCharacter": "搬"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#搬家",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-642c-2",
+          "text": "搬运",
+          "pinyin": "bān yùn",
+          "english": "carry; move",
+          "readingId": "reading-642c",
+          "context": {
+            "hanzi": "大人帮忙搬运桌子。",
+            "english": "The adults help move the tables.",
+            "targetCharacter": "搬"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#搬运",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 扌 beside 般 in 搬.",
+        "demonstrationEnglish": "This is 搬. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-642c",
+        "delayedReview": {
+          "promptId": "later-642c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-642c"
+        }
+      },
+      "assets": [
+        "asset-glyph-642c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-120-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-62ac",
+        "familiar-642c"
+      ]
+    },
+    {
+      "stepId": "expansion-120-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-120-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-62ac",
+        "practice-two-62ac",
+        "practice-one-642c",
+        "practice-two-642c"
+      ]
+    },
+    {
+      "stepId": "expansion-120-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-62ac",
+        "check-642c"
+      ]
+    },
+    {
+      "stepId": "expansion-120-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-62ac",
+      "characterId": "char-62ac",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "抬"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-62ac-choice-1",
+          "hanzi": "抬"
+        },
+        {
+          "choiceId": "familiar-62ac-choice-2",
+          "hanzi": "搬"
+        },
+        {
+          "choiceId": "familiar-62ac-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-62ac-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-62ac-choice-1"
+    },
+    {
+      "checkId": "check-62ac",
+      "characterId": "char-62ac",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "抬"
+      },
+      "choices": [
+        {
+          "choiceId": "check-62ac-choice-1",
+          "hanzi": "抬"
+        },
+        {
+          "choiceId": "check-62ac-choice-2",
+          "hanzi": "搬"
+        },
+        {
+          "choiceId": "check-62ac-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-62ac-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-62ac-choice-1"
+    },
+    {
+      "checkId": "review-62ac",
+      "characterId": "char-62ac",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "抬"
+      },
+      "choices": [
+        {
+          "choiceId": "review-62ac-choice-1",
+          "hanzi": "抬"
+        },
+        {
+          "choiceId": "review-62ac-choice-2",
+          "hanzi": "搬"
+        },
+        {
+          "choiceId": "review-62ac-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-62ac-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-62ac-choice-1"
+    },
+    {
+      "checkId": "practice-one-62ac",
+      "characterId": "char-62ac",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "抬头"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-62ac-choice-1",
+          "hanzi": "抬"
+        },
+        {
+          "choiceId": "practice-one-62ac-choice-2",
+          "hanzi": "搬"
+        },
+        {
+          "choiceId": "practice-one-62ac-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-62ac-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-62ac-choice-1"
+    },
+    {
+      "checkId": "practice-two-62ac",
+      "characterId": "char-62ac",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "抬起"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-62ac-choice-1",
+          "hanzi": "抬"
+        },
+        {
+          "choiceId": "practice-two-62ac-choice-2",
+          "hanzi": "搬"
+        },
+        {
+          "choiceId": "practice-two-62ac-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-62ac-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-62ac-choice-1"
+    },
+    {
+      "checkId": "familiar-642c",
+      "characterId": "char-642c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "搬"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-642c-choice-1",
+          "hanzi": "抬"
+        },
+        {
+          "choiceId": "familiar-642c-choice-2",
+          "hanzi": "搬"
+        },
+        {
+          "choiceId": "familiar-642c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-642c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-642c-choice-2"
+    },
+    {
+      "checkId": "check-642c",
+      "characterId": "char-642c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "搬"
+      },
+      "choices": [
+        {
+          "choiceId": "check-642c-choice-1",
+          "hanzi": "抬"
+        },
+        {
+          "choiceId": "check-642c-choice-2",
+          "hanzi": "搬"
+        },
+        {
+          "choiceId": "check-642c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-642c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-642c-choice-2"
+    },
+    {
+      "checkId": "review-642c",
+      "characterId": "char-642c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "搬"
+      },
+      "choices": [
+        {
+          "choiceId": "review-642c-choice-1",
+          "hanzi": "抬"
+        },
+        {
+          "choiceId": "review-642c-choice-2",
+          "hanzi": "搬"
+        },
+        {
+          "choiceId": "review-642c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-642c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-642c-choice-2"
+    },
+    {
+      "checkId": "practice-one-642c",
+      "characterId": "char-642c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "搬家"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-642c-choice-1",
+          "hanzi": "抬"
+        },
+        {
+          "choiceId": "practice-one-642c-choice-2",
+          "hanzi": "搬"
+        },
+        {
+          "choiceId": "practice-one-642c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-642c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-642c-choice-2"
+    },
+    {
+      "checkId": "practice-two-642c",
+      "characterId": "char-642c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "搬运"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-642c-choice-1",
+          "hanzi": "抬"
+        },
+        {
+          "choiceId": "practice-two-642c-choice-2",
+          "hanzi": "搬"
+        },
+        {
+          "choiceId": "practice-two-642c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-642c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-642c-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-62ac",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-120-v1/char-62ac",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-642c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-120-v1/char-642c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-120-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-120-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Art, music and games: 抬 and 搬",
+      "instructionEnglish": "Read two short word examples for 抬 and 搬 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-62ac",
+        "readingId": "reading-62ac",
+        "familiarityCheckId": "familiar-62ac",
+        "practice": [
+          {
+            "wordId": "word-62ac-1",
+            "checkId": "practice-one-62ac"
+          },
+          {
+            "wordId": "word-62ac-2",
+            "checkId": "practice-two-62ac"
+          }
+        ],
+        "immediateCheckId": "check-62ac",
+        "reviewCheckId": "review-62ac"
+      },
+      {
+        "characterId": "char-642c",
+        "readingId": "reading-642c",
+        "familiarityCheckId": "familiar-642c",
+        "practice": [
+          {
+            "wordId": "word-642c-1",
+            "checkId": "practice-one-642c"
+          },
+          {
+            "wordId": "word-642c-2",
+            "checkId": "practice-two-642c"
+          }
+        ],
+        "immediateCheckId": "check-642c",
+        "reviewCheckId": "review-642c"
+      }
+    ],
+    "reader": {
+      "title": "Art, music and games: 抬 and 搬",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-62ac-1",
+        "word-62ac-2",
+        "word-642c-1",
+        "word-642c-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-62ac",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-62ac",
+          "transcript": "抬",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-62ac",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-62ac",
+          "transcript": "抬",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-62ac",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-62ac",
+          "transcript": "抬",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-62ac",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-62ac",
+          "transcript": "抬头",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-62ac",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-62ac",
+          "transcript": "抬起",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-62ac",
+          "readingId": "reading-62ac",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "抬",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-62ac-1",
+          "readingId": null,
+          "wordId": "word-62ac-1",
+          "checkId": null,
+          "transcript": "我们一起抬头看小鸟。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-62ac-2",
+          "readingId": null,
+          "wordId": "word-62ac-2",
+          "checkId": null,
+          "transcript": "我抬起手，指着小鸟。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-642c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-642c",
+          "transcript": "搬",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-642c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-642c",
+          "transcript": "搬",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-642c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-642c",
+          "transcript": "搬",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-642c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-642c",
+          "transcript": "搬家",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-642c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-642c",
+          "transcript": "搬运",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-642c",
+          "readingId": "reading-642c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "搬",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-642c-1",
+          "readingId": null,
+          "wordId": "word-642c-1",
+          "checkId": null,
+          "transcript": "故事里的一家人正在搬家。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-642c-2",
+          "readingId": null,
+          "wordId": "word-642c-2",
+          "checkId": null,
+          "transcript": "大人帮忙搬运桌子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-004",
+  "lessonVersion": "expansion-004-v1",
+  "title": "Useful connecting words: 还 and 很",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 64
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 还 and 很 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-8fd8",
+      "hanzi": "还",
+      "readings": [
+        {
+          "readingId": "reading-8fd8",
+          "pinyin": "hái",
+          "audioText": "还",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#还",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "still; also",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#还",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8fd8-1",
+          "text": "还有",
+          "pinyin": "hái yǒu",
+          "english": "there is also; still have",
+          "readingId": "reading-8fd8",
+          "context": {
+            "hanzi": "盒子里还有一支铅笔。",
+            "english": "There is still a pencil in the box.",
+            "targetCharacter": "还"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#还有",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8fd8-2",
+          "text": "还是",
+          "pinyin": "hái shi",
+          "english": "or; still",
+          "readingId": "reading-8fd8",
+          "context": {
+            "hanzi": "你想画小猫还是小狗？",
+            "english": "Would you like to draw a kitten or a puppy?",
+            "targetCharacter": "还"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#还是",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Follow the long bottom stroke of 辶 beneath 不 in 还.",
+        "demonstrationEnglish": "This is 还. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8fd8",
+        "delayedReview": {
+          "promptId": "later-8fd8",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8fd8"
+        }
+      },
+      "assets": [
+        "asset-glyph-8fd8",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5f88",
+      "hanzi": "很",
+      "readings": [
+        {
+          "readingId": "reading-5f88",
+          "pinyin": "hěn",
+          "audioText": "很",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#很",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "very",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#很",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5f88-1",
+          "text": "很好",
+          "pinyin": "hěn hǎo",
+          "english": "very good",
+          "readingId": "reading-5f88",
+          "context": {
+            "hanzi": "你把书本整理得很好。",
+            "english": "You have arranged the books very well.",
+            "targetCharacter": "很"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#很好",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5f88-2",
+          "text": "很多",
+          "pinyin": "hěn duō",
+          "english": "many; much",
+          "readingId": "reading-5f88",
+          "context": {
+            "hanzi": "花园里有很多小花。",
+            "english": "There are many little flowers in the garden.",
+            "targetCharacter": "很"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#很多",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find the narrow 彳 on the left of 很.",
+        "demonstrationEnglish": "This is 很. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5f88",
+        "delayedReview": {
+          "promptId": "later-5f88",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5f88"
+        }
+      },
+      "assets": [
+        "asset-glyph-5f88",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-004-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-8fd8",
+        "familiar-5f88"
+      ]
+    },
+    {
+      "stepId": "expansion-004-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-004-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-8fd8",
+        "practice-two-8fd8",
+        "practice-one-5f88",
+        "practice-two-5f88"
+      ]
+    },
+    {
+      "stepId": "expansion-004-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-8fd8",
+        "check-5f88"
+      ]
+    },
+    {
+      "stepId": "expansion-004-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-8fd8",
+      "characterId": "char-8fd8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "还"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8fd8-choice-1",
+          "hanzi": "还"
+        },
+        {
+          "choiceId": "familiar-8fd8-choice-2",
+          "hanzi": "很"
+        },
+        {
+          "choiceId": "familiar-8fd8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8fd8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8fd8-choice-1"
+    },
+    {
+      "checkId": "check-8fd8",
+      "characterId": "char-8fd8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "还"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8fd8-choice-1",
+          "hanzi": "还"
+        },
+        {
+          "choiceId": "check-8fd8-choice-2",
+          "hanzi": "很"
+        },
+        {
+          "choiceId": "check-8fd8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8fd8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8fd8-choice-1"
+    },
+    {
+      "checkId": "review-8fd8",
+      "characterId": "char-8fd8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "还"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8fd8-choice-1",
+          "hanzi": "还"
+        },
+        {
+          "choiceId": "review-8fd8-choice-2",
+          "hanzi": "很"
+        },
+        {
+          "choiceId": "review-8fd8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8fd8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8fd8-choice-1"
+    },
+    {
+      "checkId": "practice-one-8fd8",
+      "characterId": "char-8fd8",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "还有"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8fd8-choice-1",
+          "hanzi": "还"
+        },
+        {
+          "choiceId": "practice-one-8fd8-choice-2",
+          "hanzi": "很"
+        },
+        {
+          "choiceId": "practice-one-8fd8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8fd8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8fd8-choice-1"
+    },
+    {
+      "checkId": "practice-two-8fd8",
+      "characterId": "char-8fd8",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "还是"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8fd8-choice-1",
+          "hanzi": "还"
+        },
+        {
+          "choiceId": "practice-two-8fd8-choice-2",
+          "hanzi": "很"
+        },
+        {
+          "choiceId": "practice-two-8fd8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8fd8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8fd8-choice-1"
+    },
+    {
+      "checkId": "familiar-5f88",
+      "characterId": "char-5f88",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "很"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5f88-choice-1",
+          "hanzi": "还"
+        },
+        {
+          "choiceId": "familiar-5f88-choice-2",
+          "hanzi": "很"
+        },
+        {
+          "choiceId": "familiar-5f88-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5f88-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5f88-choice-2"
+    },
+    {
+      "checkId": "check-5f88",
+      "characterId": "char-5f88",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "很"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5f88-choice-1",
+          "hanzi": "还"
+        },
+        {
+          "choiceId": "check-5f88-choice-2",
+          "hanzi": "很"
+        },
+        {
+          "choiceId": "check-5f88-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5f88-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5f88-choice-2"
+    },
+    {
+      "checkId": "review-5f88",
+      "characterId": "char-5f88",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "很"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5f88-choice-1",
+          "hanzi": "还"
+        },
+        {
+          "choiceId": "review-5f88-choice-2",
+          "hanzi": "很"
+        },
+        {
+          "choiceId": "review-5f88-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5f88-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5f88-choice-2"
+    },
+    {
+      "checkId": "practice-one-5f88",
+      "characterId": "char-5f88",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "很好"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5f88-choice-1",
+          "hanzi": "还"
+        },
+        {
+          "choiceId": "practice-one-5f88-choice-2",
+          "hanzi": "很"
+        },
+        {
+          "choiceId": "practice-one-5f88-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5f88-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5f88-choice-2"
+    },
+    {
+      "checkId": "practice-two-5f88",
+      "characterId": "char-5f88",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "很多"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5f88-choice-1",
+          "hanzi": "还"
+        },
+        {
+          "choiceId": "practice-two-5f88-choice-2",
+          "hanzi": "很"
+        },
+        {
+          "choiceId": "practice-two-5f88-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5f88-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5f88-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-8fd8",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-004-v1/char-8fd8",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5f88",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-004-v1/char-5f88",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-004-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-004-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Useful connecting words: 还 and 很",
+      "instructionEnglish": "Read two short word examples for 还 and 很 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-8fd8",
+        "readingId": "reading-8fd8",
+        "familiarityCheckId": "familiar-8fd8",
+        "practice": [
+          {
+            "wordId": "word-8fd8-1",
+            "checkId": "practice-one-8fd8"
+          },
+          {
+            "wordId": "word-8fd8-2",
+            "checkId": "practice-two-8fd8"
+          }
+        ],
+        "immediateCheckId": "check-8fd8",
+        "reviewCheckId": "review-8fd8"
+      },
+      {
+        "characterId": "char-5f88",
+        "readingId": "reading-5f88",
+        "familiarityCheckId": "familiar-5f88",
+        "practice": [
+          {
+            "wordId": "word-5f88-1",
+            "checkId": "practice-one-5f88"
+          },
+          {
+            "wordId": "word-5f88-2",
+            "checkId": "practice-two-5f88"
+          }
+        ],
+        "immediateCheckId": "check-5f88",
+        "reviewCheckId": "review-5f88"
+      }
+    ],
+    "reader": {
+      "title": "Useful connecting words: 还 and 很",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-8fd8-1",
+        "word-8fd8-2",
+        "word-5f88-1",
+        "word-5f88-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-8fd8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8fd8",
+          "transcript": "还",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8fd8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8fd8",
+          "transcript": "还",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8fd8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8fd8",
+          "transcript": "还",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8fd8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8fd8",
+          "transcript": "还有",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8fd8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8fd8",
+          "transcript": "还是",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8fd8",
+          "readingId": "reading-8fd8",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "还",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8fd8-1",
+          "readingId": null,
+          "wordId": "word-8fd8-1",
+          "checkId": null,
+          "transcript": "盒子里还有一支铅笔。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8fd8-2",
+          "readingId": null,
+          "wordId": "word-8fd8-2",
+          "checkId": null,
+          "transcript": "你想画小猫还是小狗？",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5f88",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5f88",
+          "transcript": "很",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5f88",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5f88",
+          "transcript": "很",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5f88",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5f88",
+          "transcript": "很",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5f88",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5f88",
+          "transcript": "很好",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5f88",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5f88",
+          "transcript": "很多",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5f88",
+          "readingId": "reading-5f88",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "很",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5f88-1",
+          "readingId": null,
+          "wordId": "word-5f88-1",
+          "checkId": null,
+          "transcript": "你把书本整理得很好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5f88-2",
+          "readingId": null,
+          "wordId": "word-5f88-2",
+          "checkId": null,
+          "transcript": "花园里有很多小花。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

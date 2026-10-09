@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-045",
+  "lessonVersion": "expansion-045-v1",
+  "title": "Directions and time: 短 and 远",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 105
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 短 and 远 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-77ed",
+      "hanzi": "短",
+      "readings": [
+        {
+          "readingId": "reading-77ed",
+          "pinyin": "duǎn",
+          "audioText": "短",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#短",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "short",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#短",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-77ed-1",
+          "text": "短发",
+          "pinyin": "duǎn fà",
+          "english": "short hair",
+          "readingId": "reading-77ed",
+          "context": {
+            "hanzi": "我在图画里看到了短发。",
+            "english": "I see short hair in the picture.",
+            "targetCharacter": "短"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#短发",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-77ed-2",
+          "text": "短小",
+          "pinyin": "duǎn xiǎo",
+          "english": "short and small",
+          "readingId": "reading-77ed",
+          "context": {
+            "hanzi": "这个故事很短小，却很有趣。",
+            "english": "This story is short but interesting.",
+            "targetCharacter": "短"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#短小",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 矢 beside 豆 in 短.",
+        "demonstrationEnglish": "This is 短. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-77ed",
+        "delayedReview": {
+          "promptId": "later-77ed",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-77ed"
+        }
+      },
+      "assets": [
+        "asset-glyph-77ed",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-8fdc",
+      "hanzi": "远",
+      "readings": [
+        {
+          "readingId": "reading-8fdc",
+          "pinyin": "yuǎn",
+          "audioText": "远",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#远",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "far",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#远",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8fdc-1",
+          "text": "远方",
+          "pinyin": "yuǎn fāng",
+          "english": "a distant place",
+          "readingId": "reading-8fdc",
+          "context": {
+            "hanzi": "故事里的小鸟飞向远方。",
+            "english": "The bird in the story flies to a distant place.",
+            "targetCharacter": "远"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#远方",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8fdc-2",
+          "text": "远处",
+          "pinyin": "yuǎn chù",
+          "english": "in the distance",
+          "readingId": "reading-8fdc",
+          "context": {
+            "hanzi": "远处有一座小桥。",
+            "english": "There is a little bridge in the distance.",
+            "targetCharacter": "远"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#远处",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 元 above the long bottom stroke of 辶 in 远.",
+        "demonstrationEnglish": "This is 远. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8fdc",
+        "delayedReview": {
+          "promptId": "later-8fdc",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8fdc"
+        }
+      },
+      "assets": [
+        "asset-glyph-8fdc",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-045-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-77ed",
+        "familiar-8fdc"
+      ]
+    },
+    {
+      "stepId": "expansion-045-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-045-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-77ed",
+        "practice-two-77ed",
+        "practice-one-8fdc",
+        "practice-two-8fdc"
+      ]
+    },
+    {
+      "stepId": "expansion-045-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-77ed",
+        "check-8fdc"
+      ]
+    },
+    {
+      "stepId": "expansion-045-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-77ed",
+      "characterId": "char-77ed",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "短"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-77ed-choice-1",
+          "hanzi": "短"
+        },
+        {
+          "choiceId": "familiar-77ed-choice-2",
+          "hanzi": "远"
+        },
+        {
+          "choiceId": "familiar-77ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-77ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-77ed-choice-1"
+    },
+    {
+      "checkId": "check-77ed",
+      "characterId": "char-77ed",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "短"
+      },
+      "choices": [
+        {
+          "choiceId": "check-77ed-choice-1",
+          "hanzi": "短"
+        },
+        {
+          "choiceId": "check-77ed-choice-2",
+          "hanzi": "远"
+        },
+        {
+          "choiceId": "check-77ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-77ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-77ed-choice-1"
+    },
+    {
+      "checkId": "review-77ed",
+      "characterId": "char-77ed",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "短"
+      },
+      "choices": [
+        {
+          "choiceId": "review-77ed-choice-1",
+          "hanzi": "短"
+        },
+        {
+          "choiceId": "review-77ed-choice-2",
+          "hanzi": "远"
+        },
+        {
+          "choiceId": "review-77ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-77ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-77ed-choice-1"
+    },
+    {
+      "checkId": "practice-one-77ed",
+      "characterId": "char-77ed",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "短发"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-77ed-choice-1",
+          "hanzi": "短"
+        },
+        {
+          "choiceId": "practice-one-77ed-choice-2",
+          "hanzi": "远"
+        },
+        {
+          "choiceId": "practice-one-77ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-77ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-77ed-choice-1"
+    },
+    {
+      "checkId": "practice-two-77ed",
+      "characterId": "char-77ed",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "短小"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-77ed-choice-1",
+          "hanzi": "短"
+        },
+        {
+          "choiceId": "practice-two-77ed-choice-2",
+          "hanzi": "远"
+        },
+        {
+          "choiceId": "practice-two-77ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-77ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-77ed-choice-1"
+    },
+    {
+      "checkId": "familiar-8fdc",
+      "characterId": "char-8fdc",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "远"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8fdc-choice-1",
+          "hanzi": "短"
+        },
+        {
+          "choiceId": "familiar-8fdc-choice-2",
+          "hanzi": "远"
+        },
+        {
+          "choiceId": "familiar-8fdc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8fdc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8fdc-choice-2"
+    },
+    {
+      "checkId": "check-8fdc",
+      "characterId": "char-8fdc",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "远"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8fdc-choice-1",
+          "hanzi": "短"
+        },
+        {
+          "choiceId": "check-8fdc-choice-2",
+          "hanzi": "远"
+        },
+        {
+          "choiceId": "check-8fdc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8fdc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8fdc-choice-2"
+    },
+    {
+      "checkId": "review-8fdc",
+      "characterId": "char-8fdc",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "远"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8fdc-choice-1",
+          "hanzi": "短"
+        },
+        {
+          "choiceId": "review-8fdc-choice-2",
+          "hanzi": "远"
+        },
+        {
+          "choiceId": "review-8fdc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8fdc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8fdc-choice-2"
+    },
+    {
+      "checkId": "practice-one-8fdc",
+      "characterId": "char-8fdc",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "远方"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8fdc-choice-1",
+          "hanzi": "短"
+        },
+        {
+          "choiceId": "practice-one-8fdc-choice-2",
+          "hanzi": "远"
+        },
+        {
+          "choiceId": "practice-one-8fdc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8fdc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8fdc-choice-2"
+    },
+    {
+      "checkId": "practice-two-8fdc",
+      "characterId": "char-8fdc",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "远处"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8fdc-choice-1",
+          "hanzi": "短"
+        },
+        {
+          "choiceId": "practice-two-8fdc-choice-2",
+          "hanzi": "远"
+        },
+        {
+          "choiceId": "practice-two-8fdc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8fdc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8fdc-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-77ed",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-045-v1/char-77ed",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-8fdc",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-045-v1/char-8fdc",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-045-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-045-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Directions and time: 短 and 远",
+      "instructionEnglish": "Read two short word examples for 短 and 远 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-77ed",
+        "readingId": "reading-77ed",
+        "familiarityCheckId": "familiar-77ed",
+        "practice": [
+          {
+            "wordId": "word-77ed-1",
+            "checkId": "practice-one-77ed"
+          },
+          {
+            "wordId": "word-77ed-2",
+            "checkId": "practice-two-77ed"
+          }
+        ],
+        "immediateCheckId": "check-77ed",
+        "reviewCheckId": "review-77ed"
+      },
+      {
+        "characterId": "char-8fdc",
+        "readingId": "reading-8fdc",
+        "familiarityCheckId": "familiar-8fdc",
+        "practice": [
+          {
+            "wordId": "word-8fdc-1",
+            "checkId": "practice-one-8fdc"
+          },
+          {
+            "wordId": "word-8fdc-2",
+            "checkId": "practice-two-8fdc"
+          }
+        ],
+        "immediateCheckId": "check-8fdc",
+        "reviewCheckId": "review-8fdc"
+      }
+    ],
+    "reader": {
+      "title": "Directions and time: 短 and 远",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-77ed-1",
+        "word-77ed-2",
+        "word-8fdc-1",
+        "word-8fdc-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-77ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-77ed",
+          "transcript": "短",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-77ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-77ed",
+          "transcript": "短",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-77ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-77ed",
+          "transcript": "短",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-77ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-77ed",
+          "transcript": "短发",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-77ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-77ed",
+          "transcript": "短小",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-77ed",
+          "readingId": "reading-77ed",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "短",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-77ed-1",
+          "readingId": null,
+          "wordId": "word-77ed-1",
+          "checkId": null,
+          "transcript": "我在图画里看到了短发。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-77ed-2",
+          "readingId": null,
+          "wordId": "word-77ed-2",
+          "checkId": null,
+          "transcript": "这个故事很短小，却很有趣。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-8fdc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8fdc",
+          "transcript": "远",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8fdc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8fdc",
+          "transcript": "远",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8fdc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8fdc",
+          "transcript": "远",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8fdc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8fdc",
+          "transcript": "远方",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8fdc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8fdc",
+          "transcript": "远处",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8fdc",
+          "readingId": "reading-8fdc",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "远",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8fdc-1",
+          "readingId": null,
+          "wordId": "word-8fdc-1",
+          "checkId": null,
+          "transcript": "故事里的小鸟飞向远方。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8fdc-2",
+          "readingId": null,
+          "wordId": "word-8fdc-2",
+          "checkId": null,
+          "transcript": "远处有一座小桥。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

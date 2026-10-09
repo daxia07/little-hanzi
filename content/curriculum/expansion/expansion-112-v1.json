@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-112",
+  "lessonVersion": "expansion-112-v1",
+  "title": "Art, music and games: 歌 and 乐",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 172
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 歌 and 乐 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-6b4c",
+      "hanzi": "歌",
+      "readings": [
+        {
+          "readingId": "reading-6b4c",
+          "pinyin": "gē",
+          "audioText": "歌",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#歌",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "song",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#歌",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6b4c-1",
+          "text": "唱歌",
+          "pinyin": "chàng gē",
+          "english": "sing songs",
+          "readingId": "reading-6b4c",
+          "context": {
+            "hanzi": "我们一起唱歌。",
+            "english": "We sing songs together.",
+            "targetCharacter": "歌"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#唱歌",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6b4c-2",
+          "text": "歌曲",
+          "pinyin": "gē qǔ",
+          "english": "a song",
+          "readingId": "reading-6b4c",
+          "context": {
+            "hanzi": "我们听到了歌曲。",
+            "english": "We hear a song.",
+            "targetCharacter": "歌"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#歌曲",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find two 可 shapes beside 欠 in 歌.",
+        "demonstrationEnglish": "This is 歌. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6b4c",
+        "delayedReview": {
+          "promptId": "later-6b4c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6b4c"
+        }
+      },
+      "assets": [
+        "asset-glyph-6b4c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-4e50",
+      "hanzi": "乐",
+      "readings": [
+        {
+          "readingId": "reading-4e50",
+          "pinyin": "lè",
+          "audioText": "乐",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#乐",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "happy; joy",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#乐",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e50-1",
+          "text": "快乐",
+          "pinyin": "kuài lè",
+          "english": "happy",
+          "readingId": "reading-4e50",
+          "context": {
+            "hanzi": "故事里的小兔很快乐。",
+            "english": "The little rabbit in the story is happy.",
+            "targetCharacter": "乐"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#快乐",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e50-2",
+          "text": "欢乐",
+          "pinyin": "huān lè",
+          "english": "joyful",
+          "readingId": "reading-4e50",
+          "context": {
+            "hanzi": "故事里的小兔很欢乐。",
+            "english": "The little rabbit in the story is joyful.",
+            "targetCharacter": "乐"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#欢乐",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the upright hook and two spreading strokes in 乐; these words use lè.",
+        "demonstrationEnglish": "This is 乐. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e50",
+        "delayedReview": {
+          "promptId": "later-4e50",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e50"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e50",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-112-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-6b4c",
+        "familiar-4e50"
+      ]
+    },
+    {
+      "stepId": "expansion-112-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-112-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-6b4c",
+        "practice-two-6b4c",
+        "practice-one-4e50",
+        "practice-two-4e50"
+      ]
+    },
+    {
+      "stepId": "expansion-112-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-6b4c",
+        "check-4e50"
+      ]
+    },
+    {
+      "stepId": "expansion-112-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-6b4c",
+      "characterId": "char-6b4c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "歌"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6b4c-choice-1",
+          "hanzi": "歌"
+        },
+        {
+          "choiceId": "familiar-6b4c-choice-2",
+          "hanzi": "乐"
+        },
+        {
+          "choiceId": "familiar-6b4c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6b4c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6b4c-choice-1"
+    },
+    {
+      "checkId": "check-6b4c",
+      "characterId": "char-6b4c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "歌"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6b4c-choice-1",
+          "hanzi": "歌"
+        },
+        {
+          "choiceId": "check-6b4c-choice-2",
+          "hanzi": "乐"
+        },
+        {
+          "choiceId": "check-6b4c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6b4c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6b4c-choice-1"
+    },
+    {
+      "checkId": "review-6b4c",
+      "characterId": "char-6b4c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "歌"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6b4c-choice-1",
+          "hanzi": "歌"
+        },
+        {
+          "choiceId": "review-6b4c-choice-2",
+          "hanzi": "乐"
+        },
+        {
+          "choiceId": "review-6b4c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6b4c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6b4c-choice-1"
+    },
+    {
+      "checkId": "practice-one-6b4c",
+      "characterId": "char-6b4c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "唱歌"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6b4c-choice-1",
+          "hanzi": "歌"
+        },
+        {
+          "choiceId": "practice-one-6b4c-choice-2",
+          "hanzi": "乐"
+        },
+        {
+          "choiceId": "practice-one-6b4c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6b4c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6b4c-choice-1"
+    },
+    {
+      "checkId": "practice-two-6b4c",
+      "characterId": "char-6b4c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "歌曲"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6b4c-choice-1",
+          "hanzi": "歌"
+        },
+        {
+          "choiceId": "practice-two-6b4c-choice-2",
+          "hanzi": "乐"
+        },
+        {
+          "choiceId": "practice-two-6b4c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6b4c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6b4c-choice-1"
+    },
+    {
+      "checkId": "familiar-4e50",
+      "characterId": "char-4e50",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "乐"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e50-choice-1",
+          "hanzi": "歌"
+        },
+        {
+          "choiceId": "familiar-4e50-choice-2",
+          "hanzi": "乐"
+        },
+        {
+          "choiceId": "familiar-4e50-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e50-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e50-choice-2"
+    },
+    {
+      "checkId": "check-4e50",
+      "characterId": "char-4e50",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "乐"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e50-choice-1",
+          "hanzi": "歌"
+        },
+        {
+          "choiceId": "check-4e50-choice-2",
+          "hanzi": "乐"
+        },
+        {
+          "choiceId": "check-4e50-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e50-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e50-choice-2"
+    },
+    {
+      "checkId": "review-4e50",
+      "characterId": "char-4e50",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "乐"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e50-choice-1",
+          "hanzi": "歌"
+        },
+        {
+          "choiceId": "review-4e50-choice-2",
+          "hanzi": "乐"
+        },
+        {
+          "choiceId": "review-4e50-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e50-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e50-choice-2"
+    },
+    {
+      "checkId": "practice-one-4e50",
+      "characterId": "char-4e50",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "快乐"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e50-choice-1",
+          "hanzi": "歌"
+        },
+        {
+          "choiceId": "practice-one-4e50-choice-2",
+          "hanzi": "乐"
+        },
+        {
+          "choiceId": "practice-one-4e50-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e50-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e50-choice-2"
+    },
+    {
+      "checkId": "practice-two-4e50",
+      "characterId": "char-4e50",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "欢乐"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e50-choice-1",
+          "hanzi": "歌"
+        },
+        {
+          "choiceId": "practice-two-4e50-choice-2",
+          "hanzi": "乐"
+        },
+        {
+          "choiceId": "practice-two-4e50-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e50-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e50-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-6b4c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-112-v1/char-6b4c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-4e50",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-112-v1/char-4e50",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-112-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-112-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Art, music and games: 歌 and 乐",
+      "instructionEnglish": "Read two short word examples for 歌 and 乐 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-6b4c",
+        "readingId": "reading-6b4c",
+        "familiarityCheckId": "familiar-6b4c",
+        "practice": [
+          {
+            "wordId": "word-6b4c-1",
+            "checkId": "practice-one-6b4c"
+          },
+          {
+            "wordId": "word-6b4c-2",
+            "checkId": "practice-two-6b4c"
+          }
+        ],
+        "immediateCheckId": "check-6b4c",
+        "reviewCheckId": "review-6b4c"
+      },
+      {
+        "characterId": "char-4e50",
+        "readingId": "reading-4e50",
+        "familiarityCheckId": "familiar-4e50",
+        "practice": [
+          {
+            "wordId": "word-4e50-1",
+            "checkId": "practice-one-4e50"
+          },
+          {
+            "wordId": "word-4e50-2",
+            "checkId": "practice-two-4e50"
+          }
+        ],
+        "immediateCheckId": "check-4e50",
+        "reviewCheckId": "review-4e50"
+      }
+    ],
+    "reader": {
+      "title": "Art, music and games: 歌 and 乐",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-6b4c-1",
+        "word-6b4c-2",
+        "word-4e50-1",
+        "word-4e50-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-6b4c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6b4c",
+          "transcript": "歌",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6b4c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6b4c",
+          "transcript": "歌",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6b4c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6b4c",
+          "transcript": "歌",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6b4c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6b4c",
+          "transcript": "唱歌",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6b4c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6b4c",
+          "transcript": "歌曲",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6b4c",
+          "readingId": "reading-6b4c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "歌",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6b4c-1",
+          "readingId": null,
+          "wordId": "word-6b4c-1",
+          "checkId": null,
+          "transcript": "我们一起唱歌。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6b4c-2",
+          "readingId": null,
+          "wordId": "word-6b4c-2",
+          "checkId": null,
+          "transcript": "我们听到了歌曲。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-4e50",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e50",
+          "transcript": "乐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e50",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e50",
+          "transcript": "乐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e50",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e50",
+          "transcript": "乐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e50",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e50",
+          "transcript": "快乐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e50",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e50",
+          "transcript": "欢乐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e50",
+          "readingId": "reading-4e50",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "乐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e50-1",
+          "readingId": null,
+          "wordId": "word-4e50-1",
+          "checkId": null,
+          "transcript": "故事里的小兔很快乐。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e50-2",
+          "readingId": null,
+          "wordId": "word-4e50-2",
+          "checkId": null,
+          "transcript": "故事里的小兔很欢乐。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-137",
+  "lessonVersion": "expansion-137-v1",
+  "title": "Kinds, measures and collections: 辆 and 套",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 197
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 辆 and 套 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-8f86",
+      "hanzi": "辆",
+      "readings": [
+        {
+          "readingId": "reading-8f86",
+          "pinyin": "liàng",
+          "audioText": "辆",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#辆",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "counting word for vehicles",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#辆",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8f86-1",
+          "text": "一辆车",
+          "pinyin": "yī liàng chē",
+          "english": "one vehicle",
+          "readingId": "reading-8f86",
+          "context": {
+            "hanzi": "门口停着一辆车。",
+            "english": "There is a vehicle parked by the entrance.",
+            "targetCharacter": "辆"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#一辆车",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8f86-2",
+          "text": "一辆自行车",
+          "pinyin": "yī liàng zì xíng chē",
+          "english": "one bicycle",
+          "readingId": "reading-8f86",
+          "context": {
+            "hanzi": "树旁有一辆自行车。",
+            "english": "There is a bicycle beside the tree.",
+            "targetCharacter": "辆"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#一辆自行车",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 车 beside 两 in 辆.",
+        "demonstrationEnglish": "This is 辆. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8f86",
+        "delayedReview": {
+          "promptId": "later-8f86",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8f86"
+        }
+      },
+      "assets": [
+        "asset-glyph-8f86",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5957",
+      "hanzi": "套",
+      "readings": [
+        {
+          "readingId": "reading-5957",
+          "pinyin": "tào",
+          "audioText": "套",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#套",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "set; cover",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#套",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5957-1",
+          "text": "套装",
+          "pinyin": "tào zhuāng",
+          "english": "a matching set of clothes",
+          "readingId": "reading-5957",
+          "context": {
+            "hanzi": "我在图画里看到了套装。",
+            "english": "I see a matching set of clothes in the picture.",
+            "targetCharacter": "套"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#套装",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5957-2",
+          "text": "手套",
+          "pinyin": "shǒu tào",
+          "english": "gloves",
+          "readingId": "reading-5957",
+          "context": {
+            "hanzi": "我们把手套放进小盒子。",
+            "english": "We put gloves into a small box.",
+            "targetCharacter": "套"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#手套",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 大 above the lower part of 套.",
+        "demonstrationEnglish": "This is 套. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5957",
+        "delayedReview": {
+          "promptId": "later-5957",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5957"
+        }
+      },
+      "assets": [
+        "asset-glyph-5957",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-137-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-8f86",
+        "familiar-5957"
+      ]
+    },
+    {
+      "stepId": "expansion-137-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-137-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-8f86",
+        "practice-two-8f86",
+        "practice-one-5957",
+        "practice-two-5957"
+      ]
+    },
+    {
+      "stepId": "expansion-137-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-8f86",
+        "check-5957"
+      ]
+    },
+    {
+      "stepId": "expansion-137-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-8f86",
+      "characterId": "char-8f86",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "辆"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8f86-choice-1",
+          "hanzi": "辆"
+        },
+        {
+          "choiceId": "familiar-8f86-choice-2",
+          "hanzi": "套"
+        },
+        {
+          "choiceId": "familiar-8f86-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8f86-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8f86-choice-1"
+    },
+    {
+      "checkId": "check-8f86",
+      "characterId": "char-8f86",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "辆"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8f86-choice-1",
+          "hanzi": "辆"
+        },
+        {
+          "choiceId": "check-8f86-choice-2",
+          "hanzi": "套"
+        },
+        {
+          "choiceId": "check-8f86-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8f86-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8f86-choice-1"
+    },
+    {
+      "checkId": "review-8f86",
+      "characterId": "char-8f86",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "辆"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8f86-choice-1",
+          "hanzi": "辆"
+        },
+        {
+          "choiceId": "review-8f86-choice-2",
+          "hanzi": "套"
+        },
+        {
+          "choiceId": "review-8f86-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8f86-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8f86-choice-1"
+    },
+    {
+      "checkId": "practice-one-8f86",
+      "characterId": "char-8f86",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "一辆车"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8f86-choice-1",
+          "hanzi": "辆"
+        },
+        {
+          "choiceId": "practice-one-8f86-choice-2",
+          "hanzi": "套"
+        },
+        {
+          "choiceId": "practice-one-8f86-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8f86-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8f86-choice-1"
+    },
+    {
+      "checkId": "practice-two-8f86",
+      "characterId": "char-8f86",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "一辆自行车"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8f86-choice-1",
+          "hanzi": "辆"
+        },
+        {
+          "choiceId": "practice-two-8f86-choice-2",
+          "hanzi": "套"
+        },
+        {
+          "choiceId": "practice-two-8f86-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8f86-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8f86-choice-1"
+    },
+    {
+      "checkId": "familiar-5957",
+      "characterId": "char-5957",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "套"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5957-choice-1",
+          "hanzi": "辆"
+        },
+        {
+          "choiceId": "familiar-5957-choice-2",
+          "hanzi": "套"
+        },
+        {
+          "choiceId": "familiar-5957-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5957-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5957-choice-2"
+    },
+    {
+      "checkId": "check-5957",
+      "characterId": "char-5957",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "套"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5957-choice-1",
+          "hanzi": "辆"
+        },
+        {
+          "choiceId": "check-5957-choice-2",
+          "hanzi": "套"
+        },
+        {
+          "choiceId": "check-5957-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5957-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5957-choice-2"
+    },
+    {
+      "checkId": "review-5957",
+      "characterId": "char-5957",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "套"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5957-choice-1",
+          "hanzi": "辆"
+        },
+        {
+          "choiceId": "review-5957-choice-2",
+          "hanzi": "套"
+        },
+        {
+          "choiceId": "review-5957-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5957-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5957-choice-2"
+    },
+    {
+      "checkId": "practice-one-5957",
+      "characterId": "char-5957",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "套装"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5957-choice-1",
+          "hanzi": "辆"
+        },
+        {
+          "choiceId": "practice-one-5957-choice-2",
+          "hanzi": "套"
+        },
+        {
+          "choiceId": "practice-one-5957-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5957-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5957-choice-2"
+    },
+    {
+      "checkId": "practice-two-5957",
+      "characterId": "char-5957",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "手套"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5957-choice-1",
+          "hanzi": "辆"
+        },
+        {
+          "choiceId": "practice-two-5957-choice-2",
+          "hanzi": "套"
+        },
+        {
+          "choiceId": "practice-two-5957-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5957-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5957-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-8f86",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-137-v1/char-8f86",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5957",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-137-v1/char-5957",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-137-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-137-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Kinds, measures and collections: 辆 and 套",
+      "instructionEnglish": "Read two short word examples for 辆 and 套 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-8f86",
+        "readingId": "reading-8f86",
+        "familiarityCheckId": "familiar-8f86",
+        "practice": [
+          {
+            "wordId": "word-8f86-1",
+            "checkId": "practice-one-8f86"
+          },
+          {
+            "wordId": "word-8f86-2",
+            "checkId": "practice-two-8f86"
+          }
+        ],
+        "immediateCheckId": "check-8f86",
+        "reviewCheckId": "review-8f86"
+      },
+      {
+        "characterId": "char-5957",
+        "readingId": "reading-5957",
+        "familiarityCheckId": "familiar-5957",
+        "practice": [
+          {
+            "wordId": "word-5957-1",
+            "checkId": "practice-one-5957"
+          },
+          {
+            "wordId": "word-5957-2",
+            "checkId": "practice-two-5957"
+          }
+        ],
+        "immediateCheckId": "check-5957",
+        "reviewCheckId": "review-5957"
+      }
+    ],
+    "reader": {
+      "title": "Kinds, measures and collections: 辆 and 套",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-8f86-1",
+        "word-8f86-2",
+        "word-5957-1",
+        "word-5957-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-8f86",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8f86",
+          "transcript": "辆",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8f86",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8f86",
+          "transcript": "辆",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8f86",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8f86",
+          "transcript": "辆",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8f86",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8f86",
+          "transcript": "一辆车",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8f86",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8f86",
+          "transcript": "一辆自行车",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8f86",
+          "readingId": "reading-8f86",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "辆",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8f86-1",
+          "readingId": null,
+          "wordId": "word-8f86-1",
+          "checkId": null,
+          "transcript": "门口停着一辆车。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8f86-2",
+          "readingId": null,
+          "wordId": "word-8f86-2",
+          "checkId": null,
+          "transcript": "树旁有一辆自行车。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5957",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5957",
+          "transcript": "套",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5957",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5957",
+          "transcript": "套",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5957",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5957",
+          "transcript": "套",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5957",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5957",
+          "transcript": "套装",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5957",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5957",
+          "transcript": "手套",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5957",
+          "readingId": "reading-5957",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "套",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5957-1",
+          "readingId": null,
+          "wordId": "word-5957-1",
+          "checkId": null,
+          "transcript": "我在图画里看到了套装。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5957-2",
+          "readingId": null,
+          "wordId": "word-5957-2",
+          "checkId": null,
+          "transcript": "我们把手套放进小盒子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

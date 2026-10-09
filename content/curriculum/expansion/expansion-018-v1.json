@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-018",
+  "lessonVersion": "expansion-018-v1",
+  "title": "Moving and doing: 关 and 坐",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 78
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 关 and 坐 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5173",
+      "hanzi": "关",
+      "readings": [
+        {
+          "readingId": "reading-5173",
+          "pinyin": "guān",
+          "audioText": "关",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#关",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "close; shut",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#关",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5173-1",
+          "text": "关门",
+          "pinyin": "guān mén",
+          "english": "close the door",
+          "readingId": "reading-5173",
+          "context": {
+            "hanzi": "出去以后，请轻轻关门。",
+            "english": "After going out, please close the door gently.",
+            "targetCharacter": "关"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#关门",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5173-2",
+          "text": "开关",
+          "pinyin": "kāi guān",
+          "english": "switch",
+          "readingId": "reading-5173",
+          "context": {
+            "hanzi": "台灯的开关在底座上。",
+            "english": "The lamp's switch is on its base.",
+            "targetCharacter": "关"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#开关",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find the two small top strokes above 天 in 关.",
+        "demonstrationEnglish": "This is 关. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5173",
+        "delayedReview": {
+          "promptId": "later-5173",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5173"
+        }
+      },
+      "assets": [
+        "asset-glyph-5173",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5750",
+      "hanzi": "坐",
+      "readings": [
+        {
+          "readingId": "reading-5750",
+          "pinyin": "zuò",
+          "audioText": "坐",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#坐",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "sit",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#坐",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5750-1",
+          "text": "坐下",
+          "pinyin": "zuò xia",
+          "english": "sit down",
+          "readingId": "reading-5750",
+          "context": {
+            "hanzi": "我们坐下来看一本故事书。",
+            "english": "We sit down to read a storybook.",
+            "targetCharacter": "坐"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#坐下",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5750-2",
+          "text": "坐车",
+          "pinyin": "zuò chē",
+          "english": "travel by vehicle",
+          "readingId": "reading-5750",
+          "context": {
+            "hanzi": "我和大人一起坐车去公园。",
+            "english": "I travel to the park with an adult.",
+            "targetCharacter": "坐"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#坐车",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find two small 人 shapes above 土 in 坐.",
+        "demonstrationEnglish": "This is 坐. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5750",
+        "delayedReview": {
+          "promptId": "later-5750",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5750"
+        }
+      },
+      "assets": [
+        "asset-glyph-5750",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-018-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5173",
+        "familiar-5750"
+      ]
+    },
+    {
+      "stepId": "expansion-018-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-018-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-5173",
+        "practice-two-5173",
+        "practice-one-5750",
+        "practice-two-5750"
+      ]
+    },
+    {
+      "stepId": "expansion-018-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5173",
+        "check-5750"
+      ]
+    },
+    {
+      "stepId": "expansion-018-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5173",
+      "characterId": "char-5173",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "关"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5173-choice-1",
+          "hanzi": "关"
+        },
+        {
+          "choiceId": "familiar-5173-choice-2",
+          "hanzi": "坐"
+        },
+        {
+          "choiceId": "familiar-5173-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5173-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5173-choice-1"
+    },
+    {
+      "checkId": "check-5173",
+      "characterId": "char-5173",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "关"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5173-choice-1",
+          "hanzi": "关"
+        },
+        {
+          "choiceId": "check-5173-choice-2",
+          "hanzi": "坐"
+        },
+        {
+          "choiceId": "check-5173-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5173-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5173-choice-1"
+    },
+    {
+      "checkId": "review-5173",
+      "characterId": "char-5173",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "关"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5173-choice-1",
+          "hanzi": "关"
+        },
+        {
+          "choiceId": "review-5173-choice-2",
+          "hanzi": "坐"
+        },
+        {
+          "choiceId": "review-5173-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5173-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5173-choice-1"
+    },
+    {
+      "checkId": "practice-one-5173",
+      "characterId": "char-5173",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "关门"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5173-choice-1",
+          "hanzi": "关"
+        },
+        {
+          "choiceId": "practice-one-5173-choice-2",
+          "hanzi": "坐"
+        },
+        {
+          "choiceId": "practice-one-5173-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5173-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5173-choice-1"
+    },
+    {
+      "checkId": "practice-two-5173",
+      "characterId": "char-5173",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "开关"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5173-choice-1",
+          "hanzi": "关"
+        },
+        {
+          "choiceId": "practice-two-5173-choice-2",
+          "hanzi": "坐"
+        },
+        {
+          "choiceId": "practice-two-5173-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5173-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5173-choice-1"
+    },
+    {
+      "checkId": "familiar-5750",
+      "characterId": "char-5750",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "坐"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5750-choice-1",
+          "hanzi": "关"
+        },
+        {
+          "choiceId": "familiar-5750-choice-2",
+          "hanzi": "坐"
+        },
+        {
+          "choiceId": "familiar-5750-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5750-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5750-choice-2"
+    },
+    {
+      "checkId": "check-5750",
+      "characterId": "char-5750",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "坐"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5750-choice-1",
+          "hanzi": "关"
+        },
+        {
+          "choiceId": "check-5750-choice-2",
+          "hanzi": "坐"
+        },
+        {
+          "choiceId": "check-5750-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5750-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5750-choice-2"
+    },
+    {
+      "checkId": "review-5750",
+      "characterId": "char-5750",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "坐"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5750-choice-1",
+          "hanzi": "关"
+        },
+        {
+          "choiceId": "review-5750-choice-2",
+          "hanzi": "坐"
+        },
+        {
+          "choiceId": "review-5750-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5750-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5750-choice-2"
+    },
+    {
+      "checkId": "practice-one-5750",
+      "characterId": "char-5750",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "坐下"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5750-choice-1",
+          "hanzi": "关"
+        },
+        {
+          "choiceId": "practice-one-5750-choice-2",
+          "hanzi": "坐"
+        },
+        {
+          "choiceId": "practice-one-5750-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5750-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5750-choice-2"
+    },
+    {
+      "checkId": "practice-two-5750",
+      "characterId": "char-5750",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "坐车"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5750-choice-1",
+          "hanzi": "关"
+        },
+        {
+          "choiceId": "practice-two-5750-choice-2",
+          "hanzi": "坐"
+        },
+        {
+          "choiceId": "practice-two-5750-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5750-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5750-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5173",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-018-v1/char-5173",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5750",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-018-v1/char-5750",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-018-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-018-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Moving and doing: 关 and 坐",
+      "instructionEnglish": "Read two short word examples for 关 and 坐 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-5173",
+        "readingId": "reading-5173",
+        "familiarityCheckId": "familiar-5173",
+        "practice": [
+          {
+            "wordId": "word-5173-1",
+            "checkId": "practice-one-5173"
+          },
+          {
+            "wordId": "word-5173-2",
+            "checkId": "practice-two-5173"
+          }
+        ],
+        "immediateCheckId": "check-5173",
+        "reviewCheckId": "review-5173"
+      },
+      {
+        "characterId": "char-5750",
+        "readingId": "reading-5750",
+        "familiarityCheckId": "familiar-5750",
+        "practice": [
+          {
+            "wordId": "word-5750-1",
+            "checkId": "practice-one-5750"
+          },
+          {
+            "wordId": "word-5750-2",
+            "checkId": "practice-two-5750"
+          }
+        ],
+        "immediateCheckId": "check-5750",
+        "reviewCheckId": "review-5750"
+      }
+    ],
+    "reader": {
+      "title": "Moving and doing: 关 and 坐",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5173-1",
+        "word-5173-2",
+        "word-5750-1",
+        "word-5750-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5173",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5173",
+          "transcript": "关",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5173",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5173",
+          "transcript": "关",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5173",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5173",
+          "transcript": "关",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5173",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5173",
+          "transcript": "关门",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5173",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5173",
+          "transcript": "开关",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5173",
+          "readingId": "reading-5173",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "关",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5173-1",
+          "readingId": null,
+          "wordId": "word-5173-1",
+          "checkId": null,
+          "transcript": "出去以后，请轻轻关门。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5173-2",
+          "readingId": null,
+          "wordId": "word-5173-2",
+          "checkId": null,
+          "transcript": "台灯的开关在底座上。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5750",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5750",
+          "transcript": "坐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5750",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5750",
+          "transcript": "坐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5750",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5750",
+          "transcript": "坐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5750",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5750",
+          "transcript": "坐下",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5750",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5750",
+          "transcript": "坐车",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5750",
+          "readingId": "reading-5750",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "坐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5750-1",
+          "readingId": null,
+          "wordId": "word-5750-1",
+          "checkId": null,
+          "transcript": "我们坐下来看一本故事书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5750-2",
+          "readingId": null,
+          "wordId": "word-5750-2",
+          "checkId": null,
+          "transcript": "我和大人一起坐车去公园。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

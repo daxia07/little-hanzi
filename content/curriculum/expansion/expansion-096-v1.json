@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-096",
+  "lessonVersion": "expansion-096-v1",
+  "title": "Home and our neighbourhood: 院 and 园",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 156
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 院 and 园 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-9662",
+      "hanzi": "院",
+      "readings": [
+        {
+          "readingId": "reading-9662",
+          "pinyin": "yuàn",
+          "audioText": "院",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#院",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "courtyard; institution",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#院",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-9662-1",
+          "text": "院子",
+          "pinyin": "yuàn zi",
+          "english": "a courtyard",
+          "readingId": "reading-9662",
+          "context": {
+            "hanzi": "我用彩笔画了院子。",
+            "english": "I draw a courtyard with coloured pens.",
+            "targetCharacter": "院"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#院子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-9662-2",
+          "text": "医院",
+          "pinyin": "yī yuàn",
+          "english": "a hospital",
+          "readingId": "reading-9662",
+          "context": {
+            "hanzi": "我在图画里看到了医院。",
+            "english": "I see a hospital in the picture.",
+            "targetCharacter": "院"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#医院",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 阝 beside 完 in 院.",
+        "demonstrationEnglish": "This is 院. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-9662",
+        "delayedReview": {
+          "promptId": "later-9662",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-9662"
+        }
+      },
+      "assets": [
+        "asset-glyph-9662",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-56ed",
+      "hanzi": "园",
+      "readings": [
+        {
+          "readingId": "reading-56ed",
+          "pinyin": "yuán",
+          "audioText": "园",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#园",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "garden; park",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#园",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-56ed-1",
+          "text": "公园",
+          "pinyin": "gōng yuán",
+          "english": "a park",
+          "readingId": "reading-56ed",
+          "context": {
+            "hanzi": "我在图画里看到了公园。",
+            "english": "I see a park in the picture.",
+            "targetCharacter": "园"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#公园",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-56ed-2",
+          "text": "花园",
+          "pinyin": "huā yuán",
+          "english": "a flower garden",
+          "readingId": "reading-56ed",
+          "context": {
+            "hanzi": "我用彩笔画了花园。",
+            "english": "I draw a flower garden with coloured pens.",
+            "targetCharacter": "园"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#花园",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 元 inside the outer frame 囗 in 园.",
+        "demonstrationEnglish": "This is 园. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-56ed",
+        "delayedReview": {
+          "promptId": "later-56ed",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-56ed"
+        }
+      },
+      "assets": [
+        "asset-glyph-56ed",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-096-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-9662",
+        "familiar-56ed"
+      ]
+    },
+    {
+      "stepId": "expansion-096-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-096-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-9662",
+        "practice-two-9662",
+        "practice-one-56ed",
+        "practice-two-56ed"
+      ]
+    },
+    {
+      "stepId": "expansion-096-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-9662",
+        "check-56ed"
+      ]
+    },
+    {
+      "stepId": "expansion-096-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-9662",
+      "characterId": "char-9662",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "院"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-9662-choice-1",
+          "hanzi": "院"
+        },
+        {
+          "choiceId": "familiar-9662-choice-2",
+          "hanzi": "园"
+        },
+        {
+          "choiceId": "familiar-9662-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-9662-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-9662-choice-1"
+    },
+    {
+      "checkId": "check-9662",
+      "characterId": "char-9662",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "院"
+      },
+      "choices": [
+        {
+          "choiceId": "check-9662-choice-1",
+          "hanzi": "院"
+        },
+        {
+          "choiceId": "check-9662-choice-2",
+          "hanzi": "园"
+        },
+        {
+          "choiceId": "check-9662-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-9662-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-9662-choice-1"
+    },
+    {
+      "checkId": "review-9662",
+      "characterId": "char-9662",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "院"
+      },
+      "choices": [
+        {
+          "choiceId": "review-9662-choice-1",
+          "hanzi": "院"
+        },
+        {
+          "choiceId": "review-9662-choice-2",
+          "hanzi": "园"
+        },
+        {
+          "choiceId": "review-9662-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-9662-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-9662-choice-1"
+    },
+    {
+      "checkId": "practice-one-9662",
+      "characterId": "char-9662",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "院子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-9662-choice-1",
+          "hanzi": "院"
+        },
+        {
+          "choiceId": "practice-one-9662-choice-2",
+          "hanzi": "园"
+        },
+        {
+          "choiceId": "practice-one-9662-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-9662-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-9662-choice-1"
+    },
+    {
+      "checkId": "practice-two-9662",
+      "characterId": "char-9662",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "医院"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-9662-choice-1",
+          "hanzi": "院"
+        },
+        {
+          "choiceId": "practice-two-9662-choice-2",
+          "hanzi": "园"
+        },
+        {
+          "choiceId": "practice-two-9662-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-9662-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-9662-choice-1"
+    },
+    {
+      "checkId": "familiar-56ed",
+      "characterId": "char-56ed",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "园"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-56ed-choice-1",
+          "hanzi": "院"
+        },
+        {
+          "choiceId": "familiar-56ed-choice-2",
+          "hanzi": "园"
+        },
+        {
+          "choiceId": "familiar-56ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-56ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-56ed-choice-2"
+    },
+    {
+      "checkId": "check-56ed",
+      "characterId": "char-56ed",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "园"
+      },
+      "choices": [
+        {
+          "choiceId": "check-56ed-choice-1",
+          "hanzi": "院"
+        },
+        {
+          "choiceId": "check-56ed-choice-2",
+          "hanzi": "园"
+        },
+        {
+          "choiceId": "check-56ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-56ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-56ed-choice-2"
+    },
+    {
+      "checkId": "review-56ed",
+      "characterId": "char-56ed",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "园"
+      },
+      "choices": [
+        {
+          "choiceId": "review-56ed-choice-1",
+          "hanzi": "院"
+        },
+        {
+          "choiceId": "review-56ed-choice-2",
+          "hanzi": "园"
+        },
+        {
+          "choiceId": "review-56ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-56ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-56ed-choice-2"
+    },
+    {
+      "checkId": "practice-one-56ed",
+      "characterId": "char-56ed",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "公园"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-56ed-choice-1",
+          "hanzi": "院"
+        },
+        {
+          "choiceId": "practice-one-56ed-choice-2",
+          "hanzi": "园"
+        },
+        {
+          "choiceId": "practice-one-56ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-56ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-56ed-choice-2"
+    },
+    {
+      "checkId": "practice-two-56ed",
+      "characterId": "char-56ed",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "花园"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-56ed-choice-1",
+          "hanzi": "院"
+        },
+        {
+          "choiceId": "practice-two-56ed-choice-2",
+          "hanzi": "园"
+        },
+        {
+          "choiceId": "practice-two-56ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-56ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-56ed-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-9662",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-096-v1/char-9662",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-56ed",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-096-v1/char-56ed",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-096-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-096-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Home and our neighbourhood: 院 and 园",
+      "instructionEnglish": "Read two short word examples for 院 and 园 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-9662",
+        "readingId": "reading-9662",
+        "familiarityCheckId": "familiar-9662",
+        "practice": [
+          {
+            "wordId": "word-9662-1",
+            "checkId": "practice-one-9662"
+          },
+          {
+            "wordId": "word-9662-2",
+            "checkId": "practice-two-9662"
+          }
+        ],
+        "immediateCheckId": "check-9662",
+        "reviewCheckId": "review-9662"
+      },
+      {
+        "characterId": "char-56ed",
+        "readingId": "reading-56ed",
+        "familiarityCheckId": "familiar-56ed",
+        "practice": [
+          {
+            "wordId": "word-56ed-1",
+            "checkId": "practice-one-56ed"
+          },
+          {
+            "wordId": "word-56ed-2",
+            "checkId": "practice-two-56ed"
+          }
+        ],
+        "immediateCheckId": "check-56ed",
+        "reviewCheckId": "review-56ed"
+      }
+    ],
+    "reader": {
+      "title": "Home and our neighbourhood: 院 and 园",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-9662-1",
+        "word-9662-2",
+        "word-56ed-1",
+        "word-56ed-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-9662",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-9662",
+          "transcript": "院",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-9662",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-9662",
+          "transcript": "院",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-9662",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-9662",
+          "transcript": "院",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-9662",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-9662",
+          "transcript": "院子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-9662",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-9662",
+          "transcript": "医院",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-9662",
+          "readingId": "reading-9662",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "院",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9662-1",
+          "readingId": null,
+          "wordId": "word-9662-1",
+          "checkId": null,
+          "transcript": "我用彩笔画了院子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9662-2",
+          "readingId": null,
+          "wordId": "word-9662-2",
+          "checkId": null,
+          "transcript": "我在图画里看到了医院。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-56ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-56ed",
+          "transcript": "园",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-56ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-56ed",
+          "transcript": "园",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-56ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-56ed",
+          "transcript": "园",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-56ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-56ed",
+          "transcript": "公园",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-56ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-56ed",
+          "transcript": "花园",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-56ed",
+          "readingId": "reading-56ed",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "园",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-56ed-1",
+          "readingId": null,
+          "wordId": "word-56ed-1",
+          "checkId": null,
+          "transcript": "我在图画里看到了公园。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-56ed-2",
+          "readingId": null,
+          "wordId": "word-56ed-2",
+          "checkId": null,
+          "transcript": "我用彩笔画了花园。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

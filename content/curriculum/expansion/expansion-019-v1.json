@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-019",
+  "lessonVersion": "expansion-019-v1",
+  "title": "Moving and doing: 站 and 跳",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 79
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 站 and 跳 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-7ad9",
+      "hanzi": "站",
+      "readings": [
+        {
+          "readingId": "reading-7ad9",
+          "pinyin": "zhàn",
+          "audioText": "站",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#站",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "stand; station",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#站",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7ad9-1",
+          "text": "站立",
+          "pinyin": "zhàn lì",
+          "english": "stand",
+          "readingId": "reading-7ad9",
+          "context": {
+            "hanzi": "小鸟站立在树枝上。",
+            "english": "The little bird stands on a branch.",
+            "targetCharacter": "站"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#站立",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7ad9-2",
+          "text": "车站",
+          "pinyin": "chē zhàn",
+          "english": "station",
+          "readingId": "reading-7ad9",
+          "context": {
+            "hanzi": "我们在车站等车。",
+            "english": "We wait for the bus at the station.",
+            "targetCharacter": "站"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#车站",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 立 beside 占 in 站.",
+        "demonstrationEnglish": "This is 站. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7ad9",
+        "delayedReview": {
+          "promptId": "later-7ad9",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7ad9"
+        }
+      },
+      "assets": [
+        "asset-glyph-7ad9",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-8df3",
+      "hanzi": "跳",
+      "readings": [
+        {
+          "readingId": "reading-8df3",
+          "pinyin": "tiào",
+          "audioText": "跳",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#跳",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "jump",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#跳",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8df3-1",
+          "text": "跳绳",
+          "pinyin": "tiào shéng",
+          "english": "skip with a rope",
+          "readingId": "reading-8df3",
+          "context": {
+            "hanzi": "姐姐在院子里跳绳。",
+            "english": "My older sister skips in the yard.",
+            "targetCharacter": "跳"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#跳绳",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8df3-2",
+          "text": "跳高",
+          "pinyin": "tiào gāo",
+          "english": "high jump",
+          "readingId": "reading-8df3",
+          "context": {
+            "hanzi": "体育课上，我们练习跳高。",
+            "english": "In PE class, we practise the high jump.",
+            "targetCharacter": "跳"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#跳高",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 足 at the left of 跳.",
+        "demonstrationEnglish": "This is 跳. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8df3",
+        "delayedReview": {
+          "promptId": "later-8df3",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8df3"
+        }
+      },
+      "assets": [
+        "asset-glyph-8df3",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-019-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-7ad9",
+        "familiar-8df3"
+      ]
+    },
+    {
+      "stepId": "expansion-019-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-019-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-7ad9",
+        "practice-two-7ad9",
+        "practice-one-8df3",
+        "practice-two-8df3"
+      ]
+    },
+    {
+      "stepId": "expansion-019-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-7ad9",
+        "check-8df3"
+      ]
+    },
+    {
+      "stepId": "expansion-019-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-7ad9",
+      "characterId": "char-7ad9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "站"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7ad9-choice-1",
+          "hanzi": "站"
+        },
+        {
+          "choiceId": "familiar-7ad9-choice-2",
+          "hanzi": "跳"
+        },
+        {
+          "choiceId": "familiar-7ad9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7ad9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7ad9-choice-1"
+    },
+    {
+      "checkId": "check-7ad9",
+      "characterId": "char-7ad9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "站"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7ad9-choice-1",
+          "hanzi": "站"
+        },
+        {
+          "choiceId": "check-7ad9-choice-2",
+          "hanzi": "跳"
+        },
+        {
+          "choiceId": "check-7ad9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7ad9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7ad9-choice-1"
+    },
+    {
+      "checkId": "review-7ad9",
+      "characterId": "char-7ad9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "站"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7ad9-choice-1",
+          "hanzi": "站"
+        },
+        {
+          "choiceId": "review-7ad9-choice-2",
+          "hanzi": "跳"
+        },
+        {
+          "choiceId": "review-7ad9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7ad9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7ad9-choice-1"
+    },
+    {
+      "checkId": "practice-one-7ad9",
+      "characterId": "char-7ad9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "站立"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7ad9-choice-1",
+          "hanzi": "站"
+        },
+        {
+          "choiceId": "practice-one-7ad9-choice-2",
+          "hanzi": "跳"
+        },
+        {
+          "choiceId": "practice-one-7ad9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7ad9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7ad9-choice-1"
+    },
+    {
+      "checkId": "practice-two-7ad9",
+      "characterId": "char-7ad9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "车站"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7ad9-choice-1",
+          "hanzi": "站"
+        },
+        {
+          "choiceId": "practice-two-7ad9-choice-2",
+          "hanzi": "跳"
+        },
+        {
+          "choiceId": "practice-two-7ad9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7ad9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7ad9-choice-1"
+    },
+    {
+      "checkId": "familiar-8df3",
+      "characterId": "char-8df3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "跳"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8df3-choice-1",
+          "hanzi": "站"
+        },
+        {
+          "choiceId": "familiar-8df3-choice-2",
+          "hanzi": "跳"
+        },
+        {
+          "choiceId": "familiar-8df3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8df3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8df3-choice-2"
+    },
+    {
+      "checkId": "check-8df3",
+      "characterId": "char-8df3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "跳"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8df3-choice-1",
+          "hanzi": "站"
+        },
+        {
+          "choiceId": "check-8df3-choice-2",
+          "hanzi": "跳"
+        },
+        {
+          "choiceId": "check-8df3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8df3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8df3-choice-2"
+    },
+    {
+      "checkId": "review-8df3",
+      "characterId": "char-8df3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "跳"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8df3-choice-1",
+          "hanzi": "站"
+        },
+        {
+          "choiceId": "review-8df3-choice-2",
+          "hanzi": "跳"
+        },
+        {
+          "choiceId": "review-8df3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8df3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8df3-choice-2"
+    },
+    {
+      "checkId": "practice-one-8df3",
+      "characterId": "char-8df3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "跳绳"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8df3-choice-1",
+          "hanzi": "站"
+        },
+        {
+          "choiceId": "practice-one-8df3-choice-2",
+          "hanzi": "跳"
+        },
+        {
+          "choiceId": "practice-one-8df3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8df3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8df3-choice-2"
+    },
+    {
+      "checkId": "practice-two-8df3",
+      "characterId": "char-8df3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "跳高"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8df3-choice-1",
+          "hanzi": "站"
+        },
+        {
+          "choiceId": "practice-two-8df3-choice-2",
+          "hanzi": "跳"
+        },
+        {
+          "choiceId": "practice-two-8df3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8df3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8df3-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-7ad9",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-019-v1/char-7ad9",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-8df3",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-019-v1/char-8df3",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-019-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-019-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Moving and doing: 站 and 跳",
+      "instructionEnglish": "Read two short word examples for 站 and 跳 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-7ad9",
+        "readingId": "reading-7ad9",
+        "familiarityCheckId": "familiar-7ad9",
+        "practice": [
+          {
+            "wordId": "word-7ad9-1",
+            "checkId": "practice-one-7ad9"
+          },
+          {
+            "wordId": "word-7ad9-2",
+            "checkId": "practice-two-7ad9"
+          }
+        ],
+        "immediateCheckId": "check-7ad9",
+        "reviewCheckId": "review-7ad9"
+      },
+      {
+        "characterId": "char-8df3",
+        "readingId": "reading-8df3",
+        "familiarityCheckId": "familiar-8df3",
+        "practice": [
+          {
+            "wordId": "word-8df3-1",
+            "checkId": "practice-one-8df3"
+          },
+          {
+            "wordId": "word-8df3-2",
+            "checkId": "practice-two-8df3"
+          }
+        ],
+        "immediateCheckId": "check-8df3",
+        "reviewCheckId": "review-8df3"
+      }
+    ],
+    "reader": {
+      "title": "Moving and doing: 站 and 跳",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-7ad9-1",
+        "word-7ad9-2",
+        "word-8df3-1",
+        "word-8df3-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-7ad9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7ad9",
+          "transcript": "站",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7ad9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7ad9",
+          "transcript": "站",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7ad9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7ad9",
+          "transcript": "站",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7ad9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7ad9",
+          "transcript": "站立",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7ad9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7ad9",
+          "transcript": "车站",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7ad9",
+          "readingId": "reading-7ad9",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "站",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7ad9-1",
+          "readingId": null,
+          "wordId": "word-7ad9-1",
+          "checkId": null,
+          "transcript": "小鸟站立在树枝上。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7ad9-2",
+          "readingId": null,
+          "wordId": "word-7ad9-2",
+          "checkId": null,
+          "transcript": "我们在车站等车。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-8df3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8df3",
+          "transcript": "跳",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8df3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8df3",
+          "transcript": "跳",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8df3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8df3",
+          "transcript": "跳",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8df3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8df3",
+          "transcript": "跳绳",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8df3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8df3",
+          "transcript": "跳高",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8df3",
+          "readingId": "reading-8df3",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "跳",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8df3-1",
+          "readingId": null,
+          "wordId": "word-8df3-1",
+          "checkId": null,
+          "transcript": "姐姐在院子里跳绳。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8df3-2",
+          "readingId": null,
+          "wordId": "word-8df3-2",
+          "checkId": null,
+          "transcript": "体育课上，我们练习跳高。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

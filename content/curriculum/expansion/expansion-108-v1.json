@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-108",
+  "lessonVersion": "expansion-108-v1",
+  "title": "School words and shapes: 角 and 方",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 168
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 角 and 方 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-89d2",
+      "hanzi": "角",
+      "readings": [
+        {
+          "readingId": "reading-89d2",
+          "pinyin": "jiǎo",
+          "audioText": "角",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#角",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "corner; angle; horn",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#角",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-89d2-1",
+          "text": "角落",
+          "pinyin": "jiǎo luò",
+          "english": "a corner",
+          "readingId": "reading-89d2",
+          "context": {
+            "hanzi": "我在图画里看到了角落。",
+            "english": "I see a corner in the picture.",
+            "targetCharacter": "角"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#角落",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-89d2-2",
+          "text": "三角",
+          "pinyin": "sān jiǎo",
+          "english": "a triangle",
+          "readingId": "reading-89d2",
+          "context": {
+            "hanzi": "我用彩笔画了三角。",
+            "english": "I draw a triangle with coloured pens.",
+            "targetCharacter": "角"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#三角",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the upright lower stroke dividing the inside of 角.",
+        "demonstrationEnglish": "This is 角. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-89d2",
+        "delayedReview": {
+          "promptId": "later-89d2",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-89d2"
+        }
+      },
+      "assets": [
+        "asset-glyph-89d2",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-65b9",
+      "hanzi": "方",
+      "readings": [
+        {
+          "readingId": "reading-65b9",
+          "pinyin": "fāng",
+          "audioText": "方",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#方",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "square; direction",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#方",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-65b9-1",
+          "text": "方形",
+          "pinyin": "fāng xíng",
+          "english": "a square shape",
+          "readingId": "reading-65b9",
+          "context": {
+            "hanzi": "我用彩笔画了方形。",
+            "english": "I draw a square shape with coloured pens.",
+            "targetCharacter": "方"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#方形",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-65b9-2",
+          "text": "正方形",
+          "pinyin": "zhèng fāng xíng",
+          "english": "a square",
+          "readingId": "reading-65b9",
+          "context": {
+            "hanzi": "我指给朋友看图中的正方形。",
+            "english": "I point out a square in the picture to my friend.",
+            "targetCharacter": "方"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#正方形",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Follow the long bent stroke and slanting lower stroke of 方.",
+        "demonstrationEnglish": "This is 方. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-65b9",
+        "delayedReview": {
+          "promptId": "later-65b9",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-65b9"
+        }
+      },
+      "assets": [
+        "asset-glyph-65b9",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-108-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-89d2",
+        "familiar-65b9"
+      ]
+    },
+    {
+      "stepId": "expansion-108-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-108-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-89d2",
+        "practice-two-89d2",
+        "practice-one-65b9",
+        "practice-two-65b9"
+      ]
+    },
+    {
+      "stepId": "expansion-108-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-89d2",
+        "check-65b9"
+      ]
+    },
+    {
+      "stepId": "expansion-108-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-89d2",
+      "characterId": "char-89d2",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "角"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-89d2-choice-1",
+          "hanzi": "角"
+        },
+        {
+          "choiceId": "familiar-89d2-choice-2",
+          "hanzi": "方"
+        },
+        {
+          "choiceId": "familiar-89d2-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-89d2-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-89d2-choice-1"
+    },
+    {
+      "checkId": "check-89d2",
+      "characterId": "char-89d2",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "角"
+      },
+      "choices": [
+        {
+          "choiceId": "check-89d2-choice-1",
+          "hanzi": "角"
+        },
+        {
+          "choiceId": "check-89d2-choice-2",
+          "hanzi": "方"
+        },
+        {
+          "choiceId": "check-89d2-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-89d2-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-89d2-choice-1"
+    },
+    {
+      "checkId": "review-89d2",
+      "characterId": "char-89d2",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "角"
+      },
+      "choices": [
+        {
+          "choiceId": "review-89d2-choice-1",
+          "hanzi": "角"
+        },
+        {
+          "choiceId": "review-89d2-choice-2",
+          "hanzi": "方"
+        },
+        {
+          "choiceId": "review-89d2-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-89d2-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-89d2-choice-1"
+    },
+    {
+      "checkId": "practice-one-89d2",
+      "characterId": "char-89d2",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "角落"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-89d2-choice-1",
+          "hanzi": "角"
+        },
+        {
+          "choiceId": "practice-one-89d2-choice-2",
+          "hanzi": "方"
+        },
+        {
+          "choiceId": "practice-one-89d2-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-89d2-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-89d2-choice-1"
+    },
+    {
+      "checkId": "practice-two-89d2",
+      "characterId": "char-89d2",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "三角"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-89d2-choice-1",
+          "hanzi": "角"
+        },
+        {
+          "choiceId": "practice-two-89d2-choice-2",
+          "hanzi": "方"
+        },
+        {
+          "choiceId": "practice-two-89d2-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-89d2-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-89d2-choice-1"
+    },
+    {
+      "checkId": "familiar-65b9",
+      "characterId": "char-65b9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "方"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-65b9-choice-1",
+          "hanzi": "角"
+        },
+        {
+          "choiceId": "familiar-65b9-choice-2",
+          "hanzi": "方"
+        },
+        {
+          "choiceId": "familiar-65b9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-65b9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-65b9-choice-2"
+    },
+    {
+      "checkId": "check-65b9",
+      "characterId": "char-65b9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "方"
+      },
+      "choices": [
+        {
+          "choiceId": "check-65b9-choice-1",
+          "hanzi": "角"
+        },
+        {
+          "choiceId": "check-65b9-choice-2",
+          "hanzi": "方"
+        },
+        {
+          "choiceId": "check-65b9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-65b9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-65b9-choice-2"
+    },
+    {
+      "checkId": "review-65b9",
+      "characterId": "char-65b9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "方"
+      },
+      "choices": [
+        {
+          "choiceId": "review-65b9-choice-1",
+          "hanzi": "角"
+        },
+        {
+          "choiceId": "review-65b9-choice-2",
+          "hanzi": "方"
+        },
+        {
+          "choiceId": "review-65b9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-65b9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-65b9-choice-2"
+    },
+    {
+      "checkId": "practice-one-65b9",
+      "characterId": "char-65b9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "方形"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-65b9-choice-1",
+          "hanzi": "角"
+        },
+        {
+          "choiceId": "practice-one-65b9-choice-2",
+          "hanzi": "方"
+        },
+        {
+          "choiceId": "practice-one-65b9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-65b9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-65b9-choice-2"
+    },
+    {
+      "checkId": "practice-two-65b9",
+      "characterId": "char-65b9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "正方形"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-65b9-choice-1",
+          "hanzi": "角"
+        },
+        {
+          "choiceId": "practice-two-65b9-choice-2",
+          "hanzi": "方"
+        },
+        {
+          "choiceId": "practice-two-65b9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-65b9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-65b9-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-89d2",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-108-v1/char-89d2",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-65b9",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-108-v1/char-65b9",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-108-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-108-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "School words and shapes: 角 and 方",
+      "instructionEnglish": "Read two short word examples for 角 and 方 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-89d2",
+        "readingId": "reading-89d2",
+        "familiarityCheckId": "familiar-89d2",
+        "practice": [
+          {
+            "wordId": "word-89d2-1",
+            "checkId": "practice-one-89d2"
+          },
+          {
+            "wordId": "word-89d2-2",
+            "checkId": "practice-two-89d2"
+          }
+        ],
+        "immediateCheckId": "check-89d2",
+        "reviewCheckId": "review-89d2"
+      },
+      {
+        "characterId": "char-65b9",
+        "readingId": "reading-65b9",
+        "familiarityCheckId": "familiar-65b9",
+        "practice": [
+          {
+            "wordId": "word-65b9-1",
+            "checkId": "practice-one-65b9"
+          },
+          {
+            "wordId": "word-65b9-2",
+            "checkId": "practice-two-65b9"
+          }
+        ],
+        "immediateCheckId": "check-65b9",
+        "reviewCheckId": "review-65b9"
+      }
+    ],
+    "reader": {
+      "title": "School words and shapes: 角 and 方",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-89d2-1",
+        "word-89d2-2",
+        "word-65b9-1",
+        "word-65b9-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-89d2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-89d2",
+          "transcript": "角",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-89d2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-89d2",
+          "transcript": "角",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-89d2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-89d2",
+          "transcript": "角",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-89d2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-89d2",
+          "transcript": "角落",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-89d2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-89d2",
+          "transcript": "三角",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-89d2",
+          "readingId": "reading-89d2",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "角",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-89d2-1",
+          "readingId": null,
+          "wordId": "word-89d2-1",
+          "checkId": null,
+          "transcript": "我在图画里看到了角落。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-89d2-2",
+          "readingId": null,
+          "wordId": "word-89d2-2",
+          "checkId": null,
+          "transcript": "我用彩笔画了三角。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-65b9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-65b9",
+          "transcript": "方",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-65b9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-65b9",
+          "transcript": "方",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-65b9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-65b9",
+          "transcript": "方",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-65b9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-65b9",
+          "transcript": "方形",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-65b9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-65b9",
+          "transcript": "正方形",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-65b9",
+          "readingId": "reading-65b9",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "方",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-65b9-1",
+          "readingId": null,
+          "wordId": "word-65b9-1",
+          "checkId": null,
+          "transcript": "我用彩笔画了方形。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-65b9-2",
+          "readingId": null,
+          "wordId": "word-65b9-2",
+          "checkId": null,
+          "transcript": "我指给朋友看图中的正方形。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

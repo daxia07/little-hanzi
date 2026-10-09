@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-065",
+  "lessonVersion": "expansion-065-v1",
+  "title": "Streams, plants and fields: 叶 and 根",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 125
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 叶 and 根 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-53f6",
+      "hanzi": "叶",
+      "readings": [
+        {
+          "readingId": "reading-53f6",
+          "pinyin": "yè",
+          "audioText": "叶",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#叶",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "leaf",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#叶",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-53f6-1",
+          "text": "树叶",
+          "pinyin": "shù yè",
+          "english": "leaves",
+          "readingId": "reading-53f6",
+          "context": {
+            "hanzi": "我们把树叶放进小盒子。",
+            "english": "We put leaves into a small box.",
+            "targetCharacter": "叶"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#树叶",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-53f6-2",
+          "text": "叶子",
+          "pinyin": "yè zi",
+          "english": "a leaf",
+          "readingId": "reading-53f6",
+          "context": {
+            "hanzi": "我们仔细观察叶子。",
+            "english": "We carefully observe a leaf.",
+            "targetCharacter": "叶"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#叶子",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 口 beside 十 in 叶.",
+        "demonstrationEnglish": "This is 叶. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-53f6",
+        "delayedReview": {
+          "promptId": "later-53f6",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-53f6"
+        }
+      },
+      "assets": [
+        "asset-glyph-53f6",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6839",
+      "hanzi": "根",
+      "readings": [
+        {
+          "readingId": "reading-6839",
+          "pinyin": "gēn",
+          "audioText": "根",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#根",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "root",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#根",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6839-1",
+          "text": "树根",
+          "pinyin": "shù gēn",
+          "english": "tree roots",
+          "readingId": "reading-6839",
+          "context": {
+            "hanzi": "这本书介绍了树根。",
+            "english": "This book introduces tree roots.",
+            "targetCharacter": "根"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#树根",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6839-2",
+          "text": "根本",
+          "pinyin": "gēn běn",
+          "english": "fundamental; basic",
+          "readingId": "reading-6839",
+          "context": {
+            "hanzi": "游戏的根本规则是轮流玩。",
+            "english": "The game's basic rule is to take turns.",
+            "targetCharacter": "根"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#根本",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 木 beside 艮 in 根.",
+        "demonstrationEnglish": "This is 根. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6839",
+        "delayedReview": {
+          "promptId": "later-6839",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6839"
+        }
+      },
+      "assets": [
+        "asset-glyph-6839",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-065-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-53f6",
+        "familiar-6839"
+      ]
+    },
+    {
+      "stepId": "expansion-065-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-065-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-53f6",
+        "practice-two-53f6",
+        "practice-one-6839",
+        "practice-two-6839"
+      ]
+    },
+    {
+      "stepId": "expansion-065-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-53f6",
+        "check-6839"
+      ]
+    },
+    {
+      "stepId": "expansion-065-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-53f6",
+      "characterId": "char-53f6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "叶"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-53f6-choice-1",
+          "hanzi": "叶"
+        },
+        {
+          "choiceId": "familiar-53f6-choice-2",
+          "hanzi": "根"
+        },
+        {
+          "choiceId": "familiar-53f6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-53f6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-53f6-choice-1"
+    },
+    {
+      "checkId": "check-53f6",
+      "characterId": "char-53f6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "叶"
+      },
+      "choices": [
+        {
+          "choiceId": "check-53f6-choice-1",
+          "hanzi": "叶"
+        },
+        {
+          "choiceId": "check-53f6-choice-2",
+          "hanzi": "根"
+        },
+        {
+          "choiceId": "check-53f6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-53f6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-53f6-choice-1"
+    },
+    {
+      "checkId": "review-53f6",
+      "characterId": "char-53f6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "叶"
+      },
+      "choices": [
+        {
+          "choiceId": "review-53f6-choice-1",
+          "hanzi": "叶"
+        },
+        {
+          "choiceId": "review-53f6-choice-2",
+          "hanzi": "根"
+        },
+        {
+          "choiceId": "review-53f6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-53f6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-53f6-choice-1"
+    },
+    {
+      "checkId": "practice-one-53f6",
+      "characterId": "char-53f6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "树叶"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-53f6-choice-1",
+          "hanzi": "叶"
+        },
+        {
+          "choiceId": "practice-one-53f6-choice-2",
+          "hanzi": "根"
+        },
+        {
+          "choiceId": "practice-one-53f6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-53f6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-53f6-choice-1"
+    },
+    {
+      "checkId": "practice-two-53f6",
+      "characterId": "char-53f6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "叶子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-53f6-choice-1",
+          "hanzi": "叶"
+        },
+        {
+          "choiceId": "practice-two-53f6-choice-2",
+          "hanzi": "根"
+        },
+        {
+          "choiceId": "practice-two-53f6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-53f6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-53f6-choice-1"
+    },
+    {
+      "checkId": "familiar-6839",
+      "characterId": "char-6839",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "根"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6839-choice-1",
+          "hanzi": "叶"
+        },
+        {
+          "choiceId": "familiar-6839-choice-2",
+          "hanzi": "根"
+        },
+        {
+          "choiceId": "familiar-6839-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6839-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6839-choice-2"
+    },
+    {
+      "checkId": "check-6839",
+      "characterId": "char-6839",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "根"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6839-choice-1",
+          "hanzi": "叶"
+        },
+        {
+          "choiceId": "check-6839-choice-2",
+          "hanzi": "根"
+        },
+        {
+          "choiceId": "check-6839-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6839-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6839-choice-2"
+    },
+    {
+      "checkId": "review-6839",
+      "characterId": "char-6839",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "根"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6839-choice-1",
+          "hanzi": "叶"
+        },
+        {
+          "choiceId": "review-6839-choice-2",
+          "hanzi": "根"
+        },
+        {
+          "choiceId": "review-6839-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6839-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6839-choice-2"
+    },
+    {
+      "checkId": "practice-one-6839",
+      "characterId": "char-6839",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "树根"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6839-choice-1",
+          "hanzi": "叶"
+        },
+        {
+          "choiceId": "practice-one-6839-choice-2",
+          "hanzi": "根"
+        },
+        {
+          "choiceId": "practice-one-6839-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6839-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6839-choice-2"
+    },
+    {
+      "checkId": "practice-two-6839",
+      "characterId": "char-6839",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "根本"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6839-choice-1",
+          "hanzi": "叶"
+        },
+        {
+          "choiceId": "practice-two-6839-choice-2",
+          "hanzi": "根"
+        },
+        {
+          "choiceId": "practice-two-6839-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6839-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6839-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-53f6",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-065-v1/char-53f6",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6839",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-065-v1/char-6839",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-065-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-065-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Streams, plants and fields: 叶 and 根",
+      "instructionEnglish": "Read two short word examples for 叶 and 根 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-53f6",
+        "readingId": "reading-53f6",
+        "familiarityCheckId": "familiar-53f6",
+        "practice": [
+          {
+            "wordId": "word-53f6-1",
+            "checkId": "practice-one-53f6"
+          },
+          {
+            "wordId": "word-53f6-2",
+            "checkId": "practice-two-53f6"
+          }
+        ],
+        "immediateCheckId": "check-53f6",
+        "reviewCheckId": "review-53f6"
+      },
+      {
+        "characterId": "char-6839",
+        "readingId": "reading-6839",
+        "familiarityCheckId": "familiar-6839",
+        "practice": [
+          {
+            "wordId": "word-6839-1",
+            "checkId": "practice-one-6839"
+          },
+          {
+            "wordId": "word-6839-2",
+            "checkId": "practice-two-6839"
+          }
+        ],
+        "immediateCheckId": "check-6839",
+        "reviewCheckId": "review-6839"
+      }
+    ],
+    "reader": {
+      "title": "Streams, plants and fields: 叶 and 根",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-53f6-1",
+        "word-53f6-2",
+        "word-6839-1",
+        "word-6839-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-53f6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-53f6",
+          "transcript": "叶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-53f6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-53f6",
+          "transcript": "叶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-53f6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-53f6",
+          "transcript": "叶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-53f6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-53f6",
+          "transcript": "树叶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-53f6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-53f6",
+          "transcript": "叶子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-53f6",
+          "readingId": "reading-53f6",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "叶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-53f6-1",
+          "readingId": null,
+          "wordId": "word-53f6-1",
+          "checkId": null,
+          "transcript": "我们把树叶放进小盒子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-53f6-2",
+          "readingId": null,
+          "wordId": "word-53f6-2",
+          "checkId": null,
+          "transcript": "我们仔细观察叶子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6839",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6839",
+          "transcript": "根",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6839",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6839",
+          "transcript": "根",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6839",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6839",
+          "transcript": "根",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6839",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6839",
+          "transcript": "树根",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6839",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6839",
+          "transcript": "根本",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6839",
+          "readingId": "reading-6839",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "根",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6839-1",
+          "readingId": null,
+          "wordId": "word-6839-1",
+          "checkId": null,
+          "transcript": "这本书介绍了树根。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6839-2",
+          "readingId": null,
+          "wordId": "word-6839-2",
+          "checkId": null,
+          "transcript": "游戏的根本规则是轮流玩。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

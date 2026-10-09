@@ -1,0 +1,788 @@
+{
+  "lessonId": "people-07",
+  "lessonVersion": "people-07-v1",
+  "title": "That one and which one",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 57
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Choose a school bag and a colour with our capybara. Read words for that and which.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-90a3",
+      "hanzi": "那",
+      "readings": [
+        {
+          "readingId": "reading-90a3",
+          "pinyin": "nà",
+          "audioText": "那",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#那",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "that; those",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#那",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-90a3-1",
+          "text": "那个",
+          "pinyin": "nà ge",
+          "english": "that one",
+          "readingId": "reading-90a3",
+          "context": {
+            "hanzi": "那个书包挂在椅子上。",
+            "english": "That school bag hangs on the chair.",
+            "targetCharacter": "那"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#那个",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-90a3-2",
+          "text": "那样",
+          "pinyin": "nà yàng",
+          "english": "like that; that kind",
+          "readingId": "reading-90a3",
+          "context": {
+            "hanzi": "我也想做一个那样的风筝。",
+            "english": "I want to make a kite like that too.",
+            "targetCharacter": "那"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#那样",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the right-hand 阝 in 那.",
+        "demonstrationEnglish": "This is 那. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-90a3",
+        "delayedReview": {
+          "promptId": "later-90a3",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-90a3"
+        }
+      },
+      "assets": [
+        "asset-glyph-90a3",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-54ea",
+      "hanzi": "哪",
+      "readings": [
+        {
+          "readingId": "reading-54ea",
+          "pinyin": "nǎ",
+          "audioText": "哪",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#哪",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "which; where in question words",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#哪",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-54ea-1",
+          "text": "哪里",
+          "pinyin": "nǎ lǐ",
+          "english": "where",
+          "readingId": "reading-54ea",
+          "context": {
+            "hanzi": "你把水杯放在哪里了？",
+            "english": "Where did you put the drinking cup?",
+            "targetCharacter": "哪"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#哪里",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-54ea-2",
+          "text": "哪个",
+          "pinyin": "nǎ ge",
+          "english": "which one",
+          "readingId": "reading-54ea",
+          "context": {
+            "hanzi": "你想选哪个颜色？",
+            "english": "Which colour would you like to choose?",
+            "targetCharacter": "哪"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#哪个",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 口 beside 那 in 哪.",
+        "demonstrationEnglish": "This is 哪. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-54ea",
+        "delayedReview": {
+          "promptId": "later-54ea",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-54ea"
+        }
+      },
+      "assets": [
+        "asset-glyph-54ea",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "people-07-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-90a3",
+        "familiar-54ea"
+      ]
+    },
+    {
+      "stepId": "people-07-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "people-07-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-90a3",
+        "practice-two-90a3",
+        "practice-one-54ea",
+        "practice-two-54ea"
+      ]
+    },
+    {
+      "stepId": "people-07-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-90a3",
+        "check-54ea"
+      ]
+    },
+    {
+      "stepId": "people-07-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-90a3",
+      "characterId": "char-90a3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "那"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-90a3-choice-1",
+          "hanzi": "那"
+        },
+        {
+          "choiceId": "familiar-90a3-choice-2",
+          "hanzi": "哪"
+        },
+        {
+          "choiceId": "familiar-90a3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-90a3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-90a3-choice-1"
+    },
+    {
+      "checkId": "check-90a3",
+      "characterId": "char-90a3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "那"
+      },
+      "choices": [
+        {
+          "choiceId": "check-90a3-choice-1",
+          "hanzi": "那"
+        },
+        {
+          "choiceId": "check-90a3-choice-2",
+          "hanzi": "哪"
+        },
+        {
+          "choiceId": "check-90a3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-90a3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-90a3-choice-1"
+    },
+    {
+      "checkId": "review-90a3",
+      "characterId": "char-90a3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "那"
+      },
+      "choices": [
+        {
+          "choiceId": "review-90a3-choice-1",
+          "hanzi": "那"
+        },
+        {
+          "choiceId": "review-90a3-choice-2",
+          "hanzi": "哪"
+        },
+        {
+          "choiceId": "review-90a3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-90a3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-90a3-choice-1"
+    },
+    {
+      "checkId": "practice-one-90a3",
+      "characterId": "char-90a3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "那个"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-90a3-choice-1",
+          "hanzi": "那"
+        },
+        {
+          "choiceId": "practice-one-90a3-choice-2",
+          "hanzi": "哪"
+        },
+        {
+          "choiceId": "practice-one-90a3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-90a3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-90a3-choice-1"
+    },
+    {
+      "checkId": "practice-two-90a3",
+      "characterId": "char-90a3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "那样"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-90a3-choice-1",
+          "hanzi": "那"
+        },
+        {
+          "choiceId": "practice-two-90a3-choice-2",
+          "hanzi": "哪"
+        },
+        {
+          "choiceId": "practice-two-90a3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-90a3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-90a3-choice-1"
+    },
+    {
+      "checkId": "familiar-54ea",
+      "characterId": "char-54ea",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "哪"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-54ea-choice-1",
+          "hanzi": "那"
+        },
+        {
+          "choiceId": "familiar-54ea-choice-2",
+          "hanzi": "哪"
+        },
+        {
+          "choiceId": "familiar-54ea-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-54ea-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-54ea-choice-2"
+    },
+    {
+      "checkId": "check-54ea",
+      "characterId": "char-54ea",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "哪"
+      },
+      "choices": [
+        {
+          "choiceId": "check-54ea-choice-1",
+          "hanzi": "那"
+        },
+        {
+          "choiceId": "check-54ea-choice-2",
+          "hanzi": "哪"
+        },
+        {
+          "choiceId": "check-54ea-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-54ea-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-54ea-choice-2"
+    },
+    {
+      "checkId": "review-54ea",
+      "characterId": "char-54ea",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "哪"
+      },
+      "choices": [
+        {
+          "choiceId": "review-54ea-choice-1",
+          "hanzi": "那"
+        },
+        {
+          "choiceId": "review-54ea-choice-2",
+          "hanzi": "哪"
+        },
+        {
+          "choiceId": "review-54ea-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-54ea-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-54ea-choice-2"
+    },
+    {
+      "checkId": "practice-one-54ea",
+      "characterId": "char-54ea",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "哪里"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-54ea-choice-1",
+          "hanzi": "那"
+        },
+        {
+          "choiceId": "practice-one-54ea-choice-2",
+          "hanzi": "哪"
+        },
+        {
+          "choiceId": "practice-one-54ea-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-54ea-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-54ea-choice-2"
+    },
+    {
+      "checkId": "practice-two-54ea",
+      "characterId": "char-54ea",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "哪个"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-54ea-choice-1",
+          "hanzi": "那"
+        },
+        {
+          "choiceId": "practice-two-54ea-choice-2",
+          "hanzi": "哪"
+        },
+        {
+          "choiceId": "practice-two-54ea-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-54ea-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-54ea-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-90a3",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/people-07-v1/char-90a3",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-54ea",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/people-07-v1/char-54ea",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/people-07-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/people-07-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "That one and which one",
+      "instructionEnglish": "Choose a school bag and a colour with our capybara. Read words for that and which."
+    },
+    "targets": [
+      {
+        "characterId": "char-90a3",
+        "readingId": "reading-90a3",
+        "familiarityCheckId": "familiar-90a3",
+        "practice": [
+          {
+            "wordId": "word-90a3-1",
+            "checkId": "practice-one-90a3"
+          },
+          {
+            "wordId": "word-90a3-2",
+            "checkId": "practice-two-90a3"
+          }
+        ],
+        "immediateCheckId": "check-90a3",
+        "reviewCheckId": "review-90a3"
+      },
+      {
+        "characterId": "char-54ea",
+        "readingId": "reading-54ea",
+        "familiarityCheckId": "familiar-54ea",
+        "practice": [
+          {
+            "wordId": "word-54ea-1",
+            "checkId": "practice-one-54ea"
+          },
+          {
+            "wordId": "word-54ea-2",
+            "checkId": "practice-two-54ea"
+          }
+        ],
+        "immediateCheckId": "check-54ea",
+        "reviewCheckId": "review-54ea"
+      }
+    ],
+    "reader": {
+      "title": "That one and which one",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-90a3-1",
+        "word-90a3-2",
+        "word-54ea-1",
+        "word-54ea-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-90a3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-90a3",
+          "transcript": "那",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-90a3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-90a3",
+          "transcript": "那",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-90a3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-90a3",
+          "transcript": "那",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-90a3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-90a3",
+          "transcript": "那个",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-90a3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-90a3",
+          "transcript": "那样",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-90a3",
+          "readingId": "reading-90a3",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "那",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-90a3-1",
+          "readingId": null,
+          "wordId": "word-90a3-1",
+          "checkId": null,
+          "transcript": "那个书包挂在椅子上。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-90a3-2",
+          "readingId": null,
+          "wordId": "word-90a3-2",
+          "checkId": null,
+          "transcript": "我也想做一个那样的风筝。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-54ea",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-54ea",
+          "transcript": "哪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-54ea",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-54ea",
+          "transcript": "哪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-54ea",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-54ea",
+          "transcript": "哪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-54ea",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-54ea",
+          "transcript": "哪里",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-54ea",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-54ea",
+          "transcript": "哪个",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-54ea",
+          "readingId": "reading-54ea",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "哪",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-54ea-1",
+          "readingId": null,
+          "wordId": "word-54ea-1",
+          "checkId": null,
+          "transcript": "你把水杯放在哪里了？",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-54ea-2",
+          "readingId": null,
+          "wordId": "word-54ea-2",
+          "checkId": null,
+          "transcript": "你想选哪个颜色？",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

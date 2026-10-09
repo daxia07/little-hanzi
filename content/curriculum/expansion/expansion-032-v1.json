@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-032",
+  "lessonVersion": "expansion-032-v1",
+  "title": "Friends and positions: 见 and 好",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 92
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 见 and 好 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-89c1",
+      "hanzi": "见",
+      "readings": [
+        {
+          "readingId": "reading-89c1",
+          "pinyin": "jiàn",
+          "audioText": "见",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#见",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "see",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#见",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-89c1-1",
+          "text": "看见",
+          "pinyin": "kàn jiàn",
+          "english": "see",
+          "readingId": "reading-89c1",
+          "context": {
+            "hanzi": "我们看见一只小鸟停在树上。",
+            "english": "We see a bird sitting in the tree.",
+            "targetCharacter": "见"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#看见",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-89c1-2",
+          "text": "见面",
+          "pinyin": "jiàn miàn",
+          "english": "meet",
+          "readingId": "reading-89c1",
+          "context": {
+            "hanzi": "周末，我们在公园见面。",
+            "english": "At the weekend, we meet in the park.",
+            "targetCharacter": "见"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#见面",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the two lower strokes spreading below the box-like top of 见.",
+        "demonstrationEnglish": "This is 见. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-89c1",
+        "delayedReview": {
+          "promptId": "later-89c1",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-89c1"
+        }
+      },
+      "assets": [
+        "asset-glyph-89c1",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-597d",
+      "hanzi": "好",
+      "readings": [
+        {
+          "readingId": "reading-597d",
+          "pinyin": "hǎo",
+          "audioText": "好",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#好",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "good; well",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#好",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-597d-1",
+          "text": "好看",
+          "pinyin": "hǎo kàn",
+          "english": "good-looking; nice to look at",
+          "readingId": "reading-597d",
+          "context": {
+            "hanzi": "这张彩色地图很好看。",
+            "english": "This colourful map looks lovely.",
+            "targetCharacter": "好"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#好看",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-597d-2",
+          "text": "友好",
+          "pinyin": "yǒu hǎo",
+          "english": "friendly",
+          "readingId": "reading-597d",
+          "context": {
+            "hanzi": "我们友好地和新朋友打招呼。",
+            "english": "We greet our new friend in a friendly way.",
+            "targetCharacter": "好"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#友好",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 女 beside 子 in 好.",
+        "demonstrationEnglish": "This is 好. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-597d",
+        "delayedReview": {
+          "promptId": "later-597d",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-597d"
+        }
+      },
+      "assets": [
+        "asset-glyph-597d",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-032-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-89c1",
+        "familiar-597d"
+      ]
+    },
+    {
+      "stepId": "expansion-032-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-032-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-89c1",
+        "practice-two-89c1",
+        "practice-one-597d",
+        "practice-two-597d"
+      ]
+    },
+    {
+      "stepId": "expansion-032-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-89c1",
+        "check-597d"
+      ]
+    },
+    {
+      "stepId": "expansion-032-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-89c1",
+      "characterId": "char-89c1",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "见"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-89c1-choice-1",
+          "hanzi": "见"
+        },
+        {
+          "choiceId": "familiar-89c1-choice-2",
+          "hanzi": "好"
+        },
+        {
+          "choiceId": "familiar-89c1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-89c1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-89c1-choice-1"
+    },
+    {
+      "checkId": "check-89c1",
+      "characterId": "char-89c1",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "见"
+      },
+      "choices": [
+        {
+          "choiceId": "check-89c1-choice-1",
+          "hanzi": "见"
+        },
+        {
+          "choiceId": "check-89c1-choice-2",
+          "hanzi": "好"
+        },
+        {
+          "choiceId": "check-89c1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-89c1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-89c1-choice-1"
+    },
+    {
+      "checkId": "review-89c1",
+      "characterId": "char-89c1",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "见"
+      },
+      "choices": [
+        {
+          "choiceId": "review-89c1-choice-1",
+          "hanzi": "见"
+        },
+        {
+          "choiceId": "review-89c1-choice-2",
+          "hanzi": "好"
+        },
+        {
+          "choiceId": "review-89c1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-89c1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-89c1-choice-1"
+    },
+    {
+      "checkId": "practice-one-89c1",
+      "characterId": "char-89c1",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "看见"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-89c1-choice-1",
+          "hanzi": "见"
+        },
+        {
+          "choiceId": "practice-one-89c1-choice-2",
+          "hanzi": "好"
+        },
+        {
+          "choiceId": "practice-one-89c1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-89c1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-89c1-choice-1"
+    },
+    {
+      "checkId": "practice-two-89c1",
+      "characterId": "char-89c1",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "见面"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-89c1-choice-1",
+          "hanzi": "见"
+        },
+        {
+          "choiceId": "practice-two-89c1-choice-2",
+          "hanzi": "好"
+        },
+        {
+          "choiceId": "practice-two-89c1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-89c1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-89c1-choice-1"
+    },
+    {
+      "checkId": "familiar-597d",
+      "characterId": "char-597d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "好"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-597d-choice-1",
+          "hanzi": "见"
+        },
+        {
+          "choiceId": "familiar-597d-choice-2",
+          "hanzi": "好"
+        },
+        {
+          "choiceId": "familiar-597d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-597d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-597d-choice-2"
+    },
+    {
+      "checkId": "check-597d",
+      "characterId": "char-597d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "好"
+      },
+      "choices": [
+        {
+          "choiceId": "check-597d-choice-1",
+          "hanzi": "见"
+        },
+        {
+          "choiceId": "check-597d-choice-2",
+          "hanzi": "好"
+        },
+        {
+          "choiceId": "check-597d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-597d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-597d-choice-2"
+    },
+    {
+      "checkId": "review-597d",
+      "characterId": "char-597d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "好"
+      },
+      "choices": [
+        {
+          "choiceId": "review-597d-choice-1",
+          "hanzi": "见"
+        },
+        {
+          "choiceId": "review-597d-choice-2",
+          "hanzi": "好"
+        },
+        {
+          "choiceId": "review-597d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-597d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-597d-choice-2"
+    },
+    {
+      "checkId": "practice-one-597d",
+      "characterId": "char-597d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "好看"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-597d-choice-1",
+          "hanzi": "见"
+        },
+        {
+          "choiceId": "practice-one-597d-choice-2",
+          "hanzi": "好"
+        },
+        {
+          "choiceId": "practice-one-597d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-597d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-597d-choice-2"
+    },
+    {
+      "checkId": "practice-two-597d",
+      "characterId": "char-597d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "友好"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-597d-choice-1",
+          "hanzi": "见"
+        },
+        {
+          "choiceId": "practice-two-597d-choice-2",
+          "hanzi": "好"
+        },
+        {
+          "choiceId": "practice-two-597d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-597d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-597d-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-89c1",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-032-v1/char-89c1",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-597d",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-032-v1/char-597d",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-032-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-032-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Friends and positions: 见 and 好",
+      "instructionEnglish": "Read two short word examples for 见 and 好 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-89c1",
+        "readingId": "reading-89c1",
+        "familiarityCheckId": "familiar-89c1",
+        "practice": [
+          {
+            "wordId": "word-89c1-1",
+            "checkId": "practice-one-89c1"
+          },
+          {
+            "wordId": "word-89c1-2",
+            "checkId": "practice-two-89c1"
+          }
+        ],
+        "immediateCheckId": "check-89c1",
+        "reviewCheckId": "review-89c1"
+      },
+      {
+        "characterId": "char-597d",
+        "readingId": "reading-597d",
+        "familiarityCheckId": "familiar-597d",
+        "practice": [
+          {
+            "wordId": "word-597d-1",
+            "checkId": "practice-one-597d"
+          },
+          {
+            "wordId": "word-597d-2",
+            "checkId": "practice-two-597d"
+          }
+        ],
+        "immediateCheckId": "check-597d",
+        "reviewCheckId": "review-597d"
+      }
+    ],
+    "reader": {
+      "title": "Friends and positions: 见 and 好",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-89c1-1",
+        "word-89c1-2",
+        "word-597d-1",
+        "word-597d-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-89c1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-89c1",
+          "transcript": "见",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-89c1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-89c1",
+          "transcript": "见",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-89c1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-89c1",
+          "transcript": "见",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-89c1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-89c1",
+          "transcript": "看见",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-89c1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-89c1",
+          "transcript": "见面",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-89c1",
+          "readingId": "reading-89c1",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "见",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-89c1-1",
+          "readingId": null,
+          "wordId": "word-89c1-1",
+          "checkId": null,
+          "transcript": "我们看见一只小鸟停在树上。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-89c1-2",
+          "readingId": null,
+          "wordId": "word-89c1-2",
+          "checkId": null,
+          "transcript": "周末，我们在公园见面。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-597d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-597d",
+          "transcript": "好",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-597d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-597d",
+          "transcript": "好",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-597d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-597d",
+          "transcript": "好",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-597d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-597d",
+          "transcript": "好看",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-597d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-597d",
+          "transcript": "友好",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-597d",
+          "readingId": "reading-597d",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "好",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-597d-1",
+          "readingId": null,
+          "wordId": "word-597d-1",
+          "checkId": null,
+          "transcript": "这张彩色地图很好看。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-597d-2",
+          "readingId": null,
+          "wordId": "word-597d-2",
+          "checkId": null,
+          "transcript": "我们友好地和新朋友打招呼。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

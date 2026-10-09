@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-124",
+  "lessonVersion": "expansion-124-v1",
+  "title": "Helping hands and tidying: 整 and 齐",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 184
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 整 and 齐 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-6574",
+      "hanzi": "整",
+      "readings": [
+        {
+          "readingId": "reading-6574",
+          "pinyin": "zhěng",
+          "audioText": "整",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#整",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "whole; arrange",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#整",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6574-1",
+          "text": "整理",
+          "pinyin": "zhěng lǐ",
+          "english": "arrange; tidy",
+          "readingId": "reading-6574",
+          "context": {
+            "hanzi": "我们一起整理书本。",
+            "english": "We tidy the books together.",
+            "targetCharacter": "整"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#整理",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6574-2",
+          "text": "整齐",
+          "pinyin": "zhěng qí",
+          "english": "neat; orderly",
+          "readingId": "reading-6574",
+          "context": {
+            "hanzi": "书架上的书本很整齐。",
+            "english": "The books on the shelf are neatly arranged.",
+            "targetCharacter": "整"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#整齐",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 正 beneath the upper part of 整.",
+        "demonstrationEnglish": "This is 整. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6574",
+        "delayedReview": {
+          "promptId": "later-6574",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6574"
+        }
+      },
+      "assets": [
+        "asset-glyph-6574",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-9f50",
+      "hanzi": "齐",
+      "readings": [
+        {
+          "readingId": "reading-9f50",
+          "pinyin": "qí",
+          "audioText": "齐",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#齐",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "even; complete",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#齐",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-9f50-1",
+          "text": "整齐",
+          "pinyin": "zhěng qí",
+          "english": "neat; orderly",
+          "readingId": "reading-9f50",
+          "context": {
+            "hanzi": "桌上的彩笔摆得很整齐。",
+            "english": "The coloured pens on the table are neatly arranged.",
+            "targetCharacter": "齐"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#整齐",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-9f50-2",
+          "text": "齐全",
+          "pinyin": "qí quán",
+          "english": "complete",
+          "readingId": "reading-9f50",
+          "context": {
+            "hanzi": "这盒彩笔的颜色很齐全。",
+            "english": "This box of coloured pens has a full range of colours.",
+            "targetCharacter": "齐"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#齐全",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the two straight lower strokes beneath 文 in 齐.",
+        "demonstrationEnglish": "This is 齐. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-9f50",
+        "delayedReview": {
+          "promptId": "later-9f50",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-9f50"
+        }
+      },
+      "assets": [
+        "asset-glyph-9f50",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-124-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-6574",
+        "familiar-9f50"
+      ]
+    },
+    {
+      "stepId": "expansion-124-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-124-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-6574",
+        "practice-two-6574",
+        "practice-one-9f50",
+        "practice-two-9f50"
+      ]
+    },
+    {
+      "stepId": "expansion-124-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-6574",
+        "check-9f50"
+      ]
+    },
+    {
+      "stepId": "expansion-124-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-6574",
+      "characterId": "char-6574",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "整"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6574-choice-1",
+          "hanzi": "整"
+        },
+        {
+          "choiceId": "familiar-6574-choice-2",
+          "hanzi": "齐"
+        },
+        {
+          "choiceId": "familiar-6574-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6574-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6574-choice-1"
+    },
+    {
+      "checkId": "check-6574",
+      "characterId": "char-6574",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "整"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6574-choice-1",
+          "hanzi": "整"
+        },
+        {
+          "choiceId": "check-6574-choice-2",
+          "hanzi": "齐"
+        },
+        {
+          "choiceId": "check-6574-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6574-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6574-choice-1"
+    },
+    {
+      "checkId": "review-6574",
+      "characterId": "char-6574",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "整"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6574-choice-1",
+          "hanzi": "整"
+        },
+        {
+          "choiceId": "review-6574-choice-2",
+          "hanzi": "齐"
+        },
+        {
+          "choiceId": "review-6574-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6574-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6574-choice-1"
+    },
+    {
+      "checkId": "practice-one-6574",
+      "characterId": "char-6574",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "整理"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6574-choice-1",
+          "hanzi": "整"
+        },
+        {
+          "choiceId": "practice-one-6574-choice-2",
+          "hanzi": "齐"
+        },
+        {
+          "choiceId": "practice-one-6574-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6574-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6574-choice-1"
+    },
+    {
+      "checkId": "practice-two-6574",
+      "characterId": "char-6574",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "整齐"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6574-choice-1",
+          "hanzi": "整"
+        },
+        {
+          "choiceId": "practice-two-6574-choice-2",
+          "hanzi": "齐"
+        },
+        {
+          "choiceId": "practice-two-6574-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6574-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6574-choice-1"
+    },
+    {
+      "checkId": "familiar-9f50",
+      "characterId": "char-9f50",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "齐"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-9f50-choice-1",
+          "hanzi": "整"
+        },
+        {
+          "choiceId": "familiar-9f50-choice-2",
+          "hanzi": "齐"
+        },
+        {
+          "choiceId": "familiar-9f50-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-9f50-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-9f50-choice-2"
+    },
+    {
+      "checkId": "check-9f50",
+      "characterId": "char-9f50",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "齐"
+      },
+      "choices": [
+        {
+          "choiceId": "check-9f50-choice-1",
+          "hanzi": "整"
+        },
+        {
+          "choiceId": "check-9f50-choice-2",
+          "hanzi": "齐"
+        },
+        {
+          "choiceId": "check-9f50-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-9f50-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-9f50-choice-2"
+    },
+    {
+      "checkId": "review-9f50",
+      "characterId": "char-9f50",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "齐"
+      },
+      "choices": [
+        {
+          "choiceId": "review-9f50-choice-1",
+          "hanzi": "整"
+        },
+        {
+          "choiceId": "review-9f50-choice-2",
+          "hanzi": "齐"
+        },
+        {
+          "choiceId": "review-9f50-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-9f50-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-9f50-choice-2"
+    },
+    {
+      "checkId": "practice-one-9f50",
+      "characterId": "char-9f50",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "整齐"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-9f50-choice-1",
+          "hanzi": "整"
+        },
+        {
+          "choiceId": "practice-one-9f50-choice-2",
+          "hanzi": "齐"
+        },
+        {
+          "choiceId": "practice-one-9f50-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-9f50-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-9f50-choice-2"
+    },
+    {
+      "checkId": "practice-two-9f50",
+      "characterId": "char-9f50",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "齐全"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-9f50-choice-1",
+          "hanzi": "整"
+        },
+        {
+          "choiceId": "practice-two-9f50-choice-2",
+          "hanzi": "齐"
+        },
+        {
+          "choiceId": "practice-two-9f50-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-9f50-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-9f50-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-6574",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-124-v1/char-6574",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-9f50",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-124-v1/char-9f50",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-124-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-124-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Helping hands and tidying: 整 and 齐",
+      "instructionEnglish": "Read two short word examples for 整 and 齐 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-6574",
+        "readingId": "reading-6574",
+        "familiarityCheckId": "familiar-6574",
+        "practice": [
+          {
+            "wordId": "word-6574-1",
+            "checkId": "practice-one-6574"
+          },
+          {
+            "wordId": "word-6574-2",
+            "checkId": "practice-two-6574"
+          }
+        ],
+        "immediateCheckId": "check-6574",
+        "reviewCheckId": "review-6574"
+      },
+      {
+        "characterId": "char-9f50",
+        "readingId": "reading-9f50",
+        "familiarityCheckId": "familiar-9f50",
+        "practice": [
+          {
+            "wordId": "word-9f50-1",
+            "checkId": "practice-one-9f50"
+          },
+          {
+            "wordId": "word-9f50-2",
+            "checkId": "practice-two-9f50"
+          }
+        ],
+        "immediateCheckId": "check-9f50",
+        "reviewCheckId": "review-9f50"
+      }
+    ],
+    "reader": {
+      "title": "Helping hands and tidying: 整 and 齐",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-6574-1",
+        "word-6574-2",
+        "word-9f50-1",
+        "word-9f50-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-6574",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6574",
+          "transcript": "整",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6574",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6574",
+          "transcript": "整",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6574",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6574",
+          "transcript": "整",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6574",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6574",
+          "transcript": "整理",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6574",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6574",
+          "transcript": "整齐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6574",
+          "readingId": "reading-6574",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "整",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6574-1",
+          "readingId": null,
+          "wordId": "word-6574-1",
+          "checkId": null,
+          "transcript": "我们一起整理书本。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6574-2",
+          "readingId": null,
+          "wordId": "word-6574-2",
+          "checkId": null,
+          "transcript": "书架上的书本很整齐。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-9f50",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-9f50",
+          "transcript": "齐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-9f50",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-9f50",
+          "transcript": "齐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-9f50",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-9f50",
+          "transcript": "齐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-9f50",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-9f50",
+          "transcript": "整齐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-9f50",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-9f50",
+          "transcript": "齐全",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-9f50",
+          "readingId": "reading-9f50",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "齐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9f50-1",
+          "readingId": null,
+          "wordId": "word-9f50-1",
+          "checkId": null,
+          "transcript": "桌上的彩笔摆得很整齐。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9f50-2",
+          "readingId": null,
+          "wordId": "word-9f50-2",
+          "checkId": null,
+          "transcript": "这盒彩笔的颜色很齐全。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-094",
+  "lessonVersion": "expansion-094-v1",
+  "title": "Home and our neighbourhood: 架 and 窗",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 154
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 架 and 窗 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-67b6",
+      "hanzi": "架",
+      "readings": [
+        {
+          "readingId": "reading-67b6",
+          "pinyin": "jià",
+          "audioText": "架",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#架",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "rack; support",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#架",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-67b6-1",
+          "text": "书架",
+          "pinyin": "shū jià",
+          "english": "a bookshelf",
+          "readingId": "reading-67b6",
+          "context": {
+            "hanzi": "我在图画里看到了书架。",
+            "english": "I see a bookshelf in the picture.",
+            "targetCharacter": "架"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#书架",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-67b6-2",
+          "text": "衣架",
+          "pinyin": "yī jià",
+          "english": "a clothes hanger",
+          "readingId": "reading-67b6",
+          "context": {
+            "hanzi": "我们把衣架放进小盒子。",
+            "english": "We put a clothes hanger into a small box.",
+            "targetCharacter": "架"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#衣架",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 加 above 木 in 架.",
+        "demonstrationEnglish": "This is 架. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-67b6",
+        "delayedReview": {
+          "promptId": "later-67b6",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-67b6"
+        }
+      },
+      "assets": [
+        "asset-glyph-67b6",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-7a97",
+      "hanzi": "窗",
+      "readings": [
+        {
+          "readingId": "reading-7a97",
+          "pinyin": "chuāng",
+          "audioText": "窗",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#窗",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "window",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#窗",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7a97-1",
+          "text": "窗户",
+          "pinyin": "chuāng hu",
+          "english": "a window",
+          "readingId": "reading-7a97",
+          "context": {
+            "hanzi": "我在图画里看到了窗户。",
+            "english": "I see a window in the picture.",
+            "targetCharacter": "窗"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#窗户",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7a97-2",
+          "text": "窗台",
+          "pinyin": "chuāng tái",
+          "english": "a windowsill",
+          "readingId": "reading-7a97",
+          "context": {
+            "hanzi": "我指给朋友看图中的窗台。",
+            "english": "I point out a windowsill in the picture to my friend.",
+            "targetCharacter": "窗"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#窗台",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find the roof-like 穴 above the lower part of 窗.",
+        "demonstrationEnglish": "This is 窗. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7a97",
+        "delayedReview": {
+          "promptId": "later-7a97",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7a97"
+        }
+      },
+      "assets": [
+        "asset-glyph-7a97",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-094-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-67b6",
+        "familiar-7a97"
+      ]
+    },
+    {
+      "stepId": "expansion-094-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-094-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-67b6",
+        "practice-two-67b6",
+        "practice-one-7a97",
+        "practice-two-7a97"
+      ]
+    },
+    {
+      "stepId": "expansion-094-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-67b6",
+        "check-7a97"
+      ]
+    },
+    {
+      "stepId": "expansion-094-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-67b6",
+      "characterId": "char-67b6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "架"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-67b6-choice-1",
+          "hanzi": "架"
+        },
+        {
+          "choiceId": "familiar-67b6-choice-2",
+          "hanzi": "窗"
+        },
+        {
+          "choiceId": "familiar-67b6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-67b6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-67b6-choice-1"
+    },
+    {
+      "checkId": "check-67b6",
+      "characterId": "char-67b6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "架"
+      },
+      "choices": [
+        {
+          "choiceId": "check-67b6-choice-1",
+          "hanzi": "架"
+        },
+        {
+          "choiceId": "check-67b6-choice-2",
+          "hanzi": "窗"
+        },
+        {
+          "choiceId": "check-67b6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-67b6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-67b6-choice-1"
+    },
+    {
+      "checkId": "review-67b6",
+      "characterId": "char-67b6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "架"
+      },
+      "choices": [
+        {
+          "choiceId": "review-67b6-choice-1",
+          "hanzi": "架"
+        },
+        {
+          "choiceId": "review-67b6-choice-2",
+          "hanzi": "窗"
+        },
+        {
+          "choiceId": "review-67b6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-67b6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-67b6-choice-1"
+    },
+    {
+      "checkId": "practice-one-67b6",
+      "characterId": "char-67b6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "书架"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-67b6-choice-1",
+          "hanzi": "架"
+        },
+        {
+          "choiceId": "practice-one-67b6-choice-2",
+          "hanzi": "窗"
+        },
+        {
+          "choiceId": "practice-one-67b6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-67b6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-67b6-choice-1"
+    },
+    {
+      "checkId": "practice-two-67b6",
+      "characterId": "char-67b6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "衣架"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-67b6-choice-1",
+          "hanzi": "架"
+        },
+        {
+          "choiceId": "practice-two-67b6-choice-2",
+          "hanzi": "窗"
+        },
+        {
+          "choiceId": "practice-two-67b6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-67b6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-67b6-choice-1"
+    },
+    {
+      "checkId": "familiar-7a97",
+      "characterId": "char-7a97",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "窗"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7a97-choice-1",
+          "hanzi": "架"
+        },
+        {
+          "choiceId": "familiar-7a97-choice-2",
+          "hanzi": "窗"
+        },
+        {
+          "choiceId": "familiar-7a97-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7a97-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7a97-choice-2"
+    },
+    {
+      "checkId": "check-7a97",
+      "characterId": "char-7a97",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "窗"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7a97-choice-1",
+          "hanzi": "架"
+        },
+        {
+          "choiceId": "check-7a97-choice-2",
+          "hanzi": "窗"
+        },
+        {
+          "choiceId": "check-7a97-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7a97-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7a97-choice-2"
+    },
+    {
+      "checkId": "review-7a97",
+      "characterId": "char-7a97",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "窗"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7a97-choice-1",
+          "hanzi": "架"
+        },
+        {
+          "choiceId": "review-7a97-choice-2",
+          "hanzi": "窗"
+        },
+        {
+          "choiceId": "review-7a97-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7a97-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7a97-choice-2"
+    },
+    {
+      "checkId": "practice-one-7a97",
+      "characterId": "char-7a97",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "窗户"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7a97-choice-1",
+          "hanzi": "架"
+        },
+        {
+          "choiceId": "practice-one-7a97-choice-2",
+          "hanzi": "窗"
+        },
+        {
+          "choiceId": "practice-one-7a97-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7a97-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7a97-choice-2"
+    },
+    {
+      "checkId": "practice-two-7a97",
+      "characterId": "char-7a97",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "窗台"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7a97-choice-1",
+          "hanzi": "架"
+        },
+        {
+          "choiceId": "practice-two-7a97-choice-2",
+          "hanzi": "窗"
+        },
+        {
+          "choiceId": "practice-two-7a97-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7a97-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7a97-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-67b6",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-094-v1/char-67b6",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-7a97",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-094-v1/char-7a97",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-094-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-094-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Home and our neighbourhood: 架 and 窗",
+      "instructionEnglish": "Read two short word examples for 架 and 窗 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-67b6",
+        "readingId": "reading-67b6",
+        "familiarityCheckId": "familiar-67b6",
+        "practice": [
+          {
+            "wordId": "word-67b6-1",
+            "checkId": "practice-one-67b6"
+          },
+          {
+            "wordId": "word-67b6-2",
+            "checkId": "practice-two-67b6"
+          }
+        ],
+        "immediateCheckId": "check-67b6",
+        "reviewCheckId": "review-67b6"
+      },
+      {
+        "characterId": "char-7a97",
+        "readingId": "reading-7a97",
+        "familiarityCheckId": "familiar-7a97",
+        "practice": [
+          {
+            "wordId": "word-7a97-1",
+            "checkId": "practice-one-7a97"
+          },
+          {
+            "wordId": "word-7a97-2",
+            "checkId": "practice-two-7a97"
+          }
+        ],
+        "immediateCheckId": "check-7a97",
+        "reviewCheckId": "review-7a97"
+      }
+    ],
+    "reader": {
+      "title": "Home and our neighbourhood: 架 and 窗",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-67b6-1",
+        "word-67b6-2",
+        "word-7a97-1",
+        "word-7a97-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-67b6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-67b6",
+          "transcript": "架",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-67b6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-67b6",
+          "transcript": "架",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-67b6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-67b6",
+          "transcript": "架",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-67b6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-67b6",
+          "transcript": "书架",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-67b6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-67b6",
+          "transcript": "衣架",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-67b6",
+          "readingId": "reading-67b6",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "架",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-67b6-1",
+          "readingId": null,
+          "wordId": "word-67b6-1",
+          "checkId": null,
+          "transcript": "我在图画里看到了书架。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-67b6-2",
+          "readingId": null,
+          "wordId": "word-67b6-2",
+          "checkId": null,
+          "transcript": "我们把衣架放进小盒子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-7a97",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7a97",
+          "transcript": "窗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7a97",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7a97",
+          "transcript": "窗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7a97",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7a97",
+          "transcript": "窗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7a97",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7a97",
+          "transcript": "窗户",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7a97",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7a97",
+          "transcript": "窗台",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7a97",
+          "readingId": "reading-7a97",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "窗",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7a97-1",
+          "readingId": null,
+          "wordId": "word-7a97-1",
+          "checkId": null,
+          "transcript": "我在图画里看到了窗户。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7a97-2",
+          "readingId": null,
+          "wordId": "word-7a97-2",
+          "checkId": null,
+          "transcript": "我指给朋友看图中的窗台。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

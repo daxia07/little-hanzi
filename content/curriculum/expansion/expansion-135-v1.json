@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-135",
+  "lessonVersion": "expansion-135-v1",
+  "title": "Kinds, measures and collections: 棵 and 朵",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 195
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 棵 and 朵 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-68f5",
+      "hanzi": "棵",
+      "readings": [
+        {
+          "readingId": "reading-68f5",
+          "pinyin": "kē",
+          "audioText": "棵",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#棵",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "counting word for plants",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#棵",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-68f5-1",
+          "text": "一棵树",
+          "pinyin": "yī kē shù",
+          "english": "one tree",
+          "readingId": "reading-68f5",
+          "context": {
+            "hanzi": "院子里有一棵树。",
+            "english": "There is one tree in the courtyard.",
+            "targetCharacter": "棵"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#一棵树",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-68f5-2",
+          "text": "一棵菜",
+          "pinyin": "yī kē cài",
+          "english": "one vegetable plant",
+          "readingId": "reading-68f5",
+          "context": {
+            "hanzi": "我给一棵菜浇水。",
+            "english": "I water a vegetable plant.",
+            "targetCharacter": "棵"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#一棵菜",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 木 beside 果 in 棵.",
+        "demonstrationEnglish": "This is 棵. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-68f5",
+        "delayedReview": {
+          "promptId": "later-68f5",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-68f5"
+        }
+      },
+      "assets": [
+        "asset-glyph-68f5",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6735",
+      "hanzi": "朵",
+      "readings": [
+        {
+          "readingId": "reading-6735",
+          "pinyin": "duǒ",
+          "audioText": "朵",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#朵",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "blossom; counting word for flowers",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#朵",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6735-1",
+          "text": "一朵花",
+          "pinyin": "yī duǒ huā",
+          "english": "one flower",
+          "readingId": "reading-6735",
+          "context": {
+            "hanzi": "我画了一朵花。",
+            "english": "I draw a flower.",
+            "targetCharacter": "朵"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#一朵花",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6735-2",
+          "text": "一朵云",
+          "pinyin": "yī duǒ yún",
+          "english": "one cloud",
+          "readingId": "reading-6735",
+          "context": {
+            "hanzi": "蓝天上有一朵云。",
+            "english": "There is a cloud in the blue sky.",
+            "targetCharacter": "朵"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#一朵云",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 木 beneath the upper curved strokes of 朵.",
+        "demonstrationEnglish": "This is 朵. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6735",
+        "delayedReview": {
+          "promptId": "later-6735",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6735"
+        }
+      },
+      "assets": [
+        "asset-glyph-6735",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-135-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-68f5",
+        "familiar-6735"
+      ]
+    },
+    {
+      "stepId": "expansion-135-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-135-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-68f5",
+        "practice-two-68f5",
+        "practice-one-6735",
+        "practice-two-6735"
+      ]
+    },
+    {
+      "stepId": "expansion-135-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-68f5",
+        "check-6735"
+      ]
+    },
+    {
+      "stepId": "expansion-135-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-68f5",
+      "characterId": "char-68f5",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "棵"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-68f5-choice-1",
+          "hanzi": "棵"
+        },
+        {
+          "choiceId": "familiar-68f5-choice-2",
+          "hanzi": "朵"
+        },
+        {
+          "choiceId": "familiar-68f5-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-68f5-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-68f5-choice-1"
+    },
+    {
+      "checkId": "check-68f5",
+      "characterId": "char-68f5",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "棵"
+      },
+      "choices": [
+        {
+          "choiceId": "check-68f5-choice-1",
+          "hanzi": "棵"
+        },
+        {
+          "choiceId": "check-68f5-choice-2",
+          "hanzi": "朵"
+        },
+        {
+          "choiceId": "check-68f5-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-68f5-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-68f5-choice-1"
+    },
+    {
+      "checkId": "review-68f5",
+      "characterId": "char-68f5",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "棵"
+      },
+      "choices": [
+        {
+          "choiceId": "review-68f5-choice-1",
+          "hanzi": "棵"
+        },
+        {
+          "choiceId": "review-68f5-choice-2",
+          "hanzi": "朵"
+        },
+        {
+          "choiceId": "review-68f5-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-68f5-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-68f5-choice-1"
+    },
+    {
+      "checkId": "practice-one-68f5",
+      "characterId": "char-68f5",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "一棵树"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-68f5-choice-1",
+          "hanzi": "棵"
+        },
+        {
+          "choiceId": "practice-one-68f5-choice-2",
+          "hanzi": "朵"
+        },
+        {
+          "choiceId": "practice-one-68f5-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-68f5-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-68f5-choice-1"
+    },
+    {
+      "checkId": "practice-two-68f5",
+      "characterId": "char-68f5",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "一棵菜"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-68f5-choice-1",
+          "hanzi": "棵"
+        },
+        {
+          "choiceId": "practice-two-68f5-choice-2",
+          "hanzi": "朵"
+        },
+        {
+          "choiceId": "practice-two-68f5-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-68f5-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-68f5-choice-1"
+    },
+    {
+      "checkId": "familiar-6735",
+      "characterId": "char-6735",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "朵"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6735-choice-1",
+          "hanzi": "棵"
+        },
+        {
+          "choiceId": "familiar-6735-choice-2",
+          "hanzi": "朵"
+        },
+        {
+          "choiceId": "familiar-6735-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6735-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6735-choice-2"
+    },
+    {
+      "checkId": "check-6735",
+      "characterId": "char-6735",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "朵"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6735-choice-1",
+          "hanzi": "棵"
+        },
+        {
+          "choiceId": "check-6735-choice-2",
+          "hanzi": "朵"
+        },
+        {
+          "choiceId": "check-6735-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6735-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6735-choice-2"
+    },
+    {
+      "checkId": "review-6735",
+      "characterId": "char-6735",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "朵"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6735-choice-1",
+          "hanzi": "棵"
+        },
+        {
+          "choiceId": "review-6735-choice-2",
+          "hanzi": "朵"
+        },
+        {
+          "choiceId": "review-6735-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6735-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6735-choice-2"
+    },
+    {
+      "checkId": "practice-one-6735",
+      "characterId": "char-6735",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "一朵花"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6735-choice-1",
+          "hanzi": "棵"
+        },
+        {
+          "choiceId": "practice-one-6735-choice-2",
+          "hanzi": "朵"
+        },
+        {
+          "choiceId": "practice-one-6735-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6735-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6735-choice-2"
+    },
+    {
+      "checkId": "practice-two-6735",
+      "characterId": "char-6735",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "一朵云"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6735-choice-1",
+          "hanzi": "棵"
+        },
+        {
+          "choiceId": "practice-two-6735-choice-2",
+          "hanzi": "朵"
+        },
+        {
+          "choiceId": "practice-two-6735-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6735-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6735-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-68f5",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-135-v1/char-68f5",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6735",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-135-v1/char-6735",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-135-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-135-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Kinds, measures and collections: 棵 and 朵",
+      "instructionEnglish": "Read two short word examples for 棵 and 朵 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-68f5",
+        "readingId": "reading-68f5",
+        "familiarityCheckId": "familiar-68f5",
+        "practice": [
+          {
+            "wordId": "word-68f5-1",
+            "checkId": "practice-one-68f5"
+          },
+          {
+            "wordId": "word-68f5-2",
+            "checkId": "practice-two-68f5"
+          }
+        ],
+        "immediateCheckId": "check-68f5",
+        "reviewCheckId": "review-68f5"
+      },
+      {
+        "characterId": "char-6735",
+        "readingId": "reading-6735",
+        "familiarityCheckId": "familiar-6735",
+        "practice": [
+          {
+            "wordId": "word-6735-1",
+            "checkId": "practice-one-6735"
+          },
+          {
+            "wordId": "word-6735-2",
+            "checkId": "practice-two-6735"
+          }
+        ],
+        "immediateCheckId": "check-6735",
+        "reviewCheckId": "review-6735"
+      }
+    ],
+    "reader": {
+      "title": "Kinds, measures and collections: 棵 and 朵",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-68f5-1",
+        "word-68f5-2",
+        "word-6735-1",
+        "word-6735-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-68f5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-68f5",
+          "transcript": "棵",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-68f5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-68f5",
+          "transcript": "棵",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-68f5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-68f5",
+          "transcript": "棵",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-68f5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-68f5",
+          "transcript": "一棵树",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-68f5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-68f5",
+          "transcript": "一棵菜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-68f5",
+          "readingId": "reading-68f5",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "棵",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-68f5-1",
+          "readingId": null,
+          "wordId": "word-68f5-1",
+          "checkId": null,
+          "transcript": "院子里有一棵树。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-68f5-2",
+          "readingId": null,
+          "wordId": "word-68f5-2",
+          "checkId": null,
+          "transcript": "我给一棵菜浇水。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6735",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6735",
+          "transcript": "朵",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6735",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6735",
+          "transcript": "朵",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6735",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6735",
+          "transcript": "朵",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6735",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6735",
+          "transcript": "一朵花",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6735",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6735",
+          "transcript": "一朵云",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6735",
+          "readingId": "reading-6735",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "朵",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6735-1",
+          "readingId": null,
+          "wordId": "word-6735-1",
+          "checkId": null,
+          "transcript": "我画了一朵花。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6735-2",
+          "readingId": null,
+          "wordId": "word-6735-2",
+          "checkId": null,
+          "transcript": "蓝天上有一朵云。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

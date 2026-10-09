@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-110",
+  "lessonVersion": "expansion-110-v1",
+  "title": "School words and shapes: 平 and 弯",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 170
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 平 and 弯 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5e73",
+      "hanzi": "平",
+      "readings": [
+        {
+          "readingId": "reading-5e73",
+          "pinyin": "píng",
+          "audioText": "平",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#平",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "flat; even; peaceful",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#平",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5e73-1",
+          "text": "平整",
+          "pinyin": "píng zhěng",
+          "english": "flat and even",
+          "readingId": "reading-5e73",
+          "context": {
+            "hanzi": "这张纸很平整。",
+            "english": "This sheet of paper is flat and even.",
+            "targetCharacter": "平"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#平整",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5e73-2",
+          "text": "平安",
+          "pinyin": "píng ān",
+          "english": "safe and well",
+          "readingId": "reading-5e73",
+          "context": {
+            "hanzi": "出门玩耍后，我们平安回家。",
+            "english": "After playing outside, we return home safely.",
+            "targetCharacter": "平"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#平安",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the two small strokes above the long horizontal in 平.",
+        "demonstrationEnglish": "This is 平. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5e73",
+        "delayedReview": {
+          "promptId": "later-5e73",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5e73"
+        }
+      },
+      "assets": [
+        "asset-glyph-5e73",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5f2f",
+      "hanzi": "弯",
+      "readings": [
+        {
+          "readingId": "reading-5f2f",
+          "pinyin": "wān",
+          "audioText": "弯",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#弯",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "curved; bend",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#弯",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5f2f-1",
+          "text": "弯曲",
+          "pinyin": "wān qū",
+          "english": "curved",
+          "readingId": "reading-5f2f",
+          "context": {
+            "hanzi": "这条小路有点弯曲。",
+            "english": "This path is a little curved.",
+            "targetCharacter": "弯"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#弯曲",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5f2f-2",
+          "text": "拐弯",
+          "pinyin": "guǎi wān",
+          "english": "turn a corner",
+          "readingId": "reading-5f2f",
+          "context": {
+            "hanzi": "小车在路口拐弯。",
+            "english": "The little vehicle turns at the junction.",
+            "targetCharacter": "弯"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拐弯",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 弓 beneath the upper part of 弯.",
+        "demonstrationEnglish": "This is 弯. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5f2f",
+        "delayedReview": {
+          "promptId": "later-5f2f",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5f2f"
+        }
+      },
+      "assets": [
+        "asset-glyph-5f2f",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-110-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5e73",
+        "familiar-5f2f"
+      ]
+    },
+    {
+      "stepId": "expansion-110-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-110-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-5e73",
+        "practice-two-5e73",
+        "practice-one-5f2f",
+        "practice-two-5f2f"
+      ]
+    },
+    {
+      "stepId": "expansion-110-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5e73",
+        "check-5f2f"
+      ]
+    },
+    {
+      "stepId": "expansion-110-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5e73",
+      "characterId": "char-5e73",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "平"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5e73-choice-1",
+          "hanzi": "平"
+        },
+        {
+          "choiceId": "familiar-5e73-choice-2",
+          "hanzi": "弯"
+        },
+        {
+          "choiceId": "familiar-5e73-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5e73-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5e73-choice-1"
+    },
+    {
+      "checkId": "check-5e73",
+      "characterId": "char-5e73",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "平"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5e73-choice-1",
+          "hanzi": "平"
+        },
+        {
+          "choiceId": "check-5e73-choice-2",
+          "hanzi": "弯"
+        },
+        {
+          "choiceId": "check-5e73-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5e73-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5e73-choice-1"
+    },
+    {
+      "checkId": "review-5e73",
+      "characterId": "char-5e73",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "平"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5e73-choice-1",
+          "hanzi": "平"
+        },
+        {
+          "choiceId": "review-5e73-choice-2",
+          "hanzi": "弯"
+        },
+        {
+          "choiceId": "review-5e73-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5e73-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5e73-choice-1"
+    },
+    {
+      "checkId": "practice-one-5e73",
+      "characterId": "char-5e73",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "平整"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5e73-choice-1",
+          "hanzi": "平"
+        },
+        {
+          "choiceId": "practice-one-5e73-choice-2",
+          "hanzi": "弯"
+        },
+        {
+          "choiceId": "practice-one-5e73-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5e73-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5e73-choice-1"
+    },
+    {
+      "checkId": "practice-two-5e73",
+      "characterId": "char-5e73",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "平安"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5e73-choice-1",
+          "hanzi": "平"
+        },
+        {
+          "choiceId": "practice-two-5e73-choice-2",
+          "hanzi": "弯"
+        },
+        {
+          "choiceId": "practice-two-5e73-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5e73-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5e73-choice-1"
+    },
+    {
+      "checkId": "familiar-5f2f",
+      "characterId": "char-5f2f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "弯"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5f2f-choice-1",
+          "hanzi": "平"
+        },
+        {
+          "choiceId": "familiar-5f2f-choice-2",
+          "hanzi": "弯"
+        },
+        {
+          "choiceId": "familiar-5f2f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5f2f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5f2f-choice-2"
+    },
+    {
+      "checkId": "check-5f2f",
+      "characterId": "char-5f2f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "弯"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5f2f-choice-1",
+          "hanzi": "平"
+        },
+        {
+          "choiceId": "check-5f2f-choice-2",
+          "hanzi": "弯"
+        },
+        {
+          "choiceId": "check-5f2f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5f2f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5f2f-choice-2"
+    },
+    {
+      "checkId": "review-5f2f",
+      "characterId": "char-5f2f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "弯"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5f2f-choice-1",
+          "hanzi": "平"
+        },
+        {
+          "choiceId": "review-5f2f-choice-2",
+          "hanzi": "弯"
+        },
+        {
+          "choiceId": "review-5f2f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5f2f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5f2f-choice-2"
+    },
+    {
+      "checkId": "practice-one-5f2f",
+      "characterId": "char-5f2f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "弯曲"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5f2f-choice-1",
+          "hanzi": "平"
+        },
+        {
+          "choiceId": "practice-one-5f2f-choice-2",
+          "hanzi": "弯"
+        },
+        {
+          "choiceId": "practice-one-5f2f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5f2f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5f2f-choice-2"
+    },
+    {
+      "checkId": "practice-two-5f2f",
+      "characterId": "char-5f2f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "拐弯"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5f2f-choice-1",
+          "hanzi": "平"
+        },
+        {
+          "choiceId": "practice-two-5f2f-choice-2",
+          "hanzi": "弯"
+        },
+        {
+          "choiceId": "practice-two-5f2f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5f2f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5f2f-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5e73",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-110-v1/char-5e73",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5f2f",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-110-v1/char-5f2f",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-110-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-110-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "School words and shapes: 平 and 弯",
+      "instructionEnglish": "Read two short word examples for 平 and 弯 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-5e73",
+        "readingId": "reading-5e73",
+        "familiarityCheckId": "familiar-5e73",
+        "practice": [
+          {
+            "wordId": "word-5e73-1",
+            "checkId": "practice-one-5e73"
+          },
+          {
+            "wordId": "word-5e73-2",
+            "checkId": "practice-two-5e73"
+          }
+        ],
+        "immediateCheckId": "check-5e73",
+        "reviewCheckId": "review-5e73"
+      },
+      {
+        "characterId": "char-5f2f",
+        "readingId": "reading-5f2f",
+        "familiarityCheckId": "familiar-5f2f",
+        "practice": [
+          {
+            "wordId": "word-5f2f-1",
+            "checkId": "practice-one-5f2f"
+          },
+          {
+            "wordId": "word-5f2f-2",
+            "checkId": "practice-two-5f2f"
+          }
+        ],
+        "immediateCheckId": "check-5f2f",
+        "reviewCheckId": "review-5f2f"
+      }
+    ],
+    "reader": {
+      "title": "School words and shapes: 平 and 弯",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5e73-1",
+        "word-5e73-2",
+        "word-5f2f-1",
+        "word-5f2f-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5e73",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5e73",
+          "transcript": "平",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5e73",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5e73",
+          "transcript": "平",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5e73",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5e73",
+          "transcript": "平",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5e73",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5e73",
+          "transcript": "平整",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5e73",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5e73",
+          "transcript": "平安",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5e73",
+          "readingId": "reading-5e73",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "平",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5e73-1",
+          "readingId": null,
+          "wordId": "word-5e73-1",
+          "checkId": null,
+          "transcript": "这张纸很平整。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5e73-2",
+          "readingId": null,
+          "wordId": "word-5e73-2",
+          "checkId": null,
+          "transcript": "出门玩耍后，我们平安回家。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5f2f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5f2f",
+          "transcript": "弯",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5f2f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5f2f",
+          "transcript": "弯",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5f2f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5f2f",
+          "transcript": "弯",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5f2f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5f2f",
+          "transcript": "弯曲",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5f2f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5f2f",
+          "transcript": "拐弯",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5f2f",
+          "readingId": "reading-5f2f",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "弯",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5f2f-1",
+          "readingId": null,
+          "wordId": "word-5f2f-1",
+          "checkId": null,
+          "transcript": "这条小路有点弯曲。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5f2f-2",
+          "readingId": null,
+          "wordId": "word-5f2f-2",
+          "checkId": null,
+          "transcript": "小车在路口拐弯。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

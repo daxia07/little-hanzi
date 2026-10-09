@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-082",
+  "lessonVersion": "expansion-082-v1",
+  "title": "Meals and containers: 酸 and 甜",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 142
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 酸 and 甜 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-9178",
+      "hanzi": "酸",
+      "readings": [
+        {
+          "readingId": "reading-9178",
+          "pinyin": "suān",
+          "audioText": "酸",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#酸",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "sour",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#酸",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-9178-1",
+          "text": "酸甜",
+          "pinyin": "suān tián",
+          "english": "sweet and sour",
+          "readingId": "reading-9178",
+          "context": {
+            "hanzi": "这碗汤的味道有点酸甜。",
+            "english": "This soup tastes a little sweet and sour.",
+            "targetCharacter": "酸"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#酸甜",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-9178-2",
+          "text": "酸奶",
+          "pinyin": "suān nǎi",
+          "english": "yogurt",
+          "readingId": "reading-9178",
+          "context": {
+            "hanzi": "碗里有酸奶。",
+            "english": "The bowl holds yogurt.",
+            "targetCharacter": "酸"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#酸奶",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 酉 on the left of 酸.",
+        "demonstrationEnglish": "This is 酸. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-9178",
+        "delayedReview": {
+          "promptId": "later-9178",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-9178"
+        }
+      },
+      "assets": [
+        "asset-glyph-9178",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-751c",
+      "hanzi": "甜",
+      "readings": [
+        {
+          "readingId": "reading-751c",
+          "pinyin": "tián",
+          "audioText": "甜",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#甜",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "sweet",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#甜",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-751c-1",
+          "text": "甜味",
+          "pinyin": "tián wèi",
+          "english": "sweet taste",
+          "readingId": "reading-751c",
+          "context": {
+            "hanzi": "苹果带着一点甜味。",
+            "english": "The apple has a slightly sweet taste.",
+            "targetCharacter": "甜"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#甜味",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-751c-2",
+          "text": "香甜",
+          "pinyin": "xiāng tián",
+          "english": "sweet and fragrant",
+          "readingId": "reading-751c",
+          "context": {
+            "hanzi": "这块面包很香甜。",
+            "english": "This piece of bread is sweet and fragrant.",
+            "targetCharacter": "甜"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#香甜",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 舌 beside 甘 in 甜.",
+        "demonstrationEnglish": "This is 甜. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-751c",
+        "delayedReview": {
+          "promptId": "later-751c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-751c"
+        }
+      },
+      "assets": [
+        "asset-glyph-751c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-082-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-9178",
+        "familiar-751c"
+      ]
+    },
+    {
+      "stepId": "expansion-082-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-082-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-9178",
+        "practice-two-9178",
+        "practice-one-751c",
+        "practice-two-751c"
+      ]
+    },
+    {
+      "stepId": "expansion-082-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-9178",
+        "check-751c"
+      ]
+    },
+    {
+      "stepId": "expansion-082-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-9178",
+      "characterId": "char-9178",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "酸"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-9178-choice-1",
+          "hanzi": "酸"
+        },
+        {
+          "choiceId": "familiar-9178-choice-2",
+          "hanzi": "甜"
+        },
+        {
+          "choiceId": "familiar-9178-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-9178-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-9178-choice-1"
+    },
+    {
+      "checkId": "check-9178",
+      "characterId": "char-9178",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "酸"
+      },
+      "choices": [
+        {
+          "choiceId": "check-9178-choice-1",
+          "hanzi": "酸"
+        },
+        {
+          "choiceId": "check-9178-choice-2",
+          "hanzi": "甜"
+        },
+        {
+          "choiceId": "check-9178-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-9178-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-9178-choice-1"
+    },
+    {
+      "checkId": "review-9178",
+      "characterId": "char-9178",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "酸"
+      },
+      "choices": [
+        {
+          "choiceId": "review-9178-choice-1",
+          "hanzi": "酸"
+        },
+        {
+          "choiceId": "review-9178-choice-2",
+          "hanzi": "甜"
+        },
+        {
+          "choiceId": "review-9178-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-9178-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-9178-choice-1"
+    },
+    {
+      "checkId": "practice-one-9178",
+      "characterId": "char-9178",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "酸甜"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-9178-choice-1",
+          "hanzi": "酸"
+        },
+        {
+          "choiceId": "practice-one-9178-choice-2",
+          "hanzi": "甜"
+        },
+        {
+          "choiceId": "practice-one-9178-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-9178-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-9178-choice-1"
+    },
+    {
+      "checkId": "practice-two-9178",
+      "characterId": "char-9178",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "酸奶"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-9178-choice-1",
+          "hanzi": "酸"
+        },
+        {
+          "choiceId": "practice-two-9178-choice-2",
+          "hanzi": "甜"
+        },
+        {
+          "choiceId": "practice-two-9178-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-9178-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-9178-choice-1"
+    },
+    {
+      "checkId": "familiar-751c",
+      "characterId": "char-751c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "甜"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-751c-choice-1",
+          "hanzi": "酸"
+        },
+        {
+          "choiceId": "familiar-751c-choice-2",
+          "hanzi": "甜"
+        },
+        {
+          "choiceId": "familiar-751c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-751c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-751c-choice-2"
+    },
+    {
+      "checkId": "check-751c",
+      "characterId": "char-751c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "甜"
+      },
+      "choices": [
+        {
+          "choiceId": "check-751c-choice-1",
+          "hanzi": "酸"
+        },
+        {
+          "choiceId": "check-751c-choice-2",
+          "hanzi": "甜"
+        },
+        {
+          "choiceId": "check-751c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-751c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-751c-choice-2"
+    },
+    {
+      "checkId": "review-751c",
+      "characterId": "char-751c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "甜"
+      },
+      "choices": [
+        {
+          "choiceId": "review-751c-choice-1",
+          "hanzi": "酸"
+        },
+        {
+          "choiceId": "review-751c-choice-2",
+          "hanzi": "甜"
+        },
+        {
+          "choiceId": "review-751c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-751c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-751c-choice-2"
+    },
+    {
+      "checkId": "practice-one-751c",
+      "characterId": "char-751c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "甜味"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-751c-choice-1",
+          "hanzi": "酸"
+        },
+        {
+          "choiceId": "practice-one-751c-choice-2",
+          "hanzi": "甜"
+        },
+        {
+          "choiceId": "practice-one-751c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-751c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-751c-choice-2"
+    },
+    {
+      "checkId": "practice-two-751c",
+      "characterId": "char-751c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "香甜"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-751c-choice-1",
+          "hanzi": "酸"
+        },
+        {
+          "choiceId": "practice-two-751c-choice-2",
+          "hanzi": "甜"
+        },
+        {
+          "choiceId": "practice-two-751c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-751c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-751c-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-9178",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-082-v1/char-9178",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-751c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-082-v1/char-751c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-082-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-082-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Meals and containers: 酸 and 甜",
+      "instructionEnglish": "Read two short word examples for 酸 and 甜 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-9178",
+        "readingId": "reading-9178",
+        "familiarityCheckId": "familiar-9178",
+        "practice": [
+          {
+            "wordId": "word-9178-1",
+            "checkId": "practice-one-9178"
+          },
+          {
+            "wordId": "word-9178-2",
+            "checkId": "practice-two-9178"
+          }
+        ],
+        "immediateCheckId": "check-9178",
+        "reviewCheckId": "review-9178"
+      },
+      {
+        "characterId": "char-751c",
+        "readingId": "reading-751c",
+        "familiarityCheckId": "familiar-751c",
+        "practice": [
+          {
+            "wordId": "word-751c-1",
+            "checkId": "practice-one-751c"
+          },
+          {
+            "wordId": "word-751c-2",
+            "checkId": "practice-two-751c"
+          }
+        ],
+        "immediateCheckId": "check-751c",
+        "reviewCheckId": "review-751c"
+      }
+    ],
+    "reader": {
+      "title": "Meals and containers: 酸 and 甜",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-9178-1",
+        "word-9178-2",
+        "word-751c-1",
+        "word-751c-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-9178",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-9178",
+          "transcript": "酸",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-9178",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-9178",
+          "transcript": "酸",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-9178",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-9178",
+          "transcript": "酸",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-9178",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-9178",
+          "transcript": "酸甜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-9178",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-9178",
+          "transcript": "酸奶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-9178",
+          "readingId": "reading-9178",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "酸",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9178-1",
+          "readingId": null,
+          "wordId": "word-9178-1",
+          "checkId": null,
+          "transcript": "这碗汤的味道有点酸甜。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9178-2",
+          "readingId": null,
+          "wordId": "word-9178-2",
+          "checkId": null,
+          "transcript": "碗里有酸奶。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-751c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-751c",
+          "transcript": "甜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-751c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-751c",
+          "transcript": "甜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-751c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-751c",
+          "transcript": "甜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-751c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-751c",
+          "transcript": "甜味",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-751c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-751c",
+          "transcript": "香甜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-751c",
+          "readingId": "reading-751c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "甜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-751c-1",
+          "readingId": null,
+          "wordId": "word-751c-1",
+          "checkId": null,
+          "transcript": "苹果带着一点甜味。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-751c-2",
+          "readingId": null,
+          "wordId": "word-751c-2",
+          "checkId": null,
+          "transcript": "这块面包很香甜。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

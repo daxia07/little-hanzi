@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-008",
+  "lessonVersion": "expansion-008-v1",
+  "title": "Useful connecting words: 些 and 从",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 68
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 些 and 从 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4e9b",
+      "hanzi": "些",
+      "readings": [
+        {
+          "readingId": "reading-4e9b",
+          "pinyin": "xiē",
+          "audioText": "些",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#些",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "some; a few",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#些",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e9b-1",
+          "text": "一些",
+          "pinyin": "yī xiē",
+          "english": "some",
+          "readingId": "reading-4e9b",
+          "context": {
+            "hanzi": "我们捡起一些落叶做拼贴。",
+            "english": "We collect some fallen leaves for a collage.",
+            "targetCharacter": "些"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#一些",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e9b-2",
+          "text": "这些",
+          "pinyin": "zhè xiē",
+          "english": "these",
+          "readingId": "reading-4e9b",
+          "context": {
+            "hanzi": "这些小石头是圆圆的。",
+            "english": "These little stones are round.",
+            "targetCharacter": "些"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#这些",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find the two horizontal strokes at the bottom of 些.",
+        "demonstrationEnglish": "This is 些. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e9b",
+        "delayedReview": {
+          "promptId": "later-4e9b",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e9b"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e9b",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-4ece",
+      "hanzi": "从",
+      "readings": [
+        {
+          "readingId": "reading-4ece",
+          "pinyin": "cóng",
+          "audioText": "从",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#从",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "from; follow",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#从",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4ece-1",
+          "text": "从前",
+          "pinyin": "cóng qián",
+          "english": "long ago",
+          "readingId": "reading-4ece",
+          "context": {
+            "hanzi": "从前，村里有一座小木桥。",
+            "english": "Long ago, there was a little wooden bridge in the village.",
+            "targetCharacter": "从"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#从前",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4ece-2",
+          "text": "从来",
+          "pinyin": "cóng lái",
+          "english": "ever; always",
+          "readingId": "reading-4ece",
+          "context": {
+            "hanzi": "这只小狗从来不抢小猫的食物。",
+            "english": "This little dog never takes the kitten's food.",
+            "targetCharacter": "从"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#从来",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Compare the two 人 shapes side by side in 从.",
+        "demonstrationEnglish": "This is 从. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4ece",
+        "delayedReview": {
+          "promptId": "later-4ece",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4ece"
+        }
+      },
+      "assets": [
+        "asset-glyph-4ece",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-008-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4e9b",
+        "familiar-4ece"
+      ]
+    },
+    {
+      "stepId": "expansion-008-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-008-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-4e9b",
+        "practice-two-4e9b",
+        "practice-one-4ece",
+        "practice-two-4ece"
+      ]
+    },
+    {
+      "stepId": "expansion-008-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4e9b",
+        "check-4ece"
+      ]
+    },
+    {
+      "stepId": "expansion-008-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4e9b",
+      "characterId": "char-4e9b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "些"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e9b-choice-1",
+          "hanzi": "些"
+        },
+        {
+          "choiceId": "familiar-4e9b-choice-2",
+          "hanzi": "从"
+        },
+        {
+          "choiceId": "familiar-4e9b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e9b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e9b-choice-1"
+    },
+    {
+      "checkId": "check-4e9b",
+      "characterId": "char-4e9b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "些"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e9b-choice-1",
+          "hanzi": "些"
+        },
+        {
+          "choiceId": "check-4e9b-choice-2",
+          "hanzi": "从"
+        },
+        {
+          "choiceId": "check-4e9b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e9b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e9b-choice-1"
+    },
+    {
+      "checkId": "review-4e9b",
+      "characterId": "char-4e9b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "些"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e9b-choice-1",
+          "hanzi": "些"
+        },
+        {
+          "choiceId": "review-4e9b-choice-2",
+          "hanzi": "从"
+        },
+        {
+          "choiceId": "review-4e9b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e9b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e9b-choice-1"
+    },
+    {
+      "checkId": "practice-one-4e9b",
+      "characterId": "char-4e9b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "一些"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e9b-choice-1",
+          "hanzi": "些"
+        },
+        {
+          "choiceId": "practice-one-4e9b-choice-2",
+          "hanzi": "从"
+        },
+        {
+          "choiceId": "practice-one-4e9b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e9b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e9b-choice-1"
+    },
+    {
+      "checkId": "practice-two-4e9b",
+      "characterId": "char-4e9b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "这些"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e9b-choice-1",
+          "hanzi": "些"
+        },
+        {
+          "choiceId": "practice-two-4e9b-choice-2",
+          "hanzi": "从"
+        },
+        {
+          "choiceId": "practice-two-4e9b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e9b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e9b-choice-1"
+    },
+    {
+      "checkId": "familiar-4ece",
+      "characterId": "char-4ece",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "从"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4ece-choice-1",
+          "hanzi": "些"
+        },
+        {
+          "choiceId": "familiar-4ece-choice-2",
+          "hanzi": "从"
+        },
+        {
+          "choiceId": "familiar-4ece-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4ece-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4ece-choice-2"
+    },
+    {
+      "checkId": "check-4ece",
+      "characterId": "char-4ece",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "从"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4ece-choice-1",
+          "hanzi": "些"
+        },
+        {
+          "choiceId": "check-4ece-choice-2",
+          "hanzi": "从"
+        },
+        {
+          "choiceId": "check-4ece-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4ece-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4ece-choice-2"
+    },
+    {
+      "checkId": "review-4ece",
+      "characterId": "char-4ece",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "从"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4ece-choice-1",
+          "hanzi": "些"
+        },
+        {
+          "choiceId": "review-4ece-choice-2",
+          "hanzi": "从"
+        },
+        {
+          "choiceId": "review-4ece-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4ece-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4ece-choice-2"
+    },
+    {
+      "checkId": "practice-one-4ece",
+      "characterId": "char-4ece",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "从前"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4ece-choice-1",
+          "hanzi": "些"
+        },
+        {
+          "choiceId": "practice-one-4ece-choice-2",
+          "hanzi": "从"
+        },
+        {
+          "choiceId": "practice-one-4ece-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4ece-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4ece-choice-2"
+    },
+    {
+      "checkId": "practice-two-4ece",
+      "characterId": "char-4ece",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "从来"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4ece-choice-1",
+          "hanzi": "些"
+        },
+        {
+          "choiceId": "practice-two-4ece-choice-2",
+          "hanzi": "从"
+        },
+        {
+          "choiceId": "practice-two-4ece-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4ece-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4ece-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4e9b",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-008-v1/char-4e9b",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-4ece",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-008-v1/char-4ece",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-008-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-008-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Useful connecting words: 些 and 从",
+      "instructionEnglish": "Read two short word examples for 些 and 从 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-4e9b",
+        "readingId": "reading-4e9b",
+        "familiarityCheckId": "familiar-4e9b",
+        "practice": [
+          {
+            "wordId": "word-4e9b-1",
+            "checkId": "practice-one-4e9b"
+          },
+          {
+            "wordId": "word-4e9b-2",
+            "checkId": "practice-two-4e9b"
+          }
+        ],
+        "immediateCheckId": "check-4e9b",
+        "reviewCheckId": "review-4e9b"
+      },
+      {
+        "characterId": "char-4ece",
+        "readingId": "reading-4ece",
+        "familiarityCheckId": "familiar-4ece",
+        "practice": [
+          {
+            "wordId": "word-4ece-1",
+            "checkId": "practice-one-4ece"
+          },
+          {
+            "wordId": "word-4ece-2",
+            "checkId": "practice-two-4ece"
+          }
+        ],
+        "immediateCheckId": "check-4ece",
+        "reviewCheckId": "review-4ece"
+      }
+    ],
+    "reader": {
+      "title": "Useful connecting words: 些 and 从",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4e9b-1",
+        "word-4e9b-2",
+        "word-4ece-1",
+        "word-4ece-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4e9b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e9b",
+          "transcript": "些",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e9b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e9b",
+          "transcript": "些",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e9b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e9b",
+          "transcript": "些",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e9b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e9b",
+          "transcript": "一些",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e9b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e9b",
+          "transcript": "这些",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e9b",
+          "readingId": "reading-4e9b",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "些",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e9b-1",
+          "readingId": null,
+          "wordId": "word-4e9b-1",
+          "checkId": null,
+          "transcript": "我们捡起一些落叶做拼贴。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e9b-2",
+          "readingId": null,
+          "wordId": "word-4e9b-2",
+          "checkId": null,
+          "transcript": "这些小石头是圆圆的。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-4ece",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4ece",
+          "transcript": "从",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4ece",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4ece",
+          "transcript": "从",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4ece",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4ece",
+          "transcript": "从",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4ece",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4ece",
+          "transcript": "从前",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4ece",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4ece",
+          "transcript": "从来",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4ece",
+          "readingId": "reading-4ece",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "从",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4ece-1",
+          "readingId": null,
+          "wordId": "word-4ece-1",
+          "checkId": null,
+          "transcript": "从前，村里有一座小木桥。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4ece-2",
+          "readingId": null,
+          "wordId": "word-4ece-2",
+          "checkId": null,
+          "transcript": "这只小狗从来不抢小猫的食物。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-053",
+  "lessonVersion": "expansion-053-v1",
+  "title": "Seasons, weather and water: 夏 and 秋",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 113
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 夏 and 秋 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-590f",
+      "hanzi": "夏",
+      "readings": [
+        {
+          "readingId": "reading-590f",
+          "pinyin": "xià",
+          "audioText": "夏",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#夏",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "summer",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#夏",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-590f-1",
+          "text": "夏天",
+          "pinyin": "xià tiān",
+          "english": "summer",
+          "readingId": "reading-590f",
+          "context": {
+            "hanzi": "夏天，我们在树荫下休息。",
+            "english": "In summer, we rest in the shade of a tree.",
+            "targetCharacter": "夏"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#夏天",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-590f-2",
+          "text": "夏季",
+          "pinyin": "xià jì",
+          "english": "summer season",
+          "readingId": "reading-590f",
+          "context": {
+            "hanzi": "夏季的白天很长。",
+            "english": "The days are long in summer.",
+            "targetCharacter": "夏"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#夏季",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the crossing lower strokes beneath the wide upper part of 夏.",
+        "demonstrationEnglish": "This is 夏. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-590f",
+        "delayedReview": {
+          "promptId": "later-590f",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-590f"
+        }
+      },
+      "assets": [
+        "asset-glyph-590f",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-79cb",
+      "hanzi": "秋",
+      "readings": [
+        {
+          "readingId": "reading-79cb",
+          "pinyin": "qiū",
+          "audioText": "秋",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#秋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "autumn",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#秋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-79cb-1",
+          "text": "秋天",
+          "pinyin": "qiū tiān",
+          "english": "autumn",
+          "readingId": "reading-79cb",
+          "context": {
+            "hanzi": "秋天，我们收集落叶。",
+            "english": "In autumn, we collect fallen leaves.",
+            "targetCharacter": "秋"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#秋天",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-79cb-2",
+          "text": "秋风",
+          "pinyin": "qiū fēng",
+          "english": "autumn wind",
+          "readingId": "reading-79cb",
+          "context": {
+            "hanzi": "秋风吹动树枝上的叶子。",
+            "english": "The autumn wind moves the leaves on the branches.",
+            "targetCharacter": "秋"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#秋风",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 禾 beside 火 in 秋.",
+        "demonstrationEnglish": "This is 秋. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-79cb",
+        "delayedReview": {
+          "promptId": "later-79cb",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-79cb"
+        }
+      },
+      "assets": [
+        "asset-glyph-79cb",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-053-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-590f",
+        "familiar-79cb"
+      ]
+    },
+    {
+      "stepId": "expansion-053-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-053-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-590f",
+        "practice-two-590f",
+        "practice-one-79cb",
+        "practice-two-79cb"
+      ]
+    },
+    {
+      "stepId": "expansion-053-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-590f",
+        "check-79cb"
+      ]
+    },
+    {
+      "stepId": "expansion-053-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-590f",
+      "characterId": "char-590f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "夏"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-590f-choice-1",
+          "hanzi": "夏"
+        },
+        {
+          "choiceId": "familiar-590f-choice-2",
+          "hanzi": "秋"
+        },
+        {
+          "choiceId": "familiar-590f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-590f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-590f-choice-1"
+    },
+    {
+      "checkId": "check-590f",
+      "characterId": "char-590f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "夏"
+      },
+      "choices": [
+        {
+          "choiceId": "check-590f-choice-1",
+          "hanzi": "夏"
+        },
+        {
+          "choiceId": "check-590f-choice-2",
+          "hanzi": "秋"
+        },
+        {
+          "choiceId": "check-590f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-590f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-590f-choice-1"
+    },
+    {
+      "checkId": "review-590f",
+      "characterId": "char-590f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "夏"
+      },
+      "choices": [
+        {
+          "choiceId": "review-590f-choice-1",
+          "hanzi": "夏"
+        },
+        {
+          "choiceId": "review-590f-choice-2",
+          "hanzi": "秋"
+        },
+        {
+          "choiceId": "review-590f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-590f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-590f-choice-1"
+    },
+    {
+      "checkId": "practice-one-590f",
+      "characterId": "char-590f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "夏天"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-590f-choice-1",
+          "hanzi": "夏"
+        },
+        {
+          "choiceId": "practice-one-590f-choice-2",
+          "hanzi": "秋"
+        },
+        {
+          "choiceId": "practice-one-590f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-590f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-590f-choice-1"
+    },
+    {
+      "checkId": "practice-two-590f",
+      "characterId": "char-590f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "夏季"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-590f-choice-1",
+          "hanzi": "夏"
+        },
+        {
+          "choiceId": "practice-two-590f-choice-2",
+          "hanzi": "秋"
+        },
+        {
+          "choiceId": "practice-two-590f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-590f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-590f-choice-1"
+    },
+    {
+      "checkId": "familiar-79cb",
+      "characterId": "char-79cb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "秋"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-79cb-choice-1",
+          "hanzi": "夏"
+        },
+        {
+          "choiceId": "familiar-79cb-choice-2",
+          "hanzi": "秋"
+        },
+        {
+          "choiceId": "familiar-79cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-79cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-79cb-choice-2"
+    },
+    {
+      "checkId": "check-79cb",
+      "characterId": "char-79cb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "秋"
+      },
+      "choices": [
+        {
+          "choiceId": "check-79cb-choice-1",
+          "hanzi": "夏"
+        },
+        {
+          "choiceId": "check-79cb-choice-2",
+          "hanzi": "秋"
+        },
+        {
+          "choiceId": "check-79cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-79cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-79cb-choice-2"
+    },
+    {
+      "checkId": "review-79cb",
+      "characterId": "char-79cb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "秋"
+      },
+      "choices": [
+        {
+          "choiceId": "review-79cb-choice-1",
+          "hanzi": "夏"
+        },
+        {
+          "choiceId": "review-79cb-choice-2",
+          "hanzi": "秋"
+        },
+        {
+          "choiceId": "review-79cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-79cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-79cb-choice-2"
+    },
+    {
+      "checkId": "practice-one-79cb",
+      "characterId": "char-79cb",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "秋天"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-79cb-choice-1",
+          "hanzi": "夏"
+        },
+        {
+          "choiceId": "practice-one-79cb-choice-2",
+          "hanzi": "秋"
+        },
+        {
+          "choiceId": "practice-one-79cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-79cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-79cb-choice-2"
+    },
+    {
+      "checkId": "practice-two-79cb",
+      "characterId": "char-79cb",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "秋风"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-79cb-choice-1",
+          "hanzi": "夏"
+        },
+        {
+          "choiceId": "practice-two-79cb-choice-2",
+          "hanzi": "秋"
+        },
+        {
+          "choiceId": "practice-two-79cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-79cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-79cb-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-590f",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-053-v1/char-590f",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-79cb",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-053-v1/char-79cb",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-053-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-053-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Seasons, weather and water: 夏 and 秋",
+      "instructionEnglish": "Read two short word examples for 夏 and 秋 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-590f",
+        "readingId": "reading-590f",
+        "familiarityCheckId": "familiar-590f",
+        "practice": [
+          {
+            "wordId": "word-590f-1",
+            "checkId": "practice-one-590f"
+          },
+          {
+            "wordId": "word-590f-2",
+            "checkId": "practice-two-590f"
+          }
+        ],
+        "immediateCheckId": "check-590f",
+        "reviewCheckId": "review-590f"
+      },
+      {
+        "characterId": "char-79cb",
+        "readingId": "reading-79cb",
+        "familiarityCheckId": "familiar-79cb",
+        "practice": [
+          {
+            "wordId": "word-79cb-1",
+            "checkId": "practice-one-79cb"
+          },
+          {
+            "wordId": "word-79cb-2",
+            "checkId": "practice-two-79cb"
+          }
+        ],
+        "immediateCheckId": "check-79cb",
+        "reviewCheckId": "review-79cb"
+      }
+    ],
+    "reader": {
+      "title": "Seasons, weather and water: 夏 and 秋",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-590f-1",
+        "word-590f-2",
+        "word-79cb-1",
+        "word-79cb-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-590f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-590f",
+          "transcript": "夏",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-590f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-590f",
+          "transcript": "夏",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-590f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-590f",
+          "transcript": "夏",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-590f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-590f",
+          "transcript": "夏天",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-590f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-590f",
+          "transcript": "夏季",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-590f",
+          "readingId": "reading-590f",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "夏",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-590f-1",
+          "readingId": null,
+          "wordId": "word-590f-1",
+          "checkId": null,
+          "transcript": "夏天，我们在树荫下休息。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-590f-2",
+          "readingId": null,
+          "wordId": "word-590f-2",
+          "checkId": null,
+          "transcript": "夏季的白天很长。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-79cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-79cb",
+          "transcript": "秋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-79cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-79cb",
+          "transcript": "秋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-79cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-79cb",
+          "transcript": "秋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-79cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-79cb",
+          "transcript": "秋天",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-79cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-79cb",
+          "transcript": "秋风",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-79cb",
+          "readingId": "reading-79cb",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "秋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-79cb-1",
+          "readingId": null,
+          "wordId": "word-79cb-1",
+          "checkId": null,
+          "transcript": "秋天，我们收集落叶。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-79cb-2",
+          "readingId": null,
+          "wordId": "word-79cb-2",
+          "checkId": null,
+          "transcript": "秋风吹动树枝上的叶子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

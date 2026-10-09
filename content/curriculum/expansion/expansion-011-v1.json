@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-011",
+  "lessonVersion": "expansion-011-v1",
+  "title": "Moving and doing: 被 and 让",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 71
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 被 and 让 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-88ab",
+      "hanzi": "被",
+      "readings": [
+        {
+          "readingId": "reading-88ab",
+          "pinyin": "bèi",
+          "audioText": "被",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#被",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "quilt; passive marker",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#被",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-88ab-1",
+          "text": "被子",
+          "pinyin": "bèi zi",
+          "english": "quilt",
+          "readingId": "reading-88ab",
+          "context": {
+            "hanzi": "睡觉前，我把被子铺好。",
+            "english": "Before bed, I spread out my quilt.",
+            "targetCharacter": "被"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#被子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-88ab-2",
+          "text": "棉被",
+          "pinyin": "mián bèi",
+          "english": "cotton quilt",
+          "readingId": "reading-88ab",
+          "context": {
+            "hanzi": "冬天，我们盖上暖和的棉被。",
+            "english": "In winter, we cover ourselves with warm cotton quilts.",
+            "targetCharacter": "被"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#棉被",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 衤 on the left of 被; it has a small dot.",
+        "demonstrationEnglish": "This is 被. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-88ab",
+        "delayedReview": {
+          "promptId": "later-88ab",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-88ab"
+        }
+      },
+      "assets": [
+        "asset-glyph-88ab",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-8ba9",
+      "hanzi": "让",
+      "readings": [
+        {
+          "readingId": "reading-8ba9",
+          "pinyin": "ràng",
+          "audioText": "让",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#让",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "let; yield",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#让",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8ba9-1",
+          "text": "让开",
+          "pinyin": "ràng kāi",
+          "english": "move aside",
+          "readingId": "reading-8ba9",
+          "context": {
+            "hanzi": "小猫从门边让开了。",
+            "english": "The kitten moves aside from the doorway.",
+            "targetCharacter": "让"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#让开",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8ba9-2",
+          "text": "让步",
+          "pinyin": "ràng bù",
+          "english": "give way; compromise",
+          "readingId": "reading-8ba9",
+          "context": {
+            "hanzi": "两个朋友互相让步，选好了游戏。",
+            "english": "The two friends compromise and choose a game.",
+            "targetCharacter": "让"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#让步",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 讠 beside 上 in 让.",
+        "demonstrationEnglish": "This is 让. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8ba9",
+        "delayedReview": {
+          "promptId": "later-8ba9",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8ba9"
+        }
+      },
+      "assets": [
+        "asset-glyph-8ba9",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-011-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-88ab",
+        "familiar-8ba9"
+      ]
+    },
+    {
+      "stepId": "expansion-011-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-011-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-88ab",
+        "practice-two-88ab",
+        "practice-one-8ba9",
+        "practice-two-8ba9"
+      ]
+    },
+    {
+      "stepId": "expansion-011-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-88ab",
+        "check-8ba9"
+      ]
+    },
+    {
+      "stepId": "expansion-011-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-88ab",
+      "characterId": "char-88ab",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "被"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-88ab-choice-1",
+          "hanzi": "被"
+        },
+        {
+          "choiceId": "familiar-88ab-choice-2",
+          "hanzi": "让"
+        },
+        {
+          "choiceId": "familiar-88ab-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-88ab-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-88ab-choice-1"
+    },
+    {
+      "checkId": "check-88ab",
+      "characterId": "char-88ab",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "被"
+      },
+      "choices": [
+        {
+          "choiceId": "check-88ab-choice-1",
+          "hanzi": "被"
+        },
+        {
+          "choiceId": "check-88ab-choice-2",
+          "hanzi": "让"
+        },
+        {
+          "choiceId": "check-88ab-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-88ab-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-88ab-choice-1"
+    },
+    {
+      "checkId": "review-88ab",
+      "characterId": "char-88ab",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "被"
+      },
+      "choices": [
+        {
+          "choiceId": "review-88ab-choice-1",
+          "hanzi": "被"
+        },
+        {
+          "choiceId": "review-88ab-choice-2",
+          "hanzi": "让"
+        },
+        {
+          "choiceId": "review-88ab-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-88ab-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-88ab-choice-1"
+    },
+    {
+      "checkId": "practice-one-88ab",
+      "characterId": "char-88ab",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "被子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-88ab-choice-1",
+          "hanzi": "被"
+        },
+        {
+          "choiceId": "practice-one-88ab-choice-2",
+          "hanzi": "让"
+        },
+        {
+          "choiceId": "practice-one-88ab-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-88ab-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-88ab-choice-1"
+    },
+    {
+      "checkId": "practice-two-88ab",
+      "characterId": "char-88ab",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "棉被"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-88ab-choice-1",
+          "hanzi": "被"
+        },
+        {
+          "choiceId": "practice-two-88ab-choice-2",
+          "hanzi": "让"
+        },
+        {
+          "choiceId": "practice-two-88ab-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-88ab-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-88ab-choice-1"
+    },
+    {
+      "checkId": "familiar-8ba9",
+      "characterId": "char-8ba9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "让"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8ba9-choice-1",
+          "hanzi": "被"
+        },
+        {
+          "choiceId": "familiar-8ba9-choice-2",
+          "hanzi": "让"
+        },
+        {
+          "choiceId": "familiar-8ba9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8ba9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8ba9-choice-2"
+    },
+    {
+      "checkId": "check-8ba9",
+      "characterId": "char-8ba9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "让"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8ba9-choice-1",
+          "hanzi": "被"
+        },
+        {
+          "choiceId": "check-8ba9-choice-2",
+          "hanzi": "让"
+        },
+        {
+          "choiceId": "check-8ba9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8ba9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8ba9-choice-2"
+    },
+    {
+      "checkId": "review-8ba9",
+      "characterId": "char-8ba9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "让"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8ba9-choice-1",
+          "hanzi": "被"
+        },
+        {
+          "choiceId": "review-8ba9-choice-2",
+          "hanzi": "让"
+        },
+        {
+          "choiceId": "review-8ba9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8ba9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8ba9-choice-2"
+    },
+    {
+      "checkId": "practice-one-8ba9",
+      "characterId": "char-8ba9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "让开"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8ba9-choice-1",
+          "hanzi": "被"
+        },
+        {
+          "choiceId": "practice-one-8ba9-choice-2",
+          "hanzi": "让"
+        },
+        {
+          "choiceId": "practice-one-8ba9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8ba9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8ba9-choice-2"
+    },
+    {
+      "checkId": "practice-two-8ba9",
+      "characterId": "char-8ba9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "让步"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8ba9-choice-1",
+          "hanzi": "被"
+        },
+        {
+          "choiceId": "practice-two-8ba9-choice-2",
+          "hanzi": "让"
+        },
+        {
+          "choiceId": "practice-two-8ba9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8ba9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8ba9-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-88ab",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-011-v1/char-88ab",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-8ba9",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-011-v1/char-8ba9",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-011-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-011-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Moving and doing: 被 and 让",
+      "instructionEnglish": "Read two short word examples for 被 and 让 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-88ab",
+        "readingId": "reading-88ab",
+        "familiarityCheckId": "familiar-88ab",
+        "practice": [
+          {
+            "wordId": "word-88ab-1",
+            "checkId": "practice-one-88ab"
+          },
+          {
+            "wordId": "word-88ab-2",
+            "checkId": "practice-two-88ab"
+          }
+        ],
+        "immediateCheckId": "check-88ab",
+        "reviewCheckId": "review-88ab"
+      },
+      {
+        "characterId": "char-8ba9",
+        "readingId": "reading-8ba9",
+        "familiarityCheckId": "familiar-8ba9",
+        "practice": [
+          {
+            "wordId": "word-8ba9-1",
+            "checkId": "practice-one-8ba9"
+          },
+          {
+            "wordId": "word-8ba9-2",
+            "checkId": "practice-two-8ba9"
+          }
+        ],
+        "immediateCheckId": "check-8ba9",
+        "reviewCheckId": "review-8ba9"
+      }
+    ],
+    "reader": {
+      "title": "Moving and doing: 被 and 让",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-88ab-1",
+        "word-88ab-2",
+        "word-8ba9-1",
+        "word-8ba9-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-88ab",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-88ab",
+          "transcript": "被",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-88ab",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-88ab",
+          "transcript": "被",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-88ab",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-88ab",
+          "transcript": "被",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-88ab",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-88ab",
+          "transcript": "被子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-88ab",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-88ab",
+          "transcript": "棉被",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-88ab",
+          "readingId": "reading-88ab",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "被",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-88ab-1",
+          "readingId": null,
+          "wordId": "word-88ab-1",
+          "checkId": null,
+          "transcript": "睡觉前，我把被子铺好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-88ab-2",
+          "readingId": null,
+          "wordId": "word-88ab-2",
+          "checkId": null,
+          "transcript": "冬天，我们盖上暖和的棉被。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-8ba9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8ba9",
+          "transcript": "让",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8ba9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8ba9",
+          "transcript": "让",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8ba9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8ba9",
+          "transcript": "让",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8ba9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8ba9",
+          "transcript": "让开",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8ba9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8ba9",
+          "transcript": "让步",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8ba9",
+          "readingId": "reading-8ba9",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "让",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8ba9-1",
+          "readingId": null,
+          "wordId": "word-8ba9-1",
+          "checkId": null,
+          "transcript": "小猫从门边让开了。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8ba9-2",
+          "readingId": null,
+          "wordId": "word-8ba9-2",
+          "checkId": null,
+          "transcript": "两个朋友互相让步，选好了游戏。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

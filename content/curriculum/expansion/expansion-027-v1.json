@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-027",
+  "lessonVersion": "expansion-027-v1",
+  "title": "Questions, learning and helping: 作 and 玩",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 87
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 作 and 玩 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4f5c",
+      "hanzi": "作",
+      "readings": [
+        {
+          "readingId": "reading-4f5c",
+          "pinyin": "zuò",
+          "audioText": "作",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#作",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "make; work",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#作",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4f5c-1",
+          "text": "作业",
+          "pinyin": "zuò yè",
+          "english": "homework",
+          "readingId": "reading-4f5c",
+          "context": {
+            "hanzi": "我做完作业，就把本子收好。",
+            "english": "I finish my homework and put the notebook away.",
+            "targetCharacter": "作"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#作业",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4f5c-2",
+          "text": "合作",
+          "pinyin": "hé zuò",
+          "english": "cooperate",
+          "readingId": "reading-4f5c",
+          "context": {
+            "hanzi": "我们合作搭好了一座积木桥。",
+            "english": "We work together to build a block bridge.",
+            "targetCharacter": "作"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#合作",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 亻 beside 乍 in 作.",
+        "demonstrationEnglish": "This is 作. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4f5c",
+        "delayedReview": {
+          "promptId": "later-4f5c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4f5c"
+        }
+      },
+      "assets": [
+        "asset-glyph-4f5c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-73a9",
+      "hanzi": "玩",
+      "readings": [
+        {
+          "readingId": "reading-73a9",
+          "pinyin": "wán",
+          "audioText": "玩",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#玩",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "play",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#玩",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-73a9-1",
+          "text": "玩具",
+          "pinyin": "wán jù",
+          "english": "toy",
+          "readingId": "reading-73a9",
+          "context": {
+            "hanzi": "玩过以后，我们把玩具放回原处。",
+            "english": "After playing, we put the toys back.",
+            "targetCharacter": "玩"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#玩具",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-73a9-2",
+          "text": "玩耍",
+          "pinyin": "wán shuǎ",
+          "english": "play",
+          "readingId": "reading-73a9",
+          "context": {
+            "hanzi": "小狗在院子里玩耍。",
+            "english": "The puppy plays in the yard.",
+            "targetCharacter": "玩"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#玩耍",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 王 beside 元 in 玩.",
+        "demonstrationEnglish": "This is 玩. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-73a9",
+        "delayedReview": {
+          "promptId": "later-73a9",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-73a9"
+        }
+      },
+      "assets": [
+        "asset-glyph-73a9",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-027-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4f5c",
+        "familiar-73a9"
+      ]
+    },
+    {
+      "stepId": "expansion-027-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-027-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-4f5c",
+        "practice-two-4f5c",
+        "practice-one-73a9",
+        "practice-two-73a9"
+      ]
+    },
+    {
+      "stepId": "expansion-027-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4f5c",
+        "check-73a9"
+      ]
+    },
+    {
+      "stepId": "expansion-027-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4f5c",
+      "characterId": "char-4f5c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "作"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4f5c-choice-1",
+          "hanzi": "作"
+        },
+        {
+          "choiceId": "familiar-4f5c-choice-2",
+          "hanzi": "玩"
+        },
+        {
+          "choiceId": "familiar-4f5c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4f5c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4f5c-choice-1"
+    },
+    {
+      "checkId": "check-4f5c",
+      "characterId": "char-4f5c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "作"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4f5c-choice-1",
+          "hanzi": "作"
+        },
+        {
+          "choiceId": "check-4f5c-choice-2",
+          "hanzi": "玩"
+        },
+        {
+          "choiceId": "check-4f5c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4f5c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4f5c-choice-1"
+    },
+    {
+      "checkId": "review-4f5c",
+      "characterId": "char-4f5c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "作"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4f5c-choice-1",
+          "hanzi": "作"
+        },
+        {
+          "choiceId": "review-4f5c-choice-2",
+          "hanzi": "玩"
+        },
+        {
+          "choiceId": "review-4f5c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4f5c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4f5c-choice-1"
+    },
+    {
+      "checkId": "practice-one-4f5c",
+      "characterId": "char-4f5c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "作业"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4f5c-choice-1",
+          "hanzi": "作"
+        },
+        {
+          "choiceId": "practice-one-4f5c-choice-2",
+          "hanzi": "玩"
+        },
+        {
+          "choiceId": "practice-one-4f5c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4f5c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4f5c-choice-1"
+    },
+    {
+      "checkId": "practice-two-4f5c",
+      "characterId": "char-4f5c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "合作"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4f5c-choice-1",
+          "hanzi": "作"
+        },
+        {
+          "choiceId": "practice-two-4f5c-choice-2",
+          "hanzi": "玩"
+        },
+        {
+          "choiceId": "practice-two-4f5c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4f5c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4f5c-choice-1"
+    },
+    {
+      "checkId": "familiar-73a9",
+      "characterId": "char-73a9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "玩"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-73a9-choice-1",
+          "hanzi": "作"
+        },
+        {
+          "choiceId": "familiar-73a9-choice-2",
+          "hanzi": "玩"
+        },
+        {
+          "choiceId": "familiar-73a9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-73a9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-73a9-choice-2"
+    },
+    {
+      "checkId": "check-73a9",
+      "characterId": "char-73a9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "玩"
+      },
+      "choices": [
+        {
+          "choiceId": "check-73a9-choice-1",
+          "hanzi": "作"
+        },
+        {
+          "choiceId": "check-73a9-choice-2",
+          "hanzi": "玩"
+        },
+        {
+          "choiceId": "check-73a9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-73a9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-73a9-choice-2"
+    },
+    {
+      "checkId": "review-73a9",
+      "characterId": "char-73a9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "玩"
+      },
+      "choices": [
+        {
+          "choiceId": "review-73a9-choice-1",
+          "hanzi": "作"
+        },
+        {
+          "choiceId": "review-73a9-choice-2",
+          "hanzi": "玩"
+        },
+        {
+          "choiceId": "review-73a9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-73a9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-73a9-choice-2"
+    },
+    {
+      "checkId": "practice-one-73a9",
+      "characterId": "char-73a9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "玩具"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-73a9-choice-1",
+          "hanzi": "作"
+        },
+        {
+          "choiceId": "practice-one-73a9-choice-2",
+          "hanzi": "玩"
+        },
+        {
+          "choiceId": "practice-one-73a9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-73a9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-73a9-choice-2"
+    },
+    {
+      "checkId": "practice-two-73a9",
+      "characterId": "char-73a9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "玩耍"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-73a9-choice-1",
+          "hanzi": "作"
+        },
+        {
+          "choiceId": "practice-two-73a9-choice-2",
+          "hanzi": "玩"
+        },
+        {
+          "choiceId": "practice-two-73a9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-73a9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-73a9-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4f5c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-027-v1/char-4f5c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-73a9",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-027-v1/char-73a9",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-027-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-027-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Questions, learning and helping: 作 and 玩",
+      "instructionEnglish": "Read two short word examples for 作 and 玩 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-4f5c",
+        "readingId": "reading-4f5c",
+        "familiarityCheckId": "familiar-4f5c",
+        "practice": [
+          {
+            "wordId": "word-4f5c-1",
+            "checkId": "practice-one-4f5c"
+          },
+          {
+            "wordId": "word-4f5c-2",
+            "checkId": "practice-two-4f5c"
+          }
+        ],
+        "immediateCheckId": "check-4f5c",
+        "reviewCheckId": "review-4f5c"
+      },
+      {
+        "characterId": "char-73a9",
+        "readingId": "reading-73a9",
+        "familiarityCheckId": "familiar-73a9",
+        "practice": [
+          {
+            "wordId": "word-73a9-1",
+            "checkId": "practice-one-73a9"
+          },
+          {
+            "wordId": "word-73a9-2",
+            "checkId": "practice-two-73a9"
+          }
+        ],
+        "immediateCheckId": "check-73a9",
+        "reviewCheckId": "review-73a9"
+      }
+    ],
+    "reader": {
+      "title": "Questions, learning and helping: 作 and 玩",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4f5c-1",
+        "word-4f5c-2",
+        "word-73a9-1",
+        "word-73a9-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4f5c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4f5c",
+          "transcript": "作",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4f5c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4f5c",
+          "transcript": "作",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4f5c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4f5c",
+          "transcript": "作",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4f5c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4f5c",
+          "transcript": "作业",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4f5c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4f5c",
+          "transcript": "合作",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4f5c",
+          "readingId": "reading-4f5c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "作",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4f5c-1",
+          "readingId": null,
+          "wordId": "word-4f5c-1",
+          "checkId": null,
+          "transcript": "我做完作业，就把本子收好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4f5c-2",
+          "readingId": null,
+          "wordId": "word-4f5c-2",
+          "checkId": null,
+          "transcript": "我们合作搭好了一座积木桥。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-73a9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-73a9",
+          "transcript": "玩",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-73a9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-73a9",
+          "transcript": "玩",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-73a9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-73a9",
+          "transcript": "玩",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-73a9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-73a9",
+          "transcript": "玩具",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-73a9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-73a9",
+          "transcript": "玩耍",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-73a9",
+          "readingId": "reading-73a9",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "玩",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-73a9-1",
+          "readingId": null,
+          "wordId": "word-73a9-1",
+          "checkId": null,
+          "transcript": "玩过以后，我们把玩具放回原处。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-73a9-2",
+          "readingId": null,
+          "wordId": "word-73a9-2",
+          "checkId": null,
+          "transcript": "小狗在院子里玩耍。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-138",
+  "lessonVersion": "expansion-138-v1",
+  "title": "Kinds, measures and collections: 位 and 座",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 198
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 位 and 座 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4f4d",
+      "hanzi": "位",
+      "readings": [
+        {
+          "readingId": "reading-4f4d",
+          "pinyin": "wèi",
+          "audioText": "位",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#位",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "position; polite people-counting word",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#位",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4f4d-1",
+          "text": "座位",
+          "pinyin": "zuò wèi",
+          "english": "a seat",
+          "readingId": "reading-4f4d",
+          "context": {
+            "hanzi": "我在图画里看到了座位。",
+            "english": "I see a seat in the picture.",
+            "targetCharacter": "位"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#座位",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4f4d-2",
+          "text": "一位",
+          "pinyin": "yī wèi",
+          "english": "one person, politely",
+          "readingId": "reading-4f4d",
+          "context": {
+            "hanzi": "班里来了一位新老师。",
+            "english": "A new teacher joins the class.",
+            "targetCharacter": "位"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#一位",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 亻 beside 立 in 位.",
+        "demonstrationEnglish": "This is 位. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4f4d",
+        "delayedReview": {
+          "promptId": "later-4f4d",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4f4d"
+        }
+      },
+      "assets": [
+        "asset-glyph-4f4d",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5ea7",
+      "hanzi": "座",
+      "readings": [
+        {
+          "readingId": "reading-5ea7",
+          "pinyin": "zuò",
+          "audioText": "座",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#座",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "seat; base",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#座",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5ea7-1",
+          "text": "座位",
+          "pinyin": "zuò wèi",
+          "english": "a seat",
+          "readingId": "reading-5ea7",
+          "context": {
+            "hanzi": "我指给朋友看图中的座位。",
+            "english": "I point out a seat in the picture to my friend.",
+            "targetCharacter": "座"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#座位",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5ea7-2",
+          "text": "星座",
+          "pinyin": "xīng zuò",
+          "english": "constellations",
+          "readingId": "reading-5ea7",
+          "context": {
+            "hanzi": "这本书介绍了星座。",
+            "english": "This book introduces constellations.",
+            "targetCharacter": "座"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#星座",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 广 above 坐 in 座.",
+        "demonstrationEnglish": "This is 座. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5ea7",
+        "delayedReview": {
+          "promptId": "later-5ea7",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5ea7"
+        }
+      },
+      "assets": [
+        "asset-glyph-5ea7",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-138-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4f4d",
+        "familiar-5ea7"
+      ]
+    },
+    {
+      "stepId": "expansion-138-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-138-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-4f4d",
+        "practice-two-4f4d",
+        "practice-one-5ea7",
+        "practice-two-5ea7"
+      ]
+    },
+    {
+      "stepId": "expansion-138-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4f4d",
+        "check-5ea7"
+      ]
+    },
+    {
+      "stepId": "expansion-138-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4f4d",
+      "characterId": "char-4f4d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "位"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4f4d-choice-1",
+          "hanzi": "位"
+        },
+        {
+          "choiceId": "familiar-4f4d-choice-2",
+          "hanzi": "座"
+        },
+        {
+          "choiceId": "familiar-4f4d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4f4d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4f4d-choice-1"
+    },
+    {
+      "checkId": "check-4f4d",
+      "characterId": "char-4f4d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "位"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4f4d-choice-1",
+          "hanzi": "位"
+        },
+        {
+          "choiceId": "check-4f4d-choice-2",
+          "hanzi": "座"
+        },
+        {
+          "choiceId": "check-4f4d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4f4d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4f4d-choice-1"
+    },
+    {
+      "checkId": "review-4f4d",
+      "characterId": "char-4f4d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "位"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4f4d-choice-1",
+          "hanzi": "位"
+        },
+        {
+          "choiceId": "review-4f4d-choice-2",
+          "hanzi": "座"
+        },
+        {
+          "choiceId": "review-4f4d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4f4d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4f4d-choice-1"
+    },
+    {
+      "checkId": "practice-one-4f4d",
+      "characterId": "char-4f4d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "座位"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4f4d-choice-1",
+          "hanzi": "位"
+        },
+        {
+          "choiceId": "practice-one-4f4d-choice-2",
+          "hanzi": "座"
+        },
+        {
+          "choiceId": "practice-one-4f4d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4f4d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4f4d-choice-1"
+    },
+    {
+      "checkId": "practice-two-4f4d",
+      "characterId": "char-4f4d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "一位"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4f4d-choice-1",
+          "hanzi": "位"
+        },
+        {
+          "choiceId": "practice-two-4f4d-choice-2",
+          "hanzi": "座"
+        },
+        {
+          "choiceId": "practice-two-4f4d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4f4d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4f4d-choice-1"
+    },
+    {
+      "checkId": "familiar-5ea7",
+      "characterId": "char-5ea7",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "座"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5ea7-choice-1",
+          "hanzi": "位"
+        },
+        {
+          "choiceId": "familiar-5ea7-choice-2",
+          "hanzi": "座"
+        },
+        {
+          "choiceId": "familiar-5ea7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5ea7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5ea7-choice-2"
+    },
+    {
+      "checkId": "check-5ea7",
+      "characterId": "char-5ea7",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "座"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5ea7-choice-1",
+          "hanzi": "位"
+        },
+        {
+          "choiceId": "check-5ea7-choice-2",
+          "hanzi": "座"
+        },
+        {
+          "choiceId": "check-5ea7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5ea7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5ea7-choice-2"
+    },
+    {
+      "checkId": "review-5ea7",
+      "characterId": "char-5ea7",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "座"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5ea7-choice-1",
+          "hanzi": "位"
+        },
+        {
+          "choiceId": "review-5ea7-choice-2",
+          "hanzi": "座"
+        },
+        {
+          "choiceId": "review-5ea7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5ea7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5ea7-choice-2"
+    },
+    {
+      "checkId": "practice-one-5ea7",
+      "characterId": "char-5ea7",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "座位"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5ea7-choice-1",
+          "hanzi": "位"
+        },
+        {
+          "choiceId": "practice-one-5ea7-choice-2",
+          "hanzi": "座"
+        },
+        {
+          "choiceId": "practice-one-5ea7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5ea7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5ea7-choice-2"
+    },
+    {
+      "checkId": "practice-two-5ea7",
+      "characterId": "char-5ea7",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "星座"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5ea7-choice-1",
+          "hanzi": "位"
+        },
+        {
+          "choiceId": "practice-two-5ea7-choice-2",
+          "hanzi": "座"
+        },
+        {
+          "choiceId": "practice-two-5ea7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5ea7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5ea7-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4f4d",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-138-v1/char-4f4d",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5ea7",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-138-v1/char-5ea7",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-138-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-138-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Kinds, measures and collections: 位 and 座",
+      "instructionEnglish": "Read two short word examples for 位 and 座 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-4f4d",
+        "readingId": "reading-4f4d",
+        "familiarityCheckId": "familiar-4f4d",
+        "practice": [
+          {
+            "wordId": "word-4f4d-1",
+            "checkId": "practice-one-4f4d"
+          },
+          {
+            "wordId": "word-4f4d-2",
+            "checkId": "practice-two-4f4d"
+          }
+        ],
+        "immediateCheckId": "check-4f4d",
+        "reviewCheckId": "review-4f4d"
+      },
+      {
+        "characterId": "char-5ea7",
+        "readingId": "reading-5ea7",
+        "familiarityCheckId": "familiar-5ea7",
+        "practice": [
+          {
+            "wordId": "word-5ea7-1",
+            "checkId": "practice-one-5ea7"
+          },
+          {
+            "wordId": "word-5ea7-2",
+            "checkId": "practice-two-5ea7"
+          }
+        ],
+        "immediateCheckId": "check-5ea7",
+        "reviewCheckId": "review-5ea7"
+      }
+    ],
+    "reader": {
+      "title": "Kinds, measures and collections: 位 and 座",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4f4d-1",
+        "word-4f4d-2",
+        "word-5ea7-1",
+        "word-5ea7-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4f4d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4f4d",
+          "transcript": "位",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4f4d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4f4d",
+          "transcript": "位",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4f4d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4f4d",
+          "transcript": "位",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4f4d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4f4d",
+          "transcript": "座位",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4f4d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4f4d",
+          "transcript": "一位",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4f4d",
+          "readingId": "reading-4f4d",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "位",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4f4d-1",
+          "readingId": null,
+          "wordId": "word-4f4d-1",
+          "checkId": null,
+          "transcript": "我在图画里看到了座位。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4f4d-2",
+          "readingId": null,
+          "wordId": "word-4f4d-2",
+          "checkId": null,
+          "transcript": "班里来了一位新老师。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5ea7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5ea7",
+          "transcript": "座",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5ea7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5ea7",
+          "transcript": "座",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5ea7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5ea7",
+          "transcript": "座",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5ea7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5ea7",
+          "transcript": "座位",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5ea7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5ea7",
+          "transcript": "星座",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5ea7",
+          "readingId": "reading-5ea7",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "座",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5ea7-1",
+          "readingId": null,
+          "wordId": "word-5ea7-1",
+          "checkId": null,
+          "transcript": "我指给朋友看图中的座位。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5ea7-2",
+          "readingId": null,
+          "wordId": "word-5ea7-2",
+          "checkId": null,
+          "transcript": "这本书介绍了星座。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

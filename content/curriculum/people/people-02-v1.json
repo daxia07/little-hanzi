@@ -1,0 +1,788 @@
+{
+  "lessonId": "people-02",
+  "lessonVersion": "people-02-v1",
+  "title": "You and she",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 52
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Greet a new friend and see how she packs her school bag. Compare 你 and 她.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4f60",
+      "hanzi": "你",
+      "readings": [
+        {
+          "readingId": "reading-4f60",
+          "pinyin": "nǐ",
+          "audioText": "你",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#你",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "you",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#你",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4f60-1",
+          "text": "你好",
+          "pinyin": "nǐ hǎo",
+          "english": "hello",
+          "readingId": "reading-4f60",
+          "context": {
+            "hanzi": "见到新朋友，我先说你好。",
+            "english": "When I meet a new friend, I say hello first.",
+            "targetCharacter": "你"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#你好",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4f60-2",
+          "text": "你们",
+          "pinyin": "nǐ men",
+          "english": "you (more than one person)",
+          "readingId": "reading-4f60",
+          "context": {
+            "hanzi": "你们想坐在树下吗？",
+            "english": "Would you like to sit under the tree?",
+            "targetCharacter": "你"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#你们",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the narrow 亻 on the left of 你.",
+        "demonstrationEnglish": "This is 你. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4f60",
+        "delayedReview": {
+          "promptId": "later-4f60",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4f60"
+        }
+      },
+      "assets": [
+        "asset-glyph-4f60",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5979",
+      "hanzi": "她",
+      "readings": [
+        {
+          "readingId": "reading-5979",
+          "pinyin": "tā",
+          "audioText": "她",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#她",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "she; her",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#她",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5979-1",
+          "text": "她们",
+          "pinyin": "tā men",
+          "english": "they (female people)",
+          "readingId": "reading-5979",
+          "context": {
+            "hanzi": "她们一起把纸花贴好。",
+            "english": "They stick the paper flowers in place together.",
+            "targetCharacter": "她"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#她们",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5979-2",
+          "text": "她自己",
+          "pinyin": "tā zì jǐ",
+          "english": "she herself",
+          "readingId": "reading-5979",
+          "context": {
+            "hanzi": "她自己把书包收拾好了。",
+            "english": "She packs her school bag herself.",
+            "targetCharacter": "她"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#她自己",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Compare the left side 女 in 她 with the left side of 他.",
+        "demonstrationEnglish": "This is 她. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5979",
+        "delayedReview": {
+          "promptId": "later-5979",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5979"
+        }
+      },
+      "assets": [
+        "asset-glyph-5979",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "people-02-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4f60",
+        "familiar-5979"
+      ]
+    },
+    {
+      "stepId": "people-02-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "people-02-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-4f60",
+        "practice-two-4f60",
+        "practice-one-5979",
+        "practice-two-5979"
+      ]
+    },
+    {
+      "stepId": "people-02-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4f60",
+        "check-5979"
+      ]
+    },
+    {
+      "stepId": "people-02-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4f60",
+      "characterId": "char-4f60",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "你"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4f60-choice-1",
+          "hanzi": "你"
+        },
+        {
+          "choiceId": "familiar-4f60-choice-2",
+          "hanzi": "她"
+        },
+        {
+          "choiceId": "familiar-4f60-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4f60-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4f60-choice-1"
+    },
+    {
+      "checkId": "check-4f60",
+      "characterId": "char-4f60",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "你"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4f60-choice-1",
+          "hanzi": "你"
+        },
+        {
+          "choiceId": "check-4f60-choice-2",
+          "hanzi": "她"
+        },
+        {
+          "choiceId": "check-4f60-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4f60-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4f60-choice-1"
+    },
+    {
+      "checkId": "review-4f60",
+      "characterId": "char-4f60",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "你"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4f60-choice-1",
+          "hanzi": "你"
+        },
+        {
+          "choiceId": "review-4f60-choice-2",
+          "hanzi": "她"
+        },
+        {
+          "choiceId": "review-4f60-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4f60-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4f60-choice-1"
+    },
+    {
+      "checkId": "practice-one-4f60",
+      "characterId": "char-4f60",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "你好"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4f60-choice-1",
+          "hanzi": "你"
+        },
+        {
+          "choiceId": "practice-one-4f60-choice-2",
+          "hanzi": "她"
+        },
+        {
+          "choiceId": "practice-one-4f60-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4f60-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4f60-choice-1"
+    },
+    {
+      "checkId": "practice-two-4f60",
+      "characterId": "char-4f60",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "你们"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4f60-choice-1",
+          "hanzi": "你"
+        },
+        {
+          "choiceId": "practice-two-4f60-choice-2",
+          "hanzi": "她"
+        },
+        {
+          "choiceId": "practice-two-4f60-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4f60-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4f60-choice-1"
+    },
+    {
+      "checkId": "familiar-5979",
+      "characterId": "char-5979",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "她"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5979-choice-1",
+          "hanzi": "你"
+        },
+        {
+          "choiceId": "familiar-5979-choice-2",
+          "hanzi": "她"
+        },
+        {
+          "choiceId": "familiar-5979-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5979-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5979-choice-2"
+    },
+    {
+      "checkId": "check-5979",
+      "characterId": "char-5979",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "她"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5979-choice-1",
+          "hanzi": "你"
+        },
+        {
+          "choiceId": "check-5979-choice-2",
+          "hanzi": "她"
+        },
+        {
+          "choiceId": "check-5979-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5979-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5979-choice-2"
+    },
+    {
+      "checkId": "review-5979",
+      "characterId": "char-5979",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "她"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5979-choice-1",
+          "hanzi": "你"
+        },
+        {
+          "choiceId": "review-5979-choice-2",
+          "hanzi": "她"
+        },
+        {
+          "choiceId": "review-5979-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5979-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5979-choice-2"
+    },
+    {
+      "checkId": "practice-one-5979",
+      "characterId": "char-5979",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "她们"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5979-choice-1",
+          "hanzi": "你"
+        },
+        {
+          "choiceId": "practice-one-5979-choice-2",
+          "hanzi": "她"
+        },
+        {
+          "choiceId": "practice-one-5979-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5979-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5979-choice-2"
+    },
+    {
+      "checkId": "practice-two-5979",
+      "characterId": "char-5979",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "她自己"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5979-choice-1",
+          "hanzi": "你"
+        },
+        {
+          "choiceId": "practice-two-5979-choice-2",
+          "hanzi": "她"
+        },
+        {
+          "choiceId": "practice-two-5979-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5979-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5979-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4f60",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/people-02-v1/char-4f60",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5979",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/people-02-v1/char-5979",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/people-02-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/people-02-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "You and she",
+      "instructionEnglish": "Greet a new friend and see how she packs her school bag. Compare 你 and 她."
+    },
+    "targets": [
+      {
+        "characterId": "char-4f60",
+        "readingId": "reading-4f60",
+        "familiarityCheckId": "familiar-4f60",
+        "practice": [
+          {
+            "wordId": "word-4f60-1",
+            "checkId": "practice-one-4f60"
+          },
+          {
+            "wordId": "word-4f60-2",
+            "checkId": "practice-two-4f60"
+          }
+        ],
+        "immediateCheckId": "check-4f60",
+        "reviewCheckId": "review-4f60"
+      },
+      {
+        "characterId": "char-5979",
+        "readingId": "reading-5979",
+        "familiarityCheckId": "familiar-5979",
+        "practice": [
+          {
+            "wordId": "word-5979-1",
+            "checkId": "practice-one-5979"
+          },
+          {
+            "wordId": "word-5979-2",
+            "checkId": "practice-two-5979"
+          }
+        ],
+        "immediateCheckId": "check-5979",
+        "reviewCheckId": "review-5979"
+      }
+    ],
+    "reader": {
+      "title": "You and she",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4f60-1",
+        "word-4f60-2",
+        "word-5979-1",
+        "word-5979-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4f60",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4f60",
+          "transcript": "你",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4f60",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4f60",
+          "transcript": "你",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4f60",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4f60",
+          "transcript": "你",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4f60",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4f60",
+          "transcript": "你好",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4f60",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4f60",
+          "transcript": "你们",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4f60",
+          "readingId": "reading-4f60",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "你",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4f60-1",
+          "readingId": null,
+          "wordId": "word-4f60-1",
+          "checkId": null,
+          "transcript": "见到新朋友，我先说你好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4f60-2",
+          "readingId": null,
+          "wordId": "word-4f60-2",
+          "checkId": null,
+          "transcript": "你们想坐在树下吗？",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5979",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5979",
+          "transcript": "她",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5979",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5979",
+          "transcript": "她",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5979",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5979",
+          "transcript": "她",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5979",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5979",
+          "transcript": "她们",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5979",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5979",
+          "transcript": "她自己",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5979",
+          "readingId": "reading-5979",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "她",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5979-1",
+          "readingId": null,
+          "wordId": "word-5979-1",
+          "checkId": null,
+          "transcript": "她们一起把纸花贴好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5979-2",
+          "readingId": null,
+          "wordId": "word-5979-2",
+          "checkId": null,
+          "transcript": "她自己把书包收拾好了。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

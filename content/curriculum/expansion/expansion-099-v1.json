@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-099",
+  "lessonVersion": "expansion-099-v1",
+  "title": "Home and our neighbourhood: 路 and 桥",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 159
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 路 and 桥 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-8def",
+      "hanzi": "路",
+      "readings": [
+        {
+          "readingId": "reading-8def",
+          "pinyin": "lù",
+          "audioText": "路",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#路",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "road; path",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#路",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8def-1",
+          "text": "小路",
+          "pinyin": "xiǎo lù",
+          "english": "a little path",
+          "readingId": "reading-8def",
+          "context": {
+            "hanzi": "我用彩笔画了小路。",
+            "english": "I draw a little path with coloured pens.",
+            "targetCharacter": "路"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#小路",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8def-2",
+          "text": "路口",
+          "pinyin": "lù kǒu",
+          "english": "a road junction",
+          "readingId": "reading-8def",
+          "context": {
+            "hanzi": "我在图画里看到了路口。",
+            "english": "I see a road junction in the picture.",
+            "targetCharacter": "路"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#路口",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 足 beside 各 in 路.",
+        "demonstrationEnglish": "This is 路. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8def",
+        "delayedReview": {
+          "promptId": "later-8def",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8def"
+        }
+      },
+      "assets": [
+        "asset-glyph-8def",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6865",
+      "hanzi": "桥",
+      "readings": [
+        {
+          "readingId": "reading-6865",
+          "pinyin": "qiáo",
+          "audioText": "桥",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#桥",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "bridge",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#桥",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6865-1",
+          "text": "木桥",
+          "pinyin": "mù qiáo",
+          "english": "a wooden bridge",
+          "readingId": "reading-6865",
+          "context": {
+            "hanzi": "我用彩笔画了木桥。",
+            "english": "I draw a wooden bridge with coloured pens.",
+            "targetCharacter": "桥"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#木桥",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6865-2",
+          "text": "石桥",
+          "pinyin": "shí qiáo",
+          "english": "a stone bridge",
+          "readingId": "reading-6865",
+          "context": {
+            "hanzi": "我在图画里看到了石桥。",
+            "english": "I see a stone bridge in the picture.",
+            "targetCharacter": "桥"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#石桥",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 木 beside 乔 in 桥.",
+        "demonstrationEnglish": "This is 桥. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6865",
+        "delayedReview": {
+          "promptId": "later-6865",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6865"
+        }
+      },
+      "assets": [
+        "asset-glyph-6865",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-099-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-8def",
+        "familiar-6865"
+      ]
+    },
+    {
+      "stepId": "expansion-099-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-099-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-8def",
+        "practice-two-8def",
+        "practice-one-6865",
+        "practice-two-6865"
+      ]
+    },
+    {
+      "stepId": "expansion-099-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-8def",
+        "check-6865"
+      ]
+    },
+    {
+      "stepId": "expansion-099-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-8def",
+      "characterId": "char-8def",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "路"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8def-choice-1",
+          "hanzi": "路"
+        },
+        {
+          "choiceId": "familiar-8def-choice-2",
+          "hanzi": "桥"
+        },
+        {
+          "choiceId": "familiar-8def-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8def-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8def-choice-1"
+    },
+    {
+      "checkId": "check-8def",
+      "characterId": "char-8def",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "路"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8def-choice-1",
+          "hanzi": "路"
+        },
+        {
+          "choiceId": "check-8def-choice-2",
+          "hanzi": "桥"
+        },
+        {
+          "choiceId": "check-8def-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8def-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8def-choice-1"
+    },
+    {
+      "checkId": "review-8def",
+      "characterId": "char-8def",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "路"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8def-choice-1",
+          "hanzi": "路"
+        },
+        {
+          "choiceId": "review-8def-choice-2",
+          "hanzi": "桥"
+        },
+        {
+          "choiceId": "review-8def-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8def-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8def-choice-1"
+    },
+    {
+      "checkId": "practice-one-8def",
+      "characterId": "char-8def",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "小路"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8def-choice-1",
+          "hanzi": "路"
+        },
+        {
+          "choiceId": "practice-one-8def-choice-2",
+          "hanzi": "桥"
+        },
+        {
+          "choiceId": "practice-one-8def-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8def-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8def-choice-1"
+    },
+    {
+      "checkId": "practice-two-8def",
+      "characterId": "char-8def",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "路口"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8def-choice-1",
+          "hanzi": "路"
+        },
+        {
+          "choiceId": "practice-two-8def-choice-2",
+          "hanzi": "桥"
+        },
+        {
+          "choiceId": "practice-two-8def-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8def-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8def-choice-1"
+    },
+    {
+      "checkId": "familiar-6865",
+      "characterId": "char-6865",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "桥"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6865-choice-1",
+          "hanzi": "路"
+        },
+        {
+          "choiceId": "familiar-6865-choice-2",
+          "hanzi": "桥"
+        },
+        {
+          "choiceId": "familiar-6865-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6865-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6865-choice-2"
+    },
+    {
+      "checkId": "check-6865",
+      "characterId": "char-6865",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "桥"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6865-choice-1",
+          "hanzi": "路"
+        },
+        {
+          "choiceId": "check-6865-choice-2",
+          "hanzi": "桥"
+        },
+        {
+          "choiceId": "check-6865-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6865-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6865-choice-2"
+    },
+    {
+      "checkId": "review-6865",
+      "characterId": "char-6865",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "桥"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6865-choice-1",
+          "hanzi": "路"
+        },
+        {
+          "choiceId": "review-6865-choice-2",
+          "hanzi": "桥"
+        },
+        {
+          "choiceId": "review-6865-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6865-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6865-choice-2"
+    },
+    {
+      "checkId": "practice-one-6865",
+      "characterId": "char-6865",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "木桥"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6865-choice-1",
+          "hanzi": "路"
+        },
+        {
+          "choiceId": "practice-one-6865-choice-2",
+          "hanzi": "桥"
+        },
+        {
+          "choiceId": "practice-one-6865-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6865-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6865-choice-2"
+    },
+    {
+      "checkId": "practice-two-6865",
+      "characterId": "char-6865",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "石桥"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6865-choice-1",
+          "hanzi": "路"
+        },
+        {
+          "choiceId": "practice-two-6865-choice-2",
+          "hanzi": "桥"
+        },
+        {
+          "choiceId": "practice-two-6865-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6865-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6865-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-8def",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-099-v1/char-8def",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6865",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-099-v1/char-6865",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-099-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-099-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Home and our neighbourhood: 路 and 桥",
+      "instructionEnglish": "Read two short word examples for 路 and 桥 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-8def",
+        "readingId": "reading-8def",
+        "familiarityCheckId": "familiar-8def",
+        "practice": [
+          {
+            "wordId": "word-8def-1",
+            "checkId": "practice-one-8def"
+          },
+          {
+            "wordId": "word-8def-2",
+            "checkId": "practice-two-8def"
+          }
+        ],
+        "immediateCheckId": "check-8def",
+        "reviewCheckId": "review-8def"
+      },
+      {
+        "characterId": "char-6865",
+        "readingId": "reading-6865",
+        "familiarityCheckId": "familiar-6865",
+        "practice": [
+          {
+            "wordId": "word-6865-1",
+            "checkId": "practice-one-6865"
+          },
+          {
+            "wordId": "word-6865-2",
+            "checkId": "practice-two-6865"
+          }
+        ],
+        "immediateCheckId": "check-6865",
+        "reviewCheckId": "review-6865"
+      }
+    ],
+    "reader": {
+      "title": "Home and our neighbourhood: 路 and 桥",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-8def-1",
+        "word-8def-2",
+        "word-6865-1",
+        "word-6865-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-8def",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8def",
+          "transcript": "路",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8def",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8def",
+          "transcript": "路",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8def",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8def",
+          "transcript": "路",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8def",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8def",
+          "transcript": "小路",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8def",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8def",
+          "transcript": "路口",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8def",
+          "readingId": "reading-8def",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "路",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8def-1",
+          "readingId": null,
+          "wordId": "word-8def-1",
+          "checkId": null,
+          "transcript": "我用彩笔画了小路。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8def-2",
+          "readingId": null,
+          "wordId": "word-8def-2",
+          "checkId": null,
+          "transcript": "我在图画里看到了路口。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6865",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6865",
+          "transcript": "桥",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6865",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6865",
+          "transcript": "桥",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6865",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6865",
+          "transcript": "桥",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6865",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6865",
+          "transcript": "木桥",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6865",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6865",
+          "transcript": "石桥",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6865",
+          "readingId": "reading-6865",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "桥",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6865-1",
+          "readingId": null,
+          "wordId": "word-6865-1",
+          "checkId": null,
+          "transcript": "我用彩笔画了木桥。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6865-2",
+          "readingId": null,
+          "wordId": "word-6865-2",
+          "checkId": null,
+          "transcript": "我在图画里看到了石桥。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

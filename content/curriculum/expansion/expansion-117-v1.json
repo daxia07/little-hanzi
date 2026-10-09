@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-117",
+  "lessonVersion": "expansion-117-v1",
+  "title": "Art, music and games: 踢 and 投",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 177
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 踢 and 投 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-8e22",
+      "hanzi": "踢",
+      "readings": [
+        {
+          "readingId": "reading-8e22",
+          "pinyin": "tī",
+          "audioText": "踢",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#踢",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "kick",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#踢",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8e22-1",
+          "text": "踢球",
+          "pinyin": "tī qiú",
+          "english": "kick a ball",
+          "readingId": "reading-8e22",
+          "context": {
+            "hanzi": "我们一起踢球。",
+            "english": "We kick a ball together.",
+            "targetCharacter": "踢"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#踢球",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8e22-2",
+          "text": "踢毽子",
+          "pinyin": "tī jiàn zi",
+          "english": "play shuttlecock",
+          "readingId": "reading-8e22",
+          "context": {
+            "hanzi": "我们一起踢毽子。",
+            "english": "We play shuttlecock together.",
+            "targetCharacter": "踢"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#踢毽子",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 足 beside 易 in 踢.",
+        "demonstrationEnglish": "This is 踢. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8e22",
+        "delayedReview": {
+          "promptId": "later-8e22",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8e22"
+        }
+      },
+      "assets": [
+        "asset-glyph-8e22",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6295",
+      "hanzi": "投",
+      "readings": [
+        {
+          "readingId": "reading-6295",
+          "pinyin": "tóu",
+          "audioText": "投",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#投",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "throw; put into",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#投",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6295-1",
+          "text": "投篮",
+          "pinyin": "tóu lán",
+          "english": "shoot baskets",
+          "readingId": "reading-6295",
+          "context": {
+            "hanzi": "我们一起投篮。",
+            "english": "We shoot baskets together.",
+            "targetCharacter": "投"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#投篮",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6295-2",
+          "text": "投入",
+          "pinyin": "tóu rù",
+          "english": "put into",
+          "readingId": "reading-6295",
+          "context": {
+            "hanzi": "我把纸片投入回收箱。",
+            "english": "I put the pieces of paper into the recycling box.",
+            "targetCharacter": "投"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#投入",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 扌 beside 殳 in 投.",
+        "demonstrationEnglish": "This is 投. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6295",
+        "delayedReview": {
+          "promptId": "later-6295",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6295"
+        }
+      },
+      "assets": [
+        "asset-glyph-6295",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-117-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-8e22",
+        "familiar-6295"
+      ]
+    },
+    {
+      "stepId": "expansion-117-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-117-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-8e22",
+        "practice-two-8e22",
+        "practice-one-6295",
+        "practice-two-6295"
+      ]
+    },
+    {
+      "stepId": "expansion-117-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-8e22",
+        "check-6295"
+      ]
+    },
+    {
+      "stepId": "expansion-117-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-8e22",
+      "characterId": "char-8e22",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "踢"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8e22-choice-1",
+          "hanzi": "踢"
+        },
+        {
+          "choiceId": "familiar-8e22-choice-2",
+          "hanzi": "投"
+        },
+        {
+          "choiceId": "familiar-8e22-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8e22-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8e22-choice-1"
+    },
+    {
+      "checkId": "check-8e22",
+      "characterId": "char-8e22",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "踢"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8e22-choice-1",
+          "hanzi": "踢"
+        },
+        {
+          "choiceId": "check-8e22-choice-2",
+          "hanzi": "投"
+        },
+        {
+          "choiceId": "check-8e22-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8e22-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8e22-choice-1"
+    },
+    {
+      "checkId": "review-8e22",
+      "characterId": "char-8e22",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "踢"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8e22-choice-1",
+          "hanzi": "踢"
+        },
+        {
+          "choiceId": "review-8e22-choice-2",
+          "hanzi": "投"
+        },
+        {
+          "choiceId": "review-8e22-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8e22-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8e22-choice-1"
+    },
+    {
+      "checkId": "practice-one-8e22",
+      "characterId": "char-8e22",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "踢球"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8e22-choice-1",
+          "hanzi": "踢"
+        },
+        {
+          "choiceId": "practice-one-8e22-choice-2",
+          "hanzi": "投"
+        },
+        {
+          "choiceId": "practice-one-8e22-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8e22-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8e22-choice-1"
+    },
+    {
+      "checkId": "practice-two-8e22",
+      "characterId": "char-8e22",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "踢毽子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8e22-choice-1",
+          "hanzi": "踢"
+        },
+        {
+          "choiceId": "practice-two-8e22-choice-2",
+          "hanzi": "投"
+        },
+        {
+          "choiceId": "practice-two-8e22-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8e22-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8e22-choice-1"
+    },
+    {
+      "checkId": "familiar-6295",
+      "characterId": "char-6295",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "投"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6295-choice-1",
+          "hanzi": "踢"
+        },
+        {
+          "choiceId": "familiar-6295-choice-2",
+          "hanzi": "投"
+        },
+        {
+          "choiceId": "familiar-6295-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6295-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6295-choice-2"
+    },
+    {
+      "checkId": "check-6295",
+      "characterId": "char-6295",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "投"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6295-choice-1",
+          "hanzi": "踢"
+        },
+        {
+          "choiceId": "check-6295-choice-2",
+          "hanzi": "投"
+        },
+        {
+          "choiceId": "check-6295-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6295-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6295-choice-2"
+    },
+    {
+      "checkId": "review-6295",
+      "characterId": "char-6295",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "投"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6295-choice-1",
+          "hanzi": "踢"
+        },
+        {
+          "choiceId": "review-6295-choice-2",
+          "hanzi": "投"
+        },
+        {
+          "choiceId": "review-6295-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6295-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6295-choice-2"
+    },
+    {
+      "checkId": "practice-one-6295",
+      "characterId": "char-6295",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "投篮"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6295-choice-1",
+          "hanzi": "踢"
+        },
+        {
+          "choiceId": "practice-one-6295-choice-2",
+          "hanzi": "投"
+        },
+        {
+          "choiceId": "practice-one-6295-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6295-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6295-choice-2"
+    },
+    {
+      "checkId": "practice-two-6295",
+      "characterId": "char-6295",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "投入"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6295-choice-1",
+          "hanzi": "踢"
+        },
+        {
+          "choiceId": "practice-two-6295-choice-2",
+          "hanzi": "投"
+        },
+        {
+          "choiceId": "practice-two-6295-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6295-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6295-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-8e22",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-117-v1/char-8e22",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6295",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-117-v1/char-6295",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-117-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-117-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Art, music and games: 踢 and 投",
+      "instructionEnglish": "Read two short word examples for 踢 and 投 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-8e22",
+        "readingId": "reading-8e22",
+        "familiarityCheckId": "familiar-8e22",
+        "practice": [
+          {
+            "wordId": "word-8e22-1",
+            "checkId": "practice-one-8e22"
+          },
+          {
+            "wordId": "word-8e22-2",
+            "checkId": "practice-two-8e22"
+          }
+        ],
+        "immediateCheckId": "check-8e22",
+        "reviewCheckId": "review-8e22"
+      },
+      {
+        "characterId": "char-6295",
+        "readingId": "reading-6295",
+        "familiarityCheckId": "familiar-6295",
+        "practice": [
+          {
+            "wordId": "word-6295-1",
+            "checkId": "practice-one-6295"
+          },
+          {
+            "wordId": "word-6295-2",
+            "checkId": "practice-two-6295"
+          }
+        ],
+        "immediateCheckId": "check-6295",
+        "reviewCheckId": "review-6295"
+      }
+    ],
+    "reader": {
+      "title": "Art, music and games: 踢 and 投",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-8e22-1",
+        "word-8e22-2",
+        "word-6295-1",
+        "word-6295-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-8e22",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8e22",
+          "transcript": "踢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8e22",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8e22",
+          "transcript": "踢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8e22",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8e22",
+          "transcript": "踢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8e22",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8e22",
+          "transcript": "踢球",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8e22",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8e22",
+          "transcript": "踢毽子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8e22",
+          "readingId": "reading-8e22",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "踢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8e22-1",
+          "readingId": null,
+          "wordId": "word-8e22-1",
+          "checkId": null,
+          "transcript": "我们一起踢球。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8e22-2",
+          "readingId": null,
+          "wordId": "word-8e22-2",
+          "checkId": null,
+          "transcript": "我们一起踢毽子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6295",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6295",
+          "transcript": "投",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6295",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6295",
+          "transcript": "投",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6295",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6295",
+          "transcript": "投",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6295",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6295",
+          "transcript": "投篮",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6295",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6295",
+          "transcript": "投入",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6295",
+          "readingId": "reading-6295",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "投",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6295-1",
+          "readingId": null,
+          "wordId": "word-6295-1",
+          "checkId": null,
+          "transcript": "我们一起投篮。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6295-2",
+          "readingId": null,
+          "wordId": "word-6295-2",
+          "checkId": null,
+          "transcript": "我把纸片投入回收箱。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

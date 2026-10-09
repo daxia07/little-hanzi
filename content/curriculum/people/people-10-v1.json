@@ -1,0 +1,788 @@
+{
+  "lessonId": "people-10",
+  "lessonVersion": "people-10-v1",
+  "title": "Reasons and friendship",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 60
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read about staying indoors and friends making up. Notice the selected readings of 为 and 和.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4e3a",
+      "hanzi": "为",
+      "readings": [
+        {
+          "readingId": "reading-4e3a",
+          "pinyin": "wèi",
+          "audioText": "为",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#为",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "for; because of",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#为",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e3a-1",
+          "text": "因为",
+          "pinyin": "yīn wèi",
+          "english": "because",
+          "readingId": "reading-4e3a",
+          "context": {
+            "hanzi": "因为下雨，我们在屋里看书。",
+            "english": "Because it is raining, we read indoors.",
+            "targetCharacter": "为"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#因为",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e3a-2",
+          "text": "为了",
+          "pinyin": "wèi le",
+          "english": "in order to; for",
+          "readingId": "reading-4e3a",
+          "context": {
+            "hanzi": "为了不吓到小鸟，我们站得远一点。",
+            "english": "To avoid frightening the little bird, we stand a little farther away.",
+            "targetCharacter": "为"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#为了",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the crossing strokes in 为; these words use wèi.",
+        "demonstrationEnglish": "This is 为. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e3a",
+        "delayedReview": {
+          "promptId": "later-4e3a",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e3a"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e3a",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-548c",
+      "hanzi": "和",
+      "readings": [
+        {
+          "readingId": "reading-548c",
+          "pinyin": "hé",
+          "audioText": "和",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#和",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "and; together with; make peace",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#和",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-548c-1",
+          "text": "和平",
+          "pinyin": "hé píng",
+          "english": "peace",
+          "readingId": "reading-548c",
+          "context": {
+            "hanzi": "故事里的村子终于迎来了和平。",
+            "english": "The village in the story finally welcomes peace.",
+            "targetCharacter": "和"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#和平",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-548c-2",
+          "text": "和好",
+          "pinyin": "hé hǎo",
+          "english": "make up; become friends again",
+          "readingId": "reading-548c",
+          "context": {
+            "hanzi": "两个朋友说清楚以后，就和好了。",
+            "english": "After the two friends talk things through, they make up.",
+            "targetCharacter": "和"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#和好",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 禾 beside 口 in 和; these words use hé.",
+        "demonstrationEnglish": "This is 和. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-548c",
+        "delayedReview": {
+          "promptId": "later-548c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-548c"
+        }
+      },
+      "assets": [
+        "asset-glyph-548c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "people-10-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4e3a",
+        "familiar-548c"
+      ]
+    },
+    {
+      "stepId": "people-10-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "people-10-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-4e3a",
+        "practice-two-4e3a",
+        "practice-one-548c",
+        "practice-two-548c"
+      ]
+    },
+    {
+      "stepId": "people-10-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4e3a",
+        "check-548c"
+      ]
+    },
+    {
+      "stepId": "people-10-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4e3a",
+      "characterId": "char-4e3a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "为"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e3a-choice-1",
+          "hanzi": "为"
+        },
+        {
+          "choiceId": "familiar-4e3a-choice-2",
+          "hanzi": "和"
+        },
+        {
+          "choiceId": "familiar-4e3a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e3a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e3a-choice-1"
+    },
+    {
+      "checkId": "check-4e3a",
+      "characterId": "char-4e3a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "为"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e3a-choice-1",
+          "hanzi": "为"
+        },
+        {
+          "choiceId": "check-4e3a-choice-2",
+          "hanzi": "和"
+        },
+        {
+          "choiceId": "check-4e3a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e3a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e3a-choice-1"
+    },
+    {
+      "checkId": "review-4e3a",
+      "characterId": "char-4e3a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "为"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e3a-choice-1",
+          "hanzi": "为"
+        },
+        {
+          "choiceId": "review-4e3a-choice-2",
+          "hanzi": "和"
+        },
+        {
+          "choiceId": "review-4e3a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e3a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e3a-choice-1"
+    },
+    {
+      "checkId": "practice-one-4e3a",
+      "characterId": "char-4e3a",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "因为"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e3a-choice-1",
+          "hanzi": "为"
+        },
+        {
+          "choiceId": "practice-one-4e3a-choice-2",
+          "hanzi": "和"
+        },
+        {
+          "choiceId": "practice-one-4e3a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e3a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e3a-choice-1"
+    },
+    {
+      "checkId": "practice-two-4e3a",
+      "characterId": "char-4e3a",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "为了"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e3a-choice-1",
+          "hanzi": "为"
+        },
+        {
+          "choiceId": "practice-two-4e3a-choice-2",
+          "hanzi": "和"
+        },
+        {
+          "choiceId": "practice-two-4e3a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e3a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e3a-choice-1"
+    },
+    {
+      "checkId": "familiar-548c",
+      "characterId": "char-548c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "和"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-548c-choice-1",
+          "hanzi": "为"
+        },
+        {
+          "choiceId": "familiar-548c-choice-2",
+          "hanzi": "和"
+        },
+        {
+          "choiceId": "familiar-548c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-548c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-548c-choice-2"
+    },
+    {
+      "checkId": "check-548c",
+      "characterId": "char-548c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "和"
+      },
+      "choices": [
+        {
+          "choiceId": "check-548c-choice-1",
+          "hanzi": "为"
+        },
+        {
+          "choiceId": "check-548c-choice-2",
+          "hanzi": "和"
+        },
+        {
+          "choiceId": "check-548c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-548c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-548c-choice-2"
+    },
+    {
+      "checkId": "review-548c",
+      "characterId": "char-548c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "和"
+      },
+      "choices": [
+        {
+          "choiceId": "review-548c-choice-1",
+          "hanzi": "为"
+        },
+        {
+          "choiceId": "review-548c-choice-2",
+          "hanzi": "和"
+        },
+        {
+          "choiceId": "review-548c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-548c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-548c-choice-2"
+    },
+    {
+      "checkId": "practice-one-548c",
+      "characterId": "char-548c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "和平"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-548c-choice-1",
+          "hanzi": "为"
+        },
+        {
+          "choiceId": "practice-one-548c-choice-2",
+          "hanzi": "和"
+        },
+        {
+          "choiceId": "practice-one-548c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-548c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-548c-choice-2"
+    },
+    {
+      "checkId": "practice-two-548c",
+      "characterId": "char-548c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "和好"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-548c-choice-1",
+          "hanzi": "为"
+        },
+        {
+          "choiceId": "practice-two-548c-choice-2",
+          "hanzi": "和"
+        },
+        {
+          "choiceId": "practice-two-548c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-548c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-548c-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4e3a",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/people-10-v1/char-4e3a",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-548c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/people-10-v1/char-548c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/people-10-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/people-10-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Reasons and friendship",
+      "instructionEnglish": "Read about staying indoors and friends making up. Notice the selected readings of 为 and 和."
+    },
+    "targets": [
+      {
+        "characterId": "char-4e3a",
+        "readingId": "reading-4e3a",
+        "familiarityCheckId": "familiar-4e3a",
+        "practice": [
+          {
+            "wordId": "word-4e3a-1",
+            "checkId": "practice-one-4e3a"
+          },
+          {
+            "wordId": "word-4e3a-2",
+            "checkId": "practice-two-4e3a"
+          }
+        ],
+        "immediateCheckId": "check-4e3a",
+        "reviewCheckId": "review-4e3a"
+      },
+      {
+        "characterId": "char-548c",
+        "readingId": "reading-548c",
+        "familiarityCheckId": "familiar-548c",
+        "practice": [
+          {
+            "wordId": "word-548c-1",
+            "checkId": "practice-one-548c"
+          },
+          {
+            "wordId": "word-548c-2",
+            "checkId": "practice-two-548c"
+          }
+        ],
+        "immediateCheckId": "check-548c",
+        "reviewCheckId": "review-548c"
+      }
+    ],
+    "reader": {
+      "title": "Reasons and friendship",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4e3a-1",
+        "word-4e3a-2",
+        "word-548c-1",
+        "word-548c-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4e3a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e3a",
+          "transcript": "为",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e3a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e3a",
+          "transcript": "为",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e3a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e3a",
+          "transcript": "为",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e3a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e3a",
+          "transcript": "因为",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e3a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e3a",
+          "transcript": "为了",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e3a",
+          "readingId": "reading-4e3a",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "为",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e3a-1",
+          "readingId": null,
+          "wordId": "word-4e3a-1",
+          "checkId": null,
+          "transcript": "因为下雨，我们在屋里看书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e3a-2",
+          "readingId": null,
+          "wordId": "word-4e3a-2",
+          "checkId": null,
+          "transcript": "为了不吓到小鸟，我们站得远一点。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-548c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-548c",
+          "transcript": "和",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-548c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-548c",
+          "transcript": "和",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-548c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-548c",
+          "transcript": "和",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-548c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-548c",
+          "transcript": "和平",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-548c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-548c",
+          "transcript": "和好",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-548c",
+          "readingId": "reading-548c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "和",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-548c-1",
+          "readingId": null,
+          "wordId": "word-548c-1",
+          "checkId": null,
+          "transcript": "故事里的村子终于迎来了和平。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-548c-2",
+          "readingId": null,
+          "wordId": "word-548c-2",
+          "checkId": null,
+          "transcript": "两个朋友说清楚以后，就和好了。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-028",
+  "lessonVersion": "expansion-028-v1",
+  "title": "Questions, learning and helping: 爱 and 喜",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 88
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 爱 and 喜 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-7231",
+      "hanzi": "爱",
+      "readings": [
+        {
+          "readingId": "reading-7231",
+          "pinyin": "ài",
+          "audioText": "爱",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#爱",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "love; care for",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#爱",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7231-1",
+          "text": "可爱",
+          "pinyin": "kě ài",
+          "english": "cute; lovely",
+          "readingId": "reading-7231",
+          "context": {
+            "hanzi": "这只小兔很可爱。",
+            "english": "This little rabbit is lovely.",
+            "targetCharacter": "爱"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#可爱",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7231-2",
+          "text": "爱护",
+          "pinyin": "ài hù",
+          "english": "take care of",
+          "readingId": "reading-7231",
+          "context": {
+            "hanzi": "我们爱护公园里的花草。",
+            "english": "We take care of the park's plants.",
+            "targetCharacter": "爱"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#爱护",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 爫 at the top and 友 at the bottom of 爱.",
+        "demonstrationEnglish": "This is 爱. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7231",
+        "delayedReview": {
+          "promptId": "later-7231",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7231"
+        }
+      },
+      "assets": [
+        "asset-glyph-7231",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-559c",
+      "hanzi": "喜",
+      "readings": [
+        {
+          "readingId": "reading-559c",
+          "pinyin": "xǐ",
+          "audioText": "喜",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#喜",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "like; joy",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#喜",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-559c-1",
+          "text": "喜欢",
+          "pinyin": "xǐ huan",
+          "english": "like",
+          "readingId": "reading-559c",
+          "context": {
+            "hanzi": "我喜欢在窗边看书。",
+            "english": "I like reading beside the window.",
+            "targetCharacter": "喜"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#喜欢",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-559c-2",
+          "text": "欢喜",
+          "pinyin": "huān xǐ",
+          "english": "glad; delighted",
+          "readingId": "reading-559c",
+          "context": {
+            "hanzi": "小猫找到垫子，满心欢喜。",
+            "english": "The kitten is delighted to find its cushion.",
+            "targetCharacter": "喜"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#欢喜",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 口 at the bottom of 喜.",
+        "demonstrationEnglish": "This is 喜. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-559c",
+        "delayedReview": {
+          "promptId": "later-559c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-559c"
+        }
+      },
+      "assets": [
+        "asset-glyph-559c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-028-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-7231",
+        "familiar-559c"
+      ]
+    },
+    {
+      "stepId": "expansion-028-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-028-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-7231",
+        "practice-two-7231",
+        "practice-one-559c",
+        "practice-two-559c"
+      ]
+    },
+    {
+      "stepId": "expansion-028-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-7231",
+        "check-559c"
+      ]
+    },
+    {
+      "stepId": "expansion-028-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-7231",
+      "characterId": "char-7231",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "爱"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7231-choice-1",
+          "hanzi": "爱"
+        },
+        {
+          "choiceId": "familiar-7231-choice-2",
+          "hanzi": "喜"
+        },
+        {
+          "choiceId": "familiar-7231-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7231-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7231-choice-1"
+    },
+    {
+      "checkId": "check-7231",
+      "characterId": "char-7231",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "爱"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7231-choice-1",
+          "hanzi": "爱"
+        },
+        {
+          "choiceId": "check-7231-choice-2",
+          "hanzi": "喜"
+        },
+        {
+          "choiceId": "check-7231-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7231-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7231-choice-1"
+    },
+    {
+      "checkId": "review-7231",
+      "characterId": "char-7231",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "爱"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7231-choice-1",
+          "hanzi": "爱"
+        },
+        {
+          "choiceId": "review-7231-choice-2",
+          "hanzi": "喜"
+        },
+        {
+          "choiceId": "review-7231-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7231-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7231-choice-1"
+    },
+    {
+      "checkId": "practice-one-7231",
+      "characterId": "char-7231",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "可爱"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7231-choice-1",
+          "hanzi": "爱"
+        },
+        {
+          "choiceId": "practice-one-7231-choice-2",
+          "hanzi": "喜"
+        },
+        {
+          "choiceId": "practice-one-7231-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7231-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7231-choice-1"
+    },
+    {
+      "checkId": "practice-two-7231",
+      "characterId": "char-7231",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "爱护"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7231-choice-1",
+          "hanzi": "爱"
+        },
+        {
+          "choiceId": "practice-two-7231-choice-2",
+          "hanzi": "喜"
+        },
+        {
+          "choiceId": "practice-two-7231-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7231-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7231-choice-1"
+    },
+    {
+      "checkId": "familiar-559c",
+      "characterId": "char-559c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "喜"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-559c-choice-1",
+          "hanzi": "爱"
+        },
+        {
+          "choiceId": "familiar-559c-choice-2",
+          "hanzi": "喜"
+        },
+        {
+          "choiceId": "familiar-559c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-559c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-559c-choice-2"
+    },
+    {
+      "checkId": "check-559c",
+      "characterId": "char-559c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "喜"
+      },
+      "choices": [
+        {
+          "choiceId": "check-559c-choice-1",
+          "hanzi": "爱"
+        },
+        {
+          "choiceId": "check-559c-choice-2",
+          "hanzi": "喜"
+        },
+        {
+          "choiceId": "check-559c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-559c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-559c-choice-2"
+    },
+    {
+      "checkId": "review-559c",
+      "characterId": "char-559c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "喜"
+      },
+      "choices": [
+        {
+          "choiceId": "review-559c-choice-1",
+          "hanzi": "爱"
+        },
+        {
+          "choiceId": "review-559c-choice-2",
+          "hanzi": "喜"
+        },
+        {
+          "choiceId": "review-559c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-559c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-559c-choice-2"
+    },
+    {
+      "checkId": "practice-one-559c",
+      "characterId": "char-559c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "喜欢"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-559c-choice-1",
+          "hanzi": "爱"
+        },
+        {
+          "choiceId": "practice-one-559c-choice-2",
+          "hanzi": "喜"
+        },
+        {
+          "choiceId": "practice-one-559c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-559c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-559c-choice-2"
+    },
+    {
+      "checkId": "practice-two-559c",
+      "characterId": "char-559c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "欢喜"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-559c-choice-1",
+          "hanzi": "爱"
+        },
+        {
+          "choiceId": "practice-two-559c-choice-2",
+          "hanzi": "喜"
+        },
+        {
+          "choiceId": "practice-two-559c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-559c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-559c-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-7231",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-028-v1/char-7231",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-559c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-028-v1/char-559c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-028-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-028-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Questions, learning and helping: 爱 and 喜",
+      "instructionEnglish": "Read two short word examples for 爱 and 喜 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-7231",
+        "readingId": "reading-7231",
+        "familiarityCheckId": "familiar-7231",
+        "practice": [
+          {
+            "wordId": "word-7231-1",
+            "checkId": "practice-one-7231"
+          },
+          {
+            "wordId": "word-7231-2",
+            "checkId": "practice-two-7231"
+          }
+        ],
+        "immediateCheckId": "check-7231",
+        "reviewCheckId": "review-7231"
+      },
+      {
+        "characterId": "char-559c",
+        "readingId": "reading-559c",
+        "familiarityCheckId": "familiar-559c",
+        "practice": [
+          {
+            "wordId": "word-559c-1",
+            "checkId": "practice-one-559c"
+          },
+          {
+            "wordId": "word-559c-2",
+            "checkId": "practice-two-559c"
+          }
+        ],
+        "immediateCheckId": "check-559c",
+        "reviewCheckId": "review-559c"
+      }
+    ],
+    "reader": {
+      "title": "Questions, learning and helping: 爱 and 喜",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-7231-1",
+        "word-7231-2",
+        "word-559c-1",
+        "word-559c-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-7231",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7231",
+          "transcript": "爱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7231",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7231",
+          "transcript": "爱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7231",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7231",
+          "transcript": "爱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7231",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7231",
+          "transcript": "可爱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7231",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7231",
+          "transcript": "爱护",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7231",
+          "readingId": "reading-7231",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "爱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7231-1",
+          "readingId": null,
+          "wordId": "word-7231-1",
+          "checkId": null,
+          "transcript": "这只小兔很可爱。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7231-2",
+          "readingId": null,
+          "wordId": "word-7231-2",
+          "checkId": null,
+          "transcript": "我们爱护公园里的花草。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-559c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-559c",
+          "transcript": "喜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-559c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-559c",
+          "transcript": "喜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-559c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-559c",
+          "transcript": "喜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-559c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-559c",
+          "transcript": "喜欢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-559c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-559c",
+          "transcript": "欢喜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-559c",
+          "readingId": "reading-559c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "喜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-559c-1",
+          "readingId": null,
+          "wordId": "word-559c-1",
+          "checkId": null,
+          "transcript": "我喜欢在窗边看书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-559c-2",
+          "readingId": null,
+          "wordId": "word-559c-2",
+          "checkId": null,
+          "transcript": "小猫找到垫子，满心欢喜。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

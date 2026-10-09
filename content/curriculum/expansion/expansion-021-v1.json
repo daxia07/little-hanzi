@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-021",
+  "lessonVersion": "expansion-021-v1",
+  "title": "Questions, learning and helping: 飞 and 唱",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 81
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 飞 and 唱 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-98de",
+      "hanzi": "飞",
+      "readings": [
+        {
+          "readingId": "reading-98de",
+          "pinyin": "fēi",
+          "audioText": "飞",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#飞",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "fly",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#飞",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-98de-1",
+          "text": "飞机",
+          "pinyin": "fēi jī",
+          "english": "aeroplane",
+          "readingId": "reading-98de",
+          "context": {
+            "hanzi": "我们看见一架飞机飞过。",
+            "english": "We see an aeroplane fly past.",
+            "targetCharacter": "飞"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#飞机",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-98de-2",
+          "text": "飞行",
+          "pinyin": "fēi xíng",
+          "english": "fly; flight",
+          "readingId": "reading-98de",
+          "context": {
+            "hanzi": "小鸟展开翅膀开始飞行。",
+            "english": "The little bird spreads its wings and starts to fly.",
+            "targetCharacter": "飞"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#飞行",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the long bent stroke and the two small strokes of 飞.",
+        "demonstrationEnglish": "This is 飞. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-98de",
+        "delayedReview": {
+          "promptId": "later-98de",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-98de"
+        }
+      },
+      "assets": [
+        "asset-glyph-98de",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5531",
+      "hanzi": "唱",
+      "readings": [
+        {
+          "readingId": "reading-5531",
+          "pinyin": "chàng",
+          "audioText": "唱",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#唱",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "sing",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#唱",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5531-1",
+          "text": "唱歌",
+          "pinyin": "chàng gē",
+          "english": "sing a song",
+          "readingId": "reading-5531",
+          "context": {
+            "hanzi": "我们在树下唱歌。",
+            "english": "We sing under the tree.",
+            "targetCharacter": "唱"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#唱歌",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5531-2",
+          "text": "合唱",
+          "pinyin": "hé chàng",
+          "english": "sing together; choir",
+          "readingId": "reading-5531",
+          "context": {
+            "hanzi": "班里的合唱开始了。",
+            "english": "The class choir begins to sing.",
+            "targetCharacter": "唱"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#合唱",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 口 beside the two 日 shapes in 唱.",
+        "demonstrationEnglish": "This is 唱. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5531",
+        "delayedReview": {
+          "promptId": "later-5531",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5531"
+        }
+      },
+      "assets": [
+        "asset-glyph-5531",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-021-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-98de",
+        "familiar-5531"
+      ]
+    },
+    {
+      "stepId": "expansion-021-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-021-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-98de",
+        "practice-two-98de",
+        "practice-one-5531",
+        "practice-two-5531"
+      ]
+    },
+    {
+      "stepId": "expansion-021-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-98de",
+        "check-5531"
+      ]
+    },
+    {
+      "stepId": "expansion-021-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-98de",
+      "characterId": "char-98de",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "飞"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-98de-choice-1",
+          "hanzi": "飞"
+        },
+        {
+          "choiceId": "familiar-98de-choice-2",
+          "hanzi": "唱"
+        },
+        {
+          "choiceId": "familiar-98de-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-98de-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-98de-choice-1"
+    },
+    {
+      "checkId": "check-98de",
+      "characterId": "char-98de",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "飞"
+      },
+      "choices": [
+        {
+          "choiceId": "check-98de-choice-1",
+          "hanzi": "飞"
+        },
+        {
+          "choiceId": "check-98de-choice-2",
+          "hanzi": "唱"
+        },
+        {
+          "choiceId": "check-98de-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-98de-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-98de-choice-1"
+    },
+    {
+      "checkId": "review-98de",
+      "characterId": "char-98de",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "飞"
+      },
+      "choices": [
+        {
+          "choiceId": "review-98de-choice-1",
+          "hanzi": "飞"
+        },
+        {
+          "choiceId": "review-98de-choice-2",
+          "hanzi": "唱"
+        },
+        {
+          "choiceId": "review-98de-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-98de-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-98de-choice-1"
+    },
+    {
+      "checkId": "practice-one-98de",
+      "characterId": "char-98de",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "飞机"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-98de-choice-1",
+          "hanzi": "飞"
+        },
+        {
+          "choiceId": "practice-one-98de-choice-2",
+          "hanzi": "唱"
+        },
+        {
+          "choiceId": "practice-one-98de-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-98de-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-98de-choice-1"
+    },
+    {
+      "checkId": "practice-two-98de",
+      "characterId": "char-98de",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "飞行"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-98de-choice-1",
+          "hanzi": "飞"
+        },
+        {
+          "choiceId": "practice-two-98de-choice-2",
+          "hanzi": "唱"
+        },
+        {
+          "choiceId": "practice-two-98de-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-98de-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-98de-choice-1"
+    },
+    {
+      "checkId": "familiar-5531",
+      "characterId": "char-5531",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "唱"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5531-choice-1",
+          "hanzi": "飞"
+        },
+        {
+          "choiceId": "familiar-5531-choice-2",
+          "hanzi": "唱"
+        },
+        {
+          "choiceId": "familiar-5531-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5531-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5531-choice-2"
+    },
+    {
+      "checkId": "check-5531",
+      "characterId": "char-5531",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "唱"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5531-choice-1",
+          "hanzi": "飞"
+        },
+        {
+          "choiceId": "check-5531-choice-2",
+          "hanzi": "唱"
+        },
+        {
+          "choiceId": "check-5531-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5531-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5531-choice-2"
+    },
+    {
+      "checkId": "review-5531",
+      "characterId": "char-5531",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "唱"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5531-choice-1",
+          "hanzi": "飞"
+        },
+        {
+          "choiceId": "review-5531-choice-2",
+          "hanzi": "唱"
+        },
+        {
+          "choiceId": "review-5531-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5531-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5531-choice-2"
+    },
+    {
+      "checkId": "practice-one-5531",
+      "characterId": "char-5531",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "唱歌"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5531-choice-1",
+          "hanzi": "飞"
+        },
+        {
+          "choiceId": "practice-one-5531-choice-2",
+          "hanzi": "唱"
+        },
+        {
+          "choiceId": "practice-one-5531-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5531-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5531-choice-2"
+    },
+    {
+      "checkId": "practice-two-5531",
+      "characterId": "char-5531",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "合唱"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5531-choice-1",
+          "hanzi": "飞"
+        },
+        {
+          "choiceId": "practice-two-5531-choice-2",
+          "hanzi": "唱"
+        },
+        {
+          "choiceId": "practice-two-5531-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5531-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5531-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-98de",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-021-v1/char-98de",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5531",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-021-v1/char-5531",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-021-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-021-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Questions, learning and helping: 飞 and 唱",
+      "instructionEnglish": "Read two short word examples for 飞 and 唱 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-98de",
+        "readingId": "reading-98de",
+        "familiarityCheckId": "familiar-98de",
+        "practice": [
+          {
+            "wordId": "word-98de-1",
+            "checkId": "practice-one-98de"
+          },
+          {
+            "wordId": "word-98de-2",
+            "checkId": "practice-two-98de"
+          }
+        ],
+        "immediateCheckId": "check-98de",
+        "reviewCheckId": "review-98de"
+      },
+      {
+        "characterId": "char-5531",
+        "readingId": "reading-5531",
+        "familiarityCheckId": "familiar-5531",
+        "practice": [
+          {
+            "wordId": "word-5531-1",
+            "checkId": "practice-one-5531"
+          },
+          {
+            "wordId": "word-5531-2",
+            "checkId": "practice-two-5531"
+          }
+        ],
+        "immediateCheckId": "check-5531",
+        "reviewCheckId": "review-5531"
+      }
+    ],
+    "reader": {
+      "title": "Questions, learning and helping: 飞 and 唱",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-98de-1",
+        "word-98de-2",
+        "word-5531-1",
+        "word-5531-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-98de",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-98de",
+          "transcript": "飞",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-98de",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-98de",
+          "transcript": "飞",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-98de",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-98de",
+          "transcript": "飞",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-98de",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-98de",
+          "transcript": "飞机",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-98de",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-98de",
+          "transcript": "飞行",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-98de",
+          "readingId": "reading-98de",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "飞",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-98de-1",
+          "readingId": null,
+          "wordId": "word-98de-1",
+          "checkId": null,
+          "transcript": "我们看见一架飞机飞过。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-98de-2",
+          "readingId": null,
+          "wordId": "word-98de-2",
+          "checkId": null,
+          "transcript": "小鸟展开翅膀开始飞行。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5531",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5531",
+          "transcript": "唱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5531",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5531",
+          "transcript": "唱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5531",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5531",
+          "transcript": "唱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5531",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5531",
+          "transcript": "唱歌",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5531",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5531",
+          "transcript": "合唱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5531",
+          "readingId": "reading-5531",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "唱",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5531-1",
+          "readingId": null,
+          "wordId": "word-5531-1",
+          "checkId": null,
+          "transcript": "我们在树下唱歌。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5531-2",
+          "readingId": null,
+          "wordId": "word-5531-2",
+          "checkId": null,
+          "transcript": "班里的合唱开始了。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

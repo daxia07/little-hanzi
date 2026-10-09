@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-051",
+  "lessonVersion": "expansion-051-v1",
+  "title": "Seasons, weather and water: 秒 and 年",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 111
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 秒 and 年 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-79d2",
+      "hanzi": "秒",
+      "readings": [
+        {
+          "readingId": "reading-79d2",
+          "pinyin": "miǎo",
+          "audioText": "秒",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#秒",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "second, a unit of time",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#秒",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-79d2-1",
+          "text": "秒钟",
+          "pinyin": "miǎo zhōng",
+          "english": "second",
+          "readingId": "reading-79d2",
+          "context": {
+            "hanzi": "钟上的针又走了一秒钟。",
+            "english": "The clock's hand moves forward another second.",
+            "targetCharacter": "秒"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#秒钟",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-79d2-2",
+          "text": "分秒",
+          "pinyin": "fēn miǎo",
+          "english": "minutes and seconds",
+          "readingId": "reading-79d2",
+          "context": {
+            "hanzi": "比赛时，大家都珍惜分秒。",
+            "english": "During the contest, everyone values every minute and second.",
+            "targetCharacter": "秒"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#分秒",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 禾 beside 少 in 秒.",
+        "demonstrationEnglish": "This is 秒. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-79d2",
+        "delayedReview": {
+          "promptId": "later-79d2",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-79d2"
+        }
+      },
+      "assets": [
+        "asset-glyph-79d2",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5e74",
+      "hanzi": "年",
+      "readings": [
+        {
+          "readingId": "reading-5e74",
+          "pinyin": "nián",
+          "audioText": "年",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#年",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "year",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#年",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5e74-1",
+          "text": "今年",
+          "pinyin": "jīn nián",
+          "english": "this year",
+          "readingId": "reading-5e74",
+          "context": {
+            "hanzi": "今年，我们种了一棵小树。",
+            "english": "This year, we plant a little tree.",
+            "targetCharacter": "年"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#今年",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5e74-2",
+          "text": "明年",
+          "pinyin": "míng nián",
+          "english": "next year",
+          "readingId": "reading-5e74",
+          "context": {
+            "hanzi": "明年，我们想看看小树长多高。",
+            "english": "Next year, we want to see how tall the tree has grown.",
+            "targetCharacter": "年"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#明年",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the upright stroke passing through the lower lines of 年.",
+        "demonstrationEnglish": "This is 年. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5e74",
+        "delayedReview": {
+          "promptId": "later-5e74",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5e74"
+        }
+      },
+      "assets": [
+        "asset-glyph-5e74",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-051-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-79d2",
+        "familiar-5e74"
+      ]
+    },
+    {
+      "stepId": "expansion-051-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-051-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-79d2",
+        "practice-two-79d2",
+        "practice-one-5e74",
+        "practice-two-5e74"
+      ]
+    },
+    {
+      "stepId": "expansion-051-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-79d2",
+        "check-5e74"
+      ]
+    },
+    {
+      "stepId": "expansion-051-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-79d2",
+      "characterId": "char-79d2",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "秒"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-79d2-choice-1",
+          "hanzi": "秒"
+        },
+        {
+          "choiceId": "familiar-79d2-choice-2",
+          "hanzi": "年"
+        },
+        {
+          "choiceId": "familiar-79d2-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-79d2-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-79d2-choice-1"
+    },
+    {
+      "checkId": "check-79d2",
+      "characterId": "char-79d2",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "秒"
+      },
+      "choices": [
+        {
+          "choiceId": "check-79d2-choice-1",
+          "hanzi": "秒"
+        },
+        {
+          "choiceId": "check-79d2-choice-2",
+          "hanzi": "年"
+        },
+        {
+          "choiceId": "check-79d2-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-79d2-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-79d2-choice-1"
+    },
+    {
+      "checkId": "review-79d2",
+      "characterId": "char-79d2",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "秒"
+      },
+      "choices": [
+        {
+          "choiceId": "review-79d2-choice-1",
+          "hanzi": "秒"
+        },
+        {
+          "choiceId": "review-79d2-choice-2",
+          "hanzi": "年"
+        },
+        {
+          "choiceId": "review-79d2-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-79d2-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-79d2-choice-1"
+    },
+    {
+      "checkId": "practice-one-79d2",
+      "characterId": "char-79d2",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "秒钟"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-79d2-choice-1",
+          "hanzi": "秒"
+        },
+        {
+          "choiceId": "practice-one-79d2-choice-2",
+          "hanzi": "年"
+        },
+        {
+          "choiceId": "practice-one-79d2-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-79d2-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-79d2-choice-1"
+    },
+    {
+      "checkId": "practice-two-79d2",
+      "characterId": "char-79d2",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "分秒"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-79d2-choice-1",
+          "hanzi": "秒"
+        },
+        {
+          "choiceId": "practice-two-79d2-choice-2",
+          "hanzi": "年"
+        },
+        {
+          "choiceId": "practice-two-79d2-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-79d2-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-79d2-choice-1"
+    },
+    {
+      "checkId": "familiar-5e74",
+      "characterId": "char-5e74",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "年"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5e74-choice-1",
+          "hanzi": "秒"
+        },
+        {
+          "choiceId": "familiar-5e74-choice-2",
+          "hanzi": "年"
+        },
+        {
+          "choiceId": "familiar-5e74-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5e74-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5e74-choice-2"
+    },
+    {
+      "checkId": "check-5e74",
+      "characterId": "char-5e74",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "年"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5e74-choice-1",
+          "hanzi": "秒"
+        },
+        {
+          "choiceId": "check-5e74-choice-2",
+          "hanzi": "年"
+        },
+        {
+          "choiceId": "check-5e74-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5e74-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5e74-choice-2"
+    },
+    {
+      "checkId": "review-5e74",
+      "characterId": "char-5e74",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "年"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5e74-choice-1",
+          "hanzi": "秒"
+        },
+        {
+          "choiceId": "review-5e74-choice-2",
+          "hanzi": "年"
+        },
+        {
+          "choiceId": "review-5e74-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5e74-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5e74-choice-2"
+    },
+    {
+      "checkId": "practice-one-5e74",
+      "characterId": "char-5e74",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "今年"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5e74-choice-1",
+          "hanzi": "秒"
+        },
+        {
+          "choiceId": "practice-one-5e74-choice-2",
+          "hanzi": "年"
+        },
+        {
+          "choiceId": "practice-one-5e74-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5e74-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5e74-choice-2"
+    },
+    {
+      "checkId": "practice-two-5e74",
+      "characterId": "char-5e74",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "明年"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5e74-choice-1",
+          "hanzi": "秒"
+        },
+        {
+          "choiceId": "practice-two-5e74-choice-2",
+          "hanzi": "年"
+        },
+        {
+          "choiceId": "practice-two-5e74-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5e74-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5e74-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-79d2",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-051-v1/char-79d2",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5e74",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-051-v1/char-5e74",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-051-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-051-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Seasons, weather and water: 秒 and 年",
+      "instructionEnglish": "Read two short word examples for 秒 and 年 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-79d2",
+        "readingId": "reading-79d2",
+        "familiarityCheckId": "familiar-79d2",
+        "practice": [
+          {
+            "wordId": "word-79d2-1",
+            "checkId": "practice-one-79d2"
+          },
+          {
+            "wordId": "word-79d2-2",
+            "checkId": "practice-two-79d2"
+          }
+        ],
+        "immediateCheckId": "check-79d2",
+        "reviewCheckId": "review-79d2"
+      },
+      {
+        "characterId": "char-5e74",
+        "readingId": "reading-5e74",
+        "familiarityCheckId": "familiar-5e74",
+        "practice": [
+          {
+            "wordId": "word-5e74-1",
+            "checkId": "practice-one-5e74"
+          },
+          {
+            "wordId": "word-5e74-2",
+            "checkId": "practice-two-5e74"
+          }
+        ],
+        "immediateCheckId": "check-5e74",
+        "reviewCheckId": "review-5e74"
+      }
+    ],
+    "reader": {
+      "title": "Seasons, weather and water: 秒 and 年",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-79d2-1",
+        "word-79d2-2",
+        "word-5e74-1",
+        "word-5e74-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-79d2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-79d2",
+          "transcript": "秒",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-79d2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-79d2",
+          "transcript": "秒",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-79d2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-79d2",
+          "transcript": "秒",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-79d2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-79d2",
+          "transcript": "秒钟",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-79d2",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-79d2",
+          "transcript": "分秒",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-79d2",
+          "readingId": "reading-79d2",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "秒",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-79d2-1",
+          "readingId": null,
+          "wordId": "word-79d2-1",
+          "checkId": null,
+          "transcript": "钟上的针又走了一秒钟。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-79d2-2",
+          "readingId": null,
+          "wordId": "word-79d2-2",
+          "checkId": null,
+          "transcript": "比赛时，大家都珍惜分秒。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5e74",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5e74",
+          "transcript": "年",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5e74",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5e74",
+          "transcript": "年",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5e74",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5e74",
+          "transcript": "年",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5e74",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5e74",
+          "transcript": "今年",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5e74",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5e74",
+          "transcript": "明年",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5e74",
+          "readingId": "reading-5e74",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "年",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5e74-1",
+          "readingId": null,
+          "wordId": "word-5e74-1",
+          "checkId": null,
+          "transcript": "今年，我们种了一棵小树。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5e74-2",
+          "readingId": null,
+          "wordId": "word-5e74-2",
+          "checkId": null,
+          "transcript": "明年，我们想看看小树长多高。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

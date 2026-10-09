@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-056",
+  "lessonVersion": "expansion-056-v1",
+  "title": "Seasons, weather and water: 热 and 暖",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 116
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 热 and 暖 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-70ed",
+      "hanzi": "热",
+      "readings": [
+        {
+          "readingId": "reading-70ed",
+          "pinyin": "rè",
+          "audioText": "热",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#热",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "hot; heat",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#热",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-70ed-1",
+          "text": "热水",
+          "pinyin": "rè shuǐ",
+          "english": "hot water",
+          "readingId": "reading-70ed",
+          "context": {
+            "hanzi": "大人倒热水时，我站在旁边等。",
+            "english": "I wait to the side while an adult pours hot water.",
+            "targetCharacter": "热"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#热水",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-70ed-2",
+          "text": "热闹",
+          "pinyin": "rè nao",
+          "english": "lively; bustling",
+          "readingId": "reading-70ed",
+          "context": {
+            "hanzi": "节日的街上很热闹。",
+            "english": "The street is lively during the festival.",
+            "targetCharacter": "热"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#热闹",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find the four bottom dots 灬 in 热.",
+        "demonstrationEnglish": "This is 热. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-70ed",
+        "delayedReview": {
+          "promptId": "later-70ed",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-70ed"
+        }
+      },
+      "assets": [
+        "asset-glyph-70ed",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6696",
+      "hanzi": "暖",
+      "readings": [
+        {
+          "readingId": "reading-6696",
+          "pinyin": "nuǎn",
+          "audioText": "暖",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#暖",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "warm",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#暖",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6696-1",
+          "text": "温暖",
+          "pinyin": "wēn nuǎn",
+          "english": "warm",
+          "readingId": "reading-6696",
+          "context": {
+            "hanzi": "今天的天气很温暖。",
+            "english": "Today's weather is warm.",
+            "targetCharacter": "暖"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#温暖",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6696-2",
+          "text": "暖和",
+          "pinyin": "nuǎn huo",
+          "english": "warm and comfortable",
+          "readingId": "reading-6696",
+          "context": {
+            "hanzi": "这件上衣很暖和。",
+            "english": "This top is warm and comfortable.",
+            "targetCharacter": "暖"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#暖和",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 日 on the left of 暖.",
+        "demonstrationEnglish": "This is 暖. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6696",
+        "delayedReview": {
+          "promptId": "later-6696",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6696"
+        }
+      },
+      "assets": [
+        "asset-glyph-6696",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-056-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-70ed",
+        "familiar-6696"
+      ]
+    },
+    {
+      "stepId": "expansion-056-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-056-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-70ed",
+        "practice-two-70ed",
+        "practice-one-6696",
+        "practice-two-6696"
+      ]
+    },
+    {
+      "stepId": "expansion-056-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-70ed",
+        "check-6696"
+      ]
+    },
+    {
+      "stepId": "expansion-056-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-70ed",
+      "characterId": "char-70ed",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "热"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-70ed-choice-1",
+          "hanzi": "热"
+        },
+        {
+          "choiceId": "familiar-70ed-choice-2",
+          "hanzi": "暖"
+        },
+        {
+          "choiceId": "familiar-70ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-70ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-70ed-choice-1"
+    },
+    {
+      "checkId": "check-70ed",
+      "characterId": "char-70ed",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "热"
+      },
+      "choices": [
+        {
+          "choiceId": "check-70ed-choice-1",
+          "hanzi": "热"
+        },
+        {
+          "choiceId": "check-70ed-choice-2",
+          "hanzi": "暖"
+        },
+        {
+          "choiceId": "check-70ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-70ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-70ed-choice-1"
+    },
+    {
+      "checkId": "review-70ed",
+      "characterId": "char-70ed",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "热"
+      },
+      "choices": [
+        {
+          "choiceId": "review-70ed-choice-1",
+          "hanzi": "热"
+        },
+        {
+          "choiceId": "review-70ed-choice-2",
+          "hanzi": "暖"
+        },
+        {
+          "choiceId": "review-70ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-70ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-70ed-choice-1"
+    },
+    {
+      "checkId": "practice-one-70ed",
+      "characterId": "char-70ed",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "热水"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-70ed-choice-1",
+          "hanzi": "热"
+        },
+        {
+          "choiceId": "practice-one-70ed-choice-2",
+          "hanzi": "暖"
+        },
+        {
+          "choiceId": "practice-one-70ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-70ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-70ed-choice-1"
+    },
+    {
+      "checkId": "practice-two-70ed",
+      "characterId": "char-70ed",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "热闹"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-70ed-choice-1",
+          "hanzi": "热"
+        },
+        {
+          "choiceId": "practice-two-70ed-choice-2",
+          "hanzi": "暖"
+        },
+        {
+          "choiceId": "practice-two-70ed-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-70ed-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-70ed-choice-1"
+    },
+    {
+      "checkId": "familiar-6696",
+      "characterId": "char-6696",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "暖"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6696-choice-1",
+          "hanzi": "热"
+        },
+        {
+          "choiceId": "familiar-6696-choice-2",
+          "hanzi": "暖"
+        },
+        {
+          "choiceId": "familiar-6696-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6696-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6696-choice-2"
+    },
+    {
+      "checkId": "check-6696",
+      "characterId": "char-6696",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "暖"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6696-choice-1",
+          "hanzi": "热"
+        },
+        {
+          "choiceId": "check-6696-choice-2",
+          "hanzi": "暖"
+        },
+        {
+          "choiceId": "check-6696-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6696-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6696-choice-2"
+    },
+    {
+      "checkId": "review-6696",
+      "characterId": "char-6696",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "暖"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6696-choice-1",
+          "hanzi": "热"
+        },
+        {
+          "choiceId": "review-6696-choice-2",
+          "hanzi": "暖"
+        },
+        {
+          "choiceId": "review-6696-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6696-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6696-choice-2"
+    },
+    {
+      "checkId": "practice-one-6696",
+      "characterId": "char-6696",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "温暖"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6696-choice-1",
+          "hanzi": "热"
+        },
+        {
+          "choiceId": "practice-one-6696-choice-2",
+          "hanzi": "暖"
+        },
+        {
+          "choiceId": "practice-one-6696-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6696-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6696-choice-2"
+    },
+    {
+      "checkId": "practice-two-6696",
+      "characterId": "char-6696",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "暖和"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6696-choice-1",
+          "hanzi": "热"
+        },
+        {
+          "choiceId": "practice-two-6696-choice-2",
+          "hanzi": "暖"
+        },
+        {
+          "choiceId": "practice-two-6696-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6696-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6696-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-70ed",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-056-v1/char-70ed",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6696",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-056-v1/char-6696",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-056-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-056-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Seasons, weather and water: 热 and 暖",
+      "instructionEnglish": "Read two short word examples for 热 and 暖 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-70ed",
+        "readingId": "reading-70ed",
+        "familiarityCheckId": "familiar-70ed",
+        "practice": [
+          {
+            "wordId": "word-70ed-1",
+            "checkId": "practice-one-70ed"
+          },
+          {
+            "wordId": "word-70ed-2",
+            "checkId": "practice-two-70ed"
+          }
+        ],
+        "immediateCheckId": "check-70ed",
+        "reviewCheckId": "review-70ed"
+      },
+      {
+        "characterId": "char-6696",
+        "readingId": "reading-6696",
+        "familiarityCheckId": "familiar-6696",
+        "practice": [
+          {
+            "wordId": "word-6696-1",
+            "checkId": "practice-one-6696"
+          },
+          {
+            "wordId": "word-6696-2",
+            "checkId": "practice-two-6696"
+          }
+        ],
+        "immediateCheckId": "check-6696",
+        "reviewCheckId": "review-6696"
+      }
+    ],
+    "reader": {
+      "title": "Seasons, weather and water: 热 and 暖",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-70ed-1",
+        "word-70ed-2",
+        "word-6696-1",
+        "word-6696-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-70ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-70ed",
+          "transcript": "热",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-70ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-70ed",
+          "transcript": "热",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-70ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-70ed",
+          "transcript": "热",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-70ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-70ed",
+          "transcript": "热水",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-70ed",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-70ed",
+          "transcript": "热闹",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-70ed",
+          "readingId": "reading-70ed",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "热",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-70ed-1",
+          "readingId": null,
+          "wordId": "word-70ed-1",
+          "checkId": null,
+          "transcript": "大人倒热水时，我站在旁边等。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-70ed-2",
+          "readingId": null,
+          "wordId": "word-70ed-2",
+          "checkId": null,
+          "transcript": "节日的街上很热闹。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6696",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6696",
+          "transcript": "暖",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6696",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6696",
+          "transcript": "暖",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6696",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6696",
+          "transcript": "暖",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6696",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6696",
+          "transcript": "温暖",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6696",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6696",
+          "transcript": "暖和",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6696",
+          "readingId": "reading-6696",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "暖",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6696-1",
+          "readingId": null,
+          "wordId": "word-6696-1",
+          "checkId": null,
+          "transcript": "今天的天气很温暖。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6696-2",
+          "readingId": null,
+          "wordId": "word-6696-2",
+          "checkId": null,
+          "transcript": "这件上衣很暖和。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

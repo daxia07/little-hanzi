@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-052",
+  "lessonVersion": "expansion-052-v1",
+  "title": "Seasons, weather and water: 岁 and 春",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 112
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 岁 and 春 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5c81",
+      "hanzi": "岁",
+      "readings": [
+        {
+          "readingId": "reading-5c81",
+          "pinyin": "suì",
+          "audioText": "岁",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#岁",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "years of age",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#岁",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5c81-1",
+          "text": "岁数",
+          "pinyin": "suì shu",
+          "english": "age",
+          "readingId": "reading-5c81",
+          "context": {
+            "hanzi": "我问小树的岁数。",
+            "english": "I ask how old the little tree is.",
+            "targetCharacter": "岁"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#岁数",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5c81-2",
+          "text": "岁月",
+          "pinyin": "suì yuè",
+          "english": "years; passing time",
+          "readingId": "reading-5c81",
+          "context": {
+            "hanzi": "故事里写着岁月的变化。",
+            "english": "The story describes changes over the years.",
+            "targetCharacter": "岁"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#岁月",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 山 above 夕 in 岁.",
+        "demonstrationEnglish": "This is 岁. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5c81",
+        "delayedReview": {
+          "promptId": "later-5c81",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5c81"
+        }
+      },
+      "assets": [
+        "asset-glyph-5c81",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6625",
+      "hanzi": "春",
+      "readings": [
+        {
+          "readingId": "reading-6625",
+          "pinyin": "chūn",
+          "audioText": "春",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#春",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "spring",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#春",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6625-1",
+          "text": "春天",
+          "pinyin": "chūn tiān",
+          "english": "spring",
+          "readingId": "reading-6625",
+          "context": {
+            "hanzi": "春天，花园里的花开了。",
+            "english": "In spring, the garden's flowers bloom.",
+            "targetCharacter": "春"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#春天",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6625-2",
+          "text": "春雨",
+          "pinyin": "chūn yǔ",
+          "english": "spring rain",
+          "readingId": "reading-6625",
+          "context": {
+            "hanzi": "春雨轻轻落在小草上。",
+            "english": "Spring rain falls gently on the grass.",
+            "targetCharacter": "春"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#春雨",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 日 beneath the spreading middle strokes of 春.",
+        "demonstrationEnglish": "This is 春. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6625",
+        "delayedReview": {
+          "promptId": "later-6625",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6625"
+        }
+      },
+      "assets": [
+        "asset-glyph-6625",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-052-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5c81",
+        "familiar-6625"
+      ]
+    },
+    {
+      "stepId": "expansion-052-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-052-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-5c81",
+        "practice-two-5c81",
+        "practice-one-6625",
+        "practice-two-6625"
+      ]
+    },
+    {
+      "stepId": "expansion-052-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5c81",
+        "check-6625"
+      ]
+    },
+    {
+      "stepId": "expansion-052-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5c81",
+      "characterId": "char-5c81",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "岁"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5c81-choice-1",
+          "hanzi": "岁"
+        },
+        {
+          "choiceId": "familiar-5c81-choice-2",
+          "hanzi": "春"
+        },
+        {
+          "choiceId": "familiar-5c81-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5c81-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5c81-choice-1"
+    },
+    {
+      "checkId": "check-5c81",
+      "characterId": "char-5c81",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "岁"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5c81-choice-1",
+          "hanzi": "岁"
+        },
+        {
+          "choiceId": "check-5c81-choice-2",
+          "hanzi": "春"
+        },
+        {
+          "choiceId": "check-5c81-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5c81-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5c81-choice-1"
+    },
+    {
+      "checkId": "review-5c81",
+      "characterId": "char-5c81",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "岁"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5c81-choice-1",
+          "hanzi": "岁"
+        },
+        {
+          "choiceId": "review-5c81-choice-2",
+          "hanzi": "春"
+        },
+        {
+          "choiceId": "review-5c81-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5c81-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5c81-choice-1"
+    },
+    {
+      "checkId": "practice-one-5c81",
+      "characterId": "char-5c81",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "岁数"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5c81-choice-1",
+          "hanzi": "岁"
+        },
+        {
+          "choiceId": "practice-one-5c81-choice-2",
+          "hanzi": "春"
+        },
+        {
+          "choiceId": "practice-one-5c81-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5c81-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5c81-choice-1"
+    },
+    {
+      "checkId": "practice-two-5c81",
+      "characterId": "char-5c81",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "岁月"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5c81-choice-1",
+          "hanzi": "岁"
+        },
+        {
+          "choiceId": "practice-two-5c81-choice-2",
+          "hanzi": "春"
+        },
+        {
+          "choiceId": "practice-two-5c81-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5c81-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5c81-choice-1"
+    },
+    {
+      "checkId": "familiar-6625",
+      "characterId": "char-6625",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "春"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6625-choice-1",
+          "hanzi": "岁"
+        },
+        {
+          "choiceId": "familiar-6625-choice-2",
+          "hanzi": "春"
+        },
+        {
+          "choiceId": "familiar-6625-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6625-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6625-choice-2"
+    },
+    {
+      "checkId": "check-6625",
+      "characterId": "char-6625",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "春"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6625-choice-1",
+          "hanzi": "岁"
+        },
+        {
+          "choiceId": "check-6625-choice-2",
+          "hanzi": "春"
+        },
+        {
+          "choiceId": "check-6625-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6625-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6625-choice-2"
+    },
+    {
+      "checkId": "review-6625",
+      "characterId": "char-6625",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "春"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6625-choice-1",
+          "hanzi": "岁"
+        },
+        {
+          "choiceId": "review-6625-choice-2",
+          "hanzi": "春"
+        },
+        {
+          "choiceId": "review-6625-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6625-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6625-choice-2"
+    },
+    {
+      "checkId": "practice-one-6625",
+      "characterId": "char-6625",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "春天"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6625-choice-1",
+          "hanzi": "岁"
+        },
+        {
+          "choiceId": "practice-one-6625-choice-2",
+          "hanzi": "春"
+        },
+        {
+          "choiceId": "practice-one-6625-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6625-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6625-choice-2"
+    },
+    {
+      "checkId": "practice-two-6625",
+      "characterId": "char-6625",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "春雨"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6625-choice-1",
+          "hanzi": "岁"
+        },
+        {
+          "choiceId": "practice-two-6625-choice-2",
+          "hanzi": "春"
+        },
+        {
+          "choiceId": "practice-two-6625-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6625-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6625-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5c81",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-052-v1/char-5c81",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6625",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-052-v1/char-6625",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-052-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-052-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Seasons, weather and water: 岁 and 春",
+      "instructionEnglish": "Read two short word examples for 岁 and 春 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-5c81",
+        "readingId": "reading-5c81",
+        "familiarityCheckId": "familiar-5c81",
+        "practice": [
+          {
+            "wordId": "word-5c81-1",
+            "checkId": "practice-one-5c81"
+          },
+          {
+            "wordId": "word-5c81-2",
+            "checkId": "practice-two-5c81"
+          }
+        ],
+        "immediateCheckId": "check-5c81",
+        "reviewCheckId": "review-5c81"
+      },
+      {
+        "characterId": "char-6625",
+        "readingId": "reading-6625",
+        "familiarityCheckId": "familiar-6625",
+        "practice": [
+          {
+            "wordId": "word-6625-1",
+            "checkId": "practice-one-6625"
+          },
+          {
+            "wordId": "word-6625-2",
+            "checkId": "practice-two-6625"
+          }
+        ],
+        "immediateCheckId": "check-6625",
+        "reviewCheckId": "review-6625"
+      }
+    ],
+    "reader": {
+      "title": "Seasons, weather and water: 岁 and 春",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5c81-1",
+        "word-5c81-2",
+        "word-6625-1",
+        "word-6625-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5c81",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5c81",
+          "transcript": "岁",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5c81",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5c81",
+          "transcript": "岁",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5c81",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5c81",
+          "transcript": "岁",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5c81",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5c81",
+          "transcript": "岁数",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5c81",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5c81",
+          "transcript": "岁月",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5c81",
+          "readingId": "reading-5c81",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "岁",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5c81-1",
+          "readingId": null,
+          "wordId": "word-5c81-1",
+          "checkId": null,
+          "transcript": "我问小树的岁数。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5c81-2",
+          "readingId": null,
+          "wordId": "word-5c81-2",
+          "checkId": null,
+          "transcript": "故事里写着岁月的变化。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6625",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6625",
+          "transcript": "春",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6625",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6625",
+          "transcript": "春",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6625",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6625",
+          "transcript": "春",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6625",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6625",
+          "transcript": "春天",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6625",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6625",
+          "transcript": "春雨",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6625",
+          "readingId": "reading-6625",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "春",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6625-1",
+          "readingId": null,
+          "wordId": "word-6625-1",
+          "checkId": null,
+          "transcript": "春天，花园里的花开了。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6625-2",
+          "readingId": null,
+          "wordId": "word-6625-2",
+          "checkId": null,
+          "transcript": "春雨轻轻落在小草上。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-073",
+  "lessonVersion": "expansion-073-v1",
+  "title": "Metals, fruit and cooking: 杏 and 橙",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 133
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 杏 and 橙 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-674f",
+      "hanzi": "杏",
+      "readings": [
+        {
+          "readingId": "reading-674f",
+          "pinyin": "xìng",
+          "audioText": "杏",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#杏",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "apricot",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#杏",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-674f-1",
+          "text": "杏子",
+          "pinyin": "xìng zi",
+          "english": "apricots",
+          "readingId": "reading-674f",
+          "context": {
+            "hanzi": "碗里有杏子。",
+            "english": "The bowl holds apricots.",
+            "targetCharacter": "杏"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#杏子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-674f-2",
+          "text": "杏花",
+          "pinyin": "xìng huā",
+          "english": "apricot blossoms",
+          "readingId": "reading-674f",
+          "context": {
+            "hanzi": "花园里有杏花。",
+            "english": "The garden has apricot blossoms.",
+            "targetCharacter": "杏"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#杏花",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 木 above 口 in 杏.",
+        "demonstrationEnglish": "This is 杏. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-674f",
+        "delayedReview": {
+          "promptId": "later-674f",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-674f"
+        }
+      },
+      "assets": [
+        "asset-glyph-674f",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6a59",
+      "hanzi": "橙",
+      "readings": [
+        {
+          "readingId": "reading-6a59",
+          "pinyin": "chéng",
+          "audioText": "橙",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#橙",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "orange fruit",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#橙",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6a59-1",
+          "text": "橙子",
+          "pinyin": "chéng zi",
+          "english": "oranges",
+          "readingId": "reading-6a59",
+          "context": {
+            "hanzi": "篮子里装着橙子。",
+            "english": "The basket holds oranges.",
+            "targetCharacter": "橙"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#橙子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6a59-2",
+          "text": "橙汁",
+          "pinyin": "chéng zhī",
+          "english": "orange juice",
+          "readingId": "reading-6a59",
+          "context": {
+            "hanzi": "杯子里装着橙汁。",
+            "english": "The cup holds orange juice.",
+            "targetCharacter": "橙"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#橙汁",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 木 beside 登 in 橙.",
+        "demonstrationEnglish": "This is 橙. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6a59",
+        "delayedReview": {
+          "promptId": "later-6a59",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6a59"
+        }
+      },
+      "assets": [
+        "asset-glyph-6a59",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-073-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-674f",
+        "familiar-6a59"
+      ]
+    },
+    {
+      "stepId": "expansion-073-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-073-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-674f",
+        "practice-two-674f",
+        "practice-one-6a59",
+        "practice-two-6a59"
+      ]
+    },
+    {
+      "stepId": "expansion-073-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-674f",
+        "check-6a59"
+      ]
+    },
+    {
+      "stepId": "expansion-073-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-674f",
+      "characterId": "char-674f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "杏"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-674f-choice-1",
+          "hanzi": "杏"
+        },
+        {
+          "choiceId": "familiar-674f-choice-2",
+          "hanzi": "橙"
+        },
+        {
+          "choiceId": "familiar-674f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-674f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-674f-choice-1"
+    },
+    {
+      "checkId": "check-674f",
+      "characterId": "char-674f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "杏"
+      },
+      "choices": [
+        {
+          "choiceId": "check-674f-choice-1",
+          "hanzi": "杏"
+        },
+        {
+          "choiceId": "check-674f-choice-2",
+          "hanzi": "橙"
+        },
+        {
+          "choiceId": "check-674f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-674f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-674f-choice-1"
+    },
+    {
+      "checkId": "review-674f",
+      "characterId": "char-674f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "杏"
+      },
+      "choices": [
+        {
+          "choiceId": "review-674f-choice-1",
+          "hanzi": "杏"
+        },
+        {
+          "choiceId": "review-674f-choice-2",
+          "hanzi": "橙"
+        },
+        {
+          "choiceId": "review-674f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-674f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-674f-choice-1"
+    },
+    {
+      "checkId": "practice-one-674f",
+      "characterId": "char-674f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "杏子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-674f-choice-1",
+          "hanzi": "杏"
+        },
+        {
+          "choiceId": "practice-one-674f-choice-2",
+          "hanzi": "橙"
+        },
+        {
+          "choiceId": "practice-one-674f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-674f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-674f-choice-1"
+    },
+    {
+      "checkId": "practice-two-674f",
+      "characterId": "char-674f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "杏花"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-674f-choice-1",
+          "hanzi": "杏"
+        },
+        {
+          "choiceId": "practice-two-674f-choice-2",
+          "hanzi": "橙"
+        },
+        {
+          "choiceId": "practice-two-674f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-674f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-674f-choice-1"
+    },
+    {
+      "checkId": "familiar-6a59",
+      "characterId": "char-6a59",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "橙"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6a59-choice-1",
+          "hanzi": "杏"
+        },
+        {
+          "choiceId": "familiar-6a59-choice-2",
+          "hanzi": "橙"
+        },
+        {
+          "choiceId": "familiar-6a59-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6a59-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6a59-choice-2"
+    },
+    {
+      "checkId": "check-6a59",
+      "characterId": "char-6a59",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "橙"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6a59-choice-1",
+          "hanzi": "杏"
+        },
+        {
+          "choiceId": "check-6a59-choice-2",
+          "hanzi": "橙"
+        },
+        {
+          "choiceId": "check-6a59-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6a59-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6a59-choice-2"
+    },
+    {
+      "checkId": "review-6a59",
+      "characterId": "char-6a59",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "橙"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6a59-choice-1",
+          "hanzi": "杏"
+        },
+        {
+          "choiceId": "review-6a59-choice-2",
+          "hanzi": "橙"
+        },
+        {
+          "choiceId": "review-6a59-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6a59-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6a59-choice-2"
+    },
+    {
+      "checkId": "practice-one-6a59",
+      "characterId": "char-6a59",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "橙子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6a59-choice-1",
+          "hanzi": "杏"
+        },
+        {
+          "choiceId": "practice-one-6a59-choice-2",
+          "hanzi": "橙"
+        },
+        {
+          "choiceId": "practice-one-6a59-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6a59-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6a59-choice-2"
+    },
+    {
+      "checkId": "practice-two-6a59",
+      "characterId": "char-6a59",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "橙汁"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6a59-choice-1",
+          "hanzi": "杏"
+        },
+        {
+          "choiceId": "practice-two-6a59-choice-2",
+          "hanzi": "橙"
+        },
+        {
+          "choiceId": "practice-two-6a59-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6a59-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6a59-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-674f",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-073-v1/char-674f",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6a59",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-073-v1/char-6a59",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-073-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-073-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Metals, fruit and cooking: 杏 and 橙",
+      "instructionEnglish": "Read two short word examples for 杏 and 橙 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-674f",
+        "readingId": "reading-674f",
+        "familiarityCheckId": "familiar-674f",
+        "practice": [
+          {
+            "wordId": "word-674f-1",
+            "checkId": "practice-one-674f"
+          },
+          {
+            "wordId": "word-674f-2",
+            "checkId": "practice-two-674f"
+          }
+        ],
+        "immediateCheckId": "check-674f",
+        "reviewCheckId": "review-674f"
+      },
+      {
+        "characterId": "char-6a59",
+        "readingId": "reading-6a59",
+        "familiarityCheckId": "familiar-6a59",
+        "practice": [
+          {
+            "wordId": "word-6a59-1",
+            "checkId": "practice-one-6a59"
+          },
+          {
+            "wordId": "word-6a59-2",
+            "checkId": "practice-two-6a59"
+          }
+        ],
+        "immediateCheckId": "check-6a59",
+        "reviewCheckId": "review-6a59"
+      }
+    ],
+    "reader": {
+      "title": "Metals, fruit and cooking: 杏 and 橙",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-674f-1",
+        "word-674f-2",
+        "word-6a59-1",
+        "word-6a59-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-674f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-674f",
+          "transcript": "杏",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-674f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-674f",
+          "transcript": "杏",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-674f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-674f",
+          "transcript": "杏",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-674f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-674f",
+          "transcript": "杏子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-674f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-674f",
+          "transcript": "杏花",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-674f",
+          "readingId": "reading-674f",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "杏",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-674f-1",
+          "readingId": null,
+          "wordId": "word-674f-1",
+          "checkId": null,
+          "transcript": "碗里有杏子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-674f-2",
+          "readingId": null,
+          "wordId": "word-674f-2",
+          "checkId": null,
+          "transcript": "花园里有杏花。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6a59",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6a59",
+          "transcript": "橙",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6a59",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6a59",
+          "transcript": "橙",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6a59",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6a59",
+          "transcript": "橙",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6a59",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6a59",
+          "transcript": "橙子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6a59",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6a59",
+          "transcript": "橙汁",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6a59",
+          "readingId": "reading-6a59",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "橙",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6a59-1",
+          "readingId": null,
+          "wordId": "word-6a59-1",
+          "checkId": null,
+          "transcript": "篮子里装着橙子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6a59-2",
+          "readingId": null,
+          "wordId": "word-6a59-2",
+          "checkId": null,
+          "transcript": "杯子里装着橙汁。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

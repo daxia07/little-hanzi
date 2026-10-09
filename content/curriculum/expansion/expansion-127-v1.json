@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-127",
+  "lessonVersion": "expansion-127-v1",
+  "title": "Helping hands and tidying: 满 and 空",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 187
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 满 and 空 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-6ee1",
+      "hanzi": "满",
+      "readings": [
+        {
+          "readingId": "reading-6ee1",
+          "pinyin": "mǎn",
+          "audioText": "满",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#满",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "full",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#满",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6ee1-1",
+          "text": "满意",
+          "pinyin": "mǎn yì",
+          "english": "satisfied",
+          "readingId": "reading-6ee1",
+          "context": {
+            "hanzi": "故事里的小兔很满意。",
+            "english": "The little rabbit in the story is satisfied.",
+            "targetCharacter": "满"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#满意",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6ee1-2",
+          "text": "满足",
+          "pinyin": "mǎn zú",
+          "english": "contented",
+          "readingId": "reading-6ee1",
+          "context": {
+            "hanzi": "故事里的小兔很满足。",
+            "english": "The little rabbit in the story is contented.",
+            "targetCharacter": "满"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#满足",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 氵 on the left of 满.",
+        "demonstrationEnglish": "This is 满. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6ee1",
+        "delayedReview": {
+          "promptId": "later-6ee1",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6ee1"
+        }
+      },
+      "assets": [
+        "asset-glyph-6ee1",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-7a7a",
+      "hanzi": "空",
+      "readings": [
+        {
+          "readingId": "reading-7a7a",
+          "pinyin": "kōng",
+          "audioText": "空",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#空",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "empty; air; sky",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#空",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7a7a-1",
+          "text": "天空",
+          "pinyin": "tiān kōng",
+          "english": "the sky",
+          "readingId": "reading-7a7a",
+          "context": {
+            "hanzi": "我用彩笔画了天空。",
+            "english": "I draw the sky with coloured pens.",
+            "targetCharacter": "空"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#天空",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7a7a-2",
+          "text": "空气",
+          "pinyin": "kōng qì",
+          "english": "air",
+          "readingId": "reading-7a7a",
+          "context": {
+            "hanzi": "这本书介绍了空气。",
+            "english": "This book introduces air.",
+            "targetCharacter": "空"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#空气",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 穴 above 工 in 空.",
+        "demonstrationEnglish": "This is 空. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7a7a",
+        "delayedReview": {
+          "promptId": "later-7a7a",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7a7a"
+        }
+      },
+      "assets": [
+        "asset-glyph-7a7a",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-127-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-6ee1",
+        "familiar-7a7a"
+      ]
+    },
+    {
+      "stepId": "expansion-127-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-127-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-6ee1",
+        "practice-two-6ee1",
+        "practice-one-7a7a",
+        "practice-two-7a7a"
+      ]
+    },
+    {
+      "stepId": "expansion-127-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-6ee1",
+        "check-7a7a"
+      ]
+    },
+    {
+      "stepId": "expansion-127-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-6ee1",
+      "characterId": "char-6ee1",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "满"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6ee1-choice-1",
+          "hanzi": "满"
+        },
+        {
+          "choiceId": "familiar-6ee1-choice-2",
+          "hanzi": "空"
+        },
+        {
+          "choiceId": "familiar-6ee1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6ee1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6ee1-choice-1"
+    },
+    {
+      "checkId": "check-6ee1",
+      "characterId": "char-6ee1",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "满"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6ee1-choice-1",
+          "hanzi": "满"
+        },
+        {
+          "choiceId": "check-6ee1-choice-2",
+          "hanzi": "空"
+        },
+        {
+          "choiceId": "check-6ee1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6ee1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6ee1-choice-1"
+    },
+    {
+      "checkId": "review-6ee1",
+      "characterId": "char-6ee1",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "满"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6ee1-choice-1",
+          "hanzi": "满"
+        },
+        {
+          "choiceId": "review-6ee1-choice-2",
+          "hanzi": "空"
+        },
+        {
+          "choiceId": "review-6ee1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6ee1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6ee1-choice-1"
+    },
+    {
+      "checkId": "practice-one-6ee1",
+      "characterId": "char-6ee1",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "满意"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6ee1-choice-1",
+          "hanzi": "满"
+        },
+        {
+          "choiceId": "practice-one-6ee1-choice-2",
+          "hanzi": "空"
+        },
+        {
+          "choiceId": "practice-one-6ee1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6ee1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6ee1-choice-1"
+    },
+    {
+      "checkId": "practice-two-6ee1",
+      "characterId": "char-6ee1",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "满足"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6ee1-choice-1",
+          "hanzi": "满"
+        },
+        {
+          "choiceId": "practice-two-6ee1-choice-2",
+          "hanzi": "空"
+        },
+        {
+          "choiceId": "practice-two-6ee1-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6ee1-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6ee1-choice-1"
+    },
+    {
+      "checkId": "familiar-7a7a",
+      "characterId": "char-7a7a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "空"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7a7a-choice-1",
+          "hanzi": "满"
+        },
+        {
+          "choiceId": "familiar-7a7a-choice-2",
+          "hanzi": "空"
+        },
+        {
+          "choiceId": "familiar-7a7a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7a7a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7a7a-choice-2"
+    },
+    {
+      "checkId": "check-7a7a",
+      "characterId": "char-7a7a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "空"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7a7a-choice-1",
+          "hanzi": "满"
+        },
+        {
+          "choiceId": "check-7a7a-choice-2",
+          "hanzi": "空"
+        },
+        {
+          "choiceId": "check-7a7a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7a7a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7a7a-choice-2"
+    },
+    {
+      "checkId": "review-7a7a",
+      "characterId": "char-7a7a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "空"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7a7a-choice-1",
+          "hanzi": "满"
+        },
+        {
+          "choiceId": "review-7a7a-choice-2",
+          "hanzi": "空"
+        },
+        {
+          "choiceId": "review-7a7a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7a7a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7a7a-choice-2"
+    },
+    {
+      "checkId": "practice-one-7a7a",
+      "characterId": "char-7a7a",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "天空"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7a7a-choice-1",
+          "hanzi": "满"
+        },
+        {
+          "choiceId": "practice-one-7a7a-choice-2",
+          "hanzi": "空"
+        },
+        {
+          "choiceId": "practice-one-7a7a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7a7a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7a7a-choice-2"
+    },
+    {
+      "checkId": "practice-two-7a7a",
+      "characterId": "char-7a7a",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "空气"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7a7a-choice-1",
+          "hanzi": "满"
+        },
+        {
+          "choiceId": "practice-two-7a7a-choice-2",
+          "hanzi": "空"
+        },
+        {
+          "choiceId": "practice-two-7a7a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7a7a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7a7a-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-6ee1",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-127-v1/char-6ee1",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-7a7a",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-127-v1/char-7a7a",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-127-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-127-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Helping hands and tidying: 满 and 空",
+      "instructionEnglish": "Read two short word examples for 满 and 空 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-6ee1",
+        "readingId": "reading-6ee1",
+        "familiarityCheckId": "familiar-6ee1",
+        "practice": [
+          {
+            "wordId": "word-6ee1-1",
+            "checkId": "practice-one-6ee1"
+          },
+          {
+            "wordId": "word-6ee1-2",
+            "checkId": "practice-two-6ee1"
+          }
+        ],
+        "immediateCheckId": "check-6ee1",
+        "reviewCheckId": "review-6ee1"
+      },
+      {
+        "characterId": "char-7a7a",
+        "readingId": "reading-7a7a",
+        "familiarityCheckId": "familiar-7a7a",
+        "practice": [
+          {
+            "wordId": "word-7a7a-1",
+            "checkId": "practice-one-7a7a"
+          },
+          {
+            "wordId": "word-7a7a-2",
+            "checkId": "practice-two-7a7a"
+          }
+        ],
+        "immediateCheckId": "check-7a7a",
+        "reviewCheckId": "review-7a7a"
+      }
+    ],
+    "reader": {
+      "title": "Helping hands and tidying: 满 and 空",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-6ee1-1",
+        "word-6ee1-2",
+        "word-7a7a-1",
+        "word-7a7a-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-6ee1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6ee1",
+          "transcript": "满",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6ee1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6ee1",
+          "transcript": "满",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6ee1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6ee1",
+          "transcript": "满",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6ee1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6ee1",
+          "transcript": "满意",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6ee1",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6ee1",
+          "transcript": "满足",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6ee1",
+          "readingId": "reading-6ee1",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "满",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6ee1-1",
+          "readingId": null,
+          "wordId": "word-6ee1-1",
+          "checkId": null,
+          "transcript": "故事里的小兔很满意。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6ee1-2",
+          "readingId": null,
+          "wordId": "word-6ee1-2",
+          "checkId": null,
+          "transcript": "故事里的小兔很满足。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-7a7a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7a7a",
+          "transcript": "空",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7a7a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7a7a",
+          "transcript": "空",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7a7a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7a7a",
+          "transcript": "空",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7a7a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7a7a",
+          "transcript": "天空",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7a7a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7a7a",
+          "transcript": "空气",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7a7a",
+          "readingId": "reading-7a7a",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "空",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7a7a-1",
+          "readingId": null,
+          "wordId": "word-7a7a-1",
+          "checkId": null,
+          "transcript": "我用彩笔画了天空。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7a7a-2",
+          "readingId": null,
+          "wordId": "word-7a7a-2",
+          "checkId": null,
+          "transcript": "这本书介绍了空气。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

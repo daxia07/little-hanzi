@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-024",
+  "lessonVersion": "expansion-024-v1",
+  "title": "Questions, learning and helping: 想 and 知",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 84
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 想 and 知 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-60f3",
+      "hanzi": "想",
+      "readings": [
+        {
+          "readingId": "reading-60f3",
+          "pinyin": "xiǎng",
+          "audioText": "想",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#想",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "think; want",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#想",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-60f3-1",
+          "text": "想象",
+          "pinyin": "xiǎng xiàng",
+          "english": "imagine",
+          "readingId": "reading-60f3",
+          "context": {
+            "hanzi": "我想象小鸟飞过蓝天的样子。",
+            "english": "I imagine the little bird flying across the blue sky.",
+            "targetCharacter": "想"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#想象",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-60f3-2",
+          "text": "想念",
+          "pinyin": "xiǎng niàn",
+          "english": "miss; think of fondly",
+          "readingId": "reading-60f3",
+          "context": {
+            "hanzi": "我给想念的朋友写了一张卡片。",
+            "english": "I write a card to a friend I miss.",
+            "targetCharacter": "想"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#想念",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 心 below 相 in 想.",
+        "demonstrationEnglish": "This is 想. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-60f3",
+        "delayedReview": {
+          "promptId": "later-60f3",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-60f3"
+        }
+      },
+      "assets": [
+        "asset-glyph-60f3",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-77e5",
+      "hanzi": "知",
+      "readings": [
+        {
+          "readingId": "reading-77e5",
+          "pinyin": "zhī",
+          "audioText": "知",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#知",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "know",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#知",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-77e5-1",
+          "text": "知道",
+          "pinyin": "zhī dào",
+          "english": "know",
+          "readingId": "reading-77e5",
+          "context": {
+            "hanzi": "我知道这条小路通向公园。",
+            "english": "I know this path leads to the park.",
+            "targetCharacter": "知"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#知道",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-77e5-2",
+          "text": "知识",
+          "pinyin": "zhī shi",
+          "english": "knowledge",
+          "readingId": "reading-77e5",
+          "context": {
+            "hanzi": "我们从书里学到了新的知识。",
+            "english": "We learn new things from the book.",
+            "targetCharacter": "知"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#知识",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 矢 beside 口 in 知.",
+        "demonstrationEnglish": "This is 知. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-77e5",
+        "delayedReview": {
+          "promptId": "later-77e5",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-77e5"
+        }
+      },
+      "assets": [
+        "asset-glyph-77e5",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-024-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-60f3",
+        "familiar-77e5"
+      ]
+    },
+    {
+      "stepId": "expansion-024-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-024-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-60f3",
+        "practice-two-60f3",
+        "practice-one-77e5",
+        "practice-two-77e5"
+      ]
+    },
+    {
+      "stepId": "expansion-024-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-60f3",
+        "check-77e5"
+      ]
+    },
+    {
+      "stepId": "expansion-024-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-60f3",
+      "characterId": "char-60f3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "想"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-60f3-choice-1",
+          "hanzi": "想"
+        },
+        {
+          "choiceId": "familiar-60f3-choice-2",
+          "hanzi": "知"
+        },
+        {
+          "choiceId": "familiar-60f3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-60f3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-60f3-choice-1"
+    },
+    {
+      "checkId": "check-60f3",
+      "characterId": "char-60f3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "想"
+      },
+      "choices": [
+        {
+          "choiceId": "check-60f3-choice-1",
+          "hanzi": "想"
+        },
+        {
+          "choiceId": "check-60f3-choice-2",
+          "hanzi": "知"
+        },
+        {
+          "choiceId": "check-60f3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-60f3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-60f3-choice-1"
+    },
+    {
+      "checkId": "review-60f3",
+      "characterId": "char-60f3",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "想"
+      },
+      "choices": [
+        {
+          "choiceId": "review-60f3-choice-1",
+          "hanzi": "想"
+        },
+        {
+          "choiceId": "review-60f3-choice-2",
+          "hanzi": "知"
+        },
+        {
+          "choiceId": "review-60f3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-60f3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-60f3-choice-1"
+    },
+    {
+      "checkId": "practice-one-60f3",
+      "characterId": "char-60f3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "想象"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-60f3-choice-1",
+          "hanzi": "想"
+        },
+        {
+          "choiceId": "practice-one-60f3-choice-2",
+          "hanzi": "知"
+        },
+        {
+          "choiceId": "practice-one-60f3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-60f3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-60f3-choice-1"
+    },
+    {
+      "checkId": "practice-two-60f3",
+      "characterId": "char-60f3",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "想念"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-60f3-choice-1",
+          "hanzi": "想"
+        },
+        {
+          "choiceId": "practice-two-60f3-choice-2",
+          "hanzi": "知"
+        },
+        {
+          "choiceId": "practice-two-60f3-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-60f3-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-60f3-choice-1"
+    },
+    {
+      "checkId": "familiar-77e5",
+      "characterId": "char-77e5",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "知"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-77e5-choice-1",
+          "hanzi": "想"
+        },
+        {
+          "choiceId": "familiar-77e5-choice-2",
+          "hanzi": "知"
+        },
+        {
+          "choiceId": "familiar-77e5-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-77e5-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-77e5-choice-2"
+    },
+    {
+      "checkId": "check-77e5",
+      "characterId": "char-77e5",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "知"
+      },
+      "choices": [
+        {
+          "choiceId": "check-77e5-choice-1",
+          "hanzi": "想"
+        },
+        {
+          "choiceId": "check-77e5-choice-2",
+          "hanzi": "知"
+        },
+        {
+          "choiceId": "check-77e5-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-77e5-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-77e5-choice-2"
+    },
+    {
+      "checkId": "review-77e5",
+      "characterId": "char-77e5",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "知"
+      },
+      "choices": [
+        {
+          "choiceId": "review-77e5-choice-1",
+          "hanzi": "想"
+        },
+        {
+          "choiceId": "review-77e5-choice-2",
+          "hanzi": "知"
+        },
+        {
+          "choiceId": "review-77e5-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-77e5-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-77e5-choice-2"
+    },
+    {
+      "checkId": "practice-one-77e5",
+      "characterId": "char-77e5",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "知道"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-77e5-choice-1",
+          "hanzi": "想"
+        },
+        {
+          "choiceId": "practice-one-77e5-choice-2",
+          "hanzi": "知"
+        },
+        {
+          "choiceId": "practice-one-77e5-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-77e5-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-77e5-choice-2"
+    },
+    {
+      "checkId": "practice-two-77e5",
+      "characterId": "char-77e5",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "知识"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-77e5-choice-1",
+          "hanzi": "想"
+        },
+        {
+          "choiceId": "practice-two-77e5-choice-2",
+          "hanzi": "知"
+        },
+        {
+          "choiceId": "practice-two-77e5-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-77e5-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-77e5-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-60f3",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-024-v1/char-60f3",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-77e5",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-024-v1/char-77e5",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-024-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-024-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Questions, learning and helping: 想 and 知",
+      "instructionEnglish": "Read two short word examples for 想 and 知 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-60f3",
+        "readingId": "reading-60f3",
+        "familiarityCheckId": "familiar-60f3",
+        "practice": [
+          {
+            "wordId": "word-60f3-1",
+            "checkId": "practice-one-60f3"
+          },
+          {
+            "wordId": "word-60f3-2",
+            "checkId": "practice-two-60f3"
+          }
+        ],
+        "immediateCheckId": "check-60f3",
+        "reviewCheckId": "review-60f3"
+      },
+      {
+        "characterId": "char-77e5",
+        "readingId": "reading-77e5",
+        "familiarityCheckId": "familiar-77e5",
+        "practice": [
+          {
+            "wordId": "word-77e5-1",
+            "checkId": "practice-one-77e5"
+          },
+          {
+            "wordId": "word-77e5-2",
+            "checkId": "practice-two-77e5"
+          }
+        ],
+        "immediateCheckId": "check-77e5",
+        "reviewCheckId": "review-77e5"
+      }
+    ],
+    "reader": {
+      "title": "Questions, learning and helping: 想 and 知",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-60f3-1",
+        "word-60f3-2",
+        "word-77e5-1",
+        "word-77e5-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-60f3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-60f3",
+          "transcript": "想",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-60f3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-60f3",
+          "transcript": "想",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-60f3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-60f3",
+          "transcript": "想",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-60f3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-60f3",
+          "transcript": "想象",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-60f3",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-60f3",
+          "transcript": "想念",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-60f3",
+          "readingId": "reading-60f3",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "想",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-60f3-1",
+          "readingId": null,
+          "wordId": "word-60f3-1",
+          "checkId": null,
+          "transcript": "我想象小鸟飞过蓝天的样子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-60f3-2",
+          "readingId": null,
+          "wordId": "word-60f3-2",
+          "checkId": null,
+          "transcript": "我给想念的朋友写了一张卡片。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-77e5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-77e5",
+          "transcript": "知",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-77e5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-77e5",
+          "transcript": "知",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-77e5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-77e5",
+          "transcript": "知",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-77e5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-77e5",
+          "transcript": "知道",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-77e5",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-77e5",
+          "transcript": "知识",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-77e5",
+          "readingId": "reading-77e5",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "知",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-77e5-1",
+          "readingId": null,
+          "wordId": "word-77e5-1",
+          "checkId": null,
+          "transcript": "我知道这条小路通向公园。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-77e5-2",
+          "readingId": null,
+          "wordId": "word-77e5-2",
+          "checkId": null,
+          "transcript": "我们从书里学到了新的知识。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

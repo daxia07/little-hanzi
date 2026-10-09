@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-020",
+  "lessonVersion": "expansion-020-v1",
+  "title": "Moving and doing: 游 and 爬",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 80
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 游 and 爬 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-6e38",
+      "hanzi": "游",
+      "readings": [
+        {
+          "readingId": "reading-6e38",
+          "pinyin": "yóu",
+          "audioText": "游",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#游",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "swim; travel",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#游",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6e38-1",
+          "text": "游泳",
+          "pinyin": "yóu yǒng",
+          "english": "swim",
+          "readingId": "reading-6e38",
+          "context": {
+            "hanzi": "小鸭在池塘里游泳。",
+            "english": "The duckling swims in the pond.",
+            "targetCharacter": "游"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#游泳",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6e38-2",
+          "text": "游戏",
+          "pinyin": "yóu xì",
+          "english": "game",
+          "readingId": "reading-6e38",
+          "context": {
+            "hanzi": "我们选了一个大家都喜欢的游戏。",
+            "english": "We choose a game everyone likes.",
+            "targetCharacter": "游"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#游戏",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find the three water dots 氵 on the left of 游.",
+        "demonstrationEnglish": "This is 游. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6e38",
+        "delayedReview": {
+          "promptId": "later-6e38",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6e38"
+        }
+      },
+      "assets": [
+        "asset-glyph-6e38",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-722c",
+      "hanzi": "爬",
+      "readings": [
+        {
+          "readingId": "reading-722c",
+          "pinyin": "pá",
+          "audioText": "爬",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#爬",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "climb; crawl",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#爬",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-722c-1",
+          "text": "爬山",
+          "pinyin": "pá shān",
+          "english": "climb a hill",
+          "readingId": "reading-722c",
+          "context": {
+            "hanzi": "天气好的时候，我们和大人一起爬山。",
+            "english": "When the weather is good, we climb a hill with adults.",
+            "targetCharacter": "爬"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#爬山",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-722c-2",
+          "text": "爬行",
+          "pinyin": "pá xíng",
+          "english": "crawl",
+          "readingId": "reading-722c",
+          "context": {
+            "hanzi": "小乌龟在草地上慢慢爬行。",
+            "english": "The little turtle slowly crawls across the grass.",
+            "targetCharacter": "爬"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#爬行",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 爪 beside 巴 in 爬.",
+        "demonstrationEnglish": "This is 爬. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-722c",
+        "delayedReview": {
+          "promptId": "later-722c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-722c"
+        }
+      },
+      "assets": [
+        "asset-glyph-722c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-020-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-6e38",
+        "familiar-722c"
+      ]
+    },
+    {
+      "stepId": "expansion-020-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-020-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-6e38",
+        "practice-two-6e38",
+        "practice-one-722c",
+        "practice-two-722c"
+      ]
+    },
+    {
+      "stepId": "expansion-020-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-6e38",
+        "check-722c"
+      ]
+    },
+    {
+      "stepId": "expansion-020-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-6e38",
+      "characterId": "char-6e38",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "游"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6e38-choice-1",
+          "hanzi": "游"
+        },
+        {
+          "choiceId": "familiar-6e38-choice-2",
+          "hanzi": "爬"
+        },
+        {
+          "choiceId": "familiar-6e38-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6e38-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6e38-choice-1"
+    },
+    {
+      "checkId": "check-6e38",
+      "characterId": "char-6e38",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "游"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6e38-choice-1",
+          "hanzi": "游"
+        },
+        {
+          "choiceId": "check-6e38-choice-2",
+          "hanzi": "爬"
+        },
+        {
+          "choiceId": "check-6e38-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6e38-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6e38-choice-1"
+    },
+    {
+      "checkId": "review-6e38",
+      "characterId": "char-6e38",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "游"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6e38-choice-1",
+          "hanzi": "游"
+        },
+        {
+          "choiceId": "review-6e38-choice-2",
+          "hanzi": "爬"
+        },
+        {
+          "choiceId": "review-6e38-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6e38-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6e38-choice-1"
+    },
+    {
+      "checkId": "practice-one-6e38",
+      "characterId": "char-6e38",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "游泳"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6e38-choice-1",
+          "hanzi": "游"
+        },
+        {
+          "choiceId": "practice-one-6e38-choice-2",
+          "hanzi": "爬"
+        },
+        {
+          "choiceId": "practice-one-6e38-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6e38-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6e38-choice-1"
+    },
+    {
+      "checkId": "practice-two-6e38",
+      "characterId": "char-6e38",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "游戏"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6e38-choice-1",
+          "hanzi": "游"
+        },
+        {
+          "choiceId": "practice-two-6e38-choice-2",
+          "hanzi": "爬"
+        },
+        {
+          "choiceId": "practice-two-6e38-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6e38-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6e38-choice-1"
+    },
+    {
+      "checkId": "familiar-722c",
+      "characterId": "char-722c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "爬"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-722c-choice-1",
+          "hanzi": "游"
+        },
+        {
+          "choiceId": "familiar-722c-choice-2",
+          "hanzi": "爬"
+        },
+        {
+          "choiceId": "familiar-722c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-722c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-722c-choice-2"
+    },
+    {
+      "checkId": "check-722c",
+      "characterId": "char-722c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "爬"
+      },
+      "choices": [
+        {
+          "choiceId": "check-722c-choice-1",
+          "hanzi": "游"
+        },
+        {
+          "choiceId": "check-722c-choice-2",
+          "hanzi": "爬"
+        },
+        {
+          "choiceId": "check-722c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-722c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-722c-choice-2"
+    },
+    {
+      "checkId": "review-722c",
+      "characterId": "char-722c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "爬"
+      },
+      "choices": [
+        {
+          "choiceId": "review-722c-choice-1",
+          "hanzi": "游"
+        },
+        {
+          "choiceId": "review-722c-choice-2",
+          "hanzi": "爬"
+        },
+        {
+          "choiceId": "review-722c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-722c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-722c-choice-2"
+    },
+    {
+      "checkId": "practice-one-722c",
+      "characterId": "char-722c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "爬山"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-722c-choice-1",
+          "hanzi": "游"
+        },
+        {
+          "choiceId": "practice-one-722c-choice-2",
+          "hanzi": "爬"
+        },
+        {
+          "choiceId": "practice-one-722c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-722c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-722c-choice-2"
+    },
+    {
+      "checkId": "practice-two-722c",
+      "characterId": "char-722c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "爬行"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-722c-choice-1",
+          "hanzi": "游"
+        },
+        {
+          "choiceId": "practice-two-722c-choice-2",
+          "hanzi": "爬"
+        },
+        {
+          "choiceId": "practice-two-722c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-722c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-722c-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-6e38",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-020-v1/char-6e38",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-722c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-020-v1/char-722c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-020-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-020-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Moving and doing: 游 and 爬",
+      "instructionEnglish": "Read two short word examples for 游 and 爬 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-6e38",
+        "readingId": "reading-6e38",
+        "familiarityCheckId": "familiar-6e38",
+        "practice": [
+          {
+            "wordId": "word-6e38-1",
+            "checkId": "practice-one-6e38"
+          },
+          {
+            "wordId": "word-6e38-2",
+            "checkId": "practice-two-6e38"
+          }
+        ],
+        "immediateCheckId": "check-6e38",
+        "reviewCheckId": "review-6e38"
+      },
+      {
+        "characterId": "char-722c",
+        "readingId": "reading-722c",
+        "familiarityCheckId": "familiar-722c",
+        "practice": [
+          {
+            "wordId": "word-722c-1",
+            "checkId": "practice-one-722c"
+          },
+          {
+            "wordId": "word-722c-2",
+            "checkId": "practice-two-722c"
+          }
+        ],
+        "immediateCheckId": "check-722c",
+        "reviewCheckId": "review-722c"
+      }
+    ],
+    "reader": {
+      "title": "Moving and doing: 游 and 爬",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-6e38-1",
+        "word-6e38-2",
+        "word-722c-1",
+        "word-722c-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-6e38",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6e38",
+          "transcript": "游",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6e38",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6e38",
+          "transcript": "游",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6e38",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6e38",
+          "transcript": "游",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6e38",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6e38",
+          "transcript": "游泳",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6e38",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6e38",
+          "transcript": "游戏",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6e38",
+          "readingId": "reading-6e38",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "游",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6e38-1",
+          "readingId": null,
+          "wordId": "word-6e38-1",
+          "checkId": null,
+          "transcript": "小鸭在池塘里游泳。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6e38-2",
+          "readingId": null,
+          "wordId": "word-6e38-2",
+          "checkId": null,
+          "transcript": "我们选了一个大家都喜欢的游戏。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-722c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-722c",
+          "transcript": "爬",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-722c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-722c",
+          "transcript": "爬",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-722c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-722c",
+          "transcript": "爬",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-722c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-722c",
+          "transcript": "爬山",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-722c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-722c",
+          "transcript": "爬行",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-722c",
+          "readingId": "reading-722c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "爬",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-722c-1",
+          "readingId": null,
+          "wordId": "word-722c-1",
+          "checkId": null,
+          "transcript": "天气好的时候，我们和大人一起爬山。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-722c-2",
+          "readingId": null,
+          "wordId": "word-722c-2",
+          "checkId": null,
+          "transcript": "小乌龟在草地上慢慢爬行。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

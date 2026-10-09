@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-116",
+  "lessonVersion": "expansion-116-v1",
+  "title": "Art, music and games: 卡 and 拍",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 176
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 卡 and 拍 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5361",
+      "hanzi": "卡",
+      "readings": [
+        {
+          "readingId": "reading-5361",
+          "pinyin": "kǎ",
+          "audioText": "卡",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#卡",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "card",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#卡",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5361-1",
+          "text": "卡片",
+          "pinyin": "kǎ piàn",
+          "english": "a card",
+          "readingId": "reading-5361",
+          "context": {
+            "hanzi": "我们把卡片放进小盒子。",
+            "english": "We put a card into a small box.",
+            "targetCharacter": "卡"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#卡片",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5361-2",
+          "text": "卡车",
+          "pinyin": "kǎ chē",
+          "english": "a lorry",
+          "readingId": "reading-5361",
+          "context": {
+            "hanzi": "我在图画里看到了卡车。",
+            "english": "I see a lorry in the picture.",
+            "targetCharacter": "卡"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#卡车",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 上 above 卜 in 卡.",
+        "demonstrationEnglish": "This is 卡. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5361",
+        "delayedReview": {
+          "promptId": "later-5361",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5361"
+        }
+      },
+      "assets": [
+        "asset-glyph-5361",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-62cd",
+      "hanzi": "拍",
+      "readings": [
+        {
+          "readingId": "reading-62cd",
+          "pinyin": "pāi",
+          "audioText": "拍",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拍",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "pat; clap; photograph",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拍",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-62cd-1",
+          "text": "拍手",
+          "pinyin": "pāi shǒu",
+          "english": "clap one's hands",
+          "readingId": "reading-62cd",
+          "context": {
+            "hanzi": "我们一起拍手。",
+            "english": "We clap our hands together.",
+            "targetCharacter": "拍"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拍手",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-62cd-2",
+          "text": "拍照",
+          "pinyin": "pāi zhào",
+          "english": "take photographs",
+          "readingId": "reading-62cd",
+          "context": {
+            "hanzi": "我们一起拍照。",
+            "english": "We take photographs together.",
+            "targetCharacter": "拍"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拍照",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 扌 beside 白 in 拍.",
+        "demonstrationEnglish": "This is 拍. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-62cd",
+        "delayedReview": {
+          "promptId": "later-62cd",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-62cd"
+        }
+      },
+      "assets": [
+        "asset-glyph-62cd",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-116-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5361",
+        "familiar-62cd"
+      ]
+    },
+    {
+      "stepId": "expansion-116-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-116-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-5361",
+        "practice-two-5361",
+        "practice-one-62cd",
+        "practice-two-62cd"
+      ]
+    },
+    {
+      "stepId": "expansion-116-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5361",
+        "check-62cd"
+      ]
+    },
+    {
+      "stepId": "expansion-116-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5361",
+      "characterId": "char-5361",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "卡"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5361-choice-1",
+          "hanzi": "卡"
+        },
+        {
+          "choiceId": "familiar-5361-choice-2",
+          "hanzi": "拍"
+        },
+        {
+          "choiceId": "familiar-5361-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5361-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5361-choice-1"
+    },
+    {
+      "checkId": "check-5361",
+      "characterId": "char-5361",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "卡"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5361-choice-1",
+          "hanzi": "卡"
+        },
+        {
+          "choiceId": "check-5361-choice-2",
+          "hanzi": "拍"
+        },
+        {
+          "choiceId": "check-5361-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5361-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5361-choice-1"
+    },
+    {
+      "checkId": "review-5361",
+      "characterId": "char-5361",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "卡"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5361-choice-1",
+          "hanzi": "卡"
+        },
+        {
+          "choiceId": "review-5361-choice-2",
+          "hanzi": "拍"
+        },
+        {
+          "choiceId": "review-5361-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5361-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5361-choice-1"
+    },
+    {
+      "checkId": "practice-one-5361",
+      "characterId": "char-5361",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "卡片"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5361-choice-1",
+          "hanzi": "卡"
+        },
+        {
+          "choiceId": "practice-one-5361-choice-2",
+          "hanzi": "拍"
+        },
+        {
+          "choiceId": "practice-one-5361-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5361-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5361-choice-1"
+    },
+    {
+      "checkId": "practice-two-5361",
+      "characterId": "char-5361",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "卡车"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5361-choice-1",
+          "hanzi": "卡"
+        },
+        {
+          "choiceId": "practice-two-5361-choice-2",
+          "hanzi": "拍"
+        },
+        {
+          "choiceId": "practice-two-5361-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5361-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5361-choice-1"
+    },
+    {
+      "checkId": "familiar-62cd",
+      "characterId": "char-62cd",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "拍"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-62cd-choice-1",
+          "hanzi": "卡"
+        },
+        {
+          "choiceId": "familiar-62cd-choice-2",
+          "hanzi": "拍"
+        },
+        {
+          "choiceId": "familiar-62cd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-62cd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-62cd-choice-2"
+    },
+    {
+      "checkId": "check-62cd",
+      "characterId": "char-62cd",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "拍"
+      },
+      "choices": [
+        {
+          "choiceId": "check-62cd-choice-1",
+          "hanzi": "卡"
+        },
+        {
+          "choiceId": "check-62cd-choice-2",
+          "hanzi": "拍"
+        },
+        {
+          "choiceId": "check-62cd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-62cd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-62cd-choice-2"
+    },
+    {
+      "checkId": "review-62cd",
+      "characterId": "char-62cd",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "拍"
+      },
+      "choices": [
+        {
+          "choiceId": "review-62cd-choice-1",
+          "hanzi": "卡"
+        },
+        {
+          "choiceId": "review-62cd-choice-2",
+          "hanzi": "拍"
+        },
+        {
+          "choiceId": "review-62cd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-62cd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-62cd-choice-2"
+    },
+    {
+      "checkId": "practice-one-62cd",
+      "characterId": "char-62cd",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "拍手"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-62cd-choice-1",
+          "hanzi": "卡"
+        },
+        {
+          "choiceId": "practice-one-62cd-choice-2",
+          "hanzi": "拍"
+        },
+        {
+          "choiceId": "practice-one-62cd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-62cd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-62cd-choice-2"
+    },
+    {
+      "checkId": "practice-two-62cd",
+      "characterId": "char-62cd",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "拍照"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-62cd-choice-1",
+          "hanzi": "卡"
+        },
+        {
+          "choiceId": "practice-two-62cd-choice-2",
+          "hanzi": "拍"
+        },
+        {
+          "choiceId": "practice-two-62cd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-62cd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-62cd-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5361",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-116-v1/char-5361",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-62cd",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-116-v1/char-62cd",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-116-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-116-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Art, music and games: 卡 and 拍",
+      "instructionEnglish": "Read two short word examples for 卡 and 拍 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-5361",
+        "readingId": "reading-5361",
+        "familiarityCheckId": "familiar-5361",
+        "practice": [
+          {
+            "wordId": "word-5361-1",
+            "checkId": "practice-one-5361"
+          },
+          {
+            "wordId": "word-5361-2",
+            "checkId": "practice-two-5361"
+          }
+        ],
+        "immediateCheckId": "check-5361",
+        "reviewCheckId": "review-5361"
+      },
+      {
+        "characterId": "char-62cd",
+        "readingId": "reading-62cd",
+        "familiarityCheckId": "familiar-62cd",
+        "practice": [
+          {
+            "wordId": "word-62cd-1",
+            "checkId": "practice-one-62cd"
+          },
+          {
+            "wordId": "word-62cd-2",
+            "checkId": "practice-two-62cd"
+          }
+        ],
+        "immediateCheckId": "check-62cd",
+        "reviewCheckId": "review-62cd"
+      }
+    ],
+    "reader": {
+      "title": "Art, music and games: 卡 and 拍",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5361-1",
+        "word-5361-2",
+        "word-62cd-1",
+        "word-62cd-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5361",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5361",
+          "transcript": "卡",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5361",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5361",
+          "transcript": "卡",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5361",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5361",
+          "transcript": "卡",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5361",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5361",
+          "transcript": "卡片",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5361",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5361",
+          "transcript": "卡车",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5361",
+          "readingId": "reading-5361",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "卡",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5361-1",
+          "readingId": null,
+          "wordId": "word-5361-1",
+          "checkId": null,
+          "transcript": "我们把卡片放进小盒子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5361-2",
+          "readingId": null,
+          "wordId": "word-5361-2",
+          "checkId": null,
+          "transcript": "我在图画里看到了卡车。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-62cd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-62cd",
+          "transcript": "拍",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-62cd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-62cd",
+          "transcript": "拍",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-62cd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-62cd",
+          "transcript": "拍",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-62cd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-62cd",
+          "transcript": "拍手",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-62cd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-62cd",
+          "transcript": "拍照",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-62cd",
+          "readingId": "reading-62cd",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "拍",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-62cd-1",
+          "readingId": null,
+          "wordId": "word-62cd-1",
+          "checkId": null,
+          "transcript": "我们一起拍手。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-62cd-2",
+          "readingId": null,
+          "wordId": "word-62cd-2",
+          "checkId": null,
+          "transcript": "我们一起拍照。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

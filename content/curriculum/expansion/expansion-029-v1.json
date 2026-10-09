@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-029",
+  "lessonVersion": "expansion-029-v1",
+  "title": "Questions, learning and helping: 欢 and 帮",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 89
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 欢 and 帮 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-6b22",
+      "hanzi": "欢",
+      "readings": [
+        {
+          "readingId": "reading-6b22",
+          "pinyin": "huān",
+          "audioText": "欢",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#欢",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "happy; welcome",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#欢",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6b22-1",
+          "text": "欢迎",
+          "pinyin": "huān yíng",
+          "english": "welcome",
+          "readingId": "reading-6b22",
+          "context": {
+            "hanzi": "我们欢迎新朋友加入游戏。",
+            "english": "We welcome a new friend to the game.",
+            "targetCharacter": "欢"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#欢迎",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6b22-2",
+          "text": "欢乐",
+          "pinyin": "huān lè",
+          "english": "joy; happy",
+          "readingId": "reading-6b22",
+          "context": {
+            "hanzi": "院子里传来欢乐的笑声。",
+            "english": "Happy laughter comes from the yard.",
+            "targetCharacter": "欢"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#欢乐",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 又 beside 欠 in 欢.",
+        "demonstrationEnglish": "This is 欢. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6b22",
+        "delayedReview": {
+          "promptId": "later-6b22",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6b22"
+        }
+      },
+      "assets": [
+        "asset-glyph-6b22",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5e2e",
+      "hanzi": "帮",
+      "readings": [
+        {
+          "readingId": "reading-5e2e",
+          "pinyin": "bāng",
+          "audioText": "帮",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#帮",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "help",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#帮",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5e2e-1",
+          "text": "帮助",
+          "pinyin": "bāng zhù",
+          "english": "help",
+          "readingId": "reading-5e2e",
+          "context": {
+            "hanzi": "我帮助朋友收拾书包。",
+            "english": "I help my friend pack a school bag.",
+            "targetCharacter": "帮"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#帮助",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5e2e-2",
+          "text": "帮忙",
+          "pinyin": "bāng máng",
+          "english": "lend a hand",
+          "readingId": "reading-5e2e",
+          "context": {
+            "hanzi": "小猫的垫子湿了，我来帮忙。",
+            "english": "The kitten's cushion is wet; I come to help.",
+            "targetCharacter": "帮"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#帮忙",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 巾 at the bottom of 帮.",
+        "demonstrationEnglish": "This is 帮. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5e2e",
+        "delayedReview": {
+          "promptId": "later-5e2e",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5e2e"
+        }
+      },
+      "assets": [
+        "asset-glyph-5e2e",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-029-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-6b22",
+        "familiar-5e2e"
+      ]
+    },
+    {
+      "stepId": "expansion-029-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-029-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-6b22",
+        "practice-two-6b22",
+        "practice-one-5e2e",
+        "practice-two-5e2e"
+      ]
+    },
+    {
+      "stepId": "expansion-029-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-6b22",
+        "check-5e2e"
+      ]
+    },
+    {
+      "stepId": "expansion-029-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-6b22",
+      "characterId": "char-6b22",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "欢"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6b22-choice-1",
+          "hanzi": "欢"
+        },
+        {
+          "choiceId": "familiar-6b22-choice-2",
+          "hanzi": "帮"
+        },
+        {
+          "choiceId": "familiar-6b22-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6b22-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6b22-choice-1"
+    },
+    {
+      "checkId": "check-6b22",
+      "characterId": "char-6b22",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "欢"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6b22-choice-1",
+          "hanzi": "欢"
+        },
+        {
+          "choiceId": "check-6b22-choice-2",
+          "hanzi": "帮"
+        },
+        {
+          "choiceId": "check-6b22-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6b22-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6b22-choice-1"
+    },
+    {
+      "checkId": "review-6b22",
+      "characterId": "char-6b22",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "欢"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6b22-choice-1",
+          "hanzi": "欢"
+        },
+        {
+          "choiceId": "review-6b22-choice-2",
+          "hanzi": "帮"
+        },
+        {
+          "choiceId": "review-6b22-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6b22-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6b22-choice-1"
+    },
+    {
+      "checkId": "practice-one-6b22",
+      "characterId": "char-6b22",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "欢迎"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6b22-choice-1",
+          "hanzi": "欢"
+        },
+        {
+          "choiceId": "practice-one-6b22-choice-2",
+          "hanzi": "帮"
+        },
+        {
+          "choiceId": "practice-one-6b22-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6b22-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6b22-choice-1"
+    },
+    {
+      "checkId": "practice-two-6b22",
+      "characterId": "char-6b22",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "欢乐"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6b22-choice-1",
+          "hanzi": "欢"
+        },
+        {
+          "choiceId": "practice-two-6b22-choice-2",
+          "hanzi": "帮"
+        },
+        {
+          "choiceId": "practice-two-6b22-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6b22-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6b22-choice-1"
+    },
+    {
+      "checkId": "familiar-5e2e",
+      "characterId": "char-5e2e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "帮"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5e2e-choice-1",
+          "hanzi": "欢"
+        },
+        {
+          "choiceId": "familiar-5e2e-choice-2",
+          "hanzi": "帮"
+        },
+        {
+          "choiceId": "familiar-5e2e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5e2e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5e2e-choice-2"
+    },
+    {
+      "checkId": "check-5e2e",
+      "characterId": "char-5e2e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "帮"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5e2e-choice-1",
+          "hanzi": "欢"
+        },
+        {
+          "choiceId": "check-5e2e-choice-2",
+          "hanzi": "帮"
+        },
+        {
+          "choiceId": "check-5e2e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5e2e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5e2e-choice-2"
+    },
+    {
+      "checkId": "review-5e2e",
+      "characterId": "char-5e2e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "帮"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5e2e-choice-1",
+          "hanzi": "欢"
+        },
+        {
+          "choiceId": "review-5e2e-choice-2",
+          "hanzi": "帮"
+        },
+        {
+          "choiceId": "review-5e2e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5e2e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5e2e-choice-2"
+    },
+    {
+      "checkId": "practice-one-5e2e",
+      "characterId": "char-5e2e",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "帮助"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5e2e-choice-1",
+          "hanzi": "欢"
+        },
+        {
+          "choiceId": "practice-one-5e2e-choice-2",
+          "hanzi": "帮"
+        },
+        {
+          "choiceId": "practice-one-5e2e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5e2e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5e2e-choice-2"
+    },
+    {
+      "checkId": "practice-two-5e2e",
+      "characterId": "char-5e2e",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "帮忙"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5e2e-choice-1",
+          "hanzi": "欢"
+        },
+        {
+          "choiceId": "practice-two-5e2e-choice-2",
+          "hanzi": "帮"
+        },
+        {
+          "choiceId": "practice-two-5e2e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5e2e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5e2e-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-6b22",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-029-v1/char-6b22",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5e2e",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-029-v1/char-5e2e",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-029-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-029-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Questions, learning and helping: 欢 and 帮",
+      "instructionEnglish": "Read two short word examples for 欢 and 帮 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-6b22",
+        "readingId": "reading-6b22",
+        "familiarityCheckId": "familiar-6b22",
+        "practice": [
+          {
+            "wordId": "word-6b22-1",
+            "checkId": "practice-one-6b22"
+          },
+          {
+            "wordId": "word-6b22-2",
+            "checkId": "practice-two-6b22"
+          }
+        ],
+        "immediateCheckId": "check-6b22",
+        "reviewCheckId": "review-6b22"
+      },
+      {
+        "characterId": "char-5e2e",
+        "readingId": "reading-5e2e",
+        "familiarityCheckId": "familiar-5e2e",
+        "practice": [
+          {
+            "wordId": "word-5e2e-1",
+            "checkId": "practice-one-5e2e"
+          },
+          {
+            "wordId": "word-5e2e-2",
+            "checkId": "practice-two-5e2e"
+          }
+        ],
+        "immediateCheckId": "check-5e2e",
+        "reviewCheckId": "review-5e2e"
+      }
+    ],
+    "reader": {
+      "title": "Questions, learning and helping: 欢 and 帮",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-6b22-1",
+        "word-6b22-2",
+        "word-5e2e-1",
+        "word-5e2e-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-6b22",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6b22",
+          "transcript": "欢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6b22",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6b22",
+          "transcript": "欢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6b22",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6b22",
+          "transcript": "欢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6b22",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6b22",
+          "transcript": "欢迎",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6b22",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6b22",
+          "transcript": "欢乐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6b22",
+          "readingId": "reading-6b22",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "欢",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6b22-1",
+          "readingId": null,
+          "wordId": "word-6b22-1",
+          "checkId": null,
+          "transcript": "我们欢迎新朋友加入游戏。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6b22-2",
+          "readingId": null,
+          "wordId": "word-6b22-2",
+          "checkId": null,
+          "transcript": "院子里传来欢乐的笑声。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5e2e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5e2e",
+          "transcript": "帮",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5e2e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5e2e",
+          "transcript": "帮",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5e2e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5e2e",
+          "transcript": "帮",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5e2e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5e2e",
+          "transcript": "帮助",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5e2e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5e2e",
+          "transcript": "帮忙",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5e2e",
+          "readingId": "reading-5e2e",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "帮",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5e2e-1",
+          "readingId": null,
+          "wordId": "word-5e2e-1",
+          "checkId": null,
+          "transcript": "我帮助朋友收拾书包。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5e2e-2",
+          "readingId": null,
+          "wordId": "word-5e2e-2",
+          "checkId": null,
+          "transcript": "小猫的垫子湿了，我来帮忙。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "people-06",
+  "lessonVersion": "people-06-v1",
+  "title": "Here and this",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 56
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Tidy the table with our capybara. Read words for now and this.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5728",
+      "hanzi": "在",
+      "readings": [
+        {
+          "readingId": "reading-5728",
+          "pinyin": "zài",
+          "audioText": "在",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#在",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "at; located at; action in progress",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#在",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5728-1",
+          "text": "现在",
+          "pinyin": "xiàn zài",
+          "english": "now",
+          "readingId": "reading-5728",
+          "context": {
+            "hanzi": "现在我们把桌子收拾好。",
+            "english": "Now we tidy the table.",
+            "targetCharacter": "在"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#现在",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5728-2",
+          "text": "在场",
+          "pinyin": "zài chǎng",
+          "english": "be present",
+          "readingId": "reading-5728",
+          "context": {
+            "hanzi": "表演开始时，老师也在场。",
+            "english": "The teacher is also present when the performance starts.",
+            "targetCharacter": "在"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#在场",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 土 at the lower right of 在.",
+        "demonstrationEnglish": "This is 在. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5728",
+        "delayedReview": {
+          "promptId": "later-5728",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5728"
+        }
+      },
+      "assets": [
+        "asset-glyph-5728",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-8fd9",
+      "hanzi": "这",
+      "readings": [
+        {
+          "readingId": "reading-8fd9",
+          "pinyin": "zhè",
+          "audioText": "这",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#这",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "this; these",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#这",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8fd9-1",
+          "text": "这个",
+          "pinyin": "zhè ge",
+          "english": "this one",
+          "readingId": "reading-8fd9",
+          "context": {
+            "hanzi": "这个盒子里装着铅笔。",
+            "english": "This box holds pencils.",
+            "targetCharacter": "这"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#这个",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8fd9-2",
+          "text": "这样",
+          "pinyin": "zhè yàng",
+          "english": "like this; this way",
+          "readingId": "reading-8fd9",
+          "context": {
+            "hanzi": "把纸这样折，就能做出一只小船。",
+            "english": "Fold the paper this way to make a little boat.",
+            "targetCharacter": "这"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/people-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/people-cc-cedict-20261008.json#这样",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Follow the long bottom stroke of 辶 in 这.",
+        "demonstrationEnglish": "This is 这. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8fd9",
+        "delayedReview": {
+          "promptId": "later-8fd9",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8fd9"
+        }
+      },
+      "assets": [
+        "asset-glyph-8fd9",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "people-06-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5728",
+        "familiar-8fd9"
+      ]
+    },
+    {
+      "stepId": "people-06-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "people-06-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-5728",
+        "practice-two-5728",
+        "practice-one-8fd9",
+        "practice-two-8fd9"
+      ]
+    },
+    {
+      "stepId": "people-06-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5728",
+        "check-8fd9"
+      ]
+    },
+    {
+      "stepId": "people-06-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5728",
+      "characterId": "char-5728",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "在"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5728-choice-1",
+          "hanzi": "在"
+        },
+        {
+          "choiceId": "familiar-5728-choice-2",
+          "hanzi": "这"
+        },
+        {
+          "choiceId": "familiar-5728-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5728-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5728-choice-1"
+    },
+    {
+      "checkId": "check-5728",
+      "characterId": "char-5728",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "在"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5728-choice-1",
+          "hanzi": "在"
+        },
+        {
+          "choiceId": "check-5728-choice-2",
+          "hanzi": "这"
+        },
+        {
+          "choiceId": "check-5728-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5728-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5728-choice-1"
+    },
+    {
+      "checkId": "review-5728",
+      "characterId": "char-5728",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "在"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5728-choice-1",
+          "hanzi": "在"
+        },
+        {
+          "choiceId": "review-5728-choice-2",
+          "hanzi": "这"
+        },
+        {
+          "choiceId": "review-5728-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5728-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5728-choice-1"
+    },
+    {
+      "checkId": "practice-one-5728",
+      "characterId": "char-5728",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "现在"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5728-choice-1",
+          "hanzi": "在"
+        },
+        {
+          "choiceId": "practice-one-5728-choice-2",
+          "hanzi": "这"
+        },
+        {
+          "choiceId": "practice-one-5728-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5728-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5728-choice-1"
+    },
+    {
+      "checkId": "practice-two-5728",
+      "characterId": "char-5728",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "在场"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5728-choice-1",
+          "hanzi": "在"
+        },
+        {
+          "choiceId": "practice-two-5728-choice-2",
+          "hanzi": "这"
+        },
+        {
+          "choiceId": "practice-two-5728-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5728-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5728-choice-1"
+    },
+    {
+      "checkId": "familiar-8fd9",
+      "characterId": "char-8fd9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "这"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8fd9-choice-1",
+          "hanzi": "在"
+        },
+        {
+          "choiceId": "familiar-8fd9-choice-2",
+          "hanzi": "这"
+        },
+        {
+          "choiceId": "familiar-8fd9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8fd9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8fd9-choice-2"
+    },
+    {
+      "checkId": "check-8fd9",
+      "characterId": "char-8fd9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "这"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8fd9-choice-1",
+          "hanzi": "在"
+        },
+        {
+          "choiceId": "check-8fd9-choice-2",
+          "hanzi": "这"
+        },
+        {
+          "choiceId": "check-8fd9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8fd9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8fd9-choice-2"
+    },
+    {
+      "checkId": "review-8fd9",
+      "characterId": "char-8fd9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "这"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8fd9-choice-1",
+          "hanzi": "在"
+        },
+        {
+          "choiceId": "review-8fd9-choice-2",
+          "hanzi": "这"
+        },
+        {
+          "choiceId": "review-8fd9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8fd9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8fd9-choice-2"
+    },
+    {
+      "checkId": "practice-one-8fd9",
+      "characterId": "char-8fd9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "这个"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8fd9-choice-1",
+          "hanzi": "在"
+        },
+        {
+          "choiceId": "practice-one-8fd9-choice-2",
+          "hanzi": "这"
+        },
+        {
+          "choiceId": "practice-one-8fd9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8fd9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8fd9-choice-2"
+    },
+    {
+      "checkId": "practice-two-8fd9",
+      "characterId": "char-8fd9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "这样"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8fd9-choice-1",
+          "hanzi": "在"
+        },
+        {
+          "choiceId": "practice-two-8fd9-choice-2",
+          "hanzi": "这"
+        },
+        {
+          "choiceId": "practice-two-8fd9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8fd9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8fd9-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5728",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/people-06-v1/char-5728",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-8fd9",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/people-06-v1/char-8fd9",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/people-06-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/people-06-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Here and this",
+      "instructionEnglish": "Tidy the table with our capybara. Read words for now and this."
+    },
+    "targets": [
+      {
+        "characterId": "char-5728",
+        "readingId": "reading-5728",
+        "familiarityCheckId": "familiar-5728",
+        "practice": [
+          {
+            "wordId": "word-5728-1",
+            "checkId": "practice-one-5728"
+          },
+          {
+            "wordId": "word-5728-2",
+            "checkId": "practice-two-5728"
+          }
+        ],
+        "immediateCheckId": "check-5728",
+        "reviewCheckId": "review-5728"
+      },
+      {
+        "characterId": "char-8fd9",
+        "readingId": "reading-8fd9",
+        "familiarityCheckId": "familiar-8fd9",
+        "practice": [
+          {
+            "wordId": "word-8fd9-1",
+            "checkId": "practice-one-8fd9"
+          },
+          {
+            "wordId": "word-8fd9-2",
+            "checkId": "practice-two-8fd9"
+          }
+        ],
+        "immediateCheckId": "check-8fd9",
+        "reviewCheckId": "review-8fd9"
+      }
+    ],
+    "reader": {
+      "title": "Here and this",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5728-1",
+        "word-5728-2",
+        "word-8fd9-1",
+        "word-8fd9-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5728",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5728",
+          "transcript": "在",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5728",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5728",
+          "transcript": "在",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5728",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5728",
+          "transcript": "在",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5728",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5728",
+          "transcript": "现在",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5728",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5728",
+          "transcript": "在场",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5728",
+          "readingId": "reading-5728",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "在",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5728-1",
+          "readingId": null,
+          "wordId": "word-5728-1",
+          "checkId": null,
+          "transcript": "现在我们把桌子收拾好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5728-2",
+          "readingId": null,
+          "wordId": "word-5728-2",
+          "checkId": null,
+          "transcript": "表演开始时，老师也在场。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-8fd9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8fd9",
+          "transcript": "这",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8fd9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8fd9",
+          "transcript": "这",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8fd9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8fd9",
+          "transcript": "这",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8fd9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8fd9",
+          "transcript": "这个",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8fd9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8fd9",
+          "transcript": "这样",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8fd9",
+          "readingId": "reading-8fd9",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "这",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8fd9-1",
+          "readingId": null,
+          "wordId": "word-8fd9-1",
+          "checkId": null,
+          "transcript": "这个盒子里装着铅笔。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8fd9-2",
+          "readingId": null,
+          "wordId": "word-8fd9-2",
+          "checkId": null,
+          "transcript": "把纸这样折，就能做出一只小船。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

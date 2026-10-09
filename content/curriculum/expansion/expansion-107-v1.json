@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-107",
+  "lessonVersion": "expansion-107-v1",
+  "title": "School words and shapes: 圈 and 圆",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 167
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 圈 and 圆 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5708",
+      "hanzi": "圈",
+      "readings": [
+        {
+          "readingId": "reading-5708",
+          "pinyin": "quān",
+          "audioText": "圈",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#圈",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "circle; ring",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#圈",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5708-1",
+          "text": "圆圈",
+          "pinyin": "yuán quān",
+          "english": "a circle",
+          "readingId": "reading-5708",
+          "context": {
+            "hanzi": "我用彩笔画了圆圈。",
+            "english": "I draw a circle with coloured pens.",
+            "targetCharacter": "圈"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#圆圈",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5708-2",
+          "text": "画圈",
+          "pinyin": "huà quān",
+          "english": "draw a circle",
+          "readingId": "reading-5708",
+          "context": {
+            "hanzi": "我用笔画圈，把答案圈起来。",
+            "english": "I draw a circle around the answer with my pen.",
+            "targetCharacter": "圈"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#画圈",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 卷 inside the outer frame 囗 in 圈.",
+        "demonstrationEnglish": "This is 圈. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5708",
+        "delayedReview": {
+          "promptId": "later-5708",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5708"
+        }
+      },
+      "assets": [
+        "asset-glyph-5708",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5706",
+      "hanzi": "圆",
+      "readings": [
+        {
+          "readingId": "reading-5706",
+          "pinyin": "yuán",
+          "audioText": "圆",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#圆",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "round",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#圆",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5706-1",
+          "text": "圆形",
+          "pinyin": "yuán xíng",
+          "english": "a round shape",
+          "readingId": "reading-5706",
+          "context": {
+            "hanzi": "我用彩笔画了圆形。",
+            "english": "I draw a round shape with coloured pens.",
+            "targetCharacter": "圆"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#圆形",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5706-2",
+          "text": "圆圈",
+          "pinyin": "yuán quān",
+          "english": "a circle",
+          "readingId": "reading-5706",
+          "context": {
+            "hanzi": "我指给朋友看图中的圆圈。",
+            "english": "I point out a circle in the picture to my friend.",
+            "targetCharacter": "圆"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#圆圈",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 员 inside the outer frame 囗 in 圆.",
+        "demonstrationEnglish": "This is 圆. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5706",
+        "delayedReview": {
+          "promptId": "later-5706",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5706"
+        }
+      },
+      "assets": [
+        "asset-glyph-5706",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-107-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5708",
+        "familiar-5706"
+      ]
+    },
+    {
+      "stepId": "expansion-107-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-107-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-5708",
+        "practice-two-5708",
+        "practice-one-5706",
+        "practice-two-5706"
+      ]
+    },
+    {
+      "stepId": "expansion-107-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5708",
+        "check-5706"
+      ]
+    },
+    {
+      "stepId": "expansion-107-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5708",
+      "characterId": "char-5708",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "圈"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5708-choice-1",
+          "hanzi": "圈"
+        },
+        {
+          "choiceId": "familiar-5708-choice-2",
+          "hanzi": "圆"
+        },
+        {
+          "choiceId": "familiar-5708-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5708-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5708-choice-1"
+    },
+    {
+      "checkId": "check-5708",
+      "characterId": "char-5708",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "圈"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5708-choice-1",
+          "hanzi": "圈"
+        },
+        {
+          "choiceId": "check-5708-choice-2",
+          "hanzi": "圆"
+        },
+        {
+          "choiceId": "check-5708-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5708-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5708-choice-1"
+    },
+    {
+      "checkId": "review-5708",
+      "characterId": "char-5708",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "圈"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5708-choice-1",
+          "hanzi": "圈"
+        },
+        {
+          "choiceId": "review-5708-choice-2",
+          "hanzi": "圆"
+        },
+        {
+          "choiceId": "review-5708-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5708-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5708-choice-1"
+    },
+    {
+      "checkId": "practice-one-5708",
+      "characterId": "char-5708",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "圆圈"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5708-choice-1",
+          "hanzi": "圈"
+        },
+        {
+          "choiceId": "practice-one-5708-choice-2",
+          "hanzi": "圆"
+        },
+        {
+          "choiceId": "practice-one-5708-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5708-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5708-choice-1"
+    },
+    {
+      "checkId": "practice-two-5708",
+      "characterId": "char-5708",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "画圈"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5708-choice-1",
+          "hanzi": "圈"
+        },
+        {
+          "choiceId": "practice-two-5708-choice-2",
+          "hanzi": "圆"
+        },
+        {
+          "choiceId": "practice-two-5708-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5708-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5708-choice-1"
+    },
+    {
+      "checkId": "familiar-5706",
+      "characterId": "char-5706",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "圆"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5706-choice-1",
+          "hanzi": "圈"
+        },
+        {
+          "choiceId": "familiar-5706-choice-2",
+          "hanzi": "圆"
+        },
+        {
+          "choiceId": "familiar-5706-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5706-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5706-choice-2"
+    },
+    {
+      "checkId": "check-5706",
+      "characterId": "char-5706",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "圆"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5706-choice-1",
+          "hanzi": "圈"
+        },
+        {
+          "choiceId": "check-5706-choice-2",
+          "hanzi": "圆"
+        },
+        {
+          "choiceId": "check-5706-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5706-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5706-choice-2"
+    },
+    {
+      "checkId": "review-5706",
+      "characterId": "char-5706",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "圆"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5706-choice-1",
+          "hanzi": "圈"
+        },
+        {
+          "choiceId": "review-5706-choice-2",
+          "hanzi": "圆"
+        },
+        {
+          "choiceId": "review-5706-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5706-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5706-choice-2"
+    },
+    {
+      "checkId": "practice-one-5706",
+      "characterId": "char-5706",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "圆形"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5706-choice-1",
+          "hanzi": "圈"
+        },
+        {
+          "choiceId": "practice-one-5706-choice-2",
+          "hanzi": "圆"
+        },
+        {
+          "choiceId": "practice-one-5706-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5706-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5706-choice-2"
+    },
+    {
+      "checkId": "practice-two-5706",
+      "characterId": "char-5706",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "圆圈"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5706-choice-1",
+          "hanzi": "圈"
+        },
+        {
+          "choiceId": "practice-two-5706-choice-2",
+          "hanzi": "圆"
+        },
+        {
+          "choiceId": "practice-two-5706-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5706-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5706-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5708",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-107-v1/char-5708",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5706",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-107-v1/char-5706",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-107-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-107-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "School words and shapes: 圈 and 圆",
+      "instructionEnglish": "Read two short word examples for 圈 and 圆 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-5708",
+        "readingId": "reading-5708",
+        "familiarityCheckId": "familiar-5708",
+        "practice": [
+          {
+            "wordId": "word-5708-1",
+            "checkId": "practice-one-5708"
+          },
+          {
+            "wordId": "word-5708-2",
+            "checkId": "practice-two-5708"
+          }
+        ],
+        "immediateCheckId": "check-5708",
+        "reviewCheckId": "review-5708"
+      },
+      {
+        "characterId": "char-5706",
+        "readingId": "reading-5706",
+        "familiarityCheckId": "familiar-5706",
+        "practice": [
+          {
+            "wordId": "word-5706-1",
+            "checkId": "practice-one-5706"
+          },
+          {
+            "wordId": "word-5706-2",
+            "checkId": "practice-two-5706"
+          }
+        ],
+        "immediateCheckId": "check-5706",
+        "reviewCheckId": "review-5706"
+      }
+    ],
+    "reader": {
+      "title": "School words and shapes: 圈 and 圆",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5708-1",
+        "word-5708-2",
+        "word-5706-1",
+        "word-5706-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5708",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5708",
+          "transcript": "圈",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5708",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5708",
+          "transcript": "圈",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5708",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5708",
+          "transcript": "圈",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5708",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5708",
+          "transcript": "圆圈",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5708",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5708",
+          "transcript": "画圈",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5708",
+          "readingId": "reading-5708",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "圈",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5708-1",
+          "readingId": null,
+          "wordId": "word-5708-1",
+          "checkId": null,
+          "transcript": "我用彩笔画了圆圈。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5708-2",
+          "readingId": null,
+          "wordId": "word-5708-2",
+          "checkId": null,
+          "transcript": "我用笔画圈，把答案圈起来。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5706",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5706",
+          "transcript": "圆",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5706",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5706",
+          "transcript": "圆",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5706",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5706",
+          "transcript": "圆",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5706",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5706",
+          "transcript": "圆形",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5706",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5706",
+          "transcript": "圆圈",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5706",
+          "readingId": "reading-5706",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "圆",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5706-1",
+          "readingId": null,
+          "wordId": "word-5706-1",
+          "checkId": null,
+          "transcript": "我用彩笔画了圆形。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5706-2",
+          "readingId": null,
+          "wordId": "word-5706-2",
+          "checkId": null,
+          "transcript": "我指给朋友看图中的圆圈。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-077",
+  "lessonVersion": "expansion-077-v1",
+  "title": "Metals, fruit and cooking: 糖 and 盐",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 137
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 糖 and 盐 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-7cd6",
+      "hanzi": "糖",
+      "readings": [
+        {
+          "readingId": "reading-7cd6",
+          "pinyin": "táng",
+          "audioText": "糖",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#糖",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "sugar; sweets",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#糖",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7cd6-1",
+          "text": "糖果",
+          "pinyin": "táng guǒ",
+          "english": "sweets",
+          "readingId": "reading-7cd6",
+          "context": {
+            "hanzi": "我在图画里看到了糖果。",
+            "english": "I see sweets in the picture.",
+            "targetCharacter": "糖"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#糖果",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7cd6-2",
+          "text": "白糖",
+          "pinyin": "bái táng",
+          "english": "white sugar",
+          "readingId": "reading-7cd6",
+          "context": {
+            "hanzi": "大人把一点白糖放进碗里。",
+            "english": "An adult puts a little white sugar into the bowl.",
+            "targetCharacter": "糖"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#白糖",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 米 beside 唐 in 糖.",
+        "demonstrationEnglish": "This is 糖. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7cd6",
+        "delayedReview": {
+          "promptId": "later-7cd6",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7cd6"
+        }
+      },
+      "assets": [
+        "asset-glyph-7cd6",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-76d0",
+      "hanzi": "盐",
+      "readings": [
+        {
+          "readingId": "reading-76d0",
+          "pinyin": "yán",
+          "audioText": "盐",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#盐",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "salt",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#盐",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-76d0-1",
+          "text": "食盐",
+          "pinyin": "shí yán",
+          "english": "table salt",
+          "readingId": "reading-76d0",
+          "context": {
+            "hanzi": "大人把少量食盐放进汤里。",
+            "english": "An adult puts a little table salt into the soup.",
+            "targetCharacter": "盐"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#食盐",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-76d0-2",
+          "text": "盐水",
+          "pinyin": "yán shuǐ",
+          "english": "salt water",
+          "readingId": "reading-76d0",
+          "context": {
+            "hanzi": "这本书介绍了盐水和淡水。",
+            "english": "This book introduces salt water and fresh water.",
+            "targetCharacter": "盐"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#盐水",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 皿 beneath the upper part of 盐.",
+        "demonstrationEnglish": "This is 盐. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-76d0",
+        "delayedReview": {
+          "promptId": "later-76d0",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-76d0"
+        }
+      },
+      "assets": [
+        "asset-glyph-76d0",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-077-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-7cd6",
+        "familiar-76d0"
+      ]
+    },
+    {
+      "stepId": "expansion-077-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-077-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-7cd6",
+        "practice-two-7cd6",
+        "practice-one-76d0",
+        "practice-two-76d0"
+      ]
+    },
+    {
+      "stepId": "expansion-077-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-7cd6",
+        "check-76d0"
+      ]
+    },
+    {
+      "stepId": "expansion-077-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-7cd6",
+      "characterId": "char-7cd6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "糖"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7cd6-choice-1",
+          "hanzi": "糖"
+        },
+        {
+          "choiceId": "familiar-7cd6-choice-2",
+          "hanzi": "盐"
+        },
+        {
+          "choiceId": "familiar-7cd6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7cd6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7cd6-choice-1"
+    },
+    {
+      "checkId": "check-7cd6",
+      "characterId": "char-7cd6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "糖"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7cd6-choice-1",
+          "hanzi": "糖"
+        },
+        {
+          "choiceId": "check-7cd6-choice-2",
+          "hanzi": "盐"
+        },
+        {
+          "choiceId": "check-7cd6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7cd6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7cd6-choice-1"
+    },
+    {
+      "checkId": "review-7cd6",
+      "characterId": "char-7cd6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "糖"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7cd6-choice-1",
+          "hanzi": "糖"
+        },
+        {
+          "choiceId": "review-7cd6-choice-2",
+          "hanzi": "盐"
+        },
+        {
+          "choiceId": "review-7cd6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7cd6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7cd6-choice-1"
+    },
+    {
+      "checkId": "practice-one-7cd6",
+      "characterId": "char-7cd6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "糖果"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7cd6-choice-1",
+          "hanzi": "糖"
+        },
+        {
+          "choiceId": "practice-one-7cd6-choice-2",
+          "hanzi": "盐"
+        },
+        {
+          "choiceId": "practice-one-7cd6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7cd6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7cd6-choice-1"
+    },
+    {
+      "checkId": "practice-two-7cd6",
+      "characterId": "char-7cd6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "白糖"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7cd6-choice-1",
+          "hanzi": "糖"
+        },
+        {
+          "choiceId": "practice-two-7cd6-choice-2",
+          "hanzi": "盐"
+        },
+        {
+          "choiceId": "practice-two-7cd6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7cd6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7cd6-choice-1"
+    },
+    {
+      "checkId": "familiar-76d0",
+      "characterId": "char-76d0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "盐"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-76d0-choice-1",
+          "hanzi": "糖"
+        },
+        {
+          "choiceId": "familiar-76d0-choice-2",
+          "hanzi": "盐"
+        },
+        {
+          "choiceId": "familiar-76d0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-76d0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-76d0-choice-2"
+    },
+    {
+      "checkId": "check-76d0",
+      "characterId": "char-76d0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "盐"
+      },
+      "choices": [
+        {
+          "choiceId": "check-76d0-choice-1",
+          "hanzi": "糖"
+        },
+        {
+          "choiceId": "check-76d0-choice-2",
+          "hanzi": "盐"
+        },
+        {
+          "choiceId": "check-76d0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-76d0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-76d0-choice-2"
+    },
+    {
+      "checkId": "review-76d0",
+      "characterId": "char-76d0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "盐"
+      },
+      "choices": [
+        {
+          "choiceId": "review-76d0-choice-1",
+          "hanzi": "糖"
+        },
+        {
+          "choiceId": "review-76d0-choice-2",
+          "hanzi": "盐"
+        },
+        {
+          "choiceId": "review-76d0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-76d0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-76d0-choice-2"
+    },
+    {
+      "checkId": "practice-one-76d0",
+      "characterId": "char-76d0",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "食盐"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-76d0-choice-1",
+          "hanzi": "糖"
+        },
+        {
+          "choiceId": "practice-one-76d0-choice-2",
+          "hanzi": "盐"
+        },
+        {
+          "choiceId": "practice-one-76d0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-76d0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-76d0-choice-2"
+    },
+    {
+      "checkId": "practice-two-76d0",
+      "characterId": "char-76d0",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "盐水"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-76d0-choice-1",
+          "hanzi": "糖"
+        },
+        {
+          "choiceId": "practice-two-76d0-choice-2",
+          "hanzi": "盐"
+        },
+        {
+          "choiceId": "practice-two-76d0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-76d0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-76d0-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-7cd6",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-077-v1/char-7cd6",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-76d0",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-077-v1/char-76d0",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-077-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-077-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Metals, fruit and cooking: 糖 and 盐",
+      "instructionEnglish": "Read two short word examples for 糖 and 盐 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-7cd6",
+        "readingId": "reading-7cd6",
+        "familiarityCheckId": "familiar-7cd6",
+        "practice": [
+          {
+            "wordId": "word-7cd6-1",
+            "checkId": "practice-one-7cd6"
+          },
+          {
+            "wordId": "word-7cd6-2",
+            "checkId": "practice-two-7cd6"
+          }
+        ],
+        "immediateCheckId": "check-7cd6",
+        "reviewCheckId": "review-7cd6"
+      },
+      {
+        "characterId": "char-76d0",
+        "readingId": "reading-76d0",
+        "familiarityCheckId": "familiar-76d0",
+        "practice": [
+          {
+            "wordId": "word-76d0-1",
+            "checkId": "practice-one-76d0"
+          },
+          {
+            "wordId": "word-76d0-2",
+            "checkId": "practice-two-76d0"
+          }
+        ],
+        "immediateCheckId": "check-76d0",
+        "reviewCheckId": "review-76d0"
+      }
+    ],
+    "reader": {
+      "title": "Metals, fruit and cooking: 糖 and 盐",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-7cd6-1",
+        "word-7cd6-2",
+        "word-76d0-1",
+        "word-76d0-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-7cd6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7cd6",
+          "transcript": "糖",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7cd6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7cd6",
+          "transcript": "糖",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7cd6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7cd6",
+          "transcript": "糖",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7cd6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7cd6",
+          "transcript": "糖果",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7cd6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7cd6",
+          "transcript": "白糖",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7cd6",
+          "readingId": "reading-7cd6",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "糖",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7cd6-1",
+          "readingId": null,
+          "wordId": "word-7cd6-1",
+          "checkId": null,
+          "transcript": "我在图画里看到了糖果。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7cd6-2",
+          "readingId": null,
+          "wordId": "word-7cd6-2",
+          "checkId": null,
+          "transcript": "大人把一点白糖放进碗里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-76d0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-76d0",
+          "transcript": "盐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-76d0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-76d0",
+          "transcript": "盐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-76d0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-76d0",
+          "transcript": "盐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-76d0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-76d0",
+          "transcript": "食盐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-76d0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-76d0",
+          "transcript": "盐水",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-76d0",
+          "readingId": "reading-76d0",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "盐",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-76d0-1",
+          "readingId": null,
+          "wordId": "word-76d0-1",
+          "checkId": null,
+          "transcript": "大人把少量食盐放进汤里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-76d0-2",
+          "readingId": null,
+          "wordId": "word-76d0-2",
+          "checkId": null,
+          "transcript": "这本书介绍了盐水和淡水。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

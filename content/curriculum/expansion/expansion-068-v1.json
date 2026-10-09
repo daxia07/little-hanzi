@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-068",
+  "lessonVersion": "expansion-068-v1",
+  "title": "Streams, plants and fields: 谷 and 麦",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 128
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 谷 and 麦 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-8c37",
+      "hanzi": "谷",
+      "readings": [
+        {
+          "readingId": "reading-8c37",
+          "pinyin": "gǔ",
+          "audioText": "谷",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#谷",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "valley; grain",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#谷",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8c37-1",
+          "text": "山谷",
+          "pinyin": "shān gǔ",
+          "english": "a valley",
+          "readingId": "reading-8c37",
+          "context": {
+            "hanzi": "我用彩笔画了山谷。",
+            "english": "I draw a valley with coloured pens.",
+            "targetCharacter": "谷"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#山谷",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8c37-2",
+          "text": "谷物",
+          "pinyin": "gǔ wù",
+          "english": "grain",
+          "readingId": "reading-8c37",
+          "context": {
+            "hanzi": "这本书介绍了谷物。",
+            "english": "This book introduces grain.",
+            "targetCharacter": "谷"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#谷物",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 口 beneath the spreading upper strokes of 谷.",
+        "demonstrationEnglish": "This is 谷. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8c37",
+        "delayedReview": {
+          "promptId": "later-8c37",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8c37"
+        }
+      },
+      "assets": [
+        "asset-glyph-8c37",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-9ea6",
+      "hanzi": "麦",
+      "readings": [
+        {
+          "readingId": "reading-9ea6",
+          "pinyin": "mài",
+          "audioText": "麦",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#麦",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "wheat",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#麦",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-9ea6-1",
+          "text": "小麦",
+          "pinyin": "xiǎo mài",
+          "english": "wheat",
+          "readingId": "reading-9ea6",
+          "context": {
+            "hanzi": "这本书介绍了小麦。",
+            "english": "This book introduces wheat.",
+            "targetCharacter": "麦"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#小麦",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-9ea6-2",
+          "text": "麦子",
+          "pinyin": "mài zi",
+          "english": "wheat",
+          "readingId": "reading-9ea6",
+          "context": {
+            "hanzi": "我在图画里看到了麦子。",
+            "english": "I see wheat in the picture.",
+            "targetCharacter": "麦"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#麦子",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the crossing lower strokes beneath the upper lines of 麦.",
+        "demonstrationEnglish": "This is 麦. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-9ea6",
+        "delayedReview": {
+          "promptId": "later-9ea6",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-9ea6"
+        }
+      },
+      "assets": [
+        "asset-glyph-9ea6",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-068-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-8c37",
+        "familiar-9ea6"
+      ]
+    },
+    {
+      "stepId": "expansion-068-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-068-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-8c37",
+        "practice-two-8c37",
+        "practice-one-9ea6",
+        "practice-two-9ea6"
+      ]
+    },
+    {
+      "stepId": "expansion-068-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-8c37",
+        "check-9ea6"
+      ]
+    },
+    {
+      "stepId": "expansion-068-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-8c37",
+      "characterId": "char-8c37",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "谷"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8c37-choice-1",
+          "hanzi": "谷"
+        },
+        {
+          "choiceId": "familiar-8c37-choice-2",
+          "hanzi": "麦"
+        },
+        {
+          "choiceId": "familiar-8c37-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8c37-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8c37-choice-1"
+    },
+    {
+      "checkId": "check-8c37",
+      "characterId": "char-8c37",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "谷"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8c37-choice-1",
+          "hanzi": "谷"
+        },
+        {
+          "choiceId": "check-8c37-choice-2",
+          "hanzi": "麦"
+        },
+        {
+          "choiceId": "check-8c37-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8c37-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8c37-choice-1"
+    },
+    {
+      "checkId": "review-8c37",
+      "characterId": "char-8c37",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "谷"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8c37-choice-1",
+          "hanzi": "谷"
+        },
+        {
+          "choiceId": "review-8c37-choice-2",
+          "hanzi": "麦"
+        },
+        {
+          "choiceId": "review-8c37-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8c37-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8c37-choice-1"
+    },
+    {
+      "checkId": "practice-one-8c37",
+      "characterId": "char-8c37",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "山谷"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8c37-choice-1",
+          "hanzi": "谷"
+        },
+        {
+          "choiceId": "practice-one-8c37-choice-2",
+          "hanzi": "麦"
+        },
+        {
+          "choiceId": "practice-one-8c37-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8c37-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8c37-choice-1"
+    },
+    {
+      "checkId": "practice-two-8c37",
+      "characterId": "char-8c37",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "谷物"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8c37-choice-1",
+          "hanzi": "谷"
+        },
+        {
+          "choiceId": "practice-two-8c37-choice-2",
+          "hanzi": "麦"
+        },
+        {
+          "choiceId": "practice-two-8c37-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8c37-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8c37-choice-1"
+    },
+    {
+      "checkId": "familiar-9ea6",
+      "characterId": "char-9ea6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "麦"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-9ea6-choice-1",
+          "hanzi": "谷"
+        },
+        {
+          "choiceId": "familiar-9ea6-choice-2",
+          "hanzi": "麦"
+        },
+        {
+          "choiceId": "familiar-9ea6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-9ea6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-9ea6-choice-2"
+    },
+    {
+      "checkId": "check-9ea6",
+      "characterId": "char-9ea6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "麦"
+      },
+      "choices": [
+        {
+          "choiceId": "check-9ea6-choice-1",
+          "hanzi": "谷"
+        },
+        {
+          "choiceId": "check-9ea6-choice-2",
+          "hanzi": "麦"
+        },
+        {
+          "choiceId": "check-9ea6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-9ea6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-9ea6-choice-2"
+    },
+    {
+      "checkId": "review-9ea6",
+      "characterId": "char-9ea6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "麦"
+      },
+      "choices": [
+        {
+          "choiceId": "review-9ea6-choice-1",
+          "hanzi": "谷"
+        },
+        {
+          "choiceId": "review-9ea6-choice-2",
+          "hanzi": "麦"
+        },
+        {
+          "choiceId": "review-9ea6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-9ea6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-9ea6-choice-2"
+    },
+    {
+      "checkId": "practice-one-9ea6",
+      "characterId": "char-9ea6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "小麦"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-9ea6-choice-1",
+          "hanzi": "谷"
+        },
+        {
+          "choiceId": "practice-one-9ea6-choice-2",
+          "hanzi": "麦"
+        },
+        {
+          "choiceId": "practice-one-9ea6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-9ea6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-9ea6-choice-2"
+    },
+    {
+      "checkId": "practice-two-9ea6",
+      "characterId": "char-9ea6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "麦子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-9ea6-choice-1",
+          "hanzi": "谷"
+        },
+        {
+          "choiceId": "practice-two-9ea6-choice-2",
+          "hanzi": "麦"
+        },
+        {
+          "choiceId": "practice-two-9ea6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-9ea6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-9ea6-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-8c37",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-068-v1/char-8c37",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-9ea6",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-068-v1/char-9ea6",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-068-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-068-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Streams, plants and fields: 谷 and 麦",
+      "instructionEnglish": "Read two short word examples for 谷 and 麦 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-8c37",
+        "readingId": "reading-8c37",
+        "familiarityCheckId": "familiar-8c37",
+        "practice": [
+          {
+            "wordId": "word-8c37-1",
+            "checkId": "practice-one-8c37"
+          },
+          {
+            "wordId": "word-8c37-2",
+            "checkId": "practice-two-8c37"
+          }
+        ],
+        "immediateCheckId": "check-8c37",
+        "reviewCheckId": "review-8c37"
+      },
+      {
+        "characterId": "char-9ea6",
+        "readingId": "reading-9ea6",
+        "familiarityCheckId": "familiar-9ea6",
+        "practice": [
+          {
+            "wordId": "word-9ea6-1",
+            "checkId": "practice-one-9ea6"
+          },
+          {
+            "wordId": "word-9ea6-2",
+            "checkId": "practice-two-9ea6"
+          }
+        ],
+        "immediateCheckId": "check-9ea6",
+        "reviewCheckId": "review-9ea6"
+      }
+    ],
+    "reader": {
+      "title": "Streams, plants and fields: 谷 and 麦",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-8c37-1",
+        "word-8c37-2",
+        "word-9ea6-1",
+        "word-9ea6-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-8c37",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8c37",
+          "transcript": "谷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8c37",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8c37",
+          "transcript": "谷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8c37",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8c37",
+          "transcript": "谷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8c37",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8c37",
+          "transcript": "山谷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8c37",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8c37",
+          "transcript": "谷物",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8c37",
+          "readingId": "reading-8c37",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "谷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8c37-1",
+          "readingId": null,
+          "wordId": "word-8c37-1",
+          "checkId": null,
+          "transcript": "我用彩笔画了山谷。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8c37-2",
+          "readingId": null,
+          "wordId": "word-8c37-2",
+          "checkId": null,
+          "transcript": "这本书介绍了谷物。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-9ea6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-9ea6",
+          "transcript": "麦",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-9ea6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-9ea6",
+          "transcript": "麦",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-9ea6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-9ea6",
+          "transcript": "麦",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-9ea6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-9ea6",
+          "transcript": "小麦",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-9ea6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-9ea6",
+          "transcript": "麦子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-9ea6",
+          "readingId": "reading-9ea6",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "麦",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9ea6-1",
+          "readingId": null,
+          "wordId": "word-9ea6-1",
+          "checkId": null,
+          "transcript": "这本书介绍了小麦。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-9ea6-2",
+          "readingId": null,
+          "wordId": "word-9ea6-2",
+          "checkId": null,
+          "transcript": "我在图画里看到了麦子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

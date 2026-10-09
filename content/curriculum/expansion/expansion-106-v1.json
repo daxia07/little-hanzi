@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-106",
+  "lessonVersion": "expansion-106-v1",
+  "title": "School words and shapes: 点 and 线",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 166
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 点 and 线 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-70b9",
+      "hanzi": "点",
+      "readings": [
+        {
+          "readingId": "reading-70b9",
+          "pinyin": "diǎn",
+          "audioText": "点",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#点",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "dot; point",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#点",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-70b9-1",
+          "text": "点头",
+          "pinyin": "diǎn tóu",
+          "english": "nod",
+          "readingId": "reading-70b9",
+          "context": {
+            "hanzi": "听到老师的说明，我点头表示明白。",
+            "english": "After hearing the explanation, I nod to show I understand.",
+            "targetCharacter": "点"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#点头",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-70b9-2",
+          "text": "点心",
+          "pinyin": "diǎn xin",
+          "english": "snacks",
+          "readingId": "reading-70b9",
+          "context": {
+            "hanzi": "大人把点心放在盘子里。",
+            "english": "An adult puts snacks on the plate.",
+            "targetCharacter": "点"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#点心",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 占 above the four lower dots 灬 in 点.",
+        "demonstrationEnglish": "This is 点. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-70b9",
+        "delayedReview": {
+          "promptId": "later-70b9",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-70b9"
+        }
+      },
+      "assets": [
+        "asset-glyph-70b9",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-7ebf",
+      "hanzi": "线",
+      "readings": [
+        {
+          "readingId": "reading-7ebf",
+          "pinyin": "xiàn",
+          "audioText": "线",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#线",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "thread; line",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#线",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7ebf-1",
+          "text": "线条",
+          "pinyin": "xiàn tiáo",
+          "english": "lines",
+          "readingId": "reading-7ebf",
+          "context": {
+            "hanzi": "我用彩笔画了线条。",
+            "english": "I draw lines with coloured pens.",
+            "targetCharacter": "线"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#线条",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7ebf-2",
+          "text": "毛线",
+          "pinyin": "máo xiàn",
+          "english": "yarn",
+          "readingId": "reading-7ebf",
+          "context": {
+            "hanzi": "我们把毛线放进小盒子。",
+            "english": "We put yarn into a small box.",
+            "targetCharacter": "线"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#毛线",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 纟 beside 戋 in 线.",
+        "demonstrationEnglish": "This is 线. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7ebf",
+        "delayedReview": {
+          "promptId": "later-7ebf",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7ebf"
+        }
+      },
+      "assets": [
+        "asset-glyph-7ebf",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-106-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-70b9",
+        "familiar-7ebf"
+      ]
+    },
+    {
+      "stepId": "expansion-106-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-106-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-70b9",
+        "practice-two-70b9",
+        "practice-one-7ebf",
+        "practice-two-7ebf"
+      ]
+    },
+    {
+      "stepId": "expansion-106-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-70b9",
+        "check-7ebf"
+      ]
+    },
+    {
+      "stepId": "expansion-106-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-70b9",
+      "characterId": "char-70b9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "点"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-70b9-choice-1",
+          "hanzi": "点"
+        },
+        {
+          "choiceId": "familiar-70b9-choice-2",
+          "hanzi": "线"
+        },
+        {
+          "choiceId": "familiar-70b9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-70b9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-70b9-choice-1"
+    },
+    {
+      "checkId": "check-70b9",
+      "characterId": "char-70b9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "点"
+      },
+      "choices": [
+        {
+          "choiceId": "check-70b9-choice-1",
+          "hanzi": "点"
+        },
+        {
+          "choiceId": "check-70b9-choice-2",
+          "hanzi": "线"
+        },
+        {
+          "choiceId": "check-70b9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-70b9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-70b9-choice-1"
+    },
+    {
+      "checkId": "review-70b9",
+      "characterId": "char-70b9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "点"
+      },
+      "choices": [
+        {
+          "choiceId": "review-70b9-choice-1",
+          "hanzi": "点"
+        },
+        {
+          "choiceId": "review-70b9-choice-2",
+          "hanzi": "线"
+        },
+        {
+          "choiceId": "review-70b9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-70b9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-70b9-choice-1"
+    },
+    {
+      "checkId": "practice-one-70b9",
+      "characterId": "char-70b9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "点头"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-70b9-choice-1",
+          "hanzi": "点"
+        },
+        {
+          "choiceId": "practice-one-70b9-choice-2",
+          "hanzi": "线"
+        },
+        {
+          "choiceId": "practice-one-70b9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-70b9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-70b9-choice-1"
+    },
+    {
+      "checkId": "practice-two-70b9",
+      "characterId": "char-70b9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "点心"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-70b9-choice-1",
+          "hanzi": "点"
+        },
+        {
+          "choiceId": "practice-two-70b9-choice-2",
+          "hanzi": "线"
+        },
+        {
+          "choiceId": "practice-two-70b9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-70b9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-70b9-choice-1"
+    },
+    {
+      "checkId": "familiar-7ebf",
+      "characterId": "char-7ebf",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "线"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7ebf-choice-1",
+          "hanzi": "点"
+        },
+        {
+          "choiceId": "familiar-7ebf-choice-2",
+          "hanzi": "线"
+        },
+        {
+          "choiceId": "familiar-7ebf-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7ebf-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7ebf-choice-2"
+    },
+    {
+      "checkId": "check-7ebf",
+      "characterId": "char-7ebf",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "线"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7ebf-choice-1",
+          "hanzi": "点"
+        },
+        {
+          "choiceId": "check-7ebf-choice-2",
+          "hanzi": "线"
+        },
+        {
+          "choiceId": "check-7ebf-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7ebf-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7ebf-choice-2"
+    },
+    {
+      "checkId": "review-7ebf",
+      "characterId": "char-7ebf",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "线"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7ebf-choice-1",
+          "hanzi": "点"
+        },
+        {
+          "choiceId": "review-7ebf-choice-2",
+          "hanzi": "线"
+        },
+        {
+          "choiceId": "review-7ebf-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7ebf-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7ebf-choice-2"
+    },
+    {
+      "checkId": "practice-one-7ebf",
+      "characterId": "char-7ebf",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "线条"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7ebf-choice-1",
+          "hanzi": "点"
+        },
+        {
+          "choiceId": "practice-one-7ebf-choice-2",
+          "hanzi": "线"
+        },
+        {
+          "choiceId": "practice-one-7ebf-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7ebf-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7ebf-choice-2"
+    },
+    {
+      "checkId": "practice-two-7ebf",
+      "characterId": "char-7ebf",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "毛线"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7ebf-choice-1",
+          "hanzi": "点"
+        },
+        {
+          "choiceId": "practice-two-7ebf-choice-2",
+          "hanzi": "线"
+        },
+        {
+          "choiceId": "practice-two-7ebf-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7ebf-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7ebf-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-70b9",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-106-v1/char-70b9",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-7ebf",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-106-v1/char-7ebf",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-106-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-106-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "School words and shapes: 点 and 线",
+      "instructionEnglish": "Read two short word examples for 点 and 线 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-70b9",
+        "readingId": "reading-70b9",
+        "familiarityCheckId": "familiar-70b9",
+        "practice": [
+          {
+            "wordId": "word-70b9-1",
+            "checkId": "practice-one-70b9"
+          },
+          {
+            "wordId": "word-70b9-2",
+            "checkId": "practice-two-70b9"
+          }
+        ],
+        "immediateCheckId": "check-70b9",
+        "reviewCheckId": "review-70b9"
+      },
+      {
+        "characterId": "char-7ebf",
+        "readingId": "reading-7ebf",
+        "familiarityCheckId": "familiar-7ebf",
+        "practice": [
+          {
+            "wordId": "word-7ebf-1",
+            "checkId": "practice-one-7ebf"
+          },
+          {
+            "wordId": "word-7ebf-2",
+            "checkId": "practice-two-7ebf"
+          }
+        ],
+        "immediateCheckId": "check-7ebf",
+        "reviewCheckId": "review-7ebf"
+      }
+    ],
+    "reader": {
+      "title": "School words and shapes: 点 and 线",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-70b9-1",
+        "word-70b9-2",
+        "word-7ebf-1",
+        "word-7ebf-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-70b9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-70b9",
+          "transcript": "点",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-70b9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-70b9",
+          "transcript": "点",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-70b9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-70b9",
+          "transcript": "点",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-70b9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-70b9",
+          "transcript": "点头",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-70b9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-70b9",
+          "transcript": "点心",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-70b9",
+          "readingId": "reading-70b9",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "点",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-70b9-1",
+          "readingId": null,
+          "wordId": "word-70b9-1",
+          "checkId": null,
+          "transcript": "听到老师的说明，我点头表示明白。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-70b9-2",
+          "readingId": null,
+          "wordId": "word-70b9-2",
+          "checkId": null,
+          "transcript": "大人把点心放在盘子里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-7ebf",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7ebf",
+          "transcript": "线",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7ebf",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7ebf",
+          "transcript": "线",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7ebf",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7ebf",
+          "transcript": "线",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7ebf",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7ebf",
+          "transcript": "线条",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7ebf",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7ebf",
+          "transcript": "毛线",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7ebf",
+          "readingId": "reading-7ebf",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "线",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7ebf-1",
+          "readingId": null,
+          "wordId": "word-7ebf-1",
+          "checkId": null,
+          "transcript": "我用彩笔画了线条。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7ebf-2",
+          "readingId": null,
+          "wordId": "word-7ebf-2",
+          "checkId": null,
+          "transcript": "我们把毛线放进小盒子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

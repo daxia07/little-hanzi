@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-129",
+  "lessonVersion": "expansion-129-v1",
+  "title": "Helping hands and tidying: 真 and 假",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 189
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 真 and 假 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-771f",
+      "hanzi": "真",
+      "readings": [
+        {
+          "readingId": "reading-771f",
+          "pinyin": "zhēn",
+          "audioText": "真",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#真",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "true; real",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#真",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-771f-1",
+          "text": "认真",
+          "pinyin": "rèn zhēn",
+          "english": "careful; serious",
+          "readingId": "reading-771f",
+          "context": {
+            "hanzi": "故事里的小兔认真地折纸。",
+            "english": "The little rabbit in the story folds paper carefully.",
+            "targetCharacter": "真"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#认真",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-771f-2",
+          "text": "真正",
+          "pinyin": "zhēn zhèng",
+          "english": "true; genuine",
+          "readingId": "reading-771f",
+          "context": {
+            "hanzi": "真正的朋友会互相帮助。",
+            "english": "True friends help one another.",
+            "targetCharacter": "真"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#真正",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find the two spreading lower strokes beneath the box-like middle of 真.",
+        "demonstrationEnglish": "This is 真. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-771f",
+        "delayedReview": {
+          "promptId": "later-771f",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-771f"
+        }
+      },
+      "assets": [
+        "asset-glyph-771f",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5047",
+      "hanzi": "假",
+      "readings": [
+        {
+          "readingId": "reading-5047",
+          "pinyin": "jiǎ",
+          "audioText": "假",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#假",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "false; pretend",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#假",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5047-1",
+          "text": "假如",
+          "pinyin": "jiǎ rú",
+          "english": "if",
+          "readingId": "reading-5047",
+          "context": {
+            "hanzi": "假如下雨，我们就在屋里画画。",
+            "english": "If it rains, we draw indoors.",
+            "targetCharacter": "假"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#假如",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5047-2",
+          "text": "假装",
+          "pinyin": "jiǎ zhuāng",
+          "english": "pretend",
+          "readingId": "reading-5047",
+          "context": {
+            "hanzi": "小朋友假装自己是一只小鸟。",
+            "english": "The child pretends to be a little bird.",
+            "targetCharacter": "假"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#假装",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 亻 on the left of 假; these words use jiǎ.",
+        "demonstrationEnglish": "This is 假. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5047",
+        "delayedReview": {
+          "promptId": "later-5047",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5047"
+        }
+      },
+      "assets": [
+        "asset-glyph-5047",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-129-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-771f",
+        "familiar-5047"
+      ]
+    },
+    {
+      "stepId": "expansion-129-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-129-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-771f",
+        "practice-two-771f",
+        "practice-one-5047",
+        "practice-two-5047"
+      ]
+    },
+    {
+      "stepId": "expansion-129-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-771f",
+        "check-5047"
+      ]
+    },
+    {
+      "stepId": "expansion-129-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-771f",
+      "characterId": "char-771f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "真"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-771f-choice-1",
+          "hanzi": "真"
+        },
+        {
+          "choiceId": "familiar-771f-choice-2",
+          "hanzi": "假"
+        },
+        {
+          "choiceId": "familiar-771f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-771f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-771f-choice-1"
+    },
+    {
+      "checkId": "check-771f",
+      "characterId": "char-771f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "真"
+      },
+      "choices": [
+        {
+          "choiceId": "check-771f-choice-1",
+          "hanzi": "真"
+        },
+        {
+          "choiceId": "check-771f-choice-2",
+          "hanzi": "假"
+        },
+        {
+          "choiceId": "check-771f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-771f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-771f-choice-1"
+    },
+    {
+      "checkId": "review-771f",
+      "characterId": "char-771f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "真"
+      },
+      "choices": [
+        {
+          "choiceId": "review-771f-choice-1",
+          "hanzi": "真"
+        },
+        {
+          "choiceId": "review-771f-choice-2",
+          "hanzi": "假"
+        },
+        {
+          "choiceId": "review-771f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-771f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-771f-choice-1"
+    },
+    {
+      "checkId": "practice-one-771f",
+      "characterId": "char-771f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "认真"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-771f-choice-1",
+          "hanzi": "真"
+        },
+        {
+          "choiceId": "practice-one-771f-choice-2",
+          "hanzi": "假"
+        },
+        {
+          "choiceId": "practice-one-771f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-771f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-771f-choice-1"
+    },
+    {
+      "checkId": "practice-two-771f",
+      "characterId": "char-771f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "真正"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-771f-choice-1",
+          "hanzi": "真"
+        },
+        {
+          "choiceId": "practice-two-771f-choice-2",
+          "hanzi": "假"
+        },
+        {
+          "choiceId": "practice-two-771f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-771f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-771f-choice-1"
+    },
+    {
+      "checkId": "familiar-5047",
+      "characterId": "char-5047",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "假"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5047-choice-1",
+          "hanzi": "真"
+        },
+        {
+          "choiceId": "familiar-5047-choice-2",
+          "hanzi": "假"
+        },
+        {
+          "choiceId": "familiar-5047-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5047-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5047-choice-2"
+    },
+    {
+      "checkId": "check-5047",
+      "characterId": "char-5047",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "假"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5047-choice-1",
+          "hanzi": "真"
+        },
+        {
+          "choiceId": "check-5047-choice-2",
+          "hanzi": "假"
+        },
+        {
+          "choiceId": "check-5047-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5047-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5047-choice-2"
+    },
+    {
+      "checkId": "review-5047",
+      "characterId": "char-5047",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "假"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5047-choice-1",
+          "hanzi": "真"
+        },
+        {
+          "choiceId": "review-5047-choice-2",
+          "hanzi": "假"
+        },
+        {
+          "choiceId": "review-5047-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5047-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5047-choice-2"
+    },
+    {
+      "checkId": "practice-one-5047",
+      "characterId": "char-5047",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "假如"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5047-choice-1",
+          "hanzi": "真"
+        },
+        {
+          "choiceId": "practice-one-5047-choice-2",
+          "hanzi": "假"
+        },
+        {
+          "choiceId": "practice-one-5047-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5047-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5047-choice-2"
+    },
+    {
+      "checkId": "practice-two-5047",
+      "characterId": "char-5047",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "假装"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5047-choice-1",
+          "hanzi": "真"
+        },
+        {
+          "choiceId": "practice-two-5047-choice-2",
+          "hanzi": "假"
+        },
+        {
+          "choiceId": "practice-two-5047-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5047-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5047-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-771f",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-129-v1/char-771f",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5047",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-129-v1/char-5047",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-129-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-129-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Helping hands and tidying: 真 and 假",
+      "instructionEnglish": "Read two short word examples for 真 and 假 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-771f",
+        "readingId": "reading-771f",
+        "familiarityCheckId": "familiar-771f",
+        "practice": [
+          {
+            "wordId": "word-771f-1",
+            "checkId": "practice-one-771f"
+          },
+          {
+            "wordId": "word-771f-2",
+            "checkId": "practice-two-771f"
+          }
+        ],
+        "immediateCheckId": "check-771f",
+        "reviewCheckId": "review-771f"
+      },
+      {
+        "characterId": "char-5047",
+        "readingId": "reading-5047",
+        "familiarityCheckId": "familiar-5047",
+        "practice": [
+          {
+            "wordId": "word-5047-1",
+            "checkId": "practice-one-5047"
+          },
+          {
+            "wordId": "word-5047-2",
+            "checkId": "practice-two-5047"
+          }
+        ],
+        "immediateCheckId": "check-5047",
+        "reviewCheckId": "review-5047"
+      }
+    ],
+    "reader": {
+      "title": "Helping hands and tidying: 真 and 假",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-771f-1",
+        "word-771f-2",
+        "word-5047-1",
+        "word-5047-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-771f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-771f",
+          "transcript": "真",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-771f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-771f",
+          "transcript": "真",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-771f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-771f",
+          "transcript": "真",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-771f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-771f",
+          "transcript": "认真",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-771f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-771f",
+          "transcript": "真正",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-771f",
+          "readingId": "reading-771f",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "真",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-771f-1",
+          "readingId": null,
+          "wordId": "word-771f-1",
+          "checkId": null,
+          "transcript": "故事里的小兔认真地折纸。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-771f-2",
+          "readingId": null,
+          "wordId": "word-771f-2",
+          "checkId": null,
+          "transcript": "真正的朋友会互相帮助。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5047",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5047",
+          "transcript": "假",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5047",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5047",
+          "transcript": "假",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5047",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5047",
+          "transcript": "假",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5047",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5047",
+          "transcript": "假如",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5047",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5047",
+          "transcript": "假装",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5047",
+          "readingId": "reading-5047",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "假",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5047-1",
+          "readingId": null,
+          "wordId": "word-5047-1",
+          "checkId": null,
+          "transcript": "假如下雨，我们就在屋里画画。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5047-2",
+          "readingId": null,
+          "wordId": "word-5047-2",
+          "checkId": null,
+          "transcript": "小朋友假装自己是一只小鸟。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

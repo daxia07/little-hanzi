@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-104",
+  "lessonVersion": "expansion-104-v1",
+  "title": "School words and shapes: 章 and 图",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 164
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 章 and 图 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-7ae0",
+      "hanzi": "章",
+      "readings": [
+        {
+          "readingId": "reading-7ae0",
+          "pinyin": "zhāng",
+          "audioText": "章",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#章",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "chapter",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#章",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7ae0-1",
+          "text": "章节",
+          "pinyin": "zhāng jié",
+          "english": "chapters; sections",
+          "readingId": "reading-7ae0",
+          "context": {
+            "hanzi": "这本书分成几个章节。",
+            "english": "This book is divided into several chapters.",
+            "targetCharacter": "章"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#章节",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7ae0-2",
+          "text": "文章",
+          "pinyin": "wén zhāng",
+          "english": "article",
+          "readingId": "reading-7ae0",
+          "context": {
+            "hanzi": "我读完了一篇短文章。",
+            "english": "I finish reading a short article.",
+            "targetCharacter": "章"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#文章",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 立 above the lower 日 and 十 shapes of 章.",
+        "demonstrationEnglish": "This is 章. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7ae0",
+        "delayedReview": {
+          "promptId": "later-7ae0",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7ae0"
+        }
+      },
+      "assets": [
+        "asset-glyph-7ae0",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-56fe",
+      "hanzi": "图",
+      "readings": [
+        {
+          "readingId": "reading-56fe",
+          "pinyin": "tú",
+          "audioText": "图",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#图",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "picture; diagram",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#图",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-56fe-1",
+          "text": "地图",
+          "pinyin": "dì tú",
+          "english": "a map",
+          "readingId": "reading-56fe",
+          "context": {
+            "hanzi": "我们把地图放进小盒子。",
+            "english": "We put a map into a small box.",
+            "targetCharacter": "图"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#地图",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-56fe-2",
+          "text": "图片",
+          "pinyin": "tú piàn",
+          "english": "a picture",
+          "readingId": "reading-56fe",
+          "context": {
+            "hanzi": "我把一张图片贴在本子上。",
+            "english": "I stick a picture in my notebook.",
+            "targetCharacter": "图"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#图片",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 冬 inside the outer frame 囗 in 图.",
+        "demonstrationEnglish": "This is 图. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-56fe",
+        "delayedReview": {
+          "promptId": "later-56fe",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-56fe"
+        }
+      },
+      "assets": [
+        "asset-glyph-56fe",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-104-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-7ae0",
+        "familiar-56fe"
+      ]
+    },
+    {
+      "stepId": "expansion-104-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-104-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-7ae0",
+        "practice-two-7ae0",
+        "practice-one-56fe",
+        "practice-two-56fe"
+      ]
+    },
+    {
+      "stepId": "expansion-104-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-7ae0",
+        "check-56fe"
+      ]
+    },
+    {
+      "stepId": "expansion-104-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-7ae0",
+      "characterId": "char-7ae0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "章"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7ae0-choice-1",
+          "hanzi": "章"
+        },
+        {
+          "choiceId": "familiar-7ae0-choice-2",
+          "hanzi": "图"
+        },
+        {
+          "choiceId": "familiar-7ae0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7ae0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7ae0-choice-1"
+    },
+    {
+      "checkId": "check-7ae0",
+      "characterId": "char-7ae0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "章"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7ae0-choice-1",
+          "hanzi": "章"
+        },
+        {
+          "choiceId": "check-7ae0-choice-2",
+          "hanzi": "图"
+        },
+        {
+          "choiceId": "check-7ae0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7ae0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7ae0-choice-1"
+    },
+    {
+      "checkId": "review-7ae0",
+      "characterId": "char-7ae0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "章"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7ae0-choice-1",
+          "hanzi": "章"
+        },
+        {
+          "choiceId": "review-7ae0-choice-2",
+          "hanzi": "图"
+        },
+        {
+          "choiceId": "review-7ae0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7ae0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7ae0-choice-1"
+    },
+    {
+      "checkId": "practice-one-7ae0",
+      "characterId": "char-7ae0",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "章节"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7ae0-choice-1",
+          "hanzi": "章"
+        },
+        {
+          "choiceId": "practice-one-7ae0-choice-2",
+          "hanzi": "图"
+        },
+        {
+          "choiceId": "practice-one-7ae0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7ae0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7ae0-choice-1"
+    },
+    {
+      "checkId": "practice-two-7ae0",
+      "characterId": "char-7ae0",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "文章"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7ae0-choice-1",
+          "hanzi": "章"
+        },
+        {
+          "choiceId": "practice-two-7ae0-choice-2",
+          "hanzi": "图"
+        },
+        {
+          "choiceId": "practice-two-7ae0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7ae0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7ae0-choice-1"
+    },
+    {
+      "checkId": "familiar-56fe",
+      "characterId": "char-56fe",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "图"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-56fe-choice-1",
+          "hanzi": "章"
+        },
+        {
+          "choiceId": "familiar-56fe-choice-2",
+          "hanzi": "图"
+        },
+        {
+          "choiceId": "familiar-56fe-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-56fe-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-56fe-choice-2"
+    },
+    {
+      "checkId": "check-56fe",
+      "characterId": "char-56fe",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "图"
+      },
+      "choices": [
+        {
+          "choiceId": "check-56fe-choice-1",
+          "hanzi": "章"
+        },
+        {
+          "choiceId": "check-56fe-choice-2",
+          "hanzi": "图"
+        },
+        {
+          "choiceId": "check-56fe-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-56fe-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-56fe-choice-2"
+    },
+    {
+      "checkId": "review-56fe",
+      "characterId": "char-56fe",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "图"
+      },
+      "choices": [
+        {
+          "choiceId": "review-56fe-choice-1",
+          "hanzi": "章"
+        },
+        {
+          "choiceId": "review-56fe-choice-2",
+          "hanzi": "图"
+        },
+        {
+          "choiceId": "review-56fe-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-56fe-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-56fe-choice-2"
+    },
+    {
+      "checkId": "practice-one-56fe",
+      "characterId": "char-56fe",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "地图"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-56fe-choice-1",
+          "hanzi": "章"
+        },
+        {
+          "choiceId": "practice-one-56fe-choice-2",
+          "hanzi": "图"
+        },
+        {
+          "choiceId": "practice-one-56fe-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-56fe-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-56fe-choice-2"
+    },
+    {
+      "checkId": "practice-two-56fe",
+      "characterId": "char-56fe",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "图片"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-56fe-choice-1",
+          "hanzi": "章"
+        },
+        {
+          "choiceId": "practice-two-56fe-choice-2",
+          "hanzi": "图"
+        },
+        {
+          "choiceId": "practice-two-56fe-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-56fe-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-56fe-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-7ae0",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-104-v1/char-7ae0",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-56fe",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-104-v1/char-56fe",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-104-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-104-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "School words and shapes: 章 and 图",
+      "instructionEnglish": "Read two short word examples for 章 and 图 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-7ae0",
+        "readingId": "reading-7ae0",
+        "familiarityCheckId": "familiar-7ae0",
+        "practice": [
+          {
+            "wordId": "word-7ae0-1",
+            "checkId": "practice-one-7ae0"
+          },
+          {
+            "wordId": "word-7ae0-2",
+            "checkId": "practice-two-7ae0"
+          }
+        ],
+        "immediateCheckId": "check-7ae0",
+        "reviewCheckId": "review-7ae0"
+      },
+      {
+        "characterId": "char-56fe",
+        "readingId": "reading-56fe",
+        "familiarityCheckId": "familiar-56fe",
+        "practice": [
+          {
+            "wordId": "word-56fe-1",
+            "checkId": "practice-one-56fe"
+          },
+          {
+            "wordId": "word-56fe-2",
+            "checkId": "practice-two-56fe"
+          }
+        ],
+        "immediateCheckId": "check-56fe",
+        "reviewCheckId": "review-56fe"
+      }
+    ],
+    "reader": {
+      "title": "School words and shapes: 章 and 图",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-7ae0-1",
+        "word-7ae0-2",
+        "word-56fe-1",
+        "word-56fe-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-7ae0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7ae0",
+          "transcript": "章",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7ae0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7ae0",
+          "transcript": "章",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7ae0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7ae0",
+          "transcript": "章",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7ae0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7ae0",
+          "transcript": "章节",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7ae0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7ae0",
+          "transcript": "文章",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7ae0",
+          "readingId": "reading-7ae0",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "章",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7ae0-1",
+          "readingId": null,
+          "wordId": "word-7ae0-1",
+          "checkId": null,
+          "transcript": "这本书分成几个章节。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7ae0-2",
+          "readingId": null,
+          "wordId": "word-7ae0-2",
+          "checkId": null,
+          "transcript": "我读完了一篇短文章。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-56fe",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-56fe",
+          "transcript": "图",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-56fe",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-56fe",
+          "transcript": "图",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-56fe",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-56fe",
+          "transcript": "图",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-56fe",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-56fe",
+          "transcript": "地图",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-56fe",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-56fe",
+          "transcript": "图片",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-56fe",
+          "readingId": "reading-56fe",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "图",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-56fe-1",
+          "readingId": null,
+          "wordId": "word-56fe-1",
+          "checkId": null,
+          "transcript": "我们把地图放进小盒子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-56fe-2",
+          "readingId": null,
+          "wordId": "word-56fe-2",
+          "checkId": null,
+          "transcript": "我把一张图片贴在本子上。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

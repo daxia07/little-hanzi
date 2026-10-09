@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-040",
+  "lessonVersion": "expansion-040-v1",
+  "title": "Friends and positions: 里 and 外",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 100
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 里 and 外 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-91cc",
+      "hanzi": "里",
+      "readings": [
+        {
+          "readingId": "reading-91cc",
+          "pinyin": "lǐ",
+          "audioText": "里",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#里",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "inside",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#里",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-91cc-1",
+          "text": "里面",
+          "pinyin": "lǐ miàn",
+          "english": "inside",
+          "readingId": "reading-91cc",
+          "context": {
+            "hanzi": "盒子里面有一只纸船。",
+            "english": "There is a paper boat inside the box.",
+            "targetCharacter": "里"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#里面",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-91cc-2",
+          "text": "这里",
+          "pinyin": "zhè lǐ",
+          "english": "here",
+          "readingId": "reading-91cc",
+          "context": {
+            "hanzi": "这里有一块空地，可以画画。",
+            "english": "There is a clear space here where we can draw.",
+            "targetCharacter": "里"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#这里",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice 田 above the broad lower strokes of 里.",
+        "demonstrationEnglish": "This is 里. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-91cc",
+        "delayedReview": {
+          "promptId": "later-91cc",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-91cc"
+        }
+      },
+      "assets": [
+        "asset-glyph-91cc",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5916",
+      "hanzi": "外",
+      "readings": [
+        {
+          "readingId": "reading-5916",
+          "pinyin": "wài",
+          "audioText": "外",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#外",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "outside",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#外",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5916-1",
+          "text": "外面",
+          "pinyin": "wài miàn",
+          "english": "outside",
+          "readingId": "reading-5916",
+          "context": {
+            "hanzi": "外面的花开了。",
+            "english": "The flowers outside have bloomed.",
+            "targetCharacter": "外"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#外面",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5916-2",
+          "text": "户外",
+          "pinyin": "hù wài",
+          "english": "outdoors",
+          "readingId": "reading-5916",
+          "context": {
+            "hanzi": "天气好的时候，我们去户外活动。",
+            "english": "When the weather is good, we do activities outdoors.",
+            "targetCharacter": "外"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#户外",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 夕 beside 卜 in 外.",
+        "demonstrationEnglish": "This is 外. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5916",
+        "delayedReview": {
+          "promptId": "later-5916",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5916"
+        }
+      },
+      "assets": [
+        "asset-glyph-5916",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-040-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-91cc",
+        "familiar-5916"
+      ]
+    },
+    {
+      "stepId": "expansion-040-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-040-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-91cc",
+        "practice-two-91cc",
+        "practice-one-5916",
+        "practice-two-5916"
+      ]
+    },
+    {
+      "stepId": "expansion-040-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-91cc",
+        "check-5916"
+      ]
+    },
+    {
+      "stepId": "expansion-040-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-91cc",
+      "characterId": "char-91cc",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "里"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-91cc-choice-1",
+          "hanzi": "里"
+        },
+        {
+          "choiceId": "familiar-91cc-choice-2",
+          "hanzi": "外"
+        },
+        {
+          "choiceId": "familiar-91cc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-91cc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-91cc-choice-1"
+    },
+    {
+      "checkId": "check-91cc",
+      "characterId": "char-91cc",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "里"
+      },
+      "choices": [
+        {
+          "choiceId": "check-91cc-choice-1",
+          "hanzi": "里"
+        },
+        {
+          "choiceId": "check-91cc-choice-2",
+          "hanzi": "外"
+        },
+        {
+          "choiceId": "check-91cc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-91cc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-91cc-choice-1"
+    },
+    {
+      "checkId": "review-91cc",
+      "characterId": "char-91cc",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "里"
+      },
+      "choices": [
+        {
+          "choiceId": "review-91cc-choice-1",
+          "hanzi": "里"
+        },
+        {
+          "choiceId": "review-91cc-choice-2",
+          "hanzi": "外"
+        },
+        {
+          "choiceId": "review-91cc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-91cc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-91cc-choice-1"
+    },
+    {
+      "checkId": "practice-one-91cc",
+      "characterId": "char-91cc",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "里面"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-91cc-choice-1",
+          "hanzi": "里"
+        },
+        {
+          "choiceId": "practice-one-91cc-choice-2",
+          "hanzi": "外"
+        },
+        {
+          "choiceId": "practice-one-91cc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-91cc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-91cc-choice-1"
+    },
+    {
+      "checkId": "practice-two-91cc",
+      "characterId": "char-91cc",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "这里"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-91cc-choice-1",
+          "hanzi": "里"
+        },
+        {
+          "choiceId": "practice-two-91cc-choice-2",
+          "hanzi": "外"
+        },
+        {
+          "choiceId": "practice-two-91cc-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-91cc-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-91cc-choice-1"
+    },
+    {
+      "checkId": "familiar-5916",
+      "characterId": "char-5916",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "外"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5916-choice-1",
+          "hanzi": "里"
+        },
+        {
+          "choiceId": "familiar-5916-choice-2",
+          "hanzi": "外"
+        },
+        {
+          "choiceId": "familiar-5916-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5916-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5916-choice-2"
+    },
+    {
+      "checkId": "check-5916",
+      "characterId": "char-5916",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "外"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5916-choice-1",
+          "hanzi": "里"
+        },
+        {
+          "choiceId": "check-5916-choice-2",
+          "hanzi": "外"
+        },
+        {
+          "choiceId": "check-5916-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5916-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5916-choice-2"
+    },
+    {
+      "checkId": "review-5916",
+      "characterId": "char-5916",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "外"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5916-choice-1",
+          "hanzi": "里"
+        },
+        {
+          "choiceId": "review-5916-choice-2",
+          "hanzi": "外"
+        },
+        {
+          "choiceId": "review-5916-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5916-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5916-choice-2"
+    },
+    {
+      "checkId": "practice-one-5916",
+      "characterId": "char-5916",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "外面"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5916-choice-1",
+          "hanzi": "里"
+        },
+        {
+          "choiceId": "practice-one-5916-choice-2",
+          "hanzi": "外"
+        },
+        {
+          "choiceId": "practice-one-5916-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5916-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5916-choice-2"
+    },
+    {
+      "checkId": "practice-two-5916",
+      "characterId": "char-5916",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "户外"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5916-choice-1",
+          "hanzi": "里"
+        },
+        {
+          "choiceId": "practice-two-5916-choice-2",
+          "hanzi": "外"
+        },
+        {
+          "choiceId": "practice-two-5916-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5916-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5916-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-91cc",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-040-v1/char-91cc",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5916",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-040-v1/char-5916",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-040-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-040-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Friends and positions: 里 and 外",
+      "instructionEnglish": "Read two short word examples for 里 and 外 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-91cc",
+        "readingId": "reading-91cc",
+        "familiarityCheckId": "familiar-91cc",
+        "practice": [
+          {
+            "wordId": "word-91cc-1",
+            "checkId": "practice-one-91cc"
+          },
+          {
+            "wordId": "word-91cc-2",
+            "checkId": "practice-two-91cc"
+          }
+        ],
+        "immediateCheckId": "check-91cc",
+        "reviewCheckId": "review-91cc"
+      },
+      {
+        "characterId": "char-5916",
+        "readingId": "reading-5916",
+        "familiarityCheckId": "familiar-5916",
+        "practice": [
+          {
+            "wordId": "word-5916-1",
+            "checkId": "practice-one-5916"
+          },
+          {
+            "wordId": "word-5916-2",
+            "checkId": "practice-two-5916"
+          }
+        ],
+        "immediateCheckId": "check-5916",
+        "reviewCheckId": "review-5916"
+      }
+    ],
+    "reader": {
+      "title": "Friends and positions: 里 and 外",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-91cc-1",
+        "word-91cc-2",
+        "word-5916-1",
+        "word-5916-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-91cc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-91cc",
+          "transcript": "里",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-91cc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-91cc",
+          "transcript": "里",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-91cc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-91cc",
+          "transcript": "里",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-91cc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-91cc",
+          "transcript": "里面",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-91cc",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-91cc",
+          "transcript": "这里",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-91cc",
+          "readingId": "reading-91cc",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "里",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-91cc-1",
+          "readingId": null,
+          "wordId": "word-91cc-1",
+          "checkId": null,
+          "transcript": "盒子里面有一只纸船。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-91cc-2",
+          "readingId": null,
+          "wordId": "word-91cc-2",
+          "checkId": null,
+          "transcript": "这里有一块空地，可以画画。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5916",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5916",
+          "transcript": "外",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5916",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5916",
+          "transcript": "外",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5916",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5916",
+          "transcript": "外",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5916",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5916",
+          "transcript": "外面",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5916",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5916",
+          "transcript": "户外",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5916",
+          "readingId": "reading-5916",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "外",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5916-1",
+          "readingId": null,
+          "wordId": "word-5916-1",
+          "checkId": null,
+          "transcript": "外面的花开了。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5916-2",
+          "readingId": null,
+          "wordId": "word-5916-2",
+          "checkId": null,
+          "transcript": "天气好的时候，我们去户外活动。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

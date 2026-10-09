@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-119",
+  "lessonVersion": "expansion-119-v1",
+  "title": "Art, music and games: 推 and 拉",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 179
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 推 and 拉 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-63a8",
+      "hanzi": "推",
+      "readings": [
+        {
+          "readingId": "reading-63a8",
+          "pinyin": "tuī",
+          "audioText": "推",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#推",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "push",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#推",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-63a8-1",
+          "text": "推开",
+          "pinyin": "tuī kāi",
+          "english": "push open",
+          "readingId": "reading-63a8",
+          "context": {
+            "hanzi": "我轻轻推开门。",
+            "english": "I gently push the door open.",
+            "targetCharacter": "推"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#推开",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-63a8-2",
+          "text": "推车",
+          "pinyin": "tuī chē",
+          "english": "push a cart",
+          "readingId": "reading-63a8",
+          "context": {
+            "hanzi": "我们一起推车。",
+            "english": "We push a cart together.",
+            "targetCharacter": "推"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#推车",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 扌 beside 隹 in 推.",
+        "demonstrationEnglish": "This is 推. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-63a8",
+        "delayedReview": {
+          "promptId": "later-63a8",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-63a8"
+        }
+      },
+      "assets": [
+        "asset-glyph-63a8",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-62c9",
+      "hanzi": "拉",
+      "readings": [
+        {
+          "readingId": "reading-62c9",
+          "pinyin": "lā",
+          "audioText": "拉",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拉",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "pull",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拉",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-62c9-1",
+          "text": "拉手",
+          "pinyin": "lā shǒu",
+          "english": "hold hands",
+          "readingId": "reading-62c9",
+          "context": {
+            "hanzi": "我们一起拉手。",
+            "english": "We hold hands together.",
+            "targetCharacter": "拉"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拉手",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-62c9-2",
+          "text": "拉开",
+          "pinyin": "lā kāi",
+          "english": "pull open",
+          "readingId": "reading-62c9",
+          "context": {
+            "hanzi": "大人拉开窗帘。",
+            "english": "An adult pulls the curtains open.",
+            "targetCharacter": "拉"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#拉开",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 扌 beside 立 in 拉.",
+        "demonstrationEnglish": "This is 拉. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-62c9",
+        "delayedReview": {
+          "promptId": "later-62c9",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-62c9"
+        }
+      },
+      "assets": [
+        "asset-glyph-62c9",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-119-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-63a8",
+        "familiar-62c9"
+      ]
+    },
+    {
+      "stepId": "expansion-119-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-119-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-63a8",
+        "practice-two-63a8",
+        "practice-one-62c9",
+        "practice-two-62c9"
+      ]
+    },
+    {
+      "stepId": "expansion-119-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-63a8",
+        "check-62c9"
+      ]
+    },
+    {
+      "stepId": "expansion-119-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-63a8",
+      "characterId": "char-63a8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "推"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-63a8-choice-1",
+          "hanzi": "推"
+        },
+        {
+          "choiceId": "familiar-63a8-choice-2",
+          "hanzi": "拉"
+        },
+        {
+          "choiceId": "familiar-63a8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-63a8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-63a8-choice-1"
+    },
+    {
+      "checkId": "check-63a8",
+      "characterId": "char-63a8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "推"
+      },
+      "choices": [
+        {
+          "choiceId": "check-63a8-choice-1",
+          "hanzi": "推"
+        },
+        {
+          "choiceId": "check-63a8-choice-2",
+          "hanzi": "拉"
+        },
+        {
+          "choiceId": "check-63a8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-63a8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-63a8-choice-1"
+    },
+    {
+      "checkId": "review-63a8",
+      "characterId": "char-63a8",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "推"
+      },
+      "choices": [
+        {
+          "choiceId": "review-63a8-choice-1",
+          "hanzi": "推"
+        },
+        {
+          "choiceId": "review-63a8-choice-2",
+          "hanzi": "拉"
+        },
+        {
+          "choiceId": "review-63a8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-63a8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-63a8-choice-1"
+    },
+    {
+      "checkId": "practice-one-63a8",
+      "characterId": "char-63a8",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "推开"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-63a8-choice-1",
+          "hanzi": "推"
+        },
+        {
+          "choiceId": "practice-one-63a8-choice-2",
+          "hanzi": "拉"
+        },
+        {
+          "choiceId": "practice-one-63a8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-63a8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-63a8-choice-1"
+    },
+    {
+      "checkId": "practice-two-63a8",
+      "characterId": "char-63a8",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "推车"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-63a8-choice-1",
+          "hanzi": "推"
+        },
+        {
+          "choiceId": "practice-two-63a8-choice-2",
+          "hanzi": "拉"
+        },
+        {
+          "choiceId": "practice-two-63a8-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-63a8-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-63a8-choice-1"
+    },
+    {
+      "checkId": "familiar-62c9",
+      "characterId": "char-62c9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "拉"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-62c9-choice-1",
+          "hanzi": "推"
+        },
+        {
+          "choiceId": "familiar-62c9-choice-2",
+          "hanzi": "拉"
+        },
+        {
+          "choiceId": "familiar-62c9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-62c9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-62c9-choice-2"
+    },
+    {
+      "checkId": "check-62c9",
+      "characterId": "char-62c9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "拉"
+      },
+      "choices": [
+        {
+          "choiceId": "check-62c9-choice-1",
+          "hanzi": "推"
+        },
+        {
+          "choiceId": "check-62c9-choice-2",
+          "hanzi": "拉"
+        },
+        {
+          "choiceId": "check-62c9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-62c9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-62c9-choice-2"
+    },
+    {
+      "checkId": "review-62c9",
+      "characterId": "char-62c9",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "拉"
+      },
+      "choices": [
+        {
+          "choiceId": "review-62c9-choice-1",
+          "hanzi": "推"
+        },
+        {
+          "choiceId": "review-62c9-choice-2",
+          "hanzi": "拉"
+        },
+        {
+          "choiceId": "review-62c9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-62c9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-62c9-choice-2"
+    },
+    {
+      "checkId": "practice-one-62c9",
+      "characterId": "char-62c9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "拉手"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-62c9-choice-1",
+          "hanzi": "推"
+        },
+        {
+          "choiceId": "practice-one-62c9-choice-2",
+          "hanzi": "拉"
+        },
+        {
+          "choiceId": "practice-one-62c9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-62c9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-62c9-choice-2"
+    },
+    {
+      "checkId": "practice-two-62c9",
+      "characterId": "char-62c9",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "拉开"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-62c9-choice-1",
+          "hanzi": "推"
+        },
+        {
+          "choiceId": "practice-two-62c9-choice-2",
+          "hanzi": "拉"
+        },
+        {
+          "choiceId": "practice-two-62c9-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-62c9-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-62c9-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-63a8",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-119-v1/char-63a8",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-62c9",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-119-v1/char-62c9",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-119-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-119-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Art, music and games: 推 and 拉",
+      "instructionEnglish": "Read two short word examples for 推 and 拉 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-63a8",
+        "readingId": "reading-63a8",
+        "familiarityCheckId": "familiar-63a8",
+        "practice": [
+          {
+            "wordId": "word-63a8-1",
+            "checkId": "practice-one-63a8"
+          },
+          {
+            "wordId": "word-63a8-2",
+            "checkId": "practice-two-63a8"
+          }
+        ],
+        "immediateCheckId": "check-63a8",
+        "reviewCheckId": "review-63a8"
+      },
+      {
+        "characterId": "char-62c9",
+        "readingId": "reading-62c9",
+        "familiarityCheckId": "familiar-62c9",
+        "practice": [
+          {
+            "wordId": "word-62c9-1",
+            "checkId": "practice-one-62c9"
+          },
+          {
+            "wordId": "word-62c9-2",
+            "checkId": "practice-two-62c9"
+          }
+        ],
+        "immediateCheckId": "check-62c9",
+        "reviewCheckId": "review-62c9"
+      }
+    ],
+    "reader": {
+      "title": "Art, music and games: 推 and 拉",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-63a8-1",
+        "word-63a8-2",
+        "word-62c9-1",
+        "word-62c9-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-63a8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-63a8",
+          "transcript": "推",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-63a8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-63a8",
+          "transcript": "推",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-63a8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-63a8",
+          "transcript": "推",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-63a8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-63a8",
+          "transcript": "推开",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-63a8",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-63a8",
+          "transcript": "推车",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-63a8",
+          "readingId": "reading-63a8",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "推",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-63a8-1",
+          "readingId": null,
+          "wordId": "word-63a8-1",
+          "checkId": null,
+          "transcript": "我轻轻推开门。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-63a8-2",
+          "readingId": null,
+          "wordId": "word-63a8-2",
+          "checkId": null,
+          "transcript": "我们一起推车。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-62c9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-62c9",
+          "transcript": "拉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-62c9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-62c9",
+          "transcript": "拉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-62c9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-62c9",
+          "transcript": "拉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-62c9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-62c9",
+          "transcript": "拉手",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-62c9",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-62c9",
+          "transcript": "拉开",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-62c9",
+          "readingId": "reading-62c9",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "拉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-62c9-1",
+          "readingId": null,
+          "wordId": "word-62c9-1",
+          "checkId": null,
+          "transcript": "我们一起拉手。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-62c9-2",
+          "readingId": null,
+          "wordId": "word-62c9-2",
+          "checkId": null,
+          "transcript": "大人拉开窗帘。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

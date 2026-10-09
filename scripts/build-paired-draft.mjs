@@ -5,6 +5,22 @@ import { fileURLToPath } from 'node:url';
 import { curriculumDigest } from '../lib/curriculum/digest.ts';
 import { validateCurriculumPackage } from '../lib/curriculum/validate.ts';
 import { inspectCorpusManifest } from '../lib/pilot/corpus-policy.ts';
+import { inspectCorpusBatch } from '../lib/pilot/corpus-store.ts';
+
+export function assertDistinctPairedReadings(characters) {
+  if (new Set(characters.map(c => c.numberedPinyin)).size !== 2) {
+    throw Error('Paired sound checks require distinct selected readings');
+  }
+}
+
+export function assertContextConsistentWords(character) {
+  for (const word of character.words) {
+    const position = word.text.indexOf(character.hanzi);
+    if (position < 0 || word.numberedPinyin.split(' ')[position] !== character.numberedPinyin) {
+      throw Error('Word context must preserve the selected target reading, including neutral tones');
+    }
+  }
+}
 
 export async function buildPairedDraft(config) {
 const root = fileURLToPath(new URL('..', import.meta.url));
@@ -26,7 +42,9 @@ const provenance = text => ({
 const packages = [];
 for (const lesson of draft.lessons) {
   if (lesson.characters.length !== 2) throw Error('Two targets required');
+  assertDistinctPairedReadings(lesson.characters);
   for (const c of lesson.characters) {
+    if (config.contextConsistentReadings) assertContextConsistentWords(c);
     for (const entry of [{text: c.hanzi, numberedPinyin: c.numberedPinyin}, ...c.words]) {
       if (!source.entries.some(e => e.simplified === entry.text && e.numberedPinyin === entry.numberedPinyin)) throw Error(`Dictionary match missing: ${entry.text}`);
     }
@@ -77,19 +95,27 @@ for (const lesson of draft.lessons) {
   packages.push(p);
 }
 const previous = read(config.previousManifest);
-const batchId = config.batchId;
-const items = await Promise.all(packages.map(async p => ({ lessonVersion: p.lessonVersion, contentDigest: await curriculumDigest(p), batchId, ...p.placement })));
+const batchSize = config.batchSize ?? packages.length;
+if (!Number.isSafeInteger(batchSize) || batchSize < 1 || batchSize > 50) throw Error('Authoring batch capacity must be between 1 and 50');
+const batchIdFor = i => packages.length > batchSize ? `${config.batchId}-${String(Math.floor(i / batchSize) + 1).padStart(2, '0')}` : config.batchId;
+const items = await Promise.all(packages.map(async (p, i) => ({ lessonVersion: p.lessonVersion, contentDigest: await curriculumDigest(p), batchId: batchIdFor(i), ...p.placement })));
 const manifest = { ...previous, corpusVersion: config.corpusVersion, items: [...previous.items, ...items] };
 inspectCorpusManifest(manifest);
 const seen = new Set();
 for (const item of previous.items) {
-  const locations = ['content/curriculum/corpus', 'content/curriculum/nature', 'content/curriculum/everyday'].map(dir => `${dir}/${item.lessonVersion}.json`);
+  const locations = ['content/curriculum/corpus', 'content/curriculum/nature', 'content/curriculum/everyday', 'content/curriculum/people', 'content/curriculum/expansion'].map(dir => `${dir}/${item.lessonVersion}.json`);
   const prior = read(locations.find(p => fs.existsSync(path.join(root, p))));
   for (const c of prior.characters) { if (seen.has(c.hanzi)) throw Error('Duplicate prior target'); seen.add(c.hanzi); }
 }
 for (const p of packages) for (const c of p.characters) { if (seen.has(c.hanzi)) throw Error('Duplicate new target'); seen.add(c.hanzi); }
-const batch = { schemaVersion: 'r6-authoring-batch-1', batchId, batchVersion: `${batchId}-v1`, items: packages.map((p, i) => ({ lessonVersion: p.lessonVersion, contentDigest: items[i].contentDigest,
-  characters: p.characters.map(c => ({ characterId: c.characterId, coverageIdentity: c.hanzi })), sourceRefs: [config.sourceId], licenseRefs: ['CC-BY-SA-4.0'], reviewerRefs: [], adapterId: 'corpus-paired', adapterVersion: 'corpus-paired-v1', ...p.placement })), intendedScope: 'draft', unresolvedFields: ['UNVERIFIED_SOURCE', 'UNREVIEWED_CONTENT', 'UNREVIEWED_AUDIO'] };
+const batches = [];
+for (let from = 0; from < packages.length; from += batchSize) {
+  const batchId = batchIdFor(from);
+  const batch = { schemaVersion: 'r6-authoring-batch-1', batchId, batchVersion: `${batchId}-v1`, items: packages.slice(from, from + batchSize).map((p, i) => ({ lessonVersion: p.lessonVersion, contentDigest: items[from + i].contentDigest,
+    characters: p.characters.map(c => ({ characterId: c.characterId, coverageIdentity: c.hanzi })), sourceRefs: [config.sourceId], licenseRefs: ['CC-BY-SA-4.0'], reviewerRefs: [], adapterId: 'corpus-paired', adapterVersion: 'corpus-paired-v1', ...p.placement })), intendedScope: 'draft', unresolvedFields: ['UNVERIFIED_SOURCE', 'UNREVIEWED_CONTENT', 'UNREVIEWED_AUDIO'] };
+  inspectCorpusBatch(batch);
+  batches.push(batch);
+}
 const requests = [];
 for (const [i, p] of packages.entries()) {
   const grouped = new Map();
@@ -105,7 +131,7 @@ for (const [i, p] of packages.entries()) {
 }
 const outputs = new Map(packages.map(p => [`${config.packageDirectory}/${p.lessonVersion}.json`, p]));
 outputs.set(config.manifestPath, manifest);
-outputs.set(`${config.batchDirectory}/${batch.batchVersion}.json`, batch);
+for (const batch of batches) outputs.set(`${config.batchDirectory}/${batch.batchVersion}.json`, batch);
 outputs.set(config.audioWorklistPath, { schemaVersion: config.audioWorklistSchema, status: 'pending', corpusVersion: manifest.corpusVersion, corpusDigest: await curriculumDigest(manifest), requests });
 for (const [name, value] of outputs) {
   const text = JSON.stringify(value, null, 2) + '\n', file = path.join(root, name);

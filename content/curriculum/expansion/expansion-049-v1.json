@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-049",
+  "lessonVersion": "expansion-049-v1",
+  "title": "Directions and time: 明 and 昨",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 109
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 明 and 昨 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-660e",
+      "hanzi": "明",
+      "readings": [
+        {
+          "readingId": "reading-660e",
+          "pinyin": "míng",
+          "audioText": "明",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#明",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "bright; clear",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#明",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-660e-1",
+          "text": "明天",
+          "pinyin": "míng tiān",
+          "english": "tomorrow",
+          "readingId": "reading-660e",
+          "context": {
+            "hanzi": "明天，我们去图书馆。",
+            "english": "Tomorrow, we are going to the library.",
+            "targetCharacter": "明"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#明天",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-660e-2",
+          "text": "明亮",
+          "pinyin": "míng liàng",
+          "english": "bright",
+          "readingId": "reading-660e",
+          "context": {
+            "hanzi": "窗边的光线很明亮。",
+            "english": "The light by the window is bright.",
+            "targetCharacter": "明"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#明亮",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 日 beside 月 in 明.",
+        "demonstrationEnglish": "This is 明. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-660e",
+        "delayedReview": {
+          "promptId": "later-660e",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-660e"
+        }
+      },
+      "assets": [
+        "asset-glyph-660e",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-6628",
+      "hanzi": "昨",
+      "readings": [
+        {
+          "readingId": "reading-6628",
+          "pinyin": "zuó",
+          "audioText": "昨",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#昨",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "yesterday; former day",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#昨",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6628-1",
+          "text": "昨天",
+          "pinyin": "zuó tiān",
+          "english": "yesterday",
+          "readingId": "reading-6628",
+          "context": {
+            "hanzi": "昨天，我们在公园看到了小鸭。",
+            "english": "Yesterday, we saw ducklings in the park.",
+            "targetCharacter": "昨"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#昨天",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6628-2",
+          "text": "昨晚",
+          "pinyin": "zuó wǎn",
+          "english": "last night",
+          "readingId": "reading-6628",
+          "context": {
+            "hanzi": "昨晚，我读了一个新故事。",
+            "english": "Last night, I read a new story.",
+            "targetCharacter": "昨"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#昨晚",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 日 beside 乍 in 昨.",
+        "demonstrationEnglish": "This is 昨. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6628",
+        "delayedReview": {
+          "promptId": "later-6628",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6628"
+        }
+      },
+      "assets": [
+        "asset-glyph-6628",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-049-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-660e",
+        "familiar-6628"
+      ]
+    },
+    {
+      "stepId": "expansion-049-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-049-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-660e",
+        "practice-two-660e",
+        "practice-one-6628",
+        "practice-two-6628"
+      ]
+    },
+    {
+      "stepId": "expansion-049-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-660e",
+        "check-6628"
+      ]
+    },
+    {
+      "stepId": "expansion-049-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-660e",
+      "characterId": "char-660e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "明"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-660e-choice-1",
+          "hanzi": "明"
+        },
+        {
+          "choiceId": "familiar-660e-choice-2",
+          "hanzi": "昨"
+        },
+        {
+          "choiceId": "familiar-660e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-660e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-660e-choice-1"
+    },
+    {
+      "checkId": "check-660e",
+      "characterId": "char-660e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "明"
+      },
+      "choices": [
+        {
+          "choiceId": "check-660e-choice-1",
+          "hanzi": "明"
+        },
+        {
+          "choiceId": "check-660e-choice-2",
+          "hanzi": "昨"
+        },
+        {
+          "choiceId": "check-660e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-660e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-660e-choice-1"
+    },
+    {
+      "checkId": "review-660e",
+      "characterId": "char-660e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "明"
+      },
+      "choices": [
+        {
+          "choiceId": "review-660e-choice-1",
+          "hanzi": "明"
+        },
+        {
+          "choiceId": "review-660e-choice-2",
+          "hanzi": "昨"
+        },
+        {
+          "choiceId": "review-660e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-660e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-660e-choice-1"
+    },
+    {
+      "checkId": "practice-one-660e",
+      "characterId": "char-660e",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "明天"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-660e-choice-1",
+          "hanzi": "明"
+        },
+        {
+          "choiceId": "practice-one-660e-choice-2",
+          "hanzi": "昨"
+        },
+        {
+          "choiceId": "practice-one-660e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-660e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-660e-choice-1"
+    },
+    {
+      "checkId": "practice-two-660e",
+      "characterId": "char-660e",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "明亮"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-660e-choice-1",
+          "hanzi": "明"
+        },
+        {
+          "choiceId": "practice-two-660e-choice-2",
+          "hanzi": "昨"
+        },
+        {
+          "choiceId": "practice-two-660e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-660e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-660e-choice-1"
+    },
+    {
+      "checkId": "familiar-6628",
+      "characterId": "char-6628",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "昨"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6628-choice-1",
+          "hanzi": "明"
+        },
+        {
+          "choiceId": "familiar-6628-choice-2",
+          "hanzi": "昨"
+        },
+        {
+          "choiceId": "familiar-6628-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6628-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6628-choice-2"
+    },
+    {
+      "checkId": "check-6628",
+      "characterId": "char-6628",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "昨"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6628-choice-1",
+          "hanzi": "明"
+        },
+        {
+          "choiceId": "check-6628-choice-2",
+          "hanzi": "昨"
+        },
+        {
+          "choiceId": "check-6628-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6628-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6628-choice-2"
+    },
+    {
+      "checkId": "review-6628",
+      "characterId": "char-6628",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "昨"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6628-choice-1",
+          "hanzi": "明"
+        },
+        {
+          "choiceId": "review-6628-choice-2",
+          "hanzi": "昨"
+        },
+        {
+          "choiceId": "review-6628-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6628-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6628-choice-2"
+    },
+    {
+      "checkId": "practice-one-6628",
+      "characterId": "char-6628",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "昨天"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6628-choice-1",
+          "hanzi": "明"
+        },
+        {
+          "choiceId": "practice-one-6628-choice-2",
+          "hanzi": "昨"
+        },
+        {
+          "choiceId": "practice-one-6628-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6628-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6628-choice-2"
+    },
+    {
+      "checkId": "practice-two-6628",
+      "characterId": "char-6628",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "昨晚"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6628-choice-1",
+          "hanzi": "明"
+        },
+        {
+          "choiceId": "practice-two-6628-choice-2",
+          "hanzi": "昨"
+        },
+        {
+          "choiceId": "practice-two-6628-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6628-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6628-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-660e",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-049-v1/char-660e",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-6628",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-049-v1/char-6628",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-049-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-049-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Directions and time: 明 and 昨",
+      "instructionEnglish": "Read two short word examples for 明 and 昨 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-660e",
+        "readingId": "reading-660e",
+        "familiarityCheckId": "familiar-660e",
+        "practice": [
+          {
+            "wordId": "word-660e-1",
+            "checkId": "practice-one-660e"
+          },
+          {
+            "wordId": "word-660e-2",
+            "checkId": "practice-two-660e"
+          }
+        ],
+        "immediateCheckId": "check-660e",
+        "reviewCheckId": "review-660e"
+      },
+      {
+        "characterId": "char-6628",
+        "readingId": "reading-6628",
+        "familiarityCheckId": "familiar-6628",
+        "practice": [
+          {
+            "wordId": "word-6628-1",
+            "checkId": "practice-one-6628"
+          },
+          {
+            "wordId": "word-6628-2",
+            "checkId": "practice-two-6628"
+          }
+        ],
+        "immediateCheckId": "check-6628",
+        "reviewCheckId": "review-6628"
+      }
+    ],
+    "reader": {
+      "title": "Directions and time: 明 and 昨",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-660e-1",
+        "word-660e-2",
+        "word-6628-1",
+        "word-6628-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-660e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-660e",
+          "transcript": "明",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-660e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-660e",
+          "transcript": "明",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-660e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-660e",
+          "transcript": "明",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-660e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-660e",
+          "transcript": "明天",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-660e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-660e",
+          "transcript": "明亮",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-660e",
+          "readingId": "reading-660e",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "明",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-660e-1",
+          "readingId": null,
+          "wordId": "word-660e-1",
+          "checkId": null,
+          "transcript": "明天，我们去图书馆。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-660e-2",
+          "readingId": null,
+          "wordId": "word-660e-2",
+          "checkId": null,
+          "transcript": "窗边的光线很明亮。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-6628",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6628",
+          "transcript": "昨",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6628",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6628",
+          "transcript": "昨",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6628",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6628",
+          "transcript": "昨",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6628",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6628",
+          "transcript": "昨天",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6628",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6628",
+          "transcript": "昨晚",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6628",
+          "readingId": "reading-6628",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "昨",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6628-1",
+          "readingId": null,
+          "wordId": "word-6628-1",
+          "checkId": null,
+          "transcript": "昨天，我们在公园看到了小鸭。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6628-2",
+          "readingId": null,
+          "wordId": "word-6628-2",
+          "checkId": null,
+          "transcript": "昨晚，我读了一个新故事。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

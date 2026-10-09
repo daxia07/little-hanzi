@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-089",
+  "lessonVersion": "expansion-089-v1",
+  "title": "Meals and containers: 筷 and 勺",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 149
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 筷 and 勺 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-7b77",
+      "hanzi": "筷",
+      "readings": [
+        {
+          "readingId": "reading-7b77",
+          "pinyin": "kuài",
+          "audioText": "筷",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#筷",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "chopsticks",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#筷",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-7b77-1",
+          "text": "筷子",
+          "pinyin": "kuài zi",
+          "english": "chopsticks",
+          "readingId": "reading-7b77",
+          "context": {
+            "hanzi": "篮子里装着筷子。",
+            "english": "The basket holds chopsticks.",
+            "targetCharacter": "筷"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#筷子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-7b77-2",
+          "text": "木筷",
+          "pinyin": "mù kuài",
+          "english": "wooden chopsticks",
+          "readingId": "reading-7b77",
+          "context": {
+            "hanzi": "大人把木筷放在盘子里。",
+            "english": "An adult puts wooden chopsticks on the plate.",
+            "targetCharacter": "筷"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#木筷",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find the bamboo top ⺮ above 快 in 筷.",
+        "demonstrationEnglish": "This is 筷. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-7b77",
+        "delayedReview": {
+          "promptId": "later-7b77",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-7b77"
+        }
+      },
+      "assets": [
+        "asset-glyph-7b77",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-52fa",
+      "hanzi": "勺",
+      "readings": [
+        {
+          "readingId": "reading-52fa",
+          "pinyin": "sháo",
+          "audioText": "勺",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#勺",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "spoon",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#勺",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-52fa-1",
+          "text": "勺子",
+          "pinyin": "sháo zi",
+          "english": "a spoon",
+          "readingId": "reading-52fa",
+          "context": {
+            "hanzi": "我们把勺子放进小盒子。",
+            "english": "We put a spoon into a small box.",
+            "targetCharacter": "勺"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#勺子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-52fa-2",
+          "text": "汤勺",
+          "pinyin": "tāng sháo",
+          "english": "a soup spoon",
+          "readingId": "reading-52fa",
+          "context": {
+            "hanzi": "我在图画里看到了汤勺。",
+            "english": "I see a soup spoon in the picture.",
+            "targetCharacter": "勺"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#汤勺",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find the small dot inside the outer hook of 勺.",
+        "demonstrationEnglish": "This is 勺. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-52fa",
+        "delayedReview": {
+          "promptId": "later-52fa",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-52fa"
+        }
+      },
+      "assets": [
+        "asset-glyph-52fa",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-089-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-7b77",
+        "familiar-52fa"
+      ]
+    },
+    {
+      "stepId": "expansion-089-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-089-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-7b77",
+        "practice-two-7b77",
+        "practice-one-52fa",
+        "practice-two-52fa"
+      ]
+    },
+    {
+      "stepId": "expansion-089-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-7b77",
+        "check-52fa"
+      ]
+    },
+    {
+      "stepId": "expansion-089-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-7b77",
+      "characterId": "char-7b77",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "筷"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-7b77-choice-1",
+          "hanzi": "筷"
+        },
+        {
+          "choiceId": "familiar-7b77-choice-2",
+          "hanzi": "勺"
+        },
+        {
+          "choiceId": "familiar-7b77-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-7b77-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-7b77-choice-1"
+    },
+    {
+      "checkId": "check-7b77",
+      "characterId": "char-7b77",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "筷"
+      },
+      "choices": [
+        {
+          "choiceId": "check-7b77-choice-1",
+          "hanzi": "筷"
+        },
+        {
+          "choiceId": "check-7b77-choice-2",
+          "hanzi": "勺"
+        },
+        {
+          "choiceId": "check-7b77-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-7b77-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-7b77-choice-1"
+    },
+    {
+      "checkId": "review-7b77",
+      "characterId": "char-7b77",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "筷"
+      },
+      "choices": [
+        {
+          "choiceId": "review-7b77-choice-1",
+          "hanzi": "筷"
+        },
+        {
+          "choiceId": "review-7b77-choice-2",
+          "hanzi": "勺"
+        },
+        {
+          "choiceId": "review-7b77-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-7b77-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-7b77-choice-1"
+    },
+    {
+      "checkId": "practice-one-7b77",
+      "characterId": "char-7b77",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "筷子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-7b77-choice-1",
+          "hanzi": "筷"
+        },
+        {
+          "choiceId": "practice-one-7b77-choice-2",
+          "hanzi": "勺"
+        },
+        {
+          "choiceId": "practice-one-7b77-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-7b77-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-7b77-choice-1"
+    },
+    {
+      "checkId": "practice-two-7b77",
+      "characterId": "char-7b77",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "木筷"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-7b77-choice-1",
+          "hanzi": "筷"
+        },
+        {
+          "choiceId": "practice-two-7b77-choice-2",
+          "hanzi": "勺"
+        },
+        {
+          "choiceId": "practice-two-7b77-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-7b77-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-7b77-choice-1"
+    },
+    {
+      "checkId": "familiar-52fa",
+      "characterId": "char-52fa",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "勺"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-52fa-choice-1",
+          "hanzi": "筷"
+        },
+        {
+          "choiceId": "familiar-52fa-choice-2",
+          "hanzi": "勺"
+        },
+        {
+          "choiceId": "familiar-52fa-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-52fa-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-52fa-choice-2"
+    },
+    {
+      "checkId": "check-52fa",
+      "characterId": "char-52fa",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "勺"
+      },
+      "choices": [
+        {
+          "choiceId": "check-52fa-choice-1",
+          "hanzi": "筷"
+        },
+        {
+          "choiceId": "check-52fa-choice-2",
+          "hanzi": "勺"
+        },
+        {
+          "choiceId": "check-52fa-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-52fa-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-52fa-choice-2"
+    },
+    {
+      "checkId": "review-52fa",
+      "characterId": "char-52fa",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "勺"
+      },
+      "choices": [
+        {
+          "choiceId": "review-52fa-choice-1",
+          "hanzi": "筷"
+        },
+        {
+          "choiceId": "review-52fa-choice-2",
+          "hanzi": "勺"
+        },
+        {
+          "choiceId": "review-52fa-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-52fa-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-52fa-choice-2"
+    },
+    {
+      "checkId": "practice-one-52fa",
+      "characterId": "char-52fa",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "勺子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-52fa-choice-1",
+          "hanzi": "筷"
+        },
+        {
+          "choiceId": "practice-one-52fa-choice-2",
+          "hanzi": "勺"
+        },
+        {
+          "choiceId": "practice-one-52fa-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-52fa-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-52fa-choice-2"
+    },
+    {
+      "checkId": "practice-two-52fa",
+      "characterId": "char-52fa",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "汤勺"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-52fa-choice-1",
+          "hanzi": "筷"
+        },
+        {
+          "choiceId": "practice-two-52fa-choice-2",
+          "hanzi": "勺"
+        },
+        {
+          "choiceId": "practice-two-52fa-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-52fa-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-52fa-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-7b77",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-089-v1/char-7b77",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-52fa",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-089-v1/char-52fa",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-089-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-089-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Meals and containers: 筷 and 勺",
+      "instructionEnglish": "Read two short word examples for 筷 and 勺 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-7b77",
+        "readingId": "reading-7b77",
+        "familiarityCheckId": "familiar-7b77",
+        "practice": [
+          {
+            "wordId": "word-7b77-1",
+            "checkId": "practice-one-7b77"
+          },
+          {
+            "wordId": "word-7b77-2",
+            "checkId": "practice-two-7b77"
+          }
+        ],
+        "immediateCheckId": "check-7b77",
+        "reviewCheckId": "review-7b77"
+      },
+      {
+        "characterId": "char-52fa",
+        "readingId": "reading-52fa",
+        "familiarityCheckId": "familiar-52fa",
+        "practice": [
+          {
+            "wordId": "word-52fa-1",
+            "checkId": "practice-one-52fa"
+          },
+          {
+            "wordId": "word-52fa-2",
+            "checkId": "practice-two-52fa"
+          }
+        ],
+        "immediateCheckId": "check-52fa",
+        "reviewCheckId": "review-52fa"
+      }
+    ],
+    "reader": {
+      "title": "Meals and containers: 筷 and 勺",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-7b77-1",
+        "word-7b77-2",
+        "word-52fa-1",
+        "word-52fa-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-7b77",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-7b77",
+          "transcript": "筷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-7b77",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-7b77",
+          "transcript": "筷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-7b77",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-7b77",
+          "transcript": "筷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-7b77",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-7b77",
+          "transcript": "筷子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-7b77",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-7b77",
+          "transcript": "木筷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-7b77",
+          "readingId": "reading-7b77",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "筷",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7b77-1",
+          "readingId": null,
+          "wordId": "word-7b77-1",
+          "checkId": null,
+          "transcript": "篮子里装着筷子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-7b77-2",
+          "readingId": null,
+          "wordId": "word-7b77-2",
+          "checkId": null,
+          "transcript": "大人把木筷放在盘子里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-52fa",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-52fa",
+          "transcript": "勺",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-52fa",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-52fa",
+          "transcript": "勺",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-52fa",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-52fa",
+          "transcript": "勺",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-52fa",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-52fa",
+          "transcript": "勺子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-52fa",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-52fa",
+          "transcript": "汤勺",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-52fa",
+          "readingId": "reading-52fa",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "勺",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-52fa-1",
+          "readingId": null,
+          "wordId": "word-52fa-1",
+          "checkId": null,
+          "transcript": "我们把勺子放进小盒子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-52fa-2",
+          "readingId": null,
+          "wordId": "word-52fa-2",
+          "checkId": null,
+          "transcript": "我在图画里看到了汤勺。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

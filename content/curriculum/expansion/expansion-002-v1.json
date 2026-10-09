@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-002",
+  "lessonVersion": "expansion-002-v1",
+  "title": "Useful connecting words: 都 and 就",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 62
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 都 and 就 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-90fd",
+      "hanzi": "都",
+      "readings": [
+        {
+          "readingId": "reading-90fd",
+          "pinyin": "dōu",
+          "audioText": "都",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#都",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "all; both",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#都",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-90fd-1",
+          "text": "都是",
+          "pinyin": "dōu shì",
+          "english": "all are",
+          "readingId": "reading-90fd",
+          "context": {
+            "hanzi": "这些都是我们画的花。",
+            "english": "These are all flowers we drew.",
+            "targetCharacter": "都"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#都是",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-90fd-2",
+          "text": "都要",
+          "pinyin": "dōu yào",
+          "english": "all want; all need",
+          "readingId": "reading-90fd",
+          "context": {
+            "hanzi": "小朋友们都要洗手。",
+            "english": "All the children need to wash their hands.",
+            "targetCharacter": "都"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#都要",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find the upright right-hand 阝 in 都.",
+        "demonstrationEnglish": "This is 都. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-90fd",
+        "delayedReview": {
+          "promptId": "later-90fd",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-90fd"
+        }
+      },
+      "assets": [
+        "asset-glyph-90fd",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-5c31",
+      "hanzi": "就",
+      "readings": [
+        {
+          "readingId": "reading-5c31",
+          "pinyin": "jiù",
+          "audioText": "就",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#就",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "then; immediately",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#就",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5c31-1",
+          "text": "就是",
+          "pinyin": "jiù shì",
+          "english": "is exactly",
+          "readingId": "reading-5c31",
+          "context": {
+            "hanzi": "这就是我们要找的书。",
+            "english": "This is exactly the book we are looking for.",
+            "targetCharacter": "就"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#就是",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5c31-2",
+          "text": "就要",
+          "pinyin": "jiù yào",
+          "english": "about to",
+          "readingId": "reading-5c31",
+          "context": {
+            "hanzi": "天就要黑了，我们回家吧。",
+            "english": "It is about to get dark; let us go home.",
+            "targetCharacter": "就"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#就要",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the small 京 shape on the left of 就.",
+        "demonstrationEnglish": "This is 就. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5c31",
+        "delayedReview": {
+          "promptId": "later-5c31",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5c31"
+        }
+      },
+      "assets": [
+        "asset-glyph-5c31",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-002-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-90fd",
+        "familiar-5c31"
+      ]
+    },
+    {
+      "stepId": "expansion-002-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-002-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-90fd",
+        "practice-two-90fd",
+        "practice-one-5c31",
+        "practice-two-5c31"
+      ]
+    },
+    {
+      "stepId": "expansion-002-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-90fd",
+        "check-5c31"
+      ]
+    },
+    {
+      "stepId": "expansion-002-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-90fd",
+      "characterId": "char-90fd",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "都"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-90fd-choice-1",
+          "hanzi": "都"
+        },
+        {
+          "choiceId": "familiar-90fd-choice-2",
+          "hanzi": "就"
+        },
+        {
+          "choiceId": "familiar-90fd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-90fd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-90fd-choice-1"
+    },
+    {
+      "checkId": "check-90fd",
+      "characterId": "char-90fd",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "都"
+      },
+      "choices": [
+        {
+          "choiceId": "check-90fd-choice-1",
+          "hanzi": "都"
+        },
+        {
+          "choiceId": "check-90fd-choice-2",
+          "hanzi": "就"
+        },
+        {
+          "choiceId": "check-90fd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-90fd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-90fd-choice-1"
+    },
+    {
+      "checkId": "review-90fd",
+      "characterId": "char-90fd",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "都"
+      },
+      "choices": [
+        {
+          "choiceId": "review-90fd-choice-1",
+          "hanzi": "都"
+        },
+        {
+          "choiceId": "review-90fd-choice-2",
+          "hanzi": "就"
+        },
+        {
+          "choiceId": "review-90fd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-90fd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-90fd-choice-1"
+    },
+    {
+      "checkId": "practice-one-90fd",
+      "characterId": "char-90fd",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "都是"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-90fd-choice-1",
+          "hanzi": "都"
+        },
+        {
+          "choiceId": "practice-one-90fd-choice-2",
+          "hanzi": "就"
+        },
+        {
+          "choiceId": "practice-one-90fd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-90fd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-90fd-choice-1"
+    },
+    {
+      "checkId": "practice-two-90fd",
+      "characterId": "char-90fd",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "都要"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-90fd-choice-1",
+          "hanzi": "都"
+        },
+        {
+          "choiceId": "practice-two-90fd-choice-2",
+          "hanzi": "就"
+        },
+        {
+          "choiceId": "practice-two-90fd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-90fd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-90fd-choice-1"
+    },
+    {
+      "checkId": "familiar-5c31",
+      "characterId": "char-5c31",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "就"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5c31-choice-1",
+          "hanzi": "都"
+        },
+        {
+          "choiceId": "familiar-5c31-choice-2",
+          "hanzi": "就"
+        },
+        {
+          "choiceId": "familiar-5c31-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5c31-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5c31-choice-2"
+    },
+    {
+      "checkId": "check-5c31",
+      "characterId": "char-5c31",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "就"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5c31-choice-1",
+          "hanzi": "都"
+        },
+        {
+          "choiceId": "check-5c31-choice-2",
+          "hanzi": "就"
+        },
+        {
+          "choiceId": "check-5c31-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5c31-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5c31-choice-2"
+    },
+    {
+      "checkId": "review-5c31",
+      "characterId": "char-5c31",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "就"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5c31-choice-1",
+          "hanzi": "都"
+        },
+        {
+          "choiceId": "review-5c31-choice-2",
+          "hanzi": "就"
+        },
+        {
+          "choiceId": "review-5c31-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5c31-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5c31-choice-2"
+    },
+    {
+      "checkId": "practice-one-5c31",
+      "characterId": "char-5c31",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "就是"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5c31-choice-1",
+          "hanzi": "都"
+        },
+        {
+          "choiceId": "practice-one-5c31-choice-2",
+          "hanzi": "就"
+        },
+        {
+          "choiceId": "practice-one-5c31-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5c31-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5c31-choice-2"
+    },
+    {
+      "checkId": "practice-two-5c31",
+      "characterId": "char-5c31",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "就要"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5c31-choice-1",
+          "hanzi": "都"
+        },
+        {
+          "choiceId": "practice-two-5c31-choice-2",
+          "hanzi": "就"
+        },
+        {
+          "choiceId": "practice-two-5c31-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5c31-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5c31-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-90fd",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-002-v1/char-90fd",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-5c31",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-002-v1/char-5c31",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-002-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-002-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Useful connecting words: 都 and 就",
+      "instructionEnglish": "Read two short word examples for 都 and 就 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-90fd",
+        "readingId": "reading-90fd",
+        "familiarityCheckId": "familiar-90fd",
+        "practice": [
+          {
+            "wordId": "word-90fd-1",
+            "checkId": "practice-one-90fd"
+          },
+          {
+            "wordId": "word-90fd-2",
+            "checkId": "practice-two-90fd"
+          }
+        ],
+        "immediateCheckId": "check-90fd",
+        "reviewCheckId": "review-90fd"
+      },
+      {
+        "characterId": "char-5c31",
+        "readingId": "reading-5c31",
+        "familiarityCheckId": "familiar-5c31",
+        "practice": [
+          {
+            "wordId": "word-5c31-1",
+            "checkId": "practice-one-5c31"
+          },
+          {
+            "wordId": "word-5c31-2",
+            "checkId": "practice-two-5c31"
+          }
+        ],
+        "immediateCheckId": "check-5c31",
+        "reviewCheckId": "review-5c31"
+      }
+    ],
+    "reader": {
+      "title": "Useful connecting words: 都 and 就",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-90fd-1",
+        "word-90fd-2",
+        "word-5c31-1",
+        "word-5c31-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-90fd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-90fd",
+          "transcript": "都",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-90fd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-90fd",
+          "transcript": "都",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-90fd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-90fd",
+          "transcript": "都",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-90fd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-90fd",
+          "transcript": "都是",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-90fd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-90fd",
+          "transcript": "都要",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-90fd",
+          "readingId": "reading-90fd",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "都",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-90fd-1",
+          "readingId": null,
+          "wordId": "word-90fd-1",
+          "checkId": null,
+          "transcript": "这些都是我们画的花。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-90fd-2",
+          "readingId": null,
+          "wordId": "word-90fd-2",
+          "checkId": null,
+          "transcript": "小朋友们都要洗手。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-5c31",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5c31",
+          "transcript": "就",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5c31",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5c31",
+          "transcript": "就",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5c31",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5c31",
+          "transcript": "就",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5c31",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5c31",
+          "transcript": "就是",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5c31",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5c31",
+          "transcript": "就要",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5c31",
+          "readingId": "reading-5c31",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "就",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5c31-1",
+          "readingId": null,
+          "wordId": "word-5c31-1",
+          "checkId": null,
+          "transcript": "这就是我们要找的书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5c31-2",
+          "readingId": null,
+          "wordId": "word-5c31-2",
+          "checkId": null,
+          "transcript": "天就要黑了，我们回家吧。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

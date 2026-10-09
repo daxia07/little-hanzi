@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-080",
+  "lessonVersion": "expansion-080-v1",
+  "title": "Metals, fruit and cooking: 饼 and 饺",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 140
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 饼 and 饺 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-997c",
+      "hanzi": "饼",
+      "readings": [
+        {
+          "readingId": "reading-997c",
+          "pinyin": "bǐng",
+          "audioText": "饼",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#饼",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "flat cake; biscuit",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#饼",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-997c-1",
+          "text": "饼干",
+          "pinyin": "bǐng gān",
+          "english": "biscuits",
+          "readingId": "reading-997c",
+          "context": {
+            "hanzi": "篮子里装着饼干。",
+            "english": "The basket holds biscuits.",
+            "targetCharacter": "饼"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#饼干",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-997c-2",
+          "text": "月饼",
+          "pinyin": "yuè bǐng",
+          "english": "mooncakes",
+          "readingId": "reading-997c",
+          "context": {
+            "hanzi": "大人把月饼放在盘子里。",
+            "english": "An adult puts mooncakes on the plate.",
+            "targetCharacter": "饼"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#月饼",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 饣 beside 并 in 饼.",
+        "demonstrationEnglish": "This is 饼. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-997c",
+        "delayedReview": {
+          "promptId": "later-997c",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-997c"
+        }
+      },
+      "assets": [
+        "asset-glyph-997c",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-997a",
+      "hanzi": "饺",
+      "readings": [
+        {
+          "readingId": "reading-997a",
+          "pinyin": "jiǎo",
+          "audioText": "饺",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#饺",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "dumpling",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#饺",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-997a-1",
+          "text": "饺子",
+          "pinyin": "jiǎo zi",
+          "english": "dumplings",
+          "readingId": "reading-997a",
+          "context": {
+            "hanzi": "碗里有饺子。",
+            "english": "The bowl holds dumplings.",
+            "targetCharacter": "饺"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#饺子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-997a-2",
+          "text": "水饺",
+          "pinyin": "shuǐ jiǎo",
+          "english": "boiled dumplings",
+          "readingId": "reading-997a",
+          "context": {
+            "hanzi": "大人把水饺放在盘子里。",
+            "english": "An adult puts boiled dumplings on the plate.",
+            "targetCharacter": "饺"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#水饺",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 饣 beside 交 in 饺.",
+        "demonstrationEnglish": "This is 饺. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-997a",
+        "delayedReview": {
+          "promptId": "later-997a",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-997a"
+        }
+      },
+      "assets": [
+        "asset-glyph-997a",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-080-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-997c",
+        "familiar-997a"
+      ]
+    },
+    {
+      "stepId": "expansion-080-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-080-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-997c",
+        "practice-two-997c",
+        "practice-one-997a",
+        "practice-two-997a"
+      ]
+    },
+    {
+      "stepId": "expansion-080-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-997c",
+        "check-997a"
+      ]
+    },
+    {
+      "stepId": "expansion-080-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-997c",
+      "characterId": "char-997c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "饼"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-997c-choice-1",
+          "hanzi": "饼"
+        },
+        {
+          "choiceId": "familiar-997c-choice-2",
+          "hanzi": "饺"
+        },
+        {
+          "choiceId": "familiar-997c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-997c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-997c-choice-1"
+    },
+    {
+      "checkId": "check-997c",
+      "characterId": "char-997c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "饼"
+      },
+      "choices": [
+        {
+          "choiceId": "check-997c-choice-1",
+          "hanzi": "饼"
+        },
+        {
+          "choiceId": "check-997c-choice-2",
+          "hanzi": "饺"
+        },
+        {
+          "choiceId": "check-997c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-997c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-997c-choice-1"
+    },
+    {
+      "checkId": "review-997c",
+      "characterId": "char-997c",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "饼"
+      },
+      "choices": [
+        {
+          "choiceId": "review-997c-choice-1",
+          "hanzi": "饼"
+        },
+        {
+          "choiceId": "review-997c-choice-2",
+          "hanzi": "饺"
+        },
+        {
+          "choiceId": "review-997c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-997c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-997c-choice-1"
+    },
+    {
+      "checkId": "practice-one-997c",
+      "characterId": "char-997c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "饼干"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-997c-choice-1",
+          "hanzi": "饼"
+        },
+        {
+          "choiceId": "practice-one-997c-choice-2",
+          "hanzi": "饺"
+        },
+        {
+          "choiceId": "practice-one-997c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-997c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-997c-choice-1"
+    },
+    {
+      "checkId": "practice-two-997c",
+      "characterId": "char-997c",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "月饼"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-997c-choice-1",
+          "hanzi": "饼"
+        },
+        {
+          "choiceId": "practice-two-997c-choice-2",
+          "hanzi": "饺"
+        },
+        {
+          "choiceId": "practice-two-997c-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-997c-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-997c-choice-1"
+    },
+    {
+      "checkId": "familiar-997a",
+      "characterId": "char-997a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "饺"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-997a-choice-1",
+          "hanzi": "饼"
+        },
+        {
+          "choiceId": "familiar-997a-choice-2",
+          "hanzi": "饺"
+        },
+        {
+          "choiceId": "familiar-997a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-997a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-997a-choice-2"
+    },
+    {
+      "checkId": "check-997a",
+      "characterId": "char-997a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "饺"
+      },
+      "choices": [
+        {
+          "choiceId": "check-997a-choice-1",
+          "hanzi": "饼"
+        },
+        {
+          "choiceId": "check-997a-choice-2",
+          "hanzi": "饺"
+        },
+        {
+          "choiceId": "check-997a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-997a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-997a-choice-2"
+    },
+    {
+      "checkId": "review-997a",
+      "characterId": "char-997a",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "饺"
+      },
+      "choices": [
+        {
+          "choiceId": "review-997a-choice-1",
+          "hanzi": "饼"
+        },
+        {
+          "choiceId": "review-997a-choice-2",
+          "hanzi": "饺"
+        },
+        {
+          "choiceId": "review-997a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-997a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-997a-choice-2"
+    },
+    {
+      "checkId": "practice-one-997a",
+      "characterId": "char-997a",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "饺子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-997a-choice-1",
+          "hanzi": "饼"
+        },
+        {
+          "choiceId": "practice-one-997a-choice-2",
+          "hanzi": "饺"
+        },
+        {
+          "choiceId": "practice-one-997a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-997a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-997a-choice-2"
+    },
+    {
+      "checkId": "practice-two-997a",
+      "characterId": "char-997a",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "水饺"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-997a-choice-1",
+          "hanzi": "饼"
+        },
+        {
+          "choiceId": "practice-two-997a-choice-2",
+          "hanzi": "饺"
+        },
+        {
+          "choiceId": "practice-two-997a-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-997a-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-997a-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-997c",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-080-v1/char-997c",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-997a",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-080-v1/char-997a",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-080-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-080-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Metals, fruit and cooking: 饼 and 饺",
+      "instructionEnglish": "Read two short word examples for 饼 and 饺 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-997c",
+        "readingId": "reading-997c",
+        "familiarityCheckId": "familiar-997c",
+        "practice": [
+          {
+            "wordId": "word-997c-1",
+            "checkId": "practice-one-997c"
+          },
+          {
+            "wordId": "word-997c-2",
+            "checkId": "practice-two-997c"
+          }
+        ],
+        "immediateCheckId": "check-997c",
+        "reviewCheckId": "review-997c"
+      },
+      {
+        "characterId": "char-997a",
+        "readingId": "reading-997a",
+        "familiarityCheckId": "familiar-997a",
+        "practice": [
+          {
+            "wordId": "word-997a-1",
+            "checkId": "practice-one-997a"
+          },
+          {
+            "wordId": "word-997a-2",
+            "checkId": "practice-two-997a"
+          }
+        ],
+        "immediateCheckId": "check-997a",
+        "reviewCheckId": "review-997a"
+      }
+    ],
+    "reader": {
+      "title": "Metals, fruit and cooking: 饼 and 饺",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-997c-1",
+        "word-997c-2",
+        "word-997a-1",
+        "word-997a-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-997c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-997c",
+          "transcript": "饼",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-997c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-997c",
+          "transcript": "饼",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-997c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-997c",
+          "transcript": "饼",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-997c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-997c",
+          "transcript": "饼干",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-997c",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-997c",
+          "transcript": "月饼",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-997c",
+          "readingId": "reading-997c",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "饼",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-997c-1",
+          "readingId": null,
+          "wordId": "word-997c-1",
+          "checkId": null,
+          "transcript": "篮子里装着饼干。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-997c-2",
+          "readingId": null,
+          "wordId": "word-997c-2",
+          "checkId": null,
+          "transcript": "大人把月饼放在盘子里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-997a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-997a",
+          "transcript": "饺",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-997a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-997a",
+          "transcript": "饺",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-997a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-997a",
+          "transcript": "饺",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-997a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-997a",
+          "transcript": "饺子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-997a",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-997a",
+          "transcript": "水饺",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-997a",
+          "readingId": "reading-997a",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "饺",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-997a-1",
+          "readingId": null,
+          "wordId": "word-997a-1",
+          "checkId": null,
+          "transcript": "碗里有饺子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-997a-2",
+          "readingId": null,
+          "wordId": "word-997a-2",
+          "checkId": null,
+          "transcript": "大人把水饺放在盘子里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

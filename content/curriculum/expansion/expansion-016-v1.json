@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-016",
+  "lessonVersion": "expansion-016-v1",
+  "title": "Moving and doing: 进 and 出",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 76
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 进 and 出 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-8fdb",
+      "hanzi": "进",
+      "readings": [
+        {
+          "readingId": "reading-8fdb",
+          "pinyin": "jìn",
+          "audioText": "进",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#进",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "enter; advance",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#进",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8fdb-1",
+          "text": "进来",
+          "pinyin": "jìn lái",
+          "english": "come in",
+          "readingId": "reading-8fdb",
+          "context": {
+            "hanzi": "下雨了，请进来坐吧。",
+            "english": "It is raining; please come in and sit down.",
+            "targetCharacter": "进"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#进来",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8fdb-2",
+          "text": "前进",
+          "pinyin": "qián jìn",
+          "english": "move forwards",
+          "readingId": "reading-8fdb",
+          "context": {
+            "hanzi": "小队沿着小路慢慢前进。",
+            "english": "The group slowly moves forwards along the path.",
+            "targetCharacter": "进"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#前进",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 井 above the long bottom stroke of 辶 in 进.",
+        "demonstrationEnglish": "This is 进. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8fdb",
+        "delayedReview": {
+          "promptId": "later-8fdb",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8fdb"
+        }
+      },
+      "assets": [
+        "asset-glyph-8fdb",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-51fa",
+      "hanzi": "出",
+      "readings": [
+        {
+          "readingId": "reading-51fa",
+          "pinyin": "chū",
+          "audioText": "出",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#出",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "go out; appear",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#出",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-51fa-1",
+          "text": "出来",
+          "pinyin": "chū lái",
+          "english": "come out",
+          "readingId": "reading-51fa",
+          "context": {
+            "hanzi": "小猫从纸箱里出来了。",
+            "english": "The kitten comes out of the cardboard box.",
+            "targetCharacter": "出"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#出来",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-51fa-2",
+          "text": "出发",
+          "pinyin": "chū fā",
+          "english": "set off",
+          "readingId": "reading-51fa",
+          "context": {
+            "hanzi": "吃完早饭，我们就出发。",
+            "english": "After breakfast, we set off.",
+            "targetCharacter": "出"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#出发",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the two mountain-like shapes sharing an upright in 出.",
+        "demonstrationEnglish": "This is 出. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-51fa",
+        "delayedReview": {
+          "promptId": "later-51fa",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-51fa"
+        }
+      },
+      "assets": [
+        "asset-glyph-51fa",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-016-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-8fdb",
+        "familiar-51fa"
+      ]
+    },
+    {
+      "stepId": "expansion-016-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-016-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-8fdb",
+        "practice-two-8fdb",
+        "practice-one-51fa",
+        "practice-two-51fa"
+      ]
+    },
+    {
+      "stepId": "expansion-016-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-8fdb",
+        "check-51fa"
+      ]
+    },
+    {
+      "stepId": "expansion-016-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-8fdb",
+      "characterId": "char-8fdb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "进"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8fdb-choice-1",
+          "hanzi": "进"
+        },
+        {
+          "choiceId": "familiar-8fdb-choice-2",
+          "hanzi": "出"
+        },
+        {
+          "choiceId": "familiar-8fdb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8fdb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8fdb-choice-1"
+    },
+    {
+      "checkId": "check-8fdb",
+      "characterId": "char-8fdb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "进"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8fdb-choice-1",
+          "hanzi": "进"
+        },
+        {
+          "choiceId": "check-8fdb-choice-2",
+          "hanzi": "出"
+        },
+        {
+          "choiceId": "check-8fdb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8fdb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8fdb-choice-1"
+    },
+    {
+      "checkId": "review-8fdb",
+      "characterId": "char-8fdb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "进"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8fdb-choice-1",
+          "hanzi": "进"
+        },
+        {
+          "choiceId": "review-8fdb-choice-2",
+          "hanzi": "出"
+        },
+        {
+          "choiceId": "review-8fdb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8fdb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8fdb-choice-1"
+    },
+    {
+      "checkId": "practice-one-8fdb",
+      "characterId": "char-8fdb",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "进来"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8fdb-choice-1",
+          "hanzi": "进"
+        },
+        {
+          "choiceId": "practice-one-8fdb-choice-2",
+          "hanzi": "出"
+        },
+        {
+          "choiceId": "practice-one-8fdb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8fdb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8fdb-choice-1"
+    },
+    {
+      "checkId": "practice-two-8fdb",
+      "characterId": "char-8fdb",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "前进"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8fdb-choice-1",
+          "hanzi": "进"
+        },
+        {
+          "choiceId": "practice-two-8fdb-choice-2",
+          "hanzi": "出"
+        },
+        {
+          "choiceId": "practice-two-8fdb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8fdb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8fdb-choice-1"
+    },
+    {
+      "checkId": "familiar-51fa",
+      "characterId": "char-51fa",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "出"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-51fa-choice-1",
+          "hanzi": "进"
+        },
+        {
+          "choiceId": "familiar-51fa-choice-2",
+          "hanzi": "出"
+        },
+        {
+          "choiceId": "familiar-51fa-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-51fa-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-51fa-choice-2"
+    },
+    {
+      "checkId": "check-51fa",
+      "characterId": "char-51fa",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "出"
+      },
+      "choices": [
+        {
+          "choiceId": "check-51fa-choice-1",
+          "hanzi": "进"
+        },
+        {
+          "choiceId": "check-51fa-choice-2",
+          "hanzi": "出"
+        },
+        {
+          "choiceId": "check-51fa-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-51fa-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-51fa-choice-2"
+    },
+    {
+      "checkId": "review-51fa",
+      "characterId": "char-51fa",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "出"
+      },
+      "choices": [
+        {
+          "choiceId": "review-51fa-choice-1",
+          "hanzi": "进"
+        },
+        {
+          "choiceId": "review-51fa-choice-2",
+          "hanzi": "出"
+        },
+        {
+          "choiceId": "review-51fa-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-51fa-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-51fa-choice-2"
+    },
+    {
+      "checkId": "practice-one-51fa",
+      "characterId": "char-51fa",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "出来"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-51fa-choice-1",
+          "hanzi": "进"
+        },
+        {
+          "choiceId": "practice-one-51fa-choice-2",
+          "hanzi": "出"
+        },
+        {
+          "choiceId": "practice-one-51fa-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-51fa-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-51fa-choice-2"
+    },
+    {
+      "checkId": "practice-two-51fa",
+      "characterId": "char-51fa",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "出发"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-51fa-choice-1",
+          "hanzi": "进"
+        },
+        {
+          "choiceId": "practice-two-51fa-choice-2",
+          "hanzi": "出"
+        },
+        {
+          "choiceId": "practice-two-51fa-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-51fa-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-51fa-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-8fdb",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-016-v1/char-8fdb",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-51fa",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-016-v1/char-51fa",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-016-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-016-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Moving and doing: 进 and 出",
+      "instructionEnglish": "Read two short word examples for 进 and 出 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-8fdb",
+        "readingId": "reading-8fdb",
+        "familiarityCheckId": "familiar-8fdb",
+        "practice": [
+          {
+            "wordId": "word-8fdb-1",
+            "checkId": "practice-one-8fdb"
+          },
+          {
+            "wordId": "word-8fdb-2",
+            "checkId": "practice-two-8fdb"
+          }
+        ],
+        "immediateCheckId": "check-8fdb",
+        "reviewCheckId": "review-8fdb"
+      },
+      {
+        "characterId": "char-51fa",
+        "readingId": "reading-51fa",
+        "familiarityCheckId": "familiar-51fa",
+        "practice": [
+          {
+            "wordId": "word-51fa-1",
+            "checkId": "practice-one-51fa"
+          },
+          {
+            "wordId": "word-51fa-2",
+            "checkId": "practice-two-51fa"
+          }
+        ],
+        "immediateCheckId": "check-51fa",
+        "reviewCheckId": "review-51fa"
+      }
+    ],
+    "reader": {
+      "title": "Moving and doing: 进 and 出",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-8fdb-1",
+        "word-8fdb-2",
+        "word-51fa-1",
+        "word-51fa-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-8fdb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8fdb",
+          "transcript": "进",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8fdb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8fdb",
+          "transcript": "进",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8fdb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8fdb",
+          "transcript": "进",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8fdb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8fdb",
+          "transcript": "进来",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8fdb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8fdb",
+          "transcript": "前进",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8fdb",
+          "readingId": "reading-8fdb",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "进",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8fdb-1",
+          "readingId": null,
+          "wordId": "word-8fdb-1",
+          "checkId": null,
+          "transcript": "下雨了，请进来坐吧。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8fdb-2",
+          "readingId": null,
+          "wordId": "word-8fdb-2",
+          "checkId": null,
+          "transcript": "小队沿着小路慢慢前进。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-51fa",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-51fa",
+          "transcript": "出",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-51fa",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-51fa",
+          "transcript": "出",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-51fa",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-51fa",
+          "transcript": "出",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-51fa",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-51fa",
+          "transcript": "出来",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-51fa",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-51fa",
+          "transcript": "出发",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-51fa",
+          "readingId": "reading-51fa",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "出",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-51fa-1",
+          "readingId": null,
+          "wordId": "word-51fa-1",
+          "checkId": null,
+          "transcript": "小猫从纸箱里出来了。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-51fa-2",
+          "readingId": null,
+          "wordId": "word-51fa-2",
+          "checkId": null,
+          "transcript": "吃完早饭，我们就出发。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

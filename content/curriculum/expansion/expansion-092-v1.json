@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-092",
+  "lessonVersion": "expansion-092-v1",
+  "title": "Home and our neighbourhood: 桶 and 袋",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 152
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 桶 and 袋 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-6876",
+      "hanzi": "桶",
+      "readings": [
+        {
+          "readingId": "reading-6876",
+          "pinyin": "tǒng",
+          "audioText": "桶",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#桶",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "bucket; barrel",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#桶",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6876-1",
+          "text": "水桶",
+          "pinyin": "shuǐ tǒng",
+          "english": "a water bucket",
+          "readingId": "reading-6876",
+          "context": {
+            "hanzi": "我在图画里看到了水桶。",
+            "english": "I see a water bucket in the picture.",
+            "targetCharacter": "桶"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#水桶",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6876-2",
+          "text": "木桶",
+          "pinyin": "mù tǒng",
+          "english": "a wooden barrel",
+          "readingId": "reading-6876",
+          "context": {
+            "hanzi": "我用彩笔画了木桶。",
+            "english": "I draw a wooden barrel with coloured pens.",
+            "targetCharacter": "桶"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#木桶",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 木 beside 甬 in 桶.",
+        "demonstrationEnglish": "This is 桶. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6876",
+        "delayedReview": {
+          "promptId": "later-6876",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6876"
+        }
+      },
+      "assets": [
+        "asset-glyph-6876",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-888b",
+      "hanzi": "袋",
+      "readings": [
+        {
+          "readingId": "reading-888b",
+          "pinyin": "dài",
+          "audioText": "袋",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#袋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "bag; sack",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#袋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-888b-1",
+          "text": "袋子",
+          "pinyin": "dài zi",
+          "english": "a bag",
+          "readingId": "reading-888b",
+          "context": {
+            "hanzi": "我们把袋子放进小盒子。",
+            "english": "We put a bag into a small box.",
+            "targetCharacter": "袋"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#袋子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-888b-2",
+          "text": "口袋",
+          "pinyin": "kǒu dài",
+          "english": "a pocket",
+          "readingId": "reading-888b",
+          "context": {
+            "hanzi": "我指给朋友看图中的口袋。",
+            "english": "I point out a pocket in the picture to my friend.",
+            "targetCharacter": "袋"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#口袋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 代 above 衣 in 袋.",
+        "demonstrationEnglish": "This is 袋. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-888b",
+        "delayedReview": {
+          "promptId": "later-888b",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-888b"
+        }
+      },
+      "assets": [
+        "asset-glyph-888b",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-092-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-6876",
+        "familiar-888b"
+      ]
+    },
+    {
+      "stepId": "expansion-092-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-092-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-6876",
+        "practice-two-6876",
+        "practice-one-888b",
+        "practice-two-888b"
+      ]
+    },
+    {
+      "stepId": "expansion-092-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-6876",
+        "check-888b"
+      ]
+    },
+    {
+      "stepId": "expansion-092-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-6876",
+      "characterId": "char-6876",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "桶"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6876-choice-1",
+          "hanzi": "桶"
+        },
+        {
+          "choiceId": "familiar-6876-choice-2",
+          "hanzi": "袋"
+        },
+        {
+          "choiceId": "familiar-6876-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6876-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6876-choice-1"
+    },
+    {
+      "checkId": "check-6876",
+      "characterId": "char-6876",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "桶"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6876-choice-1",
+          "hanzi": "桶"
+        },
+        {
+          "choiceId": "check-6876-choice-2",
+          "hanzi": "袋"
+        },
+        {
+          "choiceId": "check-6876-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6876-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6876-choice-1"
+    },
+    {
+      "checkId": "review-6876",
+      "characterId": "char-6876",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "桶"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6876-choice-1",
+          "hanzi": "桶"
+        },
+        {
+          "choiceId": "review-6876-choice-2",
+          "hanzi": "袋"
+        },
+        {
+          "choiceId": "review-6876-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6876-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6876-choice-1"
+    },
+    {
+      "checkId": "practice-one-6876",
+      "characterId": "char-6876",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "水桶"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6876-choice-1",
+          "hanzi": "桶"
+        },
+        {
+          "choiceId": "practice-one-6876-choice-2",
+          "hanzi": "袋"
+        },
+        {
+          "choiceId": "practice-one-6876-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6876-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6876-choice-1"
+    },
+    {
+      "checkId": "practice-two-6876",
+      "characterId": "char-6876",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "木桶"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6876-choice-1",
+          "hanzi": "桶"
+        },
+        {
+          "choiceId": "practice-two-6876-choice-2",
+          "hanzi": "袋"
+        },
+        {
+          "choiceId": "practice-two-6876-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6876-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6876-choice-1"
+    },
+    {
+      "checkId": "familiar-888b",
+      "characterId": "char-888b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "袋"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-888b-choice-1",
+          "hanzi": "桶"
+        },
+        {
+          "choiceId": "familiar-888b-choice-2",
+          "hanzi": "袋"
+        },
+        {
+          "choiceId": "familiar-888b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-888b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-888b-choice-2"
+    },
+    {
+      "checkId": "check-888b",
+      "characterId": "char-888b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "袋"
+      },
+      "choices": [
+        {
+          "choiceId": "check-888b-choice-1",
+          "hanzi": "桶"
+        },
+        {
+          "choiceId": "check-888b-choice-2",
+          "hanzi": "袋"
+        },
+        {
+          "choiceId": "check-888b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-888b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-888b-choice-2"
+    },
+    {
+      "checkId": "review-888b",
+      "characterId": "char-888b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "袋"
+      },
+      "choices": [
+        {
+          "choiceId": "review-888b-choice-1",
+          "hanzi": "桶"
+        },
+        {
+          "choiceId": "review-888b-choice-2",
+          "hanzi": "袋"
+        },
+        {
+          "choiceId": "review-888b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-888b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-888b-choice-2"
+    },
+    {
+      "checkId": "practice-one-888b",
+      "characterId": "char-888b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "袋子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-888b-choice-1",
+          "hanzi": "桶"
+        },
+        {
+          "choiceId": "practice-one-888b-choice-2",
+          "hanzi": "袋"
+        },
+        {
+          "choiceId": "practice-one-888b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-888b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-888b-choice-2"
+    },
+    {
+      "checkId": "practice-two-888b",
+      "characterId": "char-888b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "口袋"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-888b-choice-1",
+          "hanzi": "桶"
+        },
+        {
+          "choiceId": "practice-two-888b-choice-2",
+          "hanzi": "袋"
+        },
+        {
+          "choiceId": "practice-two-888b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-888b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-888b-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-6876",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-092-v1/char-6876",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-888b",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-092-v1/char-888b",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-092-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-092-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Home and our neighbourhood: 桶 and 袋",
+      "instructionEnglish": "Read two short word examples for 桶 and 袋 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-6876",
+        "readingId": "reading-6876",
+        "familiarityCheckId": "familiar-6876",
+        "practice": [
+          {
+            "wordId": "word-6876-1",
+            "checkId": "practice-one-6876"
+          },
+          {
+            "wordId": "word-6876-2",
+            "checkId": "practice-two-6876"
+          }
+        ],
+        "immediateCheckId": "check-6876",
+        "reviewCheckId": "review-6876"
+      },
+      {
+        "characterId": "char-888b",
+        "readingId": "reading-888b",
+        "familiarityCheckId": "familiar-888b",
+        "practice": [
+          {
+            "wordId": "word-888b-1",
+            "checkId": "practice-one-888b"
+          },
+          {
+            "wordId": "word-888b-2",
+            "checkId": "practice-two-888b"
+          }
+        ],
+        "immediateCheckId": "check-888b",
+        "reviewCheckId": "review-888b"
+      }
+    ],
+    "reader": {
+      "title": "Home and our neighbourhood: 桶 and 袋",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-6876-1",
+        "word-6876-2",
+        "word-888b-1",
+        "word-888b-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-6876",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6876",
+          "transcript": "桶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6876",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6876",
+          "transcript": "桶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6876",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6876",
+          "transcript": "桶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6876",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6876",
+          "transcript": "水桶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6876",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6876",
+          "transcript": "木桶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6876",
+          "readingId": "reading-6876",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "桶",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6876-1",
+          "readingId": null,
+          "wordId": "word-6876-1",
+          "checkId": null,
+          "transcript": "我在图画里看到了水桶。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6876-2",
+          "readingId": null,
+          "wordId": "word-6876-2",
+          "checkId": null,
+          "transcript": "我用彩笔画了木桶。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-888b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-888b",
+          "transcript": "袋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-888b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-888b",
+          "transcript": "袋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-888b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-888b",
+          "transcript": "袋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-888b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-888b",
+          "transcript": "袋子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-888b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-888b",
+          "transcript": "口袋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-888b",
+          "readingId": "reading-888b",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "袋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-888b-1",
+          "readingId": null,
+          "wordId": "word-888b-1",
+          "checkId": null,
+          "transcript": "我们把袋子放进小盒子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-888b-2",
+          "readingId": null,
+          "wordId": "word-888b-2",
+          "checkId": null,
+          "transcript": "我指给朋友看图中的口袋。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

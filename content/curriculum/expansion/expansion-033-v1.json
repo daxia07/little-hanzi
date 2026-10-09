@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-033",
+  "lessonVersion": "expansion-033-v1",
+  "title": "Friends and positions: 朋 and 友",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 93
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 朋 and 友 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-670b",
+      "hanzi": "朋",
+      "readings": [
+        {
+          "readingId": "reading-670b",
+          "pinyin": "péng",
+          "audioText": "朋",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#朋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "friend",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#朋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-670b-1",
+          "text": "朋友",
+          "pinyin": "péng you",
+          "english": "friend",
+          "readingId": "reading-670b",
+          "context": {
+            "hanzi": "我给朋友写了一张卡片。",
+            "english": "I write a card to my friend.",
+            "targetCharacter": "朋"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#朋友",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-670b-2",
+          "text": "亲朋",
+          "pinyin": "qīn péng",
+          "english": "relatives and friends",
+          "readingId": "reading-670b",
+          "context": {
+            "hanzi": "节日里，亲朋一起吃饭。",
+            "english": "During the festival, relatives and friends eat together.",
+            "targetCharacter": "朋"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#亲朋",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Compare the two 月 shapes side by side in 朋.",
+        "demonstrationEnglish": "This is 朋. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-670b",
+        "delayedReview": {
+          "promptId": "later-670b",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-670b"
+        }
+      },
+      "assets": [
+        "asset-glyph-670b",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-53cb",
+      "hanzi": "友",
+      "readings": [
+        {
+          "readingId": "reading-53cb",
+          "pinyin": "yǒu",
+          "audioText": "友",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#友",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "friend",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#友",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-53cb-1",
+          "text": "好友",
+          "pinyin": "hǎo yǒu",
+          "english": "good friend",
+          "readingId": "reading-53cb",
+          "context": {
+            "hanzi": "好友陪我一起看书。",
+            "english": "My good friend reads with me.",
+            "targetCharacter": "友"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#好友",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-53cb-2",
+          "text": "友好",
+          "pinyin": "yǒu hǎo",
+          "english": "friendly",
+          "readingId": "reading-53cb",
+          "context": {
+            "hanzi": "故事里的小动物相处得很友好。",
+            "english": "The little animals in the story get along well.",
+            "targetCharacter": "友"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#友好",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 又 below the top strokes of 友.",
+        "demonstrationEnglish": "This is 友. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-53cb",
+        "delayedReview": {
+          "promptId": "later-53cb",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-53cb"
+        }
+      },
+      "assets": [
+        "asset-glyph-53cb",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-033-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-670b",
+        "familiar-53cb"
+      ]
+    },
+    {
+      "stepId": "expansion-033-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-033-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-670b",
+        "practice-two-670b",
+        "practice-one-53cb",
+        "practice-two-53cb"
+      ]
+    },
+    {
+      "stepId": "expansion-033-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-670b",
+        "check-53cb"
+      ]
+    },
+    {
+      "stepId": "expansion-033-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-670b",
+      "characterId": "char-670b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "朋"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-670b-choice-1",
+          "hanzi": "朋"
+        },
+        {
+          "choiceId": "familiar-670b-choice-2",
+          "hanzi": "友"
+        },
+        {
+          "choiceId": "familiar-670b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-670b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-670b-choice-1"
+    },
+    {
+      "checkId": "check-670b",
+      "characterId": "char-670b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "朋"
+      },
+      "choices": [
+        {
+          "choiceId": "check-670b-choice-1",
+          "hanzi": "朋"
+        },
+        {
+          "choiceId": "check-670b-choice-2",
+          "hanzi": "友"
+        },
+        {
+          "choiceId": "check-670b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-670b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-670b-choice-1"
+    },
+    {
+      "checkId": "review-670b",
+      "characterId": "char-670b",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "朋"
+      },
+      "choices": [
+        {
+          "choiceId": "review-670b-choice-1",
+          "hanzi": "朋"
+        },
+        {
+          "choiceId": "review-670b-choice-2",
+          "hanzi": "友"
+        },
+        {
+          "choiceId": "review-670b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-670b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-670b-choice-1"
+    },
+    {
+      "checkId": "practice-one-670b",
+      "characterId": "char-670b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "朋友"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-670b-choice-1",
+          "hanzi": "朋"
+        },
+        {
+          "choiceId": "practice-one-670b-choice-2",
+          "hanzi": "友"
+        },
+        {
+          "choiceId": "practice-one-670b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-670b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-670b-choice-1"
+    },
+    {
+      "checkId": "practice-two-670b",
+      "characterId": "char-670b",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "亲朋"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-670b-choice-1",
+          "hanzi": "朋"
+        },
+        {
+          "choiceId": "practice-two-670b-choice-2",
+          "hanzi": "友"
+        },
+        {
+          "choiceId": "practice-two-670b-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-670b-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-670b-choice-1"
+    },
+    {
+      "checkId": "familiar-53cb",
+      "characterId": "char-53cb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "友"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-53cb-choice-1",
+          "hanzi": "朋"
+        },
+        {
+          "choiceId": "familiar-53cb-choice-2",
+          "hanzi": "友"
+        },
+        {
+          "choiceId": "familiar-53cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-53cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-53cb-choice-2"
+    },
+    {
+      "checkId": "check-53cb",
+      "characterId": "char-53cb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "友"
+      },
+      "choices": [
+        {
+          "choiceId": "check-53cb-choice-1",
+          "hanzi": "朋"
+        },
+        {
+          "choiceId": "check-53cb-choice-2",
+          "hanzi": "友"
+        },
+        {
+          "choiceId": "check-53cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-53cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-53cb-choice-2"
+    },
+    {
+      "checkId": "review-53cb",
+      "characterId": "char-53cb",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "友"
+      },
+      "choices": [
+        {
+          "choiceId": "review-53cb-choice-1",
+          "hanzi": "朋"
+        },
+        {
+          "choiceId": "review-53cb-choice-2",
+          "hanzi": "友"
+        },
+        {
+          "choiceId": "review-53cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-53cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-53cb-choice-2"
+    },
+    {
+      "checkId": "practice-one-53cb",
+      "characterId": "char-53cb",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "好友"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-53cb-choice-1",
+          "hanzi": "朋"
+        },
+        {
+          "choiceId": "practice-one-53cb-choice-2",
+          "hanzi": "友"
+        },
+        {
+          "choiceId": "practice-one-53cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-53cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-53cb-choice-2"
+    },
+    {
+      "checkId": "practice-two-53cb",
+      "characterId": "char-53cb",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "友好"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-53cb-choice-1",
+          "hanzi": "朋"
+        },
+        {
+          "choiceId": "practice-two-53cb-choice-2",
+          "hanzi": "友"
+        },
+        {
+          "choiceId": "practice-two-53cb-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-53cb-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-53cb-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-670b",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-033-v1/char-670b",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-53cb",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-033-v1/char-53cb",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-033-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-033-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Friends and positions: 朋 and 友",
+      "instructionEnglish": "Read two short word examples for 朋 and 友 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-670b",
+        "readingId": "reading-670b",
+        "familiarityCheckId": "familiar-670b",
+        "practice": [
+          {
+            "wordId": "word-670b-1",
+            "checkId": "practice-one-670b"
+          },
+          {
+            "wordId": "word-670b-2",
+            "checkId": "practice-two-670b"
+          }
+        ],
+        "immediateCheckId": "check-670b",
+        "reviewCheckId": "review-670b"
+      },
+      {
+        "characterId": "char-53cb",
+        "readingId": "reading-53cb",
+        "familiarityCheckId": "familiar-53cb",
+        "practice": [
+          {
+            "wordId": "word-53cb-1",
+            "checkId": "practice-one-53cb"
+          },
+          {
+            "wordId": "word-53cb-2",
+            "checkId": "practice-two-53cb"
+          }
+        ],
+        "immediateCheckId": "check-53cb",
+        "reviewCheckId": "review-53cb"
+      }
+    ],
+    "reader": {
+      "title": "Friends and positions: 朋 and 友",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-670b-1",
+        "word-670b-2",
+        "word-53cb-1",
+        "word-53cb-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-670b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-670b",
+          "transcript": "朋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-670b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-670b",
+          "transcript": "朋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-670b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-670b",
+          "transcript": "朋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-670b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-670b",
+          "transcript": "朋友",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-670b",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-670b",
+          "transcript": "亲朋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-670b",
+          "readingId": "reading-670b",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "朋",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-670b-1",
+          "readingId": null,
+          "wordId": "word-670b-1",
+          "checkId": null,
+          "transcript": "我给朋友写了一张卡片。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-670b-2",
+          "readingId": null,
+          "wordId": "word-670b-2",
+          "checkId": null,
+          "transcript": "节日里，亲朋一起吃饭。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-53cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-53cb",
+          "transcript": "友",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-53cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-53cb",
+          "transcript": "友",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-53cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-53cb",
+          "transcript": "友",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-53cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-53cb",
+          "transcript": "好友",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-53cb",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-53cb",
+          "transcript": "友好",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-53cb",
+          "readingId": "reading-53cb",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "友",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-53cb-1",
+          "readingId": null,
+          "wordId": "word-53cb-1",
+          "checkId": null,
+          "transcript": "好友陪我一起看书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-53cb-2",
+          "readingId": null,
+          "wordId": "word-53cb-2",
+          "checkId": null,
+          "transcript": "故事里的小动物相处得很友好。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

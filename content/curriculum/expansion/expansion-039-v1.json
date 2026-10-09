@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-039",
+  "lessonVersion": "expansion-039-v1",
+  "title": "Friends and positions: 左 and 中",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 99
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 左 and 中 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-5de6",
+      "hanzi": "左",
+      "readings": [
+        {
+          "readingId": "reading-5de6",
+          "pinyin": "zuǒ",
+          "audioText": "左",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#左",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "left",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#左",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-5de6-1",
+          "text": "左边",
+          "pinyin": "zuǒ bian",
+          "english": "left side",
+          "readingId": "reading-5de6",
+          "context": {
+            "hanzi": "左边的盒子装着彩笔。",
+            "english": "The box on the left holds coloured pens.",
+            "targetCharacter": "左"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#左边",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-5de6-2",
+          "text": "左右",
+          "pinyin": "zuǒ yòu",
+          "english": "left and right; about",
+          "readingId": "reading-5de6",
+          "context": {
+            "hanzi": "过路口时，我们和大人一起看左右。",
+            "english": "At the crossing, we look left and right with an adult.",
+            "targetCharacter": "左"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#左右",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 工 beneath the upper strokes of 左.",
+        "demonstrationEnglish": "This is 左. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-5de6",
+        "delayedReview": {
+          "promptId": "later-5de6",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-5de6"
+        }
+      },
+      "assets": [
+        "asset-glyph-5de6",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-4e2d",
+      "hanzi": "中",
+      "readings": [
+        {
+          "readingId": "reading-4e2d",
+          "pinyin": "zhōng",
+          "audioText": "中",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#中",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "middle; centre",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#中",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4e2d-1",
+          "text": "中间",
+          "pinyin": "zhōng jiān",
+          "english": "middle",
+          "readingId": "reading-4e2d",
+          "context": {
+            "hanzi": "桌子中间放着一篮水果。",
+            "english": "A basket of fruit is in the middle of the table.",
+            "targetCharacter": "中"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#中间",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4e2d-2",
+          "text": "中心",
+          "pinyin": "zhōng xīn",
+          "english": "centre",
+          "readingId": "reading-4e2d",
+          "context": {
+            "hanzi": "圆的中心有一个小点。",
+            "english": "There is a small dot at the centre of the circle.",
+            "targetCharacter": "中"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#中心",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Notice the upright stroke passing through 口 in 中.",
+        "demonstrationEnglish": "This is 中. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4e2d",
+        "delayedReview": {
+          "promptId": "later-4e2d",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4e2d"
+        }
+      },
+      "assets": [
+        "asset-glyph-4e2d",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-039-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-5de6",
+        "familiar-4e2d"
+      ]
+    },
+    {
+      "stepId": "expansion-039-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-039-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-5de6",
+        "practice-two-5de6",
+        "practice-one-4e2d",
+        "practice-two-4e2d"
+      ]
+    },
+    {
+      "stepId": "expansion-039-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-5de6",
+        "check-4e2d"
+      ]
+    },
+    {
+      "stepId": "expansion-039-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-5de6",
+      "characterId": "char-5de6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "左"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-5de6-choice-1",
+          "hanzi": "左"
+        },
+        {
+          "choiceId": "familiar-5de6-choice-2",
+          "hanzi": "中"
+        },
+        {
+          "choiceId": "familiar-5de6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-5de6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-5de6-choice-1"
+    },
+    {
+      "checkId": "check-5de6",
+      "characterId": "char-5de6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "左"
+      },
+      "choices": [
+        {
+          "choiceId": "check-5de6-choice-1",
+          "hanzi": "左"
+        },
+        {
+          "choiceId": "check-5de6-choice-2",
+          "hanzi": "中"
+        },
+        {
+          "choiceId": "check-5de6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-5de6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-5de6-choice-1"
+    },
+    {
+      "checkId": "review-5de6",
+      "characterId": "char-5de6",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "左"
+      },
+      "choices": [
+        {
+          "choiceId": "review-5de6-choice-1",
+          "hanzi": "左"
+        },
+        {
+          "choiceId": "review-5de6-choice-2",
+          "hanzi": "中"
+        },
+        {
+          "choiceId": "review-5de6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-5de6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-5de6-choice-1"
+    },
+    {
+      "checkId": "practice-one-5de6",
+      "characterId": "char-5de6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "左边"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-5de6-choice-1",
+          "hanzi": "左"
+        },
+        {
+          "choiceId": "practice-one-5de6-choice-2",
+          "hanzi": "中"
+        },
+        {
+          "choiceId": "practice-one-5de6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-5de6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-5de6-choice-1"
+    },
+    {
+      "checkId": "practice-two-5de6",
+      "characterId": "char-5de6",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "左右"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-5de6-choice-1",
+          "hanzi": "左"
+        },
+        {
+          "choiceId": "practice-two-5de6-choice-2",
+          "hanzi": "中"
+        },
+        {
+          "choiceId": "practice-two-5de6-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-5de6-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-5de6-choice-1"
+    },
+    {
+      "checkId": "familiar-4e2d",
+      "characterId": "char-4e2d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "中"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4e2d-choice-1",
+          "hanzi": "左"
+        },
+        {
+          "choiceId": "familiar-4e2d-choice-2",
+          "hanzi": "中"
+        },
+        {
+          "choiceId": "familiar-4e2d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4e2d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4e2d-choice-2"
+    },
+    {
+      "checkId": "check-4e2d",
+      "characterId": "char-4e2d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "中"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4e2d-choice-1",
+          "hanzi": "左"
+        },
+        {
+          "choiceId": "check-4e2d-choice-2",
+          "hanzi": "中"
+        },
+        {
+          "choiceId": "check-4e2d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4e2d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4e2d-choice-2"
+    },
+    {
+      "checkId": "review-4e2d",
+      "characterId": "char-4e2d",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "中"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4e2d-choice-1",
+          "hanzi": "左"
+        },
+        {
+          "choiceId": "review-4e2d-choice-2",
+          "hanzi": "中"
+        },
+        {
+          "choiceId": "review-4e2d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4e2d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4e2d-choice-2"
+    },
+    {
+      "checkId": "practice-one-4e2d",
+      "characterId": "char-4e2d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "中间"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4e2d-choice-1",
+          "hanzi": "左"
+        },
+        {
+          "choiceId": "practice-one-4e2d-choice-2",
+          "hanzi": "中"
+        },
+        {
+          "choiceId": "practice-one-4e2d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4e2d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4e2d-choice-2"
+    },
+    {
+      "checkId": "practice-two-4e2d",
+      "characterId": "char-4e2d",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "中心"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4e2d-choice-1",
+          "hanzi": "左"
+        },
+        {
+          "choiceId": "practice-two-4e2d-choice-2",
+          "hanzi": "中"
+        },
+        {
+          "choiceId": "practice-two-4e2d-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4e2d-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4e2d-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-5de6",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-039-v1/char-5de6",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-4e2d",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-039-v1/char-4e2d",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-039-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-039-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Friends and positions: 左 and 中",
+      "instructionEnglish": "Read two short word examples for 左 and 中 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-5de6",
+        "readingId": "reading-5de6",
+        "familiarityCheckId": "familiar-5de6",
+        "practice": [
+          {
+            "wordId": "word-5de6-1",
+            "checkId": "practice-one-5de6"
+          },
+          {
+            "wordId": "word-5de6-2",
+            "checkId": "practice-two-5de6"
+          }
+        ],
+        "immediateCheckId": "check-5de6",
+        "reviewCheckId": "review-5de6"
+      },
+      {
+        "characterId": "char-4e2d",
+        "readingId": "reading-4e2d",
+        "familiarityCheckId": "familiar-4e2d",
+        "practice": [
+          {
+            "wordId": "word-4e2d-1",
+            "checkId": "practice-one-4e2d"
+          },
+          {
+            "wordId": "word-4e2d-2",
+            "checkId": "practice-two-4e2d"
+          }
+        ],
+        "immediateCheckId": "check-4e2d",
+        "reviewCheckId": "review-4e2d"
+      }
+    ],
+    "reader": {
+      "title": "Friends and positions: 左 and 中",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-5de6-1",
+        "word-5de6-2",
+        "word-4e2d-1",
+        "word-4e2d-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-5de6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-5de6",
+          "transcript": "左",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-5de6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-5de6",
+          "transcript": "左",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-5de6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-5de6",
+          "transcript": "左",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-5de6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-5de6",
+          "transcript": "左边",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-5de6",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-5de6",
+          "transcript": "左右",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-5de6",
+          "readingId": "reading-5de6",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "左",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5de6-1",
+          "readingId": null,
+          "wordId": "word-5de6-1",
+          "checkId": null,
+          "transcript": "左边的盒子装着彩笔。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-5de6-2",
+          "readingId": null,
+          "wordId": "word-5de6-2",
+          "checkId": null,
+          "transcript": "过路口时，我们和大人一起看左右。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-4e2d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4e2d",
+          "transcript": "中",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4e2d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4e2d",
+          "transcript": "中",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4e2d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4e2d",
+          "transcript": "中",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4e2d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4e2d",
+          "transcript": "中间",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4e2d",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4e2d",
+          "transcript": "中心",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4e2d",
+          "readingId": "reading-4e2d",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "中",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e2d-1",
+          "readingId": null,
+          "wordId": "word-4e2d-1",
+          "checkId": null,
+          "transcript": "桌子中间放着一篮水果。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4e2d-2",
+          "readingId": null,
+          "wordId": "word-4e2d-2",
+          "checkId": null,
+          "transcript": "圆的中心有一个小点。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

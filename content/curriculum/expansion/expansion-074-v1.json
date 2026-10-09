@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-074",
+  "lessonVersion": "expansion-074-v1",
+  "title": "Metals, fruit and cooking: 蕉 and 葡",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 134
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 蕉 and 葡 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-8549",
+      "hanzi": "蕉",
+      "readings": [
+        {
+          "readingId": "reading-8549",
+          "pinyin": "jiāo",
+          "audioText": "蕉",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#蕉",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "banana, in words",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#蕉",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8549-1",
+          "text": "香蕉",
+          "pinyin": "xiāng jiāo",
+          "english": "bananas",
+          "readingId": "reading-8549",
+          "context": {
+            "hanzi": "大人把香蕉放在盘子里。",
+            "english": "An adult puts bananas on the plate.",
+            "targetCharacter": "蕉"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#香蕉",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8549-2",
+          "text": "芭蕉",
+          "pinyin": "bā jiāo",
+          "english": "a banana plant",
+          "readingId": "reading-8549",
+          "context": {
+            "hanzi": "我在图画里看到了芭蕉。",
+            "english": "I see a banana plant in the picture.",
+            "targetCharacter": "蕉"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#芭蕉",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 艹 above 焦 in 蕉.",
+        "demonstrationEnglish": "This is 蕉. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8549",
+        "delayedReview": {
+          "promptId": "later-8549",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8549"
+        }
+      },
+      "assets": [
+        "asset-glyph-8549",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-8461",
+      "hanzi": "葡",
+      "readings": [
+        {
+          "readingId": "reading-8461",
+          "pinyin": "pú",
+          "audioText": "葡",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#葡",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "grape, in words",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#葡",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-8461-1",
+          "text": "葡萄",
+          "pinyin": "pú tao",
+          "english": "grapes",
+          "readingId": "reading-8461",
+          "context": {
+            "hanzi": "碗里有葡萄。",
+            "english": "The bowl holds grapes.",
+            "targetCharacter": "葡"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#葡萄",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-8461-2",
+          "text": "葡萄干",
+          "pinyin": "pú tao gān",
+          "english": "raisins",
+          "readingId": "reading-8461",
+          "context": {
+            "hanzi": "篮子里装着葡萄干。",
+            "english": "The basket holds raisins.",
+            "targetCharacter": "葡"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#葡萄干",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 艹 above the wrapped lower part of 葡.",
+        "demonstrationEnglish": "This is 葡. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-8461",
+        "delayedReview": {
+          "promptId": "later-8461",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-8461"
+        }
+      },
+      "assets": [
+        "asset-glyph-8461",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-074-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-8549",
+        "familiar-8461"
+      ]
+    },
+    {
+      "stepId": "expansion-074-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-074-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-8549",
+        "practice-two-8549",
+        "practice-one-8461",
+        "practice-two-8461"
+      ]
+    },
+    {
+      "stepId": "expansion-074-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-8549",
+        "check-8461"
+      ]
+    },
+    {
+      "stepId": "expansion-074-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-8549",
+      "characterId": "char-8549",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "蕉"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8549-choice-1",
+          "hanzi": "蕉"
+        },
+        {
+          "choiceId": "familiar-8549-choice-2",
+          "hanzi": "葡"
+        },
+        {
+          "choiceId": "familiar-8549-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8549-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8549-choice-1"
+    },
+    {
+      "checkId": "check-8549",
+      "characterId": "char-8549",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "蕉"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8549-choice-1",
+          "hanzi": "蕉"
+        },
+        {
+          "choiceId": "check-8549-choice-2",
+          "hanzi": "葡"
+        },
+        {
+          "choiceId": "check-8549-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8549-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8549-choice-1"
+    },
+    {
+      "checkId": "review-8549",
+      "characterId": "char-8549",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "蕉"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8549-choice-1",
+          "hanzi": "蕉"
+        },
+        {
+          "choiceId": "review-8549-choice-2",
+          "hanzi": "葡"
+        },
+        {
+          "choiceId": "review-8549-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8549-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8549-choice-1"
+    },
+    {
+      "checkId": "practice-one-8549",
+      "characterId": "char-8549",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "香蕉"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8549-choice-1",
+          "hanzi": "蕉"
+        },
+        {
+          "choiceId": "practice-one-8549-choice-2",
+          "hanzi": "葡"
+        },
+        {
+          "choiceId": "practice-one-8549-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8549-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8549-choice-1"
+    },
+    {
+      "checkId": "practice-two-8549",
+      "characterId": "char-8549",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "芭蕉"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8549-choice-1",
+          "hanzi": "蕉"
+        },
+        {
+          "choiceId": "practice-two-8549-choice-2",
+          "hanzi": "葡"
+        },
+        {
+          "choiceId": "practice-two-8549-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8549-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8549-choice-1"
+    },
+    {
+      "checkId": "familiar-8461",
+      "characterId": "char-8461",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "葡"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-8461-choice-1",
+          "hanzi": "蕉"
+        },
+        {
+          "choiceId": "familiar-8461-choice-2",
+          "hanzi": "葡"
+        },
+        {
+          "choiceId": "familiar-8461-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-8461-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-8461-choice-2"
+    },
+    {
+      "checkId": "check-8461",
+      "characterId": "char-8461",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "葡"
+      },
+      "choices": [
+        {
+          "choiceId": "check-8461-choice-1",
+          "hanzi": "蕉"
+        },
+        {
+          "choiceId": "check-8461-choice-2",
+          "hanzi": "葡"
+        },
+        {
+          "choiceId": "check-8461-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-8461-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-8461-choice-2"
+    },
+    {
+      "checkId": "review-8461",
+      "characterId": "char-8461",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "葡"
+      },
+      "choices": [
+        {
+          "choiceId": "review-8461-choice-1",
+          "hanzi": "蕉"
+        },
+        {
+          "choiceId": "review-8461-choice-2",
+          "hanzi": "葡"
+        },
+        {
+          "choiceId": "review-8461-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-8461-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-8461-choice-2"
+    },
+    {
+      "checkId": "practice-one-8461",
+      "characterId": "char-8461",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "葡萄"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-8461-choice-1",
+          "hanzi": "蕉"
+        },
+        {
+          "choiceId": "practice-one-8461-choice-2",
+          "hanzi": "葡"
+        },
+        {
+          "choiceId": "practice-one-8461-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-8461-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-8461-choice-2"
+    },
+    {
+      "checkId": "practice-two-8461",
+      "characterId": "char-8461",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "葡萄干"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-8461-choice-1",
+          "hanzi": "蕉"
+        },
+        {
+          "choiceId": "practice-two-8461-choice-2",
+          "hanzi": "葡"
+        },
+        {
+          "choiceId": "practice-two-8461-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-8461-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-8461-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-8549",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-074-v1/char-8549",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-8461",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-074-v1/char-8461",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-074-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-074-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Metals, fruit and cooking: 蕉 and 葡",
+      "instructionEnglish": "Read two short word examples for 蕉 and 葡 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-8549",
+        "readingId": "reading-8549",
+        "familiarityCheckId": "familiar-8549",
+        "practice": [
+          {
+            "wordId": "word-8549-1",
+            "checkId": "practice-one-8549"
+          },
+          {
+            "wordId": "word-8549-2",
+            "checkId": "practice-two-8549"
+          }
+        ],
+        "immediateCheckId": "check-8549",
+        "reviewCheckId": "review-8549"
+      },
+      {
+        "characterId": "char-8461",
+        "readingId": "reading-8461",
+        "familiarityCheckId": "familiar-8461",
+        "practice": [
+          {
+            "wordId": "word-8461-1",
+            "checkId": "practice-one-8461"
+          },
+          {
+            "wordId": "word-8461-2",
+            "checkId": "practice-two-8461"
+          }
+        ],
+        "immediateCheckId": "check-8461",
+        "reviewCheckId": "review-8461"
+      }
+    ],
+    "reader": {
+      "title": "Metals, fruit and cooking: 蕉 and 葡",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-8549-1",
+        "word-8549-2",
+        "word-8461-1",
+        "word-8461-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-8549",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8549",
+          "transcript": "蕉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8549",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8549",
+          "transcript": "蕉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8549",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8549",
+          "transcript": "蕉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8549",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8549",
+          "transcript": "香蕉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8549",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8549",
+          "transcript": "芭蕉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8549",
+          "readingId": "reading-8549",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "蕉",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8549-1",
+          "readingId": null,
+          "wordId": "word-8549-1",
+          "checkId": null,
+          "transcript": "大人把香蕉放在盘子里。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8549-2",
+          "readingId": null,
+          "wordId": "word-8549-2",
+          "checkId": null,
+          "transcript": "我在图画里看到了芭蕉。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-8461",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-8461",
+          "transcript": "葡",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-8461",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-8461",
+          "transcript": "葡",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-8461",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-8461",
+          "transcript": "葡",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-8461",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-8461",
+          "transcript": "葡萄",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-8461",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-8461",
+          "transcript": "葡萄干",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-8461",
+          "readingId": "reading-8461",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "葡",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8461-1",
+          "readingId": null,
+          "wordId": "word-8461-1",
+          "checkId": null,
+          "transcript": "碗里有葡萄。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-8461-2",
+          "readingId": null,
+          "wordId": "word-8461-2",
+          "checkId": null,
+          "transcript": "篮子里装着葡萄干。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

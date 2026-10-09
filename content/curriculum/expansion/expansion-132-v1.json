@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-132",
+  "lessonVersion": "expansion-132-v1",
+  "title": "Kinds, measures and collections: 样 and 种",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 192
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 样 and 种 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-6837",
+      "hanzi": "样",
+      "readings": [
+        {
+          "readingId": "reading-6837",
+          "pinyin": "yàng",
+          "audioText": "样",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#样",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "appearance; kind",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#样",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-6837-1",
+          "text": "样子",
+          "pinyin": "yàng zi",
+          "english": "appearance",
+          "readingId": "reading-6837",
+          "context": {
+            "hanzi": "小猫睡觉的样子很可爱。",
+            "english": "The kitten looks cute when it sleeps.",
+            "targetCharacter": "样"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#样子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-6837-2",
+          "text": "一样",
+          "pinyin": "yī yàng",
+          "english": "the same",
+          "readingId": "reading-6837",
+          "context": {
+            "hanzi": "两张纸的大小一样。",
+            "english": "The two sheets of paper are the same size.",
+            "targetCharacter": "样"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#一样",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 木 beside 羊 in 样.",
+        "demonstrationEnglish": "This is 样. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-6837",
+        "delayedReview": {
+          "promptId": "later-6837",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-6837"
+        }
+      },
+      "assets": [
+        "asset-glyph-6837",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-79cd",
+      "hanzi": "种",
+      "readings": [
+        {
+          "readingId": "reading-79cd",
+          "pinyin": "zhǒng",
+          "audioText": "种",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#种",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "kind; seed",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#种",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-79cd-1",
+          "text": "种子",
+          "pinyin": "zhǒng zi",
+          "english": "seeds",
+          "readingId": "reading-79cd",
+          "context": {
+            "hanzi": "我们把种子放进小盒子。",
+            "english": "We put seeds into a small box.",
+            "targetCharacter": "种"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#种子",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-79cd-2",
+          "text": "种类",
+          "pinyin": "zhǒng lèi",
+          "english": "kinds; types",
+          "readingId": "reading-79cd",
+          "context": {
+            "hanzi": "公园里树的种类很多。",
+            "english": "There are many kinds of trees in the park.",
+            "targetCharacter": "种"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#种类",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 禾 beside 中 in 种; these words use zhǒng.",
+        "demonstrationEnglish": "This is 种. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-79cd",
+        "delayedReview": {
+          "promptId": "later-79cd",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-79cd"
+        }
+      },
+      "assets": [
+        "asset-glyph-79cd",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-132-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-6837",
+        "familiar-79cd"
+      ]
+    },
+    {
+      "stepId": "expansion-132-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-132-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-6837",
+        "practice-two-6837",
+        "practice-one-79cd",
+        "practice-two-79cd"
+      ]
+    },
+    {
+      "stepId": "expansion-132-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-6837",
+        "check-79cd"
+      ]
+    },
+    {
+      "stepId": "expansion-132-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-6837",
+      "characterId": "char-6837",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "样"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-6837-choice-1",
+          "hanzi": "样"
+        },
+        {
+          "choiceId": "familiar-6837-choice-2",
+          "hanzi": "种"
+        },
+        {
+          "choiceId": "familiar-6837-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-6837-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-6837-choice-1"
+    },
+    {
+      "checkId": "check-6837",
+      "characterId": "char-6837",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "样"
+      },
+      "choices": [
+        {
+          "choiceId": "check-6837-choice-1",
+          "hanzi": "样"
+        },
+        {
+          "choiceId": "check-6837-choice-2",
+          "hanzi": "种"
+        },
+        {
+          "choiceId": "check-6837-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-6837-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-6837-choice-1"
+    },
+    {
+      "checkId": "review-6837",
+      "characterId": "char-6837",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "样"
+      },
+      "choices": [
+        {
+          "choiceId": "review-6837-choice-1",
+          "hanzi": "样"
+        },
+        {
+          "choiceId": "review-6837-choice-2",
+          "hanzi": "种"
+        },
+        {
+          "choiceId": "review-6837-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-6837-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-6837-choice-1"
+    },
+    {
+      "checkId": "practice-one-6837",
+      "characterId": "char-6837",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "样子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-6837-choice-1",
+          "hanzi": "样"
+        },
+        {
+          "choiceId": "practice-one-6837-choice-2",
+          "hanzi": "种"
+        },
+        {
+          "choiceId": "practice-one-6837-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-6837-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-6837-choice-1"
+    },
+    {
+      "checkId": "practice-two-6837",
+      "characterId": "char-6837",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its second printed character.",
+      "prompt": {
+        "english": "Which is the second character in the spoken word?",
+        "hanzi": "一样"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-6837-choice-1",
+          "hanzi": "样"
+        },
+        {
+          "choiceId": "practice-two-6837-choice-2",
+          "hanzi": "种"
+        },
+        {
+          "choiceId": "practice-two-6837-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-6837-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-6837-choice-1"
+    },
+    {
+      "checkId": "familiar-79cd",
+      "characterId": "char-79cd",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "种"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-79cd-choice-1",
+          "hanzi": "样"
+        },
+        {
+          "choiceId": "familiar-79cd-choice-2",
+          "hanzi": "种"
+        },
+        {
+          "choiceId": "familiar-79cd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-79cd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-79cd-choice-2"
+    },
+    {
+      "checkId": "check-79cd",
+      "characterId": "char-79cd",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "种"
+      },
+      "choices": [
+        {
+          "choiceId": "check-79cd-choice-1",
+          "hanzi": "样"
+        },
+        {
+          "choiceId": "check-79cd-choice-2",
+          "hanzi": "种"
+        },
+        {
+          "choiceId": "check-79cd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-79cd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-79cd-choice-2"
+    },
+    {
+      "checkId": "review-79cd",
+      "characterId": "char-79cd",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "种"
+      },
+      "choices": [
+        {
+          "choiceId": "review-79cd-choice-1",
+          "hanzi": "样"
+        },
+        {
+          "choiceId": "review-79cd-choice-2",
+          "hanzi": "种"
+        },
+        {
+          "choiceId": "review-79cd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-79cd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-79cd-choice-2"
+    },
+    {
+      "checkId": "practice-one-79cd",
+      "characterId": "char-79cd",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "种子"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-79cd-choice-1",
+          "hanzi": "样"
+        },
+        {
+          "choiceId": "practice-one-79cd-choice-2",
+          "hanzi": "种"
+        },
+        {
+          "choiceId": "practice-one-79cd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-79cd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-79cd-choice-2"
+    },
+    {
+      "checkId": "practice-two-79cd",
+      "characterId": "char-79cd",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "种类"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-79cd-choice-1",
+          "hanzi": "样"
+        },
+        {
+          "choiceId": "practice-two-79cd-choice-2",
+          "hanzi": "种"
+        },
+        {
+          "choiceId": "practice-two-79cd-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-79cd-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-79cd-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-6837",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-132-v1/char-6837",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-79cd",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-132-v1/char-79cd",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-132-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-132-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Kinds, measures and collections: 样 and 种",
+      "instructionEnglish": "Read two short word examples for 样 and 种 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-6837",
+        "readingId": "reading-6837",
+        "familiarityCheckId": "familiar-6837",
+        "practice": [
+          {
+            "wordId": "word-6837-1",
+            "checkId": "practice-one-6837"
+          },
+          {
+            "wordId": "word-6837-2",
+            "checkId": "practice-two-6837"
+          }
+        ],
+        "immediateCheckId": "check-6837",
+        "reviewCheckId": "review-6837"
+      },
+      {
+        "characterId": "char-79cd",
+        "readingId": "reading-79cd",
+        "familiarityCheckId": "familiar-79cd",
+        "practice": [
+          {
+            "wordId": "word-79cd-1",
+            "checkId": "practice-one-79cd"
+          },
+          {
+            "wordId": "word-79cd-2",
+            "checkId": "practice-two-79cd"
+          }
+        ],
+        "immediateCheckId": "check-79cd",
+        "reviewCheckId": "review-79cd"
+      }
+    ],
+    "reader": {
+      "title": "Kinds, measures and collections: 样 and 种",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-6837-1",
+        "word-6837-2",
+        "word-79cd-1",
+        "word-79cd-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-6837",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-6837",
+          "transcript": "样",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-6837",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-6837",
+          "transcript": "样",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-6837",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-6837",
+          "transcript": "样",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-6837",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-6837",
+          "transcript": "样子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-6837",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-6837",
+          "transcript": "一样",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-6837",
+          "readingId": "reading-6837",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "样",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6837-1",
+          "readingId": null,
+          "wordId": "word-6837-1",
+          "checkId": null,
+          "transcript": "小猫睡觉的样子很可爱。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-6837-2",
+          "readingId": null,
+          "wordId": "word-6837-2",
+          "checkId": null,
+          "transcript": "两张纸的大小一样。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-79cd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-79cd",
+          "transcript": "种",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-79cd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-79cd",
+          "transcript": "种",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-79cd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-79cd",
+          "transcript": "种",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-79cd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-79cd",
+          "transcript": "种子",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-79cd",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-79cd",
+          "transcript": "种类",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-79cd",
+          "readingId": "reading-79cd",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "种",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-79cd-1",
+          "readingId": null,
+          "wordId": "word-79cd-1",
+          "checkId": null,
+          "transcript": "我们把种子放进小盒子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-79cd-2",
+          "readingId": null,
+          "wordId": "word-79cd-2",
+          "checkId": null,
+          "transcript": "公园里树的种类很多。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

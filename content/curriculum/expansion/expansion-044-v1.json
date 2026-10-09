@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-044",
+  "lessonVersion": "expansion-044-v1",
+  "title": "Directions and time: 低 and 长",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 104
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 低 and 长 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-4f4e",
+      "hanzi": "低",
+      "readings": [
+        {
+          "readingId": "reading-4f4e",
+          "pinyin": "dī",
+          "audioText": "低",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#低",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "low",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#低",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-4f4e-1",
+          "text": "低头",
+          "pinyin": "dī tóu",
+          "english": "lower one's head",
+          "readingId": "reading-4f4e",
+          "context": {
+            "hanzi": "我低头看地上的小花。",
+            "english": "I lower my head to look at the little flowers.",
+            "targetCharacter": "低"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#低头",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-4f4e-2",
+          "text": "低声",
+          "pinyin": "dī shēng",
+          "english": "in a low voice",
+          "readingId": "reading-4f4e",
+          "context": {
+            "hanzi": "图书馆里，我们低声说话。",
+            "english": "In the library, we speak quietly.",
+            "targetCharacter": "低"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#低声",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 亻 beside 氐 in 低; notice its bottom dot.",
+        "demonstrationEnglish": "This is 低. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-4f4e",
+        "delayedReview": {
+          "promptId": "later-4f4e",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-4f4e"
+        }
+      },
+      "assets": [
+        "asset-glyph-4f4e",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-957f",
+      "hanzi": "长",
+      "readings": [
+        {
+          "readingId": "reading-957f",
+          "pinyin": "cháng",
+          "audioText": "长",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#长",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "long; length",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#长",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-957f-1",
+          "text": "长度",
+          "pinyin": "cháng dù",
+          "english": "length",
+          "readingId": "reading-957f",
+          "context": {
+            "hanzi": "我们用尺子量绳子的长度。",
+            "english": "We use a ruler to measure the string's length.",
+            "targetCharacter": "长"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#长度",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-957f-2",
+          "text": "长短",
+          "pinyin": "cháng duǎn",
+          "english": "length; long and short",
+          "readingId": "reading-957f",
+          "context": {
+            "hanzi": "我们把长短不同的绳子分开放。",
+            "english": "We separate the strings of different lengths.",
+            "targetCharacter": "长"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#长短",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Follow the long bent lower stroke of 长; these words use cháng.",
+        "demonstrationEnglish": "This is 长. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-957f",
+        "delayedReview": {
+          "promptId": "later-957f",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-957f"
+        }
+      },
+      "assets": [
+        "asset-glyph-957f",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-044-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-4f4e",
+        "familiar-957f"
+      ]
+    },
+    {
+      "stepId": "expansion-044-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-044-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-4f4e",
+        "practice-two-4f4e",
+        "practice-one-957f",
+        "practice-two-957f"
+      ]
+    },
+    {
+      "stepId": "expansion-044-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-4f4e",
+        "check-957f"
+      ]
+    },
+    {
+      "stepId": "expansion-044-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-4f4e",
+      "characterId": "char-4f4e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "低"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-4f4e-choice-1",
+          "hanzi": "低"
+        },
+        {
+          "choiceId": "familiar-4f4e-choice-2",
+          "hanzi": "长"
+        },
+        {
+          "choiceId": "familiar-4f4e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-4f4e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-4f4e-choice-1"
+    },
+    {
+      "checkId": "check-4f4e",
+      "characterId": "char-4f4e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "低"
+      },
+      "choices": [
+        {
+          "choiceId": "check-4f4e-choice-1",
+          "hanzi": "低"
+        },
+        {
+          "choiceId": "check-4f4e-choice-2",
+          "hanzi": "长"
+        },
+        {
+          "choiceId": "check-4f4e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-4f4e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-4f4e-choice-1"
+    },
+    {
+      "checkId": "review-4f4e",
+      "characterId": "char-4f4e",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "低"
+      },
+      "choices": [
+        {
+          "choiceId": "review-4f4e-choice-1",
+          "hanzi": "低"
+        },
+        {
+          "choiceId": "review-4f4e-choice-2",
+          "hanzi": "长"
+        },
+        {
+          "choiceId": "review-4f4e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-4f4e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-4f4e-choice-1"
+    },
+    {
+      "checkId": "practice-one-4f4e",
+      "characterId": "char-4f4e",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "低头"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-4f4e-choice-1",
+          "hanzi": "低"
+        },
+        {
+          "choiceId": "practice-one-4f4e-choice-2",
+          "hanzi": "长"
+        },
+        {
+          "choiceId": "practice-one-4f4e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-4f4e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-4f4e-choice-1"
+    },
+    {
+      "checkId": "practice-two-4f4e",
+      "characterId": "char-4f4e",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "低声"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-4f4e-choice-1",
+          "hanzi": "低"
+        },
+        {
+          "choiceId": "practice-two-4f4e-choice-2",
+          "hanzi": "长"
+        },
+        {
+          "choiceId": "practice-two-4f4e-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-4f4e-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-4f4e-choice-1"
+    },
+    {
+      "checkId": "familiar-957f",
+      "characterId": "char-957f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "长"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-957f-choice-1",
+          "hanzi": "低"
+        },
+        {
+          "choiceId": "familiar-957f-choice-2",
+          "hanzi": "长"
+        },
+        {
+          "choiceId": "familiar-957f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-957f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-957f-choice-2"
+    },
+    {
+      "checkId": "check-957f",
+      "characterId": "char-957f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "长"
+      },
+      "choices": [
+        {
+          "choiceId": "check-957f-choice-1",
+          "hanzi": "低"
+        },
+        {
+          "choiceId": "check-957f-choice-2",
+          "hanzi": "长"
+        },
+        {
+          "choiceId": "check-957f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-957f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-957f-choice-2"
+    },
+    {
+      "checkId": "review-957f",
+      "characterId": "char-957f",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "长"
+      },
+      "choices": [
+        {
+          "choiceId": "review-957f-choice-1",
+          "hanzi": "低"
+        },
+        {
+          "choiceId": "review-957f-choice-2",
+          "hanzi": "长"
+        },
+        {
+          "choiceId": "review-957f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-957f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-957f-choice-2"
+    },
+    {
+      "checkId": "practice-one-957f",
+      "characterId": "char-957f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "长度"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-957f-choice-1",
+          "hanzi": "低"
+        },
+        {
+          "choiceId": "practice-one-957f-choice-2",
+          "hanzi": "长"
+        },
+        {
+          "choiceId": "practice-one-957f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-957f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-957f-choice-2"
+    },
+    {
+      "checkId": "practice-two-957f",
+      "characterId": "char-957f",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "长短"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-957f-choice-1",
+          "hanzi": "低"
+        },
+        {
+          "choiceId": "practice-two-957f-choice-2",
+          "hanzi": "长"
+        },
+        {
+          "choiceId": "practice-two-957f-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-957f-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-957f-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-4f4e",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-044-v1/char-4f4e",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-957f",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-044-v1/char-957f",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-044-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-044-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Directions and time: 低 and 长",
+      "instructionEnglish": "Read two short word examples for 低 and 长 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-4f4e",
+        "readingId": "reading-4f4e",
+        "familiarityCheckId": "familiar-4f4e",
+        "practice": [
+          {
+            "wordId": "word-4f4e-1",
+            "checkId": "practice-one-4f4e"
+          },
+          {
+            "wordId": "word-4f4e-2",
+            "checkId": "practice-two-4f4e"
+          }
+        ],
+        "immediateCheckId": "check-4f4e",
+        "reviewCheckId": "review-4f4e"
+      },
+      {
+        "characterId": "char-957f",
+        "readingId": "reading-957f",
+        "familiarityCheckId": "familiar-957f",
+        "practice": [
+          {
+            "wordId": "word-957f-1",
+            "checkId": "practice-one-957f"
+          },
+          {
+            "wordId": "word-957f-2",
+            "checkId": "practice-two-957f"
+          }
+        ],
+        "immediateCheckId": "check-957f",
+        "reviewCheckId": "review-957f"
+      }
+    ],
+    "reader": {
+      "title": "Directions and time: 低 and 长",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-4f4e-1",
+        "word-4f4e-2",
+        "word-957f-1",
+        "word-957f-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-4f4e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-4f4e",
+          "transcript": "低",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-4f4e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-4f4e",
+          "transcript": "低",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-4f4e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-4f4e",
+          "transcript": "低",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-4f4e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-4f4e",
+          "transcript": "低头",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-4f4e",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-4f4e",
+          "transcript": "低声",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-4f4e",
+          "readingId": "reading-4f4e",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "低",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4f4e-1",
+          "readingId": null,
+          "wordId": "word-4f4e-1",
+          "checkId": null,
+          "transcript": "我低头看地上的小花。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-4f4e-2",
+          "readingId": null,
+          "wordId": "word-4f4e-2",
+          "checkId": null,
+          "transcript": "图书馆里，我们低声说话。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-957f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-957f",
+          "transcript": "长",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-957f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-957f",
+          "transcript": "长",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-957f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-957f",
+          "transcript": "长",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-957f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-957f",
+          "transcript": "长度",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-957f",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-957f",
+          "transcript": "长短",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-957f",
+          "readingId": "reading-957f",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "长",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-957f-1",
+          "readingId": null,
+          "wordId": "word-957f-1",
+          "checkId": null,
+          "transcript": "我们用尺子量绳子的长度。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-957f-2",
+          "readingId": null,
+          "wordId": "word-957f-2",
+          "checkId": null,
+          "transcript": "我们把长短不同的绳子分开放。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "lessonId": "expansion-128",
+  "lessonVersion": "expansion-128-v1",
+  "title": "Helping hands and tidying: 新 and 旧",
+  "canonicalizationVersion": "s3-json-1",
+  "placement": {
+    "trackId": "everyday-hanzi",
+    "sequence": 188
+  },
+  "renderer": {
+    "adapterId": "corpus-paired",
+    "adapterVersion": "corpus-paired-v1",
+    "capabilities": [
+      "selection-v1",
+      "recognition-v1",
+      "delayed-review-v1",
+      "progress-export-v1"
+    ]
+  },
+  "instructionsEnglish": {
+    "welcome": "Read two short word examples for 新 and 旧 with our capybara. Then try the characters in ordinary print.",
+    "objective": "Recognise two characters in useful words and ordinary print.",
+    "completion": "Your responses are saved. A later visit gives us new evidence.",
+    "recovery": "If saving pauses, keep this page open and use the displayed retry action."
+  },
+  "characters": [
+    {
+      "characterId": "char-65b0",
+      "hanzi": "新",
+      "readings": [
+        {
+          "readingId": "reading-65b0",
+          "pinyin": "xīn",
+          "audioText": "新",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#新",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "new",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#新",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-65b0-1",
+          "text": "新鲜",
+          "pinyin": "xīn xiān",
+          "english": "fresh",
+          "readingId": "reading-65b0",
+          "context": {
+            "hanzi": "这块面包很新鲜。",
+            "english": "This piece of bread is fresh.",
+            "targetCharacter": "新"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#新鲜",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-65b0-2",
+          "text": "新年",
+          "pinyin": "xīn nián",
+          "english": "New Year",
+          "readingId": "reading-65b0",
+          "context": {
+            "hanzi": "新年到了，朋友们互相祝福。",
+            "english": "New Year arrives; friends exchange good wishes.",
+            "targetCharacter": "新"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#新年",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find 斤 on the right of 新.",
+        "demonstrationEnglish": "This is 新. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-65b0",
+        "delayedReview": {
+          "promptId": "later-65b0",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-65b0"
+        }
+      },
+      "assets": [
+        "asset-glyph-65b0",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    },
+    {
+      "characterId": "char-65e7",
+      "hanzi": "旧",
+      "readings": [
+        {
+          "readingId": "reading-65e7",
+          "pinyin": "jiù",
+          "audioText": "旧",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#旧",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "english": "old; former",
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#旧",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "wordAssociations": [
+        {
+          "wordId": "word-65e7-1",
+          "text": "旧书",
+          "pinyin": "jiù shū",
+          "english": "old books",
+          "readingId": "reading-65e7",
+          "context": {
+            "hanzi": "我指给朋友看图中的旧书。",
+            "english": "I point out old books in the picture to my friend.",
+            "targetCharacter": "旧"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#旧书",
+            "sourceChecked": false
+          }
+        },
+        {
+          "wordId": "word-65e7-2",
+          "text": "旧衣",
+          "pinyin": "jiù yī",
+          "english": "old clothes",
+          "readingId": "reading-65e7",
+          "context": {
+            "hanzi": "我们把旧衣放进小盒子。",
+            "english": "We put old clothes into a small box.",
+            "targetCharacter": "旧"
+          },
+          "provenance": {
+            "source": "CC-CEDICT/MDBG pinned dictionary facts; original Little Hanzi contexts; human review pending",
+            "license": "CC-BY-SA-4.0; attribution in content/sources/expansion-cc-cedict-20261008.json",
+            "evidenceRef": "content/sources/expansion-cc-cedict-20261008.json#旧衣",
+            "sourceChecked": false
+          }
+        }
+      ],
+      "teaching": {
+        "instructionEnglish": "Look at the character and listen to two useful words.",
+        "hintEnglish": "Find the upright stroke beside 日 in 旧.",
+        "demonstrationEnglish": "This is 旧. Notice its printed shape in each word.",
+        "recognitionCheckId": "check-65e7",
+        "delayedReview": {
+          "promptId": "later-65e7",
+          "instructionEnglish": "Listen again and choose the printed character.",
+          "cueEnglish": "What do you remember from this sound?",
+          "recognitionCheckId": "review-65e7"
+        }
+      },
+      "assets": [
+        "asset-glyph-65e7",
+        "asset-system-font",
+        "asset-mandarin"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "stepId": "expansion-128-familiarity",
+      "kind": "familiarity",
+      "instructionEnglish": "Try two sounds without teaching clues.",
+      "recognitionCheckIds": [
+        "familiar-65b0",
+        "familiar-65e7"
+      ]
+    },
+    {
+      "stepId": "expansion-128-teach",
+      "kind": "teach",
+      "instructionEnglish": "Look at each character and its useful words.",
+      "recognitionCheckIds": []
+    },
+    {
+      "stepId": "expansion-128-practice",
+      "kind": "practice",
+      "instructionEnglish": "Listen to words and choose the matching character.",
+      "recognitionCheckIds": [
+        "practice-one-65b0",
+        "practice-two-65b0",
+        "practice-one-65e7",
+        "practice-two-65e7"
+      ]
+    },
+    {
+      "stepId": "expansion-128-plain-print-check",
+      "kind": "plain-print-check",
+      "instructionEnglish": "Try the sounds again in ordinary print.",
+      "recognitionCheckIds": [
+        "check-65b0",
+        "check-65e7"
+      ]
+    },
+    {
+      "stepId": "expansion-128-recap",
+      "kind": "recap",
+      "instructionEnglish": "See what was saved and what you can revisit.",
+      "recognitionCheckIds": []
+    }
+  ],
+  "recognitionChecks": [
+    {
+      "checkId": "familiar-65b0",
+      "characterId": "char-65b0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "新"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-65b0-choice-1",
+          "hanzi": "新"
+        },
+        {
+          "choiceId": "familiar-65b0-choice-2",
+          "hanzi": "旧"
+        },
+        {
+          "choiceId": "familiar-65b0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-65b0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-65b0-choice-1"
+    },
+    {
+      "checkId": "check-65b0",
+      "characterId": "char-65b0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "新"
+      },
+      "choices": [
+        {
+          "choiceId": "check-65b0-choice-1",
+          "hanzi": "新"
+        },
+        {
+          "choiceId": "check-65b0-choice-2",
+          "hanzi": "旧"
+        },
+        {
+          "choiceId": "check-65b0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-65b0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-65b0-choice-1"
+    },
+    {
+      "checkId": "review-65b0",
+      "characterId": "char-65b0",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "新"
+      },
+      "choices": [
+        {
+          "choiceId": "review-65b0-choice-1",
+          "hanzi": "新"
+        },
+        {
+          "choiceId": "review-65b0-choice-2",
+          "hanzi": "旧"
+        },
+        {
+          "choiceId": "review-65b0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-65b0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-65b0-choice-1"
+    },
+    {
+      "checkId": "practice-one-65b0",
+      "characterId": "char-65b0",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "新鲜"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-65b0-choice-1",
+          "hanzi": "新"
+        },
+        {
+          "choiceId": "practice-one-65b0-choice-2",
+          "hanzi": "旧"
+        },
+        {
+          "choiceId": "practice-one-65b0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-65b0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-65b0-choice-1"
+    },
+    {
+      "checkId": "practice-two-65b0",
+      "characterId": "char-65b0",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "新年"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-65b0-choice-1",
+          "hanzi": "新"
+        },
+        {
+          "choiceId": "practice-two-65b0-choice-2",
+          "hanzi": "旧"
+        },
+        {
+          "choiceId": "practice-two-65b0-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-65b0-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-65b0-choice-1"
+    },
+    {
+      "checkId": "familiar-65e7",
+      "characterId": "char-65e7",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "旧"
+      },
+      "choices": [
+        {
+          "choiceId": "familiar-65e7-choice-1",
+          "hanzi": "新"
+        },
+        {
+          "choiceId": "familiar-65e7-choice-2",
+          "hanzi": "旧"
+        },
+        {
+          "choiceId": "familiar-65e7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "familiar-65e7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "familiar-65e7-choice-2"
+    },
+    {
+      "checkId": "check-65e7",
+      "characterId": "char-65e7",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "旧"
+      },
+      "choices": [
+        {
+          "choiceId": "check-65e7-choice-1",
+          "hanzi": "新"
+        },
+        {
+          "choiceId": "check-65e7-choice-2",
+          "hanzi": "旧"
+        },
+        {
+          "choiceId": "check-65e7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "check-65e7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "check-65e7-choice-2"
+    },
+    {
+      "checkId": "review-65e7",
+      "characterId": "char-65e7",
+      "kind": "plain-print",
+      "instructionEnglish": "Listen, then choose a printed character.",
+      "prompt": {
+        "english": "Which printed character matches the sound?",
+        "hanzi": "旧"
+      },
+      "choices": [
+        {
+          "choiceId": "review-65e7-choice-1",
+          "hanzi": "新"
+        },
+        {
+          "choiceId": "review-65e7-choice-2",
+          "hanzi": "旧"
+        },
+        {
+          "choiceId": "review-65e7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "review-65e7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "review-65e7-choice-2"
+    },
+    {
+      "checkId": "practice-one-65e7",
+      "characterId": "char-65e7",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "旧书"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-one-65e7-choice-1",
+          "hanzi": "新"
+        },
+        {
+          "choiceId": "practice-one-65e7-choice-2",
+          "hanzi": "旧"
+        },
+        {
+          "choiceId": "practice-one-65e7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-one-65e7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-one-65e7-choice-2"
+    },
+    {
+      "checkId": "practice-two-65e7",
+      "characterId": "char-65e7",
+      "kind": "word-context",
+      "instructionEnglish": "Listen to the word, then choose its first printed character.",
+      "prompt": {
+        "english": "Which is the first character in the spoken word?",
+        "hanzi": "旧衣"
+      },
+      "choices": [
+        {
+          "choiceId": "practice-two-65e7-choice-1",
+          "hanzi": "新"
+        },
+        {
+          "choiceId": "practice-two-65e7-choice-2",
+          "hanzi": "旧"
+        },
+        {
+          "choiceId": "practice-two-65e7-choice-3",
+          "hanzi": "木"
+        },
+        {
+          "choiceId": "practice-two-65e7-choice-4",
+          "hanzi": "口"
+        }
+      ],
+      "correctChoiceId": "practice-two-65e7-choice-2"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "asset-glyph-65b0",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-128-v1/char-65b0",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-glyph-65e7",
+      "kind": "glyph",
+      "source": "Unicode character rendered by the local CJK system font",
+      "license": "Character identity; device font not redistributed",
+      "evidenceRef": "draft/device/expansion-128-v1/char-65e7",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-system-font",
+      "kind": "font",
+      "source": "Local CJK system fallback",
+      "license": "System font supplied by the device; not redistributed",
+      "evidenceRef": "draft/device/expansion-128-v1/font",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    },
+    {
+      "assetId": "asset-mandarin",
+      "kind": "audio",
+      "source": "Local device Mandarin speech; no reviewed voice allowlist configured",
+      "license": "Device speech suitability and terms require review",
+      "evidenceRef": "draft/audio/expansion-128-v1/local-device",
+      "sourceChecked": false,
+      "sourceCheckStatus": "pending-owner"
+    }
+  ],
+  "pairedStory": {
+    "schemaVersion": "r5-paired-story-1",
+    "welcome": {
+      "title": "Helping hands and tidying: 新 and 旧",
+      "instructionEnglish": "Read two short word examples for 新 and 旧 with our capybara. Then try the characters in ordinary print."
+    },
+    "targets": [
+      {
+        "characterId": "char-65b0",
+        "readingId": "reading-65b0",
+        "familiarityCheckId": "familiar-65b0",
+        "practice": [
+          {
+            "wordId": "word-65b0-1",
+            "checkId": "practice-one-65b0"
+          },
+          {
+            "wordId": "word-65b0-2",
+            "checkId": "practice-two-65b0"
+          }
+        ],
+        "immediateCheckId": "check-65b0",
+        "reviewCheckId": "review-65b0"
+      },
+      {
+        "characterId": "char-65e7",
+        "readingId": "reading-65e7",
+        "familiarityCheckId": "familiar-65e7",
+        "practice": [
+          {
+            "wordId": "word-65e7-1",
+            "checkId": "practice-one-65e7"
+          },
+          {
+            "wordId": "word-65e7-2",
+            "checkId": "practice-two-65e7"
+          }
+        ],
+        "immediateCheckId": "check-65e7",
+        "reviewCheckId": "review-65e7"
+      }
+    ],
+    "reader": {
+      "title": "Helping hands and tidying: 新 and 旧",
+      "instructionEnglish": "Listen and follow each short sentence. These are supported reading examples.",
+      "wordIds": [
+        "word-65b0-1",
+        "word-65b0-2",
+        "word-65e7-1",
+        "word-65e7-2"
+      ]
+    },
+    "playback": {
+      "schemaVersion": "r5-playback-1",
+      "kind": "local-device",
+      "voices": [],
+      "fallback": "unavailable",
+      "cues": [
+        {
+          "cueId": "cue-familiar-65b0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-65b0",
+          "transcript": "新",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-65b0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-65b0",
+          "transcript": "新",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-65b0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-65b0",
+          "transcript": "新",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-65b0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-65b0",
+          "transcript": "新鲜",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-65b0",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-65b0",
+          "transcript": "新年",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-65b0",
+          "readingId": "reading-65b0",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "新",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-65b0-1",
+          "readingId": null,
+          "wordId": "word-65b0-1",
+          "checkId": null,
+          "transcript": "这块面包很新鲜。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-65b0-2",
+          "readingId": null,
+          "wordId": "word-65b0-2",
+          "checkId": null,
+          "transcript": "新年到了，朋友们互相祝福。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-familiar-65e7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "familiar-65e7",
+          "transcript": "旧",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-check-65e7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "check-65e7",
+          "transcript": "旧",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-review-65e7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "review-65e7",
+          "transcript": "旧",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-one-65e7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-one-65e7",
+          "transcript": "旧书",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-practice-two-65e7",
+          "readingId": null,
+          "wordId": null,
+          "checkId": "practice-two-65e7",
+          "transcript": "旧衣",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reading-65e7",
+          "readingId": "reading-65e7",
+          "wordId": null,
+          "checkId": null,
+          "transcript": "旧",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-65e7-1",
+          "readingId": null,
+          "wordId": "word-65e7-1",
+          "checkId": null,
+          "transcript": "我指给朋友看图中的旧书。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        },
+        {
+          "cueId": "cue-reader-word-65e7-2",
+          "readingId": null,
+          "wordId": "word-65e7-2",
+          "checkId": null,
+          "transcript": "我们把旧衣放进小盒子。",
+          "assetId": "asset-mandarin",
+          "assetUrl": null,
+          "assetDigest": null
+        }
+      ]
+    }
+  }
+}
